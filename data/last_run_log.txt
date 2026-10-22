@@ -1,16 +1,7 @@
-===== SAUDI
-LOCKED top5 SAUDI ['Al Qadsiah', 'Al Hilal', 'Al Nassr FC', 'Al Ittihad', 'Al Ahli']
-fixtures 306 table 18 scope ['Al Qadsiah', 'Al Hilal', 'Al Nassr FC', 'Al Ittihad', 'Al Ahli']
-WARN no team stats 1000021513 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/al-ahli-vs-al-diriyah/kfrz6jig#5969048
-WARN no team stats 1000021520 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/al-shabab-vs-al-qadsiah/9jkmv49#5969047
-WARN no team stats 1000021519 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/al-hilal-vs-al-faisaly/9yhykz1#5969051
-WARN no team stats 1000021518 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/al-ittihad-vs-al-kholood/ezaxcwy3#5969053
-WARN no team stats 1000021514 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/al-nassr-fc-vs-al-fateh-fc/hwxzho3#5969054
-WARN no team stats 6125931 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/al-qadsiah-vs-neom-sc/kpeadyft#5970099
-SAUDI {'new_matches': 35, 'cached': 35, 'run_seconds': 123, 'at': '2026-10-22T18:49Z'}
+===== PORTUGAL
+fixtures 306 table 18 scope ['FC Porto', 'Sporting CP', 'Benfica']
+WARN no team stats 5985963 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/academico-viseu-vs-fc-porto/13s795#5887609
+WARN no team stats 5985965 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/gil-vicente-vs-benfica/35mims#5887635
+PORTUGAL {'new_matches': 21, 'cached': 21, 'run_seconds': 76, 'at': '2026-10-22T18:50Z'}
