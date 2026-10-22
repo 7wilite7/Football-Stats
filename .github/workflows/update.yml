@@ -1,0 +1,39 @@
+name: update-stats
+on:
+  schedule:
+    - cron: "30 8 * * *"   # 09:30 UK in summer time, 08:30 UK in winter: ready before 10am
+  workflow_dispatch:
+    inputs:
+      leagues:
+        description: "League keys to update (blank = all active)"
+        required: false
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/update.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+env:
+  ACTIVE: "EPL LALIGA SERIEA BUNDESLIGA LIGUE1"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests
+      - name: Fetch and build, saving after each league
+        run: |
+          git config user.name "stats-bot"; git config user.email "stats-bot@users.noreply.github.com"
+          LIST="${{ github.event.inputs.leagues }}"; [ -z "$LIST" ] && LIST="$ACTIVE"
+          for L in $LIST; do
+            python scripts/fetch.py $L || echo "fetch $L failed"
+            python scripts/build.py || echo "build failed"
+            git add -A data out
+            git commit -qm "update $L" || true
+            for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
+          done
