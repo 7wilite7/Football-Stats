@@ -42,9 +42,10 @@ jobs:
           git config user.name "stats-bot"; git config user.email "stats-bot@users.noreply.github.com"
           LIST="${{ github.event.inputs.leagues }}"; [ -z "$LIST" ] && LIST="$ACTIVE"
           for L in $LIST; do
-            python scripts/fetch.py $L || echo "fetch $L failed"
-            python scripts/build.py || echo "build failed"
+            python scripts/fetch.py $L || { echo "fetch $L failed"; FAILED="$FAILED $L"; }
+            python scripts/build.py || { echo "build failed"; FAILED="$FAILED build($L)"; }
             git add -A data out
             git commit -qm "update $L" || true
             for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
           done
+          if [ -n "$FAILED" ]; then echo "::error::Leagues that failed to update:$FAILED (sheet keeps their previous numbers)"; exit 1; fi
