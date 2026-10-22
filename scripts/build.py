@@ -194,8 +194,8 @@ def player_rows(matches, scope, lg, all_last_team, avail, team_names):
                 ret = (a.get("ret") or "").strip()
                 if ret.lower() == "doubtful": status = "Doubtful"
                 elif ret.lower().startswith("back"): status = "Injured (back in training)"
-                elif a["type"] == "injury": status = "Injured" + (f", back {ret}" if ret else "")
-                else: status = "Unavailable" + (f", back {ret}" if ret else "")
+                elif a["type"] == "injury": status = "Injured" + (f", return: {ret}" if ret else "")
+                else: status = "Unavailable" + (f", return: {ret}" if ret else "")
         moved = all_last_team.get(pid, {}).get("from")
         if moved and moved[0] == team:  # transferred into this team this season
             frm = moved[1]
