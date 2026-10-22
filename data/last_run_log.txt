@@ -1,3 +1,3 @@
-===== LIGUE1
-fixtures 306 table 18 scope None
-LIGUE1 {'new_matches': 0, 'cached': 63, 'run_seconds': 52, 'at': '2026-10-22T18:14Z'}
+===== CHAMPIONSHIP
+fixtures 552 table 24 scope None
+CHAMPIONSHIP {'new_matches': 132, 'cached': 132, 'run_seconds': 392, 'at': '2026-10-22T18:21Z'}
