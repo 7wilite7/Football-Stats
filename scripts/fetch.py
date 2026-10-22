@@ -299,10 +299,7 @@ def run(keys):
             st = f.get("status") or {}
             if not st.get("finished") or st.get("cancelled"): continue
             h, a = int(f["home"]["id"]), int(f["away"]["id"])
-            if scope is not None:
-                if lg["mode"] == "table":
-                    if h not in scope or a not in scope: continue
-                elif h not in scope and a not in scope: continue
+            if scope is not None and lg["mode"] == "table" and (h not in scope or a not in scope): continue
             p = os.path.join(mdir, f"{f['id']}.json")
             if os.path.exists(p): continue
             pp = page_props(get(f"https://www.fotmob.com/match/{f['id']}"))
@@ -344,6 +341,15 @@ def run(keys):
               {"updated": dt.datetime.utcnow().isoformat(timespec="minutes") + "Z", "players": {str(k): v for k, v in avail.items()}})
         jsave(os.path.join(DATA, "debug", f"unavailable_{lg['key']}.json"), raw_un[:50])
         jsave(os.path.join(DATA, "tables", f"{lg['key']}.json"), table)
+        upcoming = []
+        for f in fixtures:
+            st = f.get("status") or {}
+            if st.get("finished") or st.get("cancelled"): continue
+            h, a = int(f["home"]["id"]), int(f["away"]["id"])
+            if lg["mode"] == "table" and scope is not None and (h not in scope or a not in scope): continue
+            upcoming.append({"id": int(f["id"]), "utc": st.get("utcTime"), "started": bool(st.get("started")),
+                             "home": {"id": h, "name": f["home"]["name"]}, "away": {"id": a, "name": f["away"]["name"]}})
+        jsave(os.path.join(DATA, "fixtures", f"{lg['key']}.json"), upcoming)
         status[lg["key"]] = {"new_matches": new, "cached": len(os.listdir(mdir)) if os.path.isdir(mdir) else 0,
                              "run_seconds": round(time.time() - t0), "at": dt.datetime.utcnow().isoformat(timespec="minutes") + "Z"}
         log(lg["key"], status[lg["key"]])

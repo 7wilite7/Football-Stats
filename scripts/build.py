@@ -1,10 +1,20 @@
-"""Turn cached matches into one CSV per league: team markets on top, player hit rates below."""
+"""Turn cached matches into CSVs for the Google Sheet.
+
+Per league: <KEY>_teams.csv (team markets, home/away splits, last-5, next opponent)
+            <KEY>_players.csv (player hit rates incl. last-5, next match)
+Plus TODAY.csv (best 80%+ markets for games in the next 24 hours) and INDEX.csv.
+"""
 import csv, json, os, datetime as dt
 from collections import defaultdict
+from zoneinfo import ZoneInfo
 from config import LEAGUES, MIN_AVG_MINUTES
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA, OUT = os.path.join(ROOT, "data"), os.path.join(ROOT, "out")
+UK = ZoneInfo("Europe/London")
+MIN_APPS = 3          # players need this many league appearances to be listed
+PICK_MIN = 80         # Today tab: season and last-5 hit rate both at least this
+PICKS_PER_MATCH = 30
 
 
 def blank_zeros(rows):
@@ -28,10 +38,6 @@ def pct(hits, n):
     return round(100 * hits / n) if n else ""
 
 
-def avg(v, n, nd=1):
-    return round(v / n, nd) if n else ""
-
-
 def ts(m, title, side):
     v = m["team_stats"].get(title)
     return v[side] if v and v[side] is not None else None
@@ -43,151 +49,216 @@ def espn_val(m, key, side):
     return v if isinstance(v, (int, float)) else None
 
 
+def uk_time(utc):
+    try:
+        t = dt.datetime.fromisoformat(utc.replace("Z", "+00:00")).astimezone(UK)
+        return t.strftime("%a %d %b %H:%M")
+    except Exception:
+        return ""
+
+
 # ---------------- Teams ----------------
-TEAM_COLS = ["Team", "P", "W %", "D %", "L %", "Win or draw %", "Win by 1 %", "Win by 2+ %",
-             "Goals for avg", "Goals against avg", "Scores 1+ %", "Scores 2+ %", "Scores 3+ %", "Clean sheet %", "BTTS %",
-             "Match goals avg", "Over 0.5 %", "Over 1.5 %", "Over 2.5 %", "Over 3.5 %", "Over 4.5 %",
-             "Leading at HT %", "Level at HT %", "HT/FT Win/Win %", "HT/FT Draw/Win %",
-             "More goals 1st half %", "More goals 2nd half %", "Halves level %",
-             "Corners avg", "Corners 3+ %", "Corners 4+ %", "Corners 5+ %", "Corners 6+ %", "Corners 7+ %",
-             "Match corners avg", "Match corners 8+ %", "Match corners 9+ %", "Match corners 10+ %", "Match corners 11+ %", "Match corners 12+ %",
-             "Most corners %",
-             "Cards avg", "Cards 1+ %", "Cards 2+ %", "Cards 3+ %", "Match cards avg", "Match cards 3+ %", "Match cards 4+ %",
-             "Match cards 5+ %", "Match cards 6+ %", "Both teams booked %", "Most cards %",
-             "Fouls avg", "Fouls won (free kicks) avg", "Most fouls %",
-             "Shots avg", "Shots on target avg", "SOT 3+ %", "SOT 4+ %", "SOT 5+ %", "SOT 6+ %", "Match SOT avg",
-             "Shots against avg", "SOT against avg", "Keeper saves avg", "Offsides avg",
-             "Throw-ins avg", "Match throw-ins avg", "Goal kicks avg", "Match goal kicks avg", "Last 5 (newest first)"]
+
+def team_record(m, s):
+    """One team's view of one match."""
+    o = 1 - s
+    gf = (m["home"]["score"] if s == 0 else m["away"]["score"]) or 0
+    ga = (m["away"]["score"] if s == 0 else m["home"]["score"]) or 0
+    r = {"home": s == 0, "gf": gf, "ga": ga, "res": "W" if gf > ga else "D" if gf == ga else "L"}
+    ht = m.get("ht")
+    if ht:
+        r["hf"], r["hg"] = (ht[0], ht[1]) if s == 0 else (ht[1], ht[0])
+    for title, k in (("Corners", "cor"), ("Fouls committed", "foul"), ("Total shots", "sh"), ("Shots on target", "sot"),
+                     ("Keeper saves", "sv"), ("Offsides", "off"), ("Throws", "thr"), ("Yellow cards", "yc"), ("Red cards", "rc")):
+        r[k], r["o" + k] = ts(m, title, s), ts(m, title, o)
+    if r["yc"] is not None:
+        r["card"] = r["yc"] + (r["rc"] or 0)
+        r["ocard"] = (r["oyc"] or 0) + (r["orc"] or 0)
+    else:
+        r["card"] = r["ocard"] = None
+    r["gk"], r["ogk"] = espn_val(m, "goalKicks", s), espn_val(m, "goalKicks", o)
+    return r
 
 
-def team_rows(matches, scope):
-    by = defaultdict(list)
-    names = {}
+def A(recs, f, nd=1):
+    vals = [f(r) for r in recs]
+    vals = [v for v in vals if v is not None]
+    return round(sum(vals) / len(vals), nd) if vals else ""
+
+
+def P(recs, f, need=None):
+    """% of records where f is true; records missing the needed stat are left out."""
+    rs = [r for r in recs if need is None or all(r.get(k) is not None for k in need)]
+    return pct(sum(1 for r in rs if f(r)), len(rs))
+
+
+def tsum(*keys):
+    return lambda r: None if any(r.get(k) is None for k in keys) else sum(r[k] for k in keys)
+
+
+# (column, function of a list of team records)
+TEAM_STATS = [
+    ("W %", lambda R: P(R, lambda r: r["res"] == "W")), ("D %", lambda R: P(R, lambda r: r["res"] == "D")),
+    ("L %", lambda R: P(R, lambda r: r["res"] == "L")), ("Win or draw %", lambda R: P(R, lambda r: r["res"] != "L")),
+    ("Win by 1 %", lambda R: P(R, lambda r: r["gf"] - r["ga"] == 1)), ("Win by 2+ %", lambda R: P(R, lambda r: r["gf"] - r["ga"] >= 2)),
+    ("Goals for avg", lambda R: A(R, lambda r: r["gf"], 2)), ("Goals against avg", lambda R: A(R, lambda r: r["ga"], 2)),
+    ("Scores 1+ %", lambda R: P(R, lambda r: r["gf"] >= 1)), ("Scores 2+ %", lambda R: P(R, lambda r: r["gf"] >= 2)),
+    ("Scores 3+ %", lambda R: P(R, lambda r: r["gf"] >= 3)), ("Clean sheet %", lambda R: P(R, lambda r: r["ga"] == 0)),
+    ("BTTS %", lambda R: P(R, lambda r: r["gf"] > 0 and r["ga"] > 0)),
+    ("Match goals avg", lambda R: A(R, lambda r: r["gf"] + r["ga"], 2))] + [
+    (f"Over {k - 0.5} %", (lambda k: lambda R: P(R, lambda r: r["gf"] + r["ga"] >= k))(k)) for k in (1, 2, 3, 4, 5)] + [
+    ("Leading at HT %", lambda R: P(R, lambda r: r["hf"] > r["hg"], ["hf"])),
+    ("Level at HT %", lambda R: P(R, lambda r: r["hf"] == r["hg"], ["hf"])),
+    ("HT/FT Win/Win %", lambda R: P(R, lambda r: r["hf"] > r["hg"] and r["res"] == "W", ["hf"])),
+    ("HT/FT Draw/Win %", lambda R: P(R, lambda r: r["hf"] == r["hg"] and r["res"] == "W", ["hf"])),
+    ("More goals 1st half %", lambda R: P(R, lambda r: r["hf"] + r["hg"] > (r["gf"] + r["ga"]) - (r["hf"] + r["hg"]), ["hf"])),
+    ("More goals 2nd half %", lambda R: P(R, lambda r: r["hf"] + r["hg"] < (r["gf"] + r["ga"]) - (r["hf"] + r["hg"]), ["hf"])),
+    ("Halves level %", lambda R: P(R, lambda r: 2 * (r["hf"] + r["hg"]) == r["gf"] + r["ga"], ["hf"])),
+    ("Corners avg", lambda R: A(R, lambda r: r["cor"]))] + [
+    (f"Corners {k}+ %", (lambda k: lambda R: P(R, lambda r: r["cor"] >= k, ["cor"]))(k)) for k in (3, 4, 5, 6, 7)] + [
+    ("Match corners avg", lambda R: A(R, tsum("cor", "ocor")))] + [
+    (f"Match corners {k}+ %", (lambda k: lambda R: P(R, lambda r: r["cor"] + r["ocor"] >= k, ["cor", "ocor"]))(k)) for k in (8, 9, 10, 11, 12)] + [
+    ("Most corners %", lambda R: P(R, lambda r: r["cor"] > r["ocor"], ["cor", "ocor"])),
+    ("Cards avg", lambda R: A(R, lambda r: r["card"]))] + [
+    (f"Cards {k}+ %", (lambda k: lambda R: P(R, lambda r: r["card"] >= k, ["card"]))(k)) for k in (1, 2, 3)] + [
+    ("Match cards avg", lambda R: A(R, tsum("card", "ocard")))] + [
+    (f"Match cards {k}+ %", (lambda k: lambda R: P(R, lambda r: r["card"] + r["ocard"] >= k, ["card"]))(k)) for k in (3, 4, 5, 6)] + [
+    ("Both teams booked %", lambda R: P(R, lambda r: r["card"] > 0 and r["ocard"] > 0, ["card"])),
+    ("Most cards %", lambda R: P(R, lambda r: r["card"] > r["ocard"], ["card"])),
+    ("Fouls avg", lambda R: A(R, lambda r: r["foul"])), ("Fouls won (free kicks) avg", lambda R: A(R, lambda r: r["ofoul"])),
+    ("Most fouls %", lambda R: P(R, lambda r: r["foul"] > r["ofoul"], ["foul", "ofoul"])),
+    ("Shots avg", lambda R: A(R, lambda r: r["sh"])), ("Shots on target avg", lambda R: A(R, lambda r: r["sot"]))] + [
+    (f"SOT {k}+ %", (lambda k: lambda R: P(R, lambda r: r["sot"] >= k, ["sot"]))(k)) for k in (3, 4, 5, 6)] + [
+    ("Match SOT avg", lambda R: A(R, tsum("sot", "osot"))),
+    ("Shots against avg", lambda R: A(R, lambda r: r["osh"])), ("SOT against avg", lambda R: A(R, lambda r: r["osot"])),
+    ("Corners against avg", lambda R: A(R, lambda r: r["ocor"])),
+    ("Keeper saves avg", lambda R: A(R, lambda r: r["sv"])), ("Offsides avg", lambda R: A(R, lambda r: r["off"])),
+    ("Throw-ins avg", lambda R: A(R, lambda r: r["thr"])), ("Match throw-ins avg", lambda R: A(R, tsum("thr", "othr"))),
+    ("Goal kicks avg", lambda R: A(R, lambda r: r["gk"])), ("Match goal kicks avg", lambda R: A(R, tsum("gk", "ogk"))),
+]
+TS = dict(TEAM_STATS)
+SPLIT_KEYS = ["W %", "Scores 1+ %", "Clean sheet %", "BTTS %", "Over 2.5 %", "Corners avg", "Corners 5+ %",
+              "Cards avg", "Cards 2+ %", "Shots on target avg"]
+TEAM_L5_KEYS = ["W %", "Scores 1+ %", "BTTS %", "Over 1.5 %", "Over 2.5 %", "Corners 4+ %", "Corners 5+ %",
+                "Match corners 9+ %", "Match corners 10+ %", "Cards 1+ %", "Cards 2+ %", "Match cards 4+ %", "SOT 4+ %"]
+OPP_COLS = ["Next opponent", "Next match (UK)", "Next venue", "Opp goals conceded avg", "Opp shots conceded avg",
+            "Opp SOT conceded avg", "Opp corners conceded avg", "Opp fouls committed avg", "Opp cards avg", "Opp last 5"]
+
+TEAM_COLS = (["Team", "P"] + [c for c, _ in TEAM_STATS] + ["Last 5 (newest first)"] +
+             [f"Home {k}" for k in SPLIT_KEYS for _ in [0]] + [f"Away {k}" for k in SPLIT_KEYS] +
+             [f"L5 {k}" for k in TEAM_L5_KEYS] + OPP_COLS)
+
+
+def team_records(matches):
+    recs, names = defaultdict(list), {}
     for m in matches:
-        for side, t in ((0, m["home"]), (1, m["away"])):
+        for s, t in ((0, m["home"]), (1, m["away"])):
             names[t["id"]] = t["name"]
-            by[t["id"]].append((m, side))
-    rows = []
-    for tid, lst in by.items():
+            recs[t["id"]].append(team_record(m, s))
+    return recs, names
+
+
+def next_fixture(tid, fixtures):
+    now = dt.datetime.now(dt.timezone.utc).isoformat()
+    for f in sorted(fixtures, key=lambda f: f.get("utc") or ""):
+        if f.get("started") or (f.get("utc") or "") < now[:19]:
+            continue
+        if tid in (f["home"]["id"], f["away"]["id"]):
+            return f
+    return None
+
+
+def opp_context(tid, fixtures, recs, names):
+    f = next_fixture(tid, fixtures)
+    if not f:
+        return ["", "", "", "", "", "", "", "", "", ""], None
+    home = f["home"]["id"] == tid
+    opp = f["away"] if home else f["home"]
+    R = recs.get(opp["id"], [])
+    form = "".join(reversed([r["res"] for r in R[-5:]]))
+    ctx = {"goals": A(R, lambda r: r["ga"], 2), "shots": A(R, lambda r: r["osh"]), "sot": A(R, lambda r: r["osot"]),
+           "corners": A(R, lambda r: r["ocor"]), "fouls": A(R, lambda r: r["foul"]), "cards": A(R, lambda r: r["card"]),
+           "fouls_won": A(R, lambda r: r["ofoul"]), "sot_for": A(R, lambda r: r["sot"]), "name": names.get(opp["id"], opp["name"]), "utc": f.get("utc"),
+           "venue": "H" if home else "A", "fixture": f}
+    return [ctx["name"], uk_time(f.get("utc")), "Home" if home else "Away", ctx["goals"], ctx["shots"], ctx["sot"],
+            ctx["corners"], ctx["fouls"], ctx["cards"], form], ctx
+
+
+def team_rows(recs, names, scope, fixtures):
+    rows, info = [], {}
+    for tid, R in recs.items():
         if scope is not None and tid not in scope: continue
-        n = len(lst); c = defaultdict(float); cnt = defaultdict(int); form = []
-        for m, s in lst:
-            o = 1 - s
-            gf = m["home"]["score"] if s == 0 else m["away"]["score"]
-            ga = m["away"]["score"] if s == 0 else m["home"]["score"]
-            gf, ga = gf or 0, ga or 0
-            res = "W" if gf > ga else "D" if gf == ga else "L"; form.append(res)
-            c["gf"] += gf; c["ga"] += ga; c["tg"] += gf + ga
-            cnt[res] += 1
-            cnt["w1"] += gf - ga == 1; cnt["w2"] += gf - ga >= 2
-            for k in (1, 2, 3): cnt[f"s{k}"] += gf >= k
-            cnt["cs"] += ga == 0; cnt["btts"] += gf > 0 and ga > 0
-            for k in (1, 2, 3, 4, 5): cnt[f"o{k}"] += gf + ga >= k
-            ht = m.get("ht")
-            if ht:
-                hf, hg = (ht[0], ht[1]) if s == 0 else (ht[1], ht[0])
-                cnt["htn"] += 1
-                cnt["htl"] += hf > hg; cnt["htd"] += hf == hg
-                cnt["ww"] += hf > hg and res == "W"; cnt["dw"] += hf == hg and res == "W"
-                g1, g2 = ht[0] + ht[1], (gf + ga) - (ht[0] + ht[1])
-                cnt["h1"] += g1 > g2; cnt["h2"] += g2 > g1; cnt["heq"] += g1 == g2
-            def stat(title, key):
-                a, b = ts(m, title, s), ts(m, title, o)
-                if a is None: return None, None
-                c[key] += a; cnt[key + "_n"] += 1
-                if b is not None: c[key + "_m"] += a + b; cnt[key + "_mn"] += 1
-                return a, b
-            a, b = stat("Corners", "cor")
-            if a is not None:
-                for k in (3, 4, 5, 6, 7): cnt[f"cor{k}"] += a >= k
-                if b is not None:
-                    for k in (8, 9, 10, 11, 12): cnt[f"mc{k}"] += a + b >= k
-                    cnt["cormost"] += a > b
-            yc, oyc = ts(m, "Yellow cards", s), ts(m, "Yellow cards", o)
-            rc, orc = ts(m, "Red cards", s) or 0, ts(m, "Red cards", o) or 0
-            if yc is not None:
-                tc, otc = yc + rc, (oyc or 0) + orc
-                c["card"] += tc; cnt["card_n"] += 1; c["mcard"] += tc + otc
-                for k in (1, 2, 3): cnt[f"cd{k}"] += tc >= k
-                for k in (3, 4, 5, 6): cnt[f"mcd{k}"] += tc + otc >= k
-                cnt["bb"] += tc > 0 and otc > 0; cnt["cdmost"] += tc > otc
-            a, b = stat("Fouls committed", "foul")
-            if b is not None:
-                c["fw"] += b; cnt["fw_n"] += 1; cnt["foulmost"] += a > b
-            stat("Total shots", "sh")
-            a, b = stat("Shots on target", "sot")
-            if a is not None:
-                for k in (3, 4, 5, 6): cnt[f"sot{k}"] += a >= k
-            for title, key in (("Total shots", "sha"), ("Shots on target", "sota")):
-                v = ts(m, title, o)
-                if v is not None: c[key] += v; cnt[key + "_n"] += 1
-            stat("Keeper saves", "sv"); stat("Offsides", "off")
-            stat("Throws", "thr")
-            g, og = espn_val(m, "goalKicks", s), espn_val(m, "goalKicks", o)
-            if g is not None:
-                c["gk"] += g; cnt["gk_n"] += 1
-                if og is not None: c["gk_m"] += g + og; cnt["gk_mn"] += 1
-        A = lambda k, nd=1: avg(c[k], cnt[k + "_n"], nd)
-        P = lambda k, base: pct(cnt[k], cnt[base] if isinstance(base, str) else base)
-        rows.append([names[tid], n, pct(cnt["W"], n), pct(cnt["D"], n), pct(cnt["L"], n), pct(cnt["W"] + cnt["D"], n),
-                     pct(cnt["w1"], n), pct(cnt["w2"], n), avg(c["gf"], n, 2), avg(c["ga"], n, 2),
-                     pct(cnt["s1"], n), pct(cnt["s2"], n), pct(cnt["s3"], n), pct(cnt["cs"], n), pct(cnt["btts"], n),
-                     avg(c["tg"], n, 2)] + [pct(cnt[f"o{k}"], n) for k in (1, 2, 3, 4, 5)] +
-                    [P("htl", "htn"), P("htd", "htn"), P("ww", "htn"), P("dw", "htn"), P("h1", "htn"), P("h2", "htn"), P("heq", "htn"),
-                     A("cor")] + [P(f"cor{k}", "cor_n") for k in (3, 4, 5, 6, 7)] +
-                    [avg(c["cor_m"], cnt["cor_mn"])] + [P(f"mc{k}", "cor_mn") for k in (8, 9, 10, 11, 12)] + [P("cormost", "cor_mn"),
-                     A("card")] + [P(f"cd{k}", "card_n") for k in (1, 2, 3)] + [avg(c["mcard"], cnt["card_n"])] +
-                    [P(f"mcd{k}", "card_n") for k in (3, 4, 5, 6)] + [P("bb", "card_n"), P("cdmost", "card_n"),
-                     A("foul"), A("fw"), P("foulmost", "fw_n"), A("sh"), A("sot")] + [P(f"sot{k}", "sot_n") for k in (3, 4, 5, 6)] +
-                    [avg(c["sot_m"], cnt["sot_mn"]), A("sha"), A("sota"), A("sv"), A("off"), A("thr"), avg(c["thr_m"], cnt["thr_mn"]),
-                     A("gk"), avg(c["gk_m"], cnt["gk_mn"]), "".join(reversed(form[-5:]))])
+        H = [r for r in R if r["home"]]; Aw = [r for r in R if not r["home"]]
+        opp, ctx = opp_context(tid, fixtures, recs, names)
+        vals = {c: f(R) for c, f in TEAM_STATS}
+        l5 = {k: TS[k](R[-5:]) for k in TEAM_L5_KEYS}
+        info[tid] = {"vals": vals, "l5": l5, "n": len(R), "ctx": ctx}
+        rows.append([names[tid], len(R)] + [vals[c] for c, _ in TEAM_STATS] +
+                    ["".join(reversed([r["res"] for r in R[-5:]]))] +
+                    [TS[k](H) for k in SPLIT_KEYS] + [TS[k](Aw) for k in SPLIT_KEYS] +
+                    [l5[k] for k in TEAM_L5_KEYS] + opp)
     rows.sort(key=lambda r: r[0])
-    return rows
+    return rows, info
 
 
 # ---------------- Players ----------------
-PLAYER_COLS = ["Player", "Team", "Status", "Pos", "Apps", "Starts", "Avg mins",
-               "Goals", "Goal 1+ %", "Goal 2+ %", "Assists", "Assist 1+ %", "Score or assist %",
-               "Shots avg", "Shots 1+ %", "Shots 2+ %", "Shots 3+ %", "Shots 4+ %", "Shots 5+ %",
-               "SOT avg", "SOT 1+ %", "SOT 2+ %", "SOT 3+ %", "SOT 4+ %",
-               "Headed SOT 1+ %", "Headed shots 1+ %", "SOT outside box 1+ %", "Shots outside box 1+ %",
-               "Fouls avg", "Fouls 1+ %", "Fouls 2+ %", "Fouls 3+ %", "Fouls 4+ %",
-               "Fouled avg", "Fouled 1+ %", "Fouled 2+ %", "Fouled 3+ %", "Fouled 4+ %",
-               "Tackles avg", "Tackles 1+ %", "Tackles 2+ %", "Tackles 3+ %", "Tackles 4+ %", "Tackles 5+ %",
-               "Booked %", "Yellows", "Reds",
-               "Saves avg", "Saves 1+ %", "Saves 2+ %", "Saves 3+ %", "Saves 4+ %", "Saves 5+ %", "Saves 6+ %",
-               "Last 5 SOT", "Last 5 shots", "Last 5 fouls", "Last 5 tackles"]
+PH = lambda f: (lambda Pl: pct(sum(1 for p in Pl if f(p)), len(Pl)))
+PA = lambda k, nd=1: (lambda Pl: round(sum(p[k] for p in Pl) / len(Pl), nd) if Pl else "")
+PLAYER_STATS = [
+    ("Goals", lambda Pl: int(sum(p["g"] for p in Pl))), ("Goal 1+ %", PH(lambda p: p["g"] >= 1)),
+    ("Goal 2+ %", PH(lambda p: p["g"] >= 2)), ("Assists", lambda Pl: int(sum(p["a"] for p in Pl))),
+    ("Assist 1+ %", PH(lambda p: p["a"] >= 1)), ("Score or assist %", PH(lambda p: p["g"] + p["a"] >= 1)),
+    ("Shots avg", PA("sh"))] + [(f"Shots {k}+ %", PH((lambda k: lambda p: p["sh"] >= k)(k))) for k in (1, 2, 3, 4, 5)] + [
+    ("SOT avg", PA("sot"))] + [(f"SOT {k}+ %", PH((lambda k: lambda p: p["sot"] >= k)(k))) for k in (1, 2, 3, 4)] + [
+    ("Headed SOT 1+ %", PH(lambda p: p["hsot"] >= 1)), ("Headed shots 1+ %", PH(lambda p: p["hsh"] >= 1)),
+    ("SOT outside box 1+ %", PH(lambda p: p["osot"] >= 1)), ("Shots outside box 1+ %", PH(lambda p: p["osh"] >= 1)),
+    ("Fouls avg", PA("fc"))] + [(f"Fouls {k}+ %", PH((lambda k: lambda p: p["fc"] >= k)(k))) for k in (1, 2, 3, 4)] + [
+    ("Fouled avg", PA("fw"))] + [(f"Fouled {k}+ %", PH((lambda k: lambda p: p["fw"] >= k)(k))) for k in (1, 2, 3, 4)] + [
+    ("Tackles avg", PA("tk"))] + [(f"Tackles {k}+ %", PH((lambda k: lambda p: p["tk"] >= k)(k))) for k in (1, 2, 3, 4, 5)] + [
+    ("Booked %", PH(lambda p: p["yc"] + p["rc"] >= 1)), ("Yellows", lambda Pl: int(sum(p["yc"] for p in Pl))),
+    ("Reds", lambda Pl: int(sum(p["rc"] for p in Pl)))]
+GK_STATS = [("Saves avg", PA("sv"))] + [(f"Saves {k}+ %", PH((lambda k: lambda p: p["sv"] >= k)(k))) for k in (1, 2, 3)]
+PS = dict(PLAYER_STATS + GK_STATS)
+PLAYER_L5_KEYS = ["Goal 1+ %", "Score or assist %", "Shots 1+ %", "Shots 2+ %", "SOT 1+ %", "SOT 2+ %",
+                  "Fouls 1+ %", "Fouls 2+ %", "Fouled 1+ %", "Fouled 2+ %", "Tackles 1+ %", "Tackles 2+ %",
+                  "Booked %", "Saves 2+ %", "Saves 3+ %"]
+PLAYER_COLS = (["Player", "Team", "Status", "Next match", "Pos", "Apps", "Starts", "Avg mins"] +
+               [c for c, _ in PLAYER_STATS] + [c for c, _ in GK_STATS] + [f"L5 {k}" for k in PLAYER_L5_KEYS] +
+               ["Last 5 SOT", "Last 5 shots", "Last 5 fouls", "Last 5 tackles"])
+# market -> which opponent number gives useful context in the Today tab
+OPP_FOR = {"Goal": ("goals", "goals conceded"), "Score": ("goals", "goals conceded"), "Shots": ("shots", "shots conceded"),
+           "SOT": ("sot", "SOT conceded"), "Fouls": ("fouls_won", "fouls won"), "Fouled": ("fouls", "fouls committed"),
+           "Booked": ("fouls_won", "fouls won"), "Saves": ("sot_for", "shots on target")}
 
 
-def player_rows(matches, scope, lg, all_last_team, avail, team_names):
+def player_rows(matches, scope, lg, all_last_team, avail, team_names, team_info):
     games = defaultdict(list)
     for m in matches:
         for p in m["players"]:
             games[p["id"]].append((m, p))
-    # team's league matches, to work out suspensions
     team_matches = defaultdict(list)
     for m in matches:
         team_matches[m["home"]["id"]].append(m["utc"]); team_matches[m["away"]["id"]].append(m["utc"])
-    rows = []
+    most = max((len(v) for v in team_matches.values()), default=0)
+    min_apps = min(MIN_APPS, max(1, most - 1))
+    rows, picks = [], []
     for pid, lst in games.items():
         lst.sort(key=lambda x: x[0]["utc"])
         last_m, last_p = lst[-1]
         team = last_p["team"]
         if scope is not None and team not in scope: continue
         n = len(lst); mins = sum(p["min"] for _, p in lst)
-        if mins / n < MIN_AVG_MINUTES: continue
-        P = [p for _, p in lst]
-        is_gk = sum(p["gk"] for p in P) > n / 2
-        tot = lambda k: sum(p[k] for p in P)
-        hit = lambda f: pct(sum(1 for p in P if f(p)), n)
-        # status
+        if n < min_apps or mins / n < MIN_AVG_MINUTES: continue
+        Pl = [p for _, p in lst]; L5 = Pl[-5:]
+        is_gk = sum(p["gk"] for p in Pl) > n / 2
+        yc_total = sum(p["yc"] for p in Pl)
         status = ""
         a = avail.get(str(pid))
         played_since = [u for u in team_matches[team] if u > last_m["utc"]]
         if last_p["rc"] and not played_since:
             status = "Suspended (red card)"
-        elif not played_since and last_p["yc"] and tot("yc") % lg["yc_ban"] == 0 and tot("yc") > 0:
-            status = f"Likely suspended ({tot('yc')} yellows)"
+        elif not played_since and last_p["yc"] and yc_total and yc_total % lg["yc_ban"] == 0:
+            status = f"Likely suspended ({yc_total} yellows)"
         if a:
             if a["type"] == "suspension": status = "Suspended"
             elif not status:
@@ -197,30 +268,62 @@ def player_rows(matches, scope, lg, all_last_team, avail, team_names):
                 elif a["type"] == "injury": status = "Injured" + (f", return: {ret}" if ret else "")
                 else: status = "Unavailable" + (f", return: {ret}" if ret else "")
         moved = all_last_team.get(pid, {}).get("from")
-        if moved and moved[0] == team:  # transferred into this team this season
-            frm = moved[1]
-            status = (status + "; " if status else "") + f"Transferred (from {frm})"
-        last5 = list(reversed(P[-5:]))
-        rows.append([last_p["name"], team_names.get(team, last_p.get("teamName")), status, "GK" if is_gk else "",
-                     n, sum(p["start"] for p in P), round(mins / n),
-                     int(tot("g")), hit(lambda p: p["g"] >= 1), hit(lambda p: p["g"] >= 2), int(tot("a")), hit(lambda p: p["a"] >= 1),
-                     hit(lambda p: p["g"] + p["a"] >= 1),
-                     avg(tot("sh"), n)] + [hit(lambda p, k=k: p["sh"] >= k) for k in (1, 2, 3, 4, 5)] +
-                    [avg(tot("sot"), n)] + [hit(lambda p, k=k: p["sot"] >= k) for k in (1, 2, 3, 4)] +
-                    [hit(lambda p: p["hsot"] >= 1), hit(lambda p: p["hsh"] >= 1), hit(lambda p: p["osot"] >= 1), hit(lambda p: p["osh"] >= 1),
-                     avg(tot("fc"), n)] + [hit(lambda p, k=k: p["fc"] >= k) for k in (1, 2, 3, 4)] +
-                    [avg(tot("fw"), n)] + [hit(lambda p, k=k: p["fw"] >= k) for k in (1, 2, 3, 4)] +
-                    [avg(tot("tk"), n)] + [hit(lambda p, k=k: p["tk"] >= k) for k in (1, 2, 3, 4, 5)] +
-                    [hit(lambda p: p["yc"] + p["rc"] >= 1), int(tot("yc")), int(tot("rc"))] +
-                    ([avg(tot("sv"), n)] + [hit(lambda p, k=k: p["sv"] >= k) for k in (1, 2, 3, 4, 5, 6)] if is_gk else [""] * 7) +
-                    [" ".join(str(int(p["sot"])) for p in last5), " ".join(str(int(p["sh"])) for p in last5),
-                     " ".join(str(int(p["fc"])) for p in last5), " ".join(str(int(p["tk"])) for p in last5)])
-    rows.sort(key=lambda r: (r[1] or "", -r[6]))
-    return rows
+        if moved and moved[0] == team:
+            status = (status + "; " if status else "") + f"Transferred (from {moved[1]})"
+        ctx = (team_info.get(team) or {}).get("ctx")
+        nxt = f"v {ctx['name']} ({ctx['venue']}) {uk_time(ctx['utc'])}" if ctx else ""
+        last5 = list(reversed(L5))
+        season = {c: f(Pl) for c, f in PLAYER_STATS}
+        gk = {c: (f(Pl) if is_gk else "") for c, f in GK_STATS}
+        l5 = {k: (PS[k](L5) if (is_gk or not k.startswith("Saves")) else "") for k in PLAYER_L5_KEYS}
+        rows.append([last_p["name"], team_names.get(team, last_p.get("teamName")), status, nxt, "GK" if is_gk else "",
+                     n, sum(p["start"] for p in Pl), round(mins / n)] +
+                    [season[c] for c, _ in PLAYER_STATS] + [gk[c] for c, _ in GK_STATS] + [l5[k] for k in PLAYER_L5_KEYS] +
+                    [" ".join(str(int(p[k])) for p in last5) for k in ("sot", "sh", "fc", "tk")])
+        # Today-tab candidates: season and last-5 both strong, player available
+        if ctx and not any(w in status for w in ("Injured", "uspended", "Doubtful", "Unavailable")):
+            for k in PLAYER_L5_KEYS:
+                sv = gk.get(k, season.get(k)); lv = l5[k]
+                if isinstance(sv, int) and isinstance(lv, int) and sv >= PICK_MIN and lv >= PICK_MIN:
+                    picks.append({"fixture": ctx["fixture"], "who": last_p["name"], "team": team_names.get(team, ""),
+                                  "market": k.replace(" %", ""), "season": sv, "l5": lv, "games": n,
+                                  "opp": ctx, "status": status})
+    rows.sort(key=lambda r: (r[1] or "", -r[7]))
+    return rows, picks
+
+
+def team_picks(info, names):
+    picks = []
+    for tid, d in info.items():
+        ctx = d["ctx"]
+        if not ctx or d["n"] < MIN_APPS: continue
+        for k in TEAM_L5_KEYS:
+            sv, lv = d["vals"].get(k), d["l5"].get(k)
+            if isinstance(sv, int) and isinstance(lv, int) and sv >= PICK_MIN and lv >= PICK_MIN:
+                picks.append({"fixture": ctx["fixture"], "who": names[tid] + " (team)", "team": names[tid],
+                              "market": {"W": "Win"}.get(k.replace(" %", ""), k.replace(" %", "")), "season": sv, "l5": lv,
+                              "games": d["n"], "opp": ctx, "status": ""})
+    return picks
+
+
+def opp_note(pk):
+    m = pk["market"]; ctx = pk["opp"]
+    for prefix, (key, label) in OPP_FOR.items():
+        if m.startswith(prefix):
+            return f"{ctx['name']}: {ctx[key]} {label}/game" if ctx.get(key) != "" else ""
+    if any(w in m for w in ("Corners", "corners")):
+        return f"{ctx['name']}: {ctx['corners']} corners conceded/game"
+    if "cards" in m or "Cards" in m:
+        return f"{ctx['name']}: {ctx['fouls_won']} fouls won/game"
+    if m.startswith("Tackles"):
+        return ""
+    return f"{ctx['name']}: {ctx['goals']} goals conceded/game"
+
+
+TODAY_COLS = ["Kick-off (UK)", "Competition", "Match", "Pick", "Team", "Market", "Season %", "Last 5 %", "Games", "Opponent context", "Note"]
 
 
 def transfers_index():
-    """For each player, if his most recent club (any competition) differs from an earlier club this season."""
     hist = defaultdict(list)
     base = os.path.join(DATA, "matches")
     for key in os.listdir(base) if os.path.isdir(base) else []:
@@ -241,48 +344,82 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     for fn in os.listdir(OUT):
         if fn.endswith(".csv"): os.remove(os.path.join(OUT, fn))
-    from zoneinfo import ZoneInfo
-    stamp = dt.datetime.now(ZoneInfo("Europe/London")).strftime("%d %b %Y %H:%M") + " UK time"
+    now = dt.datetime.now(UK)
+    stamp = now.strftime("%d %b %Y %H:%M") + " UK time"
     moves = transfers_index()
     locked = jload(os.path.join(DATA, "locked_teams.json"), {})
-    summary = []
+    summary, all_picks = [], []
     for lg in LEAGUES:
         matches = load_matches(lg["key"])
         if not matches: continue
         table = jload(os.path.join(DATA, "tables", f"{lg['key']}.json"), []) or []
+        fixtures = jload(os.path.join(DATA, "fixtures", f"{lg['key']}.json"), []) or []
         names = {t["id"]: t["name"] for t in table}
         for m in matches:
             names.setdefault(m["home"]["id"], m["home"]["name"]); names.setdefault(m["away"]["id"], m["away"]["name"])
         mode = lg["mode"]
         if mode == "all": scope = None
         elif mode == "top5": scope = {int(k) for k in locked.get(lg["key"], {}).get("teams", {})}
+        elif mode == "table": scope = {t["id"] for t in table} or None
         else:
-            # "table" and explicit lists: teams fetch.py kept
-            if mode == "table": scope = {t["id"] for t in table} or None
-            else:
-                from fetch import scope_teams
-                scope = set(scope_teams(lg, table))
+            from fetch import scope_teams
+            scope = set(scope_teams(lg, table))
         avail = (jload(os.path.join(DATA, "availability", f"{lg['key']}.json"), {}) or {}).get("players", {})
-        trows = team_rows(matches, scope)
-        prows = player_rows(matches, scope, lg, moves, avail, names)
+        recs, rnames = team_records(matches)
+        names.update({k: v for k, v in rnames.items() if k not in names})
+        trows, info = team_rows(recs, names, scope, fixtures)
+        prows, picks = player_rows(matches, scope, lg, moves, avail, names, info)
+        for pk in picks + team_picks(info, names):
+            pk["league"] = lg["name"]; all_picks.append(pk)
         last_date = max(m["date"] for m in matches)
         with open(os.path.join(OUT, f"{lg['key']}_teams.csv"), "w", newline="") as f:
             w = csv.writer(f)
-            w.writerow([f"{lg['name']} 2026-27: team stats from {len(matches)} league games (latest {last_date}). Updated {stamp}. % = share of games"])
+            w.writerow([f"{lg['name']} 2026-27: team stats from {len(matches)} league games (latest {last_date}). Updated {stamp}. % = share of games. L5 = last 5 games"])
             w.writerow(TEAM_COLS); w.writerows(blank_zeros(trows))
         with open(os.path.join(OUT, f"{lg['key']}_players.csv"), "w", newline="") as f:
             w = csv.writer(f)
-            w.writerow([f"Player hit rates: players averaging {MIN_AVG_MINUTES}+ mins. % = share of their league appearances. Last 5 = newest first"])
+            w.writerow([f"Player hit rates: {MIN_AVG_MINUTES}+ mins a game and at least {MIN_APPS} appearances (2 while a cup has played 3 or fewer). % = share of their league games. L5 = last 5 games"])
             w.writerow(PLAYER_COLS); w.writerows(blank_zeros(prows))
         summary.append([lg["name"], len(matches), last_date, len(trows), len(prows),
                         sum(1 for r in prows if r[2].startswith(("Injured", "Doubtful"))),
                         sum(1 for r in prows if "uspended" in r[2]), sum(1 for r in prows if "Transferred" in r[2])])
+    # Today tab: games kicking off in the next 24 hours
+    start, end = dt.datetime.now(dt.timezone.utc), dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=24)
+    def in_window(pk):
+        try:
+            t = dt.datetime.fromisoformat(pk["fixture"]["utc"].replace("Z", "+00:00"))
+            return start - dt.timedelta(hours=2) <= t <= end
+        except Exception:
+            return False
+    sel = [p for p in all_picks if in_window(p)]
+    by_match = defaultdict(list)
+    for p in sel:
+        by_match[(p["fixture"]["utc"], p["league"], p["fixture"]["id"])].append(p)
+    out_rows = []
+    for key in sorted(by_match):
+        ps = by_match[key]
+        # one row per pick, best first; avoid listing the same match twice from both teams' sides
+        seen, uniq = set(), []
+        for p in sorted(ps, key=lambda p: (-p["season"], -p["l5"], p["who"])):
+            k = (p["who"], p["market"])
+            if k in seen: continue
+            seen.add(k); uniq.append(p)
+        for p in uniq[:PICKS_PER_MATCH]:
+            fx = p["fixture"]
+            out_rows.append([uk_time(fx["utc"]), p["league"], f"{fx['home']['name']} v {fx['away']['name']}", p["who"], p["team"],
+                             p["market"], p["season"], p["l5"], p["games"], opp_note(p), p["status"]])
+    with open(os.path.join(OUT, "TODAY.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow([f"Games kicking off in the next 24 hours (from {stamp}): markets hitting {PICK_MIN}%+ this season AND in the last 5 games. "
+                    f"Injured, doubtful and suspended players left out. Up to {PICKS_PER_MATCH} per match."])
+        w.writerow(TODAY_COLS)
+        w.writerows(out_rows if out_rows else [["No games with 80%+ markets in the next 24 hours"]])
     with open(os.path.join(OUT, "INDEX.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow([f"Updated {stamp}"])
         w.writerow(["League", "Matches loaded", "Latest match", "Teams", "Players", "Injured/doubtful", "Suspended", "Transferred"])
         w.writerows(summary)
-    print("\n".join(str(s) for s in summary))
+    print("\n".join(str(s) for s in summary)); print("today picks", len(out_rows))
 
 
 if __name__ == "__main__":
