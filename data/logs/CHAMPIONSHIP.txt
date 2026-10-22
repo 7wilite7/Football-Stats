@@ -1,3 +1,3 @@
 ===== CHAMPIONSHIP
 fixtures 552 table 24 scope None
-CHAMPIONSHIP {'new_matches': 0, 'cached': 132, 'run_seconds': 73, 'at': '2026-10-22T20:05Z'}
+CHAMPIONSHIP {'new_matches': 0, 'cached': 132, 'run_seconds': 73, 'at': '2026-10-22T22:13Z'}
