@@ -273,9 +273,9 @@ def next_match_unavailable(match_url):
     for side in ("homeTeam", "awayTeam"):
         for u in (lu.get(side) or {}).get("unavailable") or []:
             raw.append(u)
-            blob = json.dumps(u).lower()
-            typ = "suspension" if "suspen" in blob or "card" in blob else ("injury" if "injur" in blob else "unavailable")
             un = u.get("unavailability") or {}
+            t = str(un.get("type", "") if isinstance(un, dict) else "").lower()
+            typ = "suspension" if ("susp" in t or "card" in t) else ("injury" if "injur" in t else (t or "unavailable"))
             ret = un.get("expectedReturn") if isinstance(un, dict) else None
             out[int(u["id"])] = {"name": u.get("name"), "type": typ, "ret": ret}
     return out, raw
