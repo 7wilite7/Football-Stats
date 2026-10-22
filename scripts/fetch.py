@@ -305,12 +305,14 @@ def run(keys):
                 elif h not in scope and a not in scope: continue
             p = os.path.join(mdir, f"{f['id']}.json")
             if os.path.exists(p): continue
-            pp = page_props(get("https://www.fotmob.com" + f["pageUrl"]))
+            pp = page_props(get(f"https://www.fotmob.com/match/{f['id']}"))
             if not pp: log("WARN match page failed", f["pageUrl"]); continue
             try:
                 m = extract_match(pp, lg["key"])
             except Exception as e:
                 log("WARN extract failed", f["pageUrl"], repr(e)); continue
+            if m["id"] != int(f["id"]):
+                log("WARN wrong match returned", f["id"], m["id"]); continue
             if not m["players"]:
                 log("WARN no player stats yet", f["pageUrl"]); continue
             m["espn"] = espn_supplement(m, lg["espn"])
@@ -331,7 +333,7 @@ def run(keys):
             if st.get("finished") or st.get("cancelled") or st.get("started"): continue
             h, a = int(f["home"]["id"]), int(f["away"]["id"])
             if (h in teams_needed and h not in done_next) or (a in teams_needed and a not in done_next):
-                u, raw = next_match_unavailable(f["pageUrl"]); avail.update(u); raw_un.extend(raw)
+                u, raw = next_match_unavailable(f"/match/{f['id']}"); avail.update(u); raw_un.extend(raw)
                 done_next.update({h, a})
             if teams_needed <= done_next: break
         names = {t["id"]: t["name"] for t in table}
