@@ -1,3 +1,7 @@
-===== LIGUE1
-fixtures 306 table 18 scope None
-LIGUE1 {'new_matches': 63, 'cached': 63, 'run_seconds': 187, 'at': '2026-10-22T18:02Z'}
+===== EPL
+fixtures 380 table 20 scope None
+WARN no team stats 6275370 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/sunderland-vs-brentford/2sw7v2#5795436
+WARN no team stats 6275373 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/crystal-palace-vs-fulham/37llbg#5795439
+EPL {'new_matches': 0, 'cached': 68, 'run_seconds': 53, 'at': '2026-10-22T18:10Z'}
