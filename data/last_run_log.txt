@@ -1,7 +1,3 @@
-===== EPL
+===== LALIGA
 fixtures 380 table 20 scope None
-WARN no team stats 6275370 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/sunderland-vs-brentford/2sw7v2#5795436
-WARN no team stats 6275373 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/crystal-palace-vs-fulham/37llbg#5795439
-EPL {'new_matches': 68, 'cached': 68, 'run_seconds': 194, 'at': '2026-10-22T17:48Z'}
+LALIGA {'new_matches': 89, 'cached': 89, 'run_seconds': 252, 'at': '2026-10-22T17:52Z'}
