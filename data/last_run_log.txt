@@ -1,7 +1,3 @@
-===== BUNDESLIGA
+===== LIGUE1
 fixtures 306 table 18 scope None
-WARN no team stats 6162740 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/werder-bremen-vs-borussia-dortmund/2tqnt6#5881180
-WARN no team stats 6162749 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/paderborn-vs-vfb-stuttgart/2wfjs9#5881185
-BUNDESLIGA {'new_matches': 52, 'cached': 52, 'run_seconds': 167, 'at': '2026-10-22T17:59Z'}
+LIGUE1 {'new_matches': 63, 'cached': 63, 'run_seconds': 187, 'at': '2026-10-22T18:02Z'}
