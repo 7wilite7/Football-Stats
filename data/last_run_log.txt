@@ -1,7 +1,4 @@
-===== UEL
-fixtures 144 table 36 scope ['Bayer Leverkusen', 'Ferencváros', 'Sunderland', 'Union St.Gilloise', 'Rennes', 'Juventus', 'Benfica', 'Beşiktaş', 'AFC Bournemouth', 'Omonia Nicosia', 'Lyon', 'AZ Alkmaar', 'Olympiacos', 'Sparta Prague', 'Dinamo Zagreb', 'Sturm Graz', 'NEC Nijmegen', 'Crystal Palace', 'Milan', 'Jagiellonia Białystok', 'Torreense', 'OFI Crete', 'Salzburg', 'Lillestrøm', 'Real Sociedad', 'Levski Sofia', 'Hapoel Beer Sheva', 'Anderlecht', 'Celta Vigo', 'Hoffenheim', 'Viktoria Plzeň', 'Celtic', 'Marseille', 'NK Celje', 'Ararat Armenia', 'Lech Poznań']
-WARN no player stats yet /matches/nec-nijmegen-vs-dinamo-zagreb/2v7x4m#6112293
-WARN no player stats yet /matches/ferencvaros-vs-torreense/b80xkqh#6112281
-WARN no player stats yet /matches/lech-poznan-vs-sunderland/xsq7d#6112320
-WARN no player stats yet /matches/ofi-crete-vs-bayer-leverkusen/23k7vg#6112370
-UEL {'new_matches': 38, 'cached': 38, 'run_seconds': 179, 'at': '2026-10-22T18:44Z'}
+===== EREDIVISIE
+LOCKED top5 EREDIVISIE ['Feyenoord', 'AZ Alkmaar', 'PSV Eindhoven', 'Ajax', 'FC Twente']
+fixtures 306 table 18 scope ['Feyenoord', 'AZ Alkmaar', 'PSV Eindhoven', 'Ajax', 'FC Twente']
+EREDIVISIE {'new_matches': 42, 'cached': 42, 'run_seconds': 118, 'at': '2026-10-22T18:46Z'}
