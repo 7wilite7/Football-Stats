@@ -1,0 +1,33 @@
+===== SCOTLAND
+fixtures 198 table 12 scope ['Rangers', 'Celtic', 'Heart of Midlothian']
+WARN no team stats 5793992 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-dundee-united/2tqnxb#5793898
+WARN no team stats 5793990 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/aberdeen-vs-heart-midlothian/2s709t#5793900
+WARN no team stats 5793988 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/dundee-fc-vs-celtic/2qpqba#5793903
+WARN no team stats 5793971 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/kilmarnock-vs-celtic/2u4xxg#5793908
+WARN no team stats 5793964 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/heart-midlothian-vs-dundee-united/38oyr3#5793905
+WARN no team stats 5793997 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-hibernian/2x7pd8#5793909
+WARN no team stats 5793965 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/falkirk-vs-celtic/2u4jmy#5793917
+WARN no team stats 6241190 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/aberdeen-vs-rangers/2edjdd#5793916
+WARN no team stats 5793986 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-falkirk/2fi71s#5793924
+WARN no team stats 6241189 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/heart-midlothian-vs-hibernian/3ceu2k#5793925
+WARN no team stats 5793981 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-motherwell/2tmb21#5793931
+WARN no team stats 5793976 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/st-mirren-vs-celtic/37u1ls#5793933
+WARN no team stats 5793977 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/dundee-fc-vs-heart-midlothian/2q0elw#5793930
+WARN no team stats 5793974 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-st-mirren/2s86p2#5793914
+WARN no team stats 5793975 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/falkirk-vs-heart-midlothian/2tesa8#5793911
+SCOTLAND {'new_matches': 3, 'cached': 10, 'run_seconds': 65, 'at': '2026-10-22T19:27Z'}
