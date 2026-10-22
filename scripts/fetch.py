@@ -80,7 +80,7 @@ def league_table(lg):
     seen, res = set(), []
     for r in rows:
         if r["id"] not in seen:
-            seen.add(r["id"]); res.append({"id": int(r["id"]), "name": r["name"], "pos": r.get("idx"), "pts": r.get("pts")})
+            seen.add(r["id"]); res.append({"id": int(r["id"]), "name": r["name"], "pos": r.get("idx"), "pts": r.get("pts"), "played": r.get("played")})
     return res
 
 

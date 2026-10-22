@@ -16,7 +16,7 @@ concurrency:
   group: update-stats
   cancel-in-progress: false
 env:
-  ACTIVE: "EPL LALIGA SERIEA BUNDESLIGA LIGUE1"
+  ACTIVE: "EPL LALIGA SERIEA BUNDESLIGA LIGUE1 CHAMPIONSHIP MLS UCL UEL EREDIVISIE SAUDI PORTUGAL SCOTLAND TURKEY"
 jobs:
   update:
     runs-on: ubuntu-latest
