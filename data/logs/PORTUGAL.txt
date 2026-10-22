@@ -1,0 +1,7 @@
+===== PORTUGAL
+fixtures 306 table 18 scope ['FC Porto', 'Sporting CP', 'Benfica']
+WARN no team stats 5985963 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/academico-viseu-vs-fc-porto/13s795#5887609
+WARN no team stats 5985965 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/gil-vicente-vs-benfica/35mims#5887635
+PORTUGAL {'new_matches': 0, 'cached': 21, 'run_seconds': 20, 'at': '2026-10-22T19:26Z'}
