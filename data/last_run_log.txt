@@ -1,9 +1,7 @@
-===== UCL
-fixtures 144 table 36 scope ['Paris Saint-Germain', 'Aston Villa', 'Liverpool', 'Real Madrid', 'Real Betis', 'VfB Stuttgart', 'Arsenal', 'Barcelona', 'Como', 'Manchester City', 'Club Brugge', 'Sporting CP', 'Borussia Dortmund', 'Bayern München', 'Roma', 'Atlético Madrid', 'Shakhtar Donetsk', 'PSV Eindhoven', 'Villarreal', 'Inter', 'Manchester United', 'Napoli', 'Galatasaray', 'LASK', 'Sabah FK', 'Feyenoord', 'Lens', 'Bodø/Glimt', 'AEK Athens', 'RB Leipzig', 'Fenerbahçe', 'Slavia Prague', 'Viking', 'FC Porto', 'Lille', 'Slovan Bratislava']
-HTTP 500 https://www.fotmob.com/teams/9728/squad/shakhtar-donetsk
-HTTP 500 https://www.fotmob.com/teams/9728/squad/shakhtar-donetsk
-HTTP 500 https://www.fotmob.com/teams/9728/squad/shakhtar-donetsk
-HTTP 500 https://www.fotmob.com/teams/951893/squad/sabah-fk
-HTTP 500 https://www.fotmob.com/teams/951893/squad/sabah-fk
-HTTP 500 https://www.fotmob.com/teams/951893/squad/sabah-fk
-UCL {'new_matches': 54, 'cached': 54, 'run_seconds': 245, 'at': '2026-10-22T18:41Z'}
+===== UEL
+fixtures 144 table 36 scope ['Bayer Leverkusen', 'Ferencváros', 'Sunderland', 'Union St.Gilloise', 'Rennes', 'Juventus', 'Benfica', 'Beşiktaş', 'AFC Bournemouth', 'Omonia Nicosia', 'Lyon', 'AZ Alkmaar', 'Olympiacos', 'Sparta Prague', 'Dinamo Zagreb', 'Sturm Graz', 'NEC Nijmegen', 'Crystal Palace', 'Milan', 'Jagiellonia Białystok', 'Torreense', 'OFI Crete', 'Salzburg', 'Lillestrøm', 'Real Sociedad', 'Levski Sofia', 'Hapoel Beer Sheva', 'Anderlecht', 'Celta Vigo', 'Hoffenheim', 'Viktoria Plzeň', 'Celtic', 'Marseille', 'NK Celje', 'Ararat Armenia', 'Lech Poznań']
+WARN no player stats yet /matches/nec-nijmegen-vs-dinamo-zagreb/2v7x4m#6112293
+WARN no player stats yet /matches/ferencvaros-vs-torreense/b80xkqh#6112281
+WARN no player stats yet /matches/lech-poznan-vs-sunderland/xsq7d#6112320
+WARN no player stats yet /matches/ofi-crete-vs-bayer-leverkusen/23k7vg#6112370
+UEL {'new_matches': 38, 'cached': 38, 'run_seconds': 179, 'at': '2026-10-22T18:44Z'}
