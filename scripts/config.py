@@ -19,7 +19,7 @@ LEAGUES = [
     dict(key="PORTUGAL", name="Portugal (Porto, Sporting, Benfica)", fm=61, slug="liga-portugal", espn="por.1",
          mode=["Porto", "Sporting CP", "Benfica"], yc_ban=5),
     dict(key="SCOTLAND", name="Scotland (Rangers, Celtic, Hearts)", fm=64, slug="premiership", espn="sco.1",
-         mode=["Rangers", "Celtic", "Hearts"], yc_ban=5),
+         mode=["Rangers", "Celtic", "Heart of Midlothian"], yc_ban=5),
     dict(key="TURKEY", name="Turkey (Gala, Fener, Besiktas, Trabzon)", fm=71, slug="super-lig", espn="tur.1",
          mode=["Galatasaray", "Fenerbahce", "Besiktas", "Trabzonspor"], yc_ban=4),
 ]

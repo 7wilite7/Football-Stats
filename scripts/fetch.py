@@ -346,7 +346,8 @@ def run(keys):
                              "run_seconds": round(time.time() - t0), "at": dt.datetime.utcnow().isoformat(timespec="minutes") + "Z"}
         log(lg["key"], status[lg["key"]])
         jsave(os.path.join(DATA, "status.json"), status)
-    with open(os.path.join(DATA, "last_run_log.txt"), "w") as f: f.write("\n".join(LOG[-2000:]))
+    os.makedirs(os.path.join(DATA, "logs"), exist_ok=True)
+    with open(os.path.join(DATA, "logs", ("_".join(keys) or "all") + ".txt"), "w") as f: f.write("\n".join(LOG[-3000:]))
 
 
 if __name__ == "__main__":
