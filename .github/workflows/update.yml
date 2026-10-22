@@ -1,7 +1,9 @@
 name: update-stats
 on:
   schedule:
-    - cron: "30 8 * * *"   # 09:30 UK in summer time, 08:30 UK in winter: ready before 10am
+    # 6am UK all year. GitHub schedules are UTC, so both run and the wrong one for the season skips itself.
+    - cron: "0 5 * * *"    # 06:00 UK during summer time (BST)
+    - cron: "0 6 * * *"    # 06:00 UK during winter (GMT)
   workflow_dispatch:
     inputs:
       leagues:
@@ -22,12 +24,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 300
     steps:
+      - name: Skip the schedule that isn't 6am UK today
+        if: github.event_name == 'schedule'
+        run: |
+          ZONE=$(TZ=Europe/London date +%Z)
+          if { [ "$ZONE" = "BST" ] && [ "${{ github.event.schedule }}" != "0 5 * * *" ]; } || \
+             { [ "$ZONE" = "GMT" ] && [ "${{ github.event.schedule }}" != "0 6 * * *" ]; }; then
+            echo "SKIP=1" >> "$GITHUB_ENV"; echo "Not the 6am UK slot today, skipping"
+          fi
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install requests
       - name: Fetch and build, saving after each league
         run: |
+          [ "$SKIP" = "1" ] && exit 0
           git config user.name "stats-bot"; git config user.email "stats-bot@users.noreply.github.com"
           LIST="${{ github.event.inputs.leagues }}"; [ -z "$LIST" ] && LIST="$ACTIVE"
           for L in $LIST; do
