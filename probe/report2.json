@@ -1,0 +1,88 @@
+{
+ "eng.1 20261001-20261021": [],
+ "eng.1 20261017": [
+  [
+   "401878771",
+   "Chelsea at Everton",
+   "STATUS_FULL_TIME"
+  ],
+  [
+   "401879262",
+   "Liverpool at Brentford",
+   "STATUS_FULL_TIME"
+  ],
+  [
+   "401878770",
+   "Hull City at Fulham",
+   "STATUS_FULL_TIME"
+  ],
+  [
+   "401879259",
+   "Ipswich Town at Manchester City",
+   "STATUS_FULL_TIME"
+  ],
+  [
+   "401879258",
+   "Aston Villa at Newcastle United",
+   "STATUS_FULL_TIME"
+  ]
+ ],
+ "eng.1 20261018": [
+  [
+   "401879263",
+   "Sunderland at AFC Bournemouth",
+   "STATUS_FULL_TIME"
+  ],
+  [
+   "401879261",
+   "Crystal Palace at Brighton & Hove Albion",
+   "STATUS_FULL_TIME"
+  ],
+  [
+   "401879260",
+   "Manchester United at Leeds United",
+   "STATUS_FULL_TIME"
+  ],
+  [
+   "401878769",
+   "Arsenal at Nottingham Forest",
+   "STATUS_FULL_TIME"
+  ]
+ ],
+ "ksa.1 20261001-20261021": [],
+ "ksa.1 20261017": [
+  [
+   "401900899",
+   "Al Ettifaq at Neom SC",
+   "STATUS_FULL_TIME"
+  ],
+  [
+   "401900449",
+   "Al Taawoun at Al Diriyah",
+   "STATUS_FULL_TIME"
+  ]
+ ],
+ "ksa.1 20261018": [
+  [
+   "401900447",
+   "Al Khaleej at Al Fateh",
+   "STATUS_FULL_TIME"
+  ]
+ ],
+ "sau.1 20261001-20261021": [],
+ "sau.1 20261017": [],
+ "sau.1 20261018": [],
+ "ksa_standings": [
+  200,
+  "{\"uid\":\"s:600~l:21231\",\"id\":\"2488\",\"name\":\"Saudi Pro League\",\"abbreviation\":\"Saudi Pro League\",\"children\":[{\"uid\":\"s:600~l:21231~g:1\",\"id\":\"1\",\"name\":\"Saudi Pro League\",\"abbreviation\":\"2026-27\",\"stand"
+ ],
+ "fm_fix": 200,
+ "fm_match_urls": [
+  "/matches/coventry-city-vs-arsenal/2tttz6#5795363",
+  "/matches/hull-city-vs-manchester-united/2yngir#5795364",
+  "/matches/everton-vs-crystal-palace/2tttz7#5795365",
+  "/matches/sunderland-vs-ipswich-town/2sif4z#5795366",
+  "/matches/leeds-united-vs-nottingham-forest/2vqauu#5795367"
+ ],
+ "fm_match": 200
+}
