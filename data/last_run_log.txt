@@ -1,7 +1,24 @@
-===== PORTUGAL
-fixtures 306 table 18 scope ['FC Porto', 'Sporting CP', 'Benfica']
-WARN no team stats 5985963 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/academico-viseu-vs-fc-porto/13s795#5887609
-WARN no team stats 5985965 'NoneType' object is not subscriptable
-WARN no player stats yet /matches/gil-vicente-vs-benfica/35mims#5887635
-PORTUGAL {'new_matches': 21, 'cached': 21, 'run_seconds': 76, 'at': '2026-10-22T18:50Z'}
+===== SCOTLAND
+WARN club not found SCOTLAND Hearts
+fixtures 198 table 12 scope ['Rangers', 'Celtic']
+WARN no team stats 5793992 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-dundee-united/2tqnxb#5793898
+WARN no team stats 5793988 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/dundee-fc-vs-celtic/2qpqba#5793903
+WARN no team stats 5793971 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/kilmarnock-vs-celtic/2u4xxg#5793908
+WARN no team stats 5793997 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-hibernian/2x7pd8#5793909
+WARN no team stats 5793965 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/falkirk-vs-celtic/2u4jmy#5793917
+WARN no team stats 6241190 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/aberdeen-vs-rangers/2edjdd#5793916
+WARN no team stats 5793986 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-falkirk/2fi71s#5793924
+WARN no team stats 5793981 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-motherwell/2tmb21#5793931
+WARN no team stats 5793976 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/st-mirren-vs-celtic/37u1ls#5793933
+WARN no team stats 5793974 'NoneType' object is not subscriptable
+WARN no player stats yet /matches/rangers-vs-st-mirren/2s86p2#5793914
+SCOTLAND {'new_matches': 7, 'cached': 7, 'run_seconds': 60, 'at': '2026-10-22T18:51Z'}
