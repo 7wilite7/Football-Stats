@@ -231,6 +231,8 @@ def transfers_index():
 
 def main():
     os.makedirs(OUT, exist_ok=True)
+    for fn in os.listdir(OUT):
+        if fn.endswith(".csv"): os.remove(os.path.join(OUT, fn))
     from zoneinfo import ZoneInfo
     stamp = dt.datetime.now(ZoneInfo("Europe/London")).strftime("%d %b %Y %H:%M") + " UK time"
     moves = transfers_index()
@@ -256,12 +258,13 @@ def main():
         trows = team_rows(matches, scope)
         prows = player_rows(matches, scope, lg, moves, avail, names)
         last_date = max(m["date"] for m in matches)
-        with open(os.path.join(OUT, f"{lg['key']}.csv"), "w", newline="") as f:
+        with open(os.path.join(OUT, f"{lg['key']}_teams.csv"), "w", newline="") as f:
             w = csv.writer(f)
-            w.writerow([f"{lg['name']} 2026-27 — {len(matches)} matches loaded, latest {last_date} — updated {stamp}"])
-            w.writerow(["TEAM STATS (league games only; % = share of games where it happened)"])
-            w.writerow(TEAM_COLS); w.writerows(trows); w.writerow([])
-            w.writerow([f"PLAYER HIT RATES (players averaging {MIN_AVG_MINUTES}+ mins; % = share of their appearances)"])
+            w.writerow([f"{lg['name']} 2026-27: team stats from {len(matches)} league games (latest {last_date}). Updated {stamp}. % = share of games"])
+            w.writerow(TEAM_COLS); w.writerows(trows)
+        with open(os.path.join(OUT, f"{lg['key']}_players.csv"), "w", newline="") as f:
+            w = csv.writer(f)
+            w.writerow([f"Player hit rates: players averaging {MIN_AVG_MINUTES}+ mins. % = share of their league appearances. Last 5 = newest first"])
             w.writerow(PLAYER_COLS); w.writerows(prows)
         summary.append([lg["name"], len(matches), last_date, len(trows), len(prows),
                         sum(1 for r in prows if r[2].startswith(("Injured", "Doubtful"))),
