@@ -7,6 +7,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA, OUT = os.path.join(ROOT, "data"), os.path.join(ROOT, "out")
 
 
+def blank_zeros(rows):
+    """Show 0 / 0% as an empty cell so the sheet is easier to scan."""
+    return [["" if isinstance(v, (int, float)) and not isinstance(v, bool) and v == 0 else v for v in r] for r in rows]
+
+
 def jload(p, d=None):
     try:
         with open(p) as f: return json.load(f)
@@ -264,11 +269,11 @@ def main():
         with open(os.path.join(OUT, f"{lg['key']}_teams.csv"), "w", newline="") as f:
             w = csv.writer(f)
             w.writerow([f"{lg['name']} 2026-27: team stats from {len(matches)} league games (latest {last_date}). Updated {stamp}. % = share of games"])
-            w.writerow(TEAM_COLS); w.writerows(trows)
+            w.writerow(TEAM_COLS); w.writerows(blank_zeros(trows))
         with open(os.path.join(OUT, f"{lg['key']}_players.csv"), "w", newline="") as f:
             w = csv.writer(f)
             w.writerow([f"Player hit rates: players averaging {MIN_AVG_MINUTES}+ mins. % = share of their league appearances. Last 5 = newest first"])
-            w.writerow(PLAYER_COLS); w.writerows(prows)
+            w.writerow(PLAYER_COLS); w.writerows(blank_zeros(prows))
         summary.append([lg["name"], len(matches), last_date, len(trows), len(prows),
                         sum(1 for r in prows if r[2].startswith(("Injured", "Doubtful"))),
                         sum(1 for r in prows if "uspended" in r[2]), sum(1 for r in prows if "Transferred" in r[2])])
