@@ -14189,6 +14189,21 @@
 "utc": "2026-10-24T13:30:00Z",
 "who": "Paderborn (team)"
 },
+"5881203|901495|Fouls 1+ %": {
+"fixture": "5881203",
+"games": 4,
+"key": "Fouls 1+ %",
+"l5": 100,
+"league": "Bundesliga",
+"market": "Fouls 1+",
+"match": "Paderborn v Hamburger SV",
+"pid": 901495,
+"result": "",
+"season": 100,
+"tid": null,
+"utc": "2026-10-24T13:30:00Z",
+"who": "Albert Sambi Lokonga"
+},
 "5881203|956913|Fouls 1+ %": {
 "fixture": "5881203",
 "games": 6,
