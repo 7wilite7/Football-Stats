@@ -222,9 +222,15 @@ PS = dict(PLAYER_STATS + GK_STATS)
 PLAYER_L5_KEYS = ["Goal 1+ %", "Score or assist %", "Shots 1+ %", "Shots 2+ %", "SOT 1+ %", "SOT 2+ %",
                   "Fouls 1+ %", "Fouls 2+ %", "Fouled 1+ %", "Fouled 2+ %", "Tackles 1+ %", "Tackles 2+ %",
                   "Booked %", "Saves 2+ %", "Saves 3+ %"]
+# hit rates counting only games the player started
+STARTS_KEYS = ["Goal 1+ %", "Score or assist %", "Shots 1+ %", "Shots 2+ %", "Shots 3+ %", "SOT 1+ %", "SOT 2+ %",
+               "Fouls 1+ %", "Fouls 2+ %", "Fouled 1+ %", "Fouled 2+ %", "Tackles 1+ %", "Tackles 2+ %", "Tackles 3+ %",
+               "Booked %"]
 PLAYER_COLS = (["Player", "Team", "Status", "Next match", "Pos", "Apps", "Starts", "Avg mins"] +
                [c for c, _ in PLAYER_STATS] + [c for c, _ in GK_STATS] + [f"L5 {k}" for k in PLAYER_L5_KEYS] +
+               [f"Starts: {k}" for k in STARTS_KEYS] +
                ["Last 5 SOT", "Last 5 shots", "Last 5 fouls", "Last 5 tackles"])
+SMALL = 6   # fewer games than this = small sample
 # market -> which opponent number gives useful context in the Today tab
 OPP_FOR = {"Goal": ("goals", "goals conceded"), "Score": ("goals", "goals conceded"), "Shots": ("shots", "shots conceded"),
            "SOT": ("sot", "SOT conceded"), "Fouls": ("fouls_won", "fouls won"), "Fouled": ("fouls", "fouls committed"),
@@ -276,9 +282,12 @@ def player_rows(matches, scope, lg, all_last_team, avail, team_names, team_info)
         season = {c: f(Pl) for c, f in PLAYER_STATS}
         gk = {c: (f(Pl) if is_gk else "") for c, f in GK_STATS}
         l5 = {k: (PS[k](L5) if (is_gk or not k.startswith("Saves")) else "") for k in PLAYER_L5_KEYS}
+        St = [p for p in Pl if p["start"]]
+        st = {k: (PS[k](St) if St and not is_gk else "") for k in STARTS_KEYS}
         rows.append([last_p["name"], team_names.get(team, last_p.get("teamName")), status, nxt, "GK" if is_gk else "",
                      n, sum(p["start"] for p in Pl), round(mins / n)] +
                     [season[c] for c, _ in PLAYER_STATS] + [gk[c] for c, _ in GK_STATS] + [l5[k] for k in PLAYER_L5_KEYS] +
+                    [st[k] for k in STARTS_KEYS] +
                     [" ".join(str(int(p[k])) for p in last5) for k in ("sot", "sh", "fc", "tk")])
         # Today-tab candidates: season and last-5 both strong, player available
         if ctx and not any(w in status for w in ("Injured", "uspended", "Doubtful", "Unavailable")):
@@ -286,7 +295,8 @@ def player_rows(matches, scope, lg, all_last_team, avail, team_names, team_info)
                 sv = gk.get(k, season.get(k)); lv = l5[k]
                 if isinstance(sv, int) and isinstance(lv, int) and sv >= PICK_MIN and lv >= PICK_MIN:
                     picks.append({"fixture": ctx["fixture"], "who": last_p["name"], "team": team_names.get(team, ""),
-                                  "market": k.replace(" %", ""), "season": sv, "l5": lv, "games": n,
+                                  "market": k.replace(" %", ""), "key": k, "season": sv, "l5": lv, "games": n,
+                                  "starts": st.get(k, ""), "nstarts": len(St), "pid": pid,
                                   "opp": ctx, "status": status})
     rows.sort(key=lambda r: (r[1] or "", -r[7]))
     return rows, picks
@@ -301,8 +311,8 @@ def team_picks(info, names):
             sv, lv = d["vals"].get(k), d["l5"].get(k)
             if isinstance(sv, int) and isinstance(lv, int) and sv >= PICK_MIN and lv >= PICK_MIN:
                 picks.append({"fixture": ctx["fixture"], "who": names[tid] + " (team)", "team": names[tid],
-                              "market": {"W": "Win"}.get(k.replace(" %", ""), k.replace(" %", "")), "season": sv, "l5": lv,
-                              "games": d["n"], "opp": ctx, "status": ""})
+                              "market": {"W": "Win"}.get(k.replace(" %", ""), k.replace(" %", "")), "key": k, "season": sv, "l5": lv,
+                              "games": d["n"], "starts": "", "tid": tid, "opp": ctx, "status": ""})
     return picks
 
 
@@ -320,7 +330,72 @@ def opp_note(pk):
     return f"{ctx['name']}: {ctx['goals']} goals conceded/game"
 
 
-TODAY_COLS = ["Kick-off (UK)", "Competition", "Match", "Pick", "Team", "Market", "Season %", "Last 5 %", "Games", "Opponent context", "Note"]
+TODAY_COLS = ["Kick-off (UK)", "Competition", "Match", "Pick", "Team", "Market", "Season %", "Last 5 %", "When starting %",
+              "Games", "Opponent context", "Note"]
+
+
+def fold(name):
+    """Lower-case, accent-free version of a name so 'mbappe' finds 'Mbappé'."""
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFKD", name or "") if not unicodedata.combining(c)).lower()
+
+
+# ---------------- Pick tracker ----------------
+
+def grade(pk, m):
+    """Hit / Miss / Did not play for one logged pick against the finished match."""
+    if pk.get("pid") is not None:
+        p = next((p for p in m["players"] if str(p["id"]) == str(pk["pid"])), None)
+        if not p or not p.get("min"): return "Did not play"
+        v = PS[pk["key"]]([p])
+    else:
+        side = 0 if str(m["home"]["id"]) == str(pk["tid"]) else 1
+        v = TS[pk["key"]]([team_record(m, side)])
+    return "" if v == "" else ("Hit" if v == 100 else "Miss")
+
+
+def track_picks(sel, match_by_id, stamp):
+    """Log Today picks before kick-off (first sighting is kept) and grade them once the match is in."""
+    path = os.path.join(DATA, "picks", "log.json")
+    log = jload(path, {}) or {}
+    now = dt.datetime.now(dt.timezone.utc)
+    for p in sel:
+        fx = p["fixture"]
+        try:
+            if dt.datetime.fromisoformat(fx["utc"].replace("Z", "+00:00")) <= now: continue
+        except Exception:
+            continue
+        k = f"{fx['id']}|{p.get('pid', p.get('tid'))}|{p['key']}"
+        if k in log: continue
+        log[k] = {"fixture": str(fx["id"]), "utc": fx["utc"], "league": p["league"], "match": f"{fx['home']['name']} v {fx['away']['name']}",
+                  "who": p["who"], "market": p["market"], "key": p["key"], "season": p["season"], "l5": p["l5"],
+                  "games": p["games"], "pid": p.get("pid"), "tid": p.get("tid"), "result": ""}
+    for e in log.values():
+        if not e["result"] and e["fixture"] in match_by_id:
+            try: e["result"] = grade(e, match_by_id[e["fixture"]])
+            except Exception as ex: print("grade failed", e["who"], e["market"], ex)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w") as f: json.dump(log, f, indent=0, sort_keys=True)
+    graded = [e for e in log.values() if e["result"] in ("Hit", "Miss")]
+    by = defaultdict(list)
+    for e in graded: by[e["market"]].append(e)
+    summ = [["All picks", len(graded), sum(e["result"] == "Hit" for e in graded),
+             pct(sum(e["result"] == "Hit" for e in graded), len(graded)),
+             round(sum(e["season"] for e in graded) / len(graded)) if graded else ""]]
+    for mk, es in sorted(by.items(), key=lambda x: -len(x[1])):
+        h = sum(e["result"] == "Hit" for e in es)
+        summ.append([mk, len(es), h, pct(h, len(es)), round(sum(e["season"] for e in es) / len(es))])
+    rows = sorted(log.values(), key=lambda e: e["utc"], reverse=True)[:1500]
+    with open(os.path.join(OUT, "TRACKER.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow([f"How the Today picks actually did (logged before kick-off, graded after the match). Updated {stamp}. "
+                    "'Sheet said %' = average season hit rate shown when the pick was made"])
+        w.writerow(["Market", "Picks graded", "Hits", "Actual hit rate %", "Sheet said %"])
+        w.writerows(summ)
+        w.writerow([]); w.writerow(["Every logged pick, newest first ('Did not play' and pending picks don't count)"])
+        w.writerow(["Player", "Market", "Match", "Kick-off (UK)", "Competition", "Season %", "Last 5 %", "Result"])
+        w.writerows([[e["who"], e["market"], e["match"], uk_time(e["utc"]), e["league"], e["season"], e["l5"],
+                      e["result"] or "Pending"] for e in rows] or [["No picks logged yet"]])
 
 
 def transfers_index():
@@ -348,10 +423,11 @@ def main():
     stamp = now.strftime("%d %b %Y %H:%M") + " UK time"
     moves = transfers_index()
     locked = jload(os.path.join(DATA, "locked_teams.json"), {})
-    summary, all_picks = [], []
+    summary, all_picks, all_players, match_by_id = [], [], [], {}
     for lg in LEAGUES:
         matches = load_matches(lg["key"])
         if not matches: continue
+        for m in matches: match_by_id[str(m["id"])] = m
         table = jload(os.path.join(DATA, "tables", f"{lg['key']}.json"), []) or []
         fixtures = jload(os.path.join(DATA, "fixtures", f"{lg['key']}.json"), []) or []
         names = {t["id"]: t["name"] for t in table}
@@ -380,6 +456,7 @@ def main():
             w = csv.writer(f)
             w.writerow([f"Player hit rates: {MIN_AVG_MINUTES}+ mins a game and at least {MIN_APPS} appearances (2 while a cup has played 3 or fewer). % = share of their league games. L5 = last 5 games"])
             w.writerow(PLAYER_COLS); w.writerows(blank_zeros(prows))
+        all_players += [r + [lg["name"], fold(r[0])] for r in blank_zeros(prows)]
         summary.append([lg["name"], len(matches), last_date, len(trows), len(prows),
                         sum(1 for r in prows if r[2].startswith(("Injured", "Doubtful"))),
                         sum(1 for r in prows if "uspended" in r[2]), sum(1 for r in prows if "Transferred" in r[2])])
@@ -406,14 +483,20 @@ def main():
             seen.add(k); uniq.append(p)
         for p in uniq[:PICKS_PER_MATCH]:
             fx = p["fixture"]
+            note = "; ".join(x for x in (p["status"], f"Small sample ({p['games']} games)" if p["games"] < SMALL else "") if x)
             out_rows.append([uk_time(fx["utc"]), p["league"], f"{fx['home']['name']} v {fx['away']['name']}", p["who"], p["team"],
-                             p["market"], p["season"], p["l5"], p["games"], opp_note(p), p["status"]])
+                             p["market"], p["season"], p["l5"], p["starts"], p["games"], opp_note(p), note])
     with open(os.path.join(OUT, "TODAY.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow([f"Games kicking off in the next 24 hours (from {stamp}): markets hitting {PICK_MIN}%+ this season AND in the last 5 games. "
                     f"Injured, doubtful and suspended players left out. Up to {PICKS_PER_MATCH} per match."])
         w.writerow(TODAY_COLS)
         w.writerows(out_rows if out_rows else [["No games with 80%+ markets in the next 24 hours"]])
+    with open(os.path.join(OUT, "ALL_players.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(PLAYER_COLS + ["League", "Search name"])
+        w.writerows(sorted(all_players, key=lambda r: r[0]))
+    track_picks(sel, match_by_id, stamp)
     with open(os.path.join(OUT, "INDEX.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow([f"Updated {stamp}"])
