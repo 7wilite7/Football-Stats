@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 23 Oct 2026 18:01 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 23 Oct 2026 18:02 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,0,0,,
 
@@ -603,6 +603,7 @@ Raphael Obermair,Shots 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,8
 Raphael Obermair,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Paderborn (team),Cards 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Paderborn (team),Match corners 9+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Albert Sambi Lokonga,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Marvin Pieringer,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Hamburger SV (team),Cards 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Hamburger SV (team),Over 1.5,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
@@ -639,7 +640,6 @@ Ridle Baku,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,80,80,P
 Łukasz Poręba,Fouls 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Maarten Vandevoordt,Saves 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Maarten Vandevoordt,Saves 3+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Albert Sambi Lokonga,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Nicolò Cambiaghi,Fouled 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
 Daniel Maldini,Fouled 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,100,Pending
 Daniel Maldini,Shots 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
