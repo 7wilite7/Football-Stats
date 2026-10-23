@@ -52,7 +52,7 @@ def espn_val(m, key, side):
 def uk_time(utc):
     try:
         t = dt.datetime.fromisoformat(utc.replace("Z", "+00:00")).astimezone(UK)
-        return t.strftime("%a %d %b %H:%M")
+        return t.strftime("%a %d %b · %H:%M")  # the dot stops Sheets turning it into a number
     except Exception:
         return ""
 
@@ -457,7 +457,7 @@ def main():
             w.writerow([f"Player hit rates: {MIN_AVG_MINUTES}+ mins a game and at least {MIN_APPS} appearances (2 while a cup has played 3 or fewer). % = share of their league games. L5 = last 5 games"])
             w.writerow(PLAYER_COLS); w.writerows(blank_zeros(prows))
         all_players += [r + [lg["name"], fold(r[0])] for r in blank_zeros(prows)]
-        summary.append([lg["name"], len(matches), last_date, len(trows), len(prows),
+        summary.append([lg["name"], len(matches), dt.date.fromisoformat(last_date).strftime("%a %d %b ·"), len(trows), len(prows),
                         sum(1 for r in prows if r[2].startswith(("Injured", "Doubtful"))),
                         sum(1 for r in prows if "uspended" in r[2]), sum(1 for r in prows if "Transferred" in r[2])])
     # Today tab: games kicking off in the next 24 hours
