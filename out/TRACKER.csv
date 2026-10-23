@@ -1,1097 +1,1097 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 23 Oct 2026 17:59 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 23 Oct 2026 18:00 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,0,0,,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
+João Pedro,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+João Pedro,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+João Pedro,SOT 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+João Pedro,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
+Cole Palmer,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,100,Pending
+Cole Palmer,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Cole Palmer,Shots 2+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Roméo Lavia,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
+Mathys Tel,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,80,80,Pending
+Archie Gray,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+Archie Gray,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,100,Pending
+Archie Gray,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+Josh Acheampong,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+Jorrel Hato,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
 Dominic Solanke,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
 Rodrigo Bentancur,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-Sandro Tonali,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Omar Marmoush,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+Omar Marmoush,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+Omar Marmoush,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
+Pedro Neto,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
+Pedro Neto,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,100,Pending
+Chelsea (team),Match cards 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Chelsea (team),Over 1.5,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
+Chelsea (team),Over 2.5,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Chelsea (team),SOT 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Chelsea (team),Scores 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Tottenham Hotspur (team),Cards 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Tottenham Hotspur (team),Corners 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,100,Pending
 Sandro Tonali,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Sandro Tonali,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Morgan Rogers,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
+Morgan Rogers,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
+Morgan Rogers,Shots 2+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
+Mohammed Kudus,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,100,Pending
+Maxence Lacroix,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
 Conor Gallagher,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,80,80,Pending
 Conor Gallagher,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,80,80,Pending
 Jan Paul van Hecke,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
 Jan Paul van Hecke,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-Mathys Tel,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,80,80,Pending
-Archie Gray,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,100,Pending
-Archie Gray,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-Archie Gray,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-Pedro Neto,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-Pedro Neto,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,100,Pending
-Morgan Rogers,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-Morgan Rogers,Shots 2+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-Morgan Rogers,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
-Maxence Lacroix,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-João Pedro,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-João Pedro,SOT 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-João Pedro,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-João Pedro,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-Cole Palmer,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
-Cole Palmer,Shots 2+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
-Cole Palmer,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,100,Pending
-Roméo Lavia,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-Josh Acheampong,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-Jorrel Hato,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-Omar Marmoush,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-Omar Marmoush,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-Omar Marmoush,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,80,Pending
-Mohammed Kudus,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,83,100,Pending
-Tottenham Hotspur (team),Corners 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,100,Pending
-Tottenham Hotspur (team),Cards 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
-Chelsea (team),Scores 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
-Chelsea (team),Over 1.5,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,100,100,Pending
-Chelsea (team),Over 2.5,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
-Chelsea (team),Match cards 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
-Chelsea (team),SOT 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct 17:30,Premier League,86,80,Pending
-Ayoze Pérez,Shots 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
-Ayoze Pérez,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
-Santi Comesaña,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
-Juan Foyth,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,80,80,Pending
-Pape Gueye,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
-Tajon Buchanan,Shots 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,86,80,Pending
-Tajon Buchanan,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,86,80,Pending
-Tajon Buchanan,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,86,100,Pending
-Georges Mikautadze,Shots 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
-Stole Dimitrievski,Saves 2+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
-Guido Rodríguez,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,80,Pending
-Guido Rodríguez,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,80,Pending
-Guido Rodríguez,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
-Guido Rodríguez,Tackles 2+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,100,Pending
-Pepelu,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
-Arnaut Danjuma,Shots 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
-Arnaut Danjuma,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
-César Tárrega,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,80,Pending
-César Tárrega,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,80,Pending
-Ryunosuke Sato,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,80,80,Pending
-Sergi Cardona,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,80,80,Pending
-Sergi Cardona,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
-Sergi Cardona,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,80,80,Pending
-Pau Navarro,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
 Villarreal (team),Cards 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
 Villarreal (team),SOT 4+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
+Tajon Buchanan,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,86,100,Pending
+Tajon Buchanan,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,86,80,Pending
+Tajon Buchanan,Shots 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,86,80,Pending
 Valencia (team),Cards 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
-Jonathan Burkardt,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Sergi Cardona,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
+Sergi Cardona,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,80,80,Pending
+Sergi Cardona,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,80,80,Pending
+Georges Mikautadze,Shots 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
+César Tárrega,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,80,Pending
+César Tárrega,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,80,Pending
+Pau Navarro,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
+Ryunosuke Sato,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,80,80,Pending
+Stole Dimitrievski,Saves 2+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
+Ayoze Pérez,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
+Ayoze Pérez,Shots 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
+Guido Rodríguez,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,80,Pending
+Guido Rodríguez,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,80,Pending
+Guido Rodríguez,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
+Guido Rodríguez,Tackles 2+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,83,100,Pending
+Santi Comesaña,Fouls 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
+Pepelu,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
+Arnaut Danjuma,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,100,100,Pending
+Arnaut Danjuma,Shots 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
+Juan Foyth,Tackles 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,80,80,Pending
+Pape Gueye,Fouled 1+,Valencia v Villarreal,Sat 24 Oct 17:30,La Liga,89,80,Pending
+Maximilian Beier,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Maximilian Beier,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Raphael Onyedika,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Raphael Onyedika,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Raphael Onyedika,Tackles 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Ansgar Knauff,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Daniel Svensson,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Ethan Nwaneri,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,80,80,Pending
 Noah Atubolu,Saves 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Noah Atubolu,Saves 3+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Jobe Bellingham,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Can Uzun,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Can Uzun,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Can Uzun,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,80,80,Pending
-Can Uzun,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Elias Baum,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Younes Ebnoutalib,SOT 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Younes Ebnoutalib,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Younes Ebnoutalib,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Younes Ebnoutalib,SOT 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Joane Gadou,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Keita Kosugi,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Keita Kosugi,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Serhou Guirassy,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Serhou Guirassy,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Serhou Guirassy,SOT 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Serhou Guirassy,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Serhou Guirassy,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,SOT 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Serhou Guirassy,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Ritsu Doan,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,80,80,Pending
+Ritsu Doan,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Ritsu Doan,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Waldemar Anton,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Waldemar Anton,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,100,Pending
+Jonathan Burkardt,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Felix Nmecha,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Maximilian Beier,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Maximilian Beier,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Daniel Svensson,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Jobe Bellingham,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Joane Gadou,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Ethan Nwaneri,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,80,80,Pending
-Ritsu Doan,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
-Ritsu Doan,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,80,80,Pending
-Ritsu Doan,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
-Ansgar Knauff,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
-Eintracht Frankfurt (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Eintracht Frankfurt (team),Over 1.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Eintracht Frankfurt (team),Over 2.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Eintracht Frankfurt (team),Cards 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
-Eintracht Frankfurt (team),Cards 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
-Borussia Dortmund (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
 Borussia Dortmund (team),Cards 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
 Borussia Dortmund (team),Cards 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Borussia Dortmund (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Eintracht Frankfurt (team),Cards 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,100,100,Pending
+Eintracht Frankfurt (team),Cards 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Eintracht Frankfurt (team),Over 1.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Eintracht Frankfurt (team),Over 2.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Eintracht Frankfurt (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct 17:30,Bundesliga,83,80,Pending
+Rasmus Højlund,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,100,Pending
+Matias Soulé,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
+Rafa Marín,Fouled 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
+Rafa Marín,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
+Wesley,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
+Rodrigo Mora,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
+Marten de Roon,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
+Bryan Cristante,Fouls 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
+Bryan Cristante,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
+Bryan Cristante,Tackles 2+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
 Stanislav Lobotka,Fouled 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
 Giovanni Di Lorenzo,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
 Amir Rrahmani,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
 Alex Meret,Saves 2+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
+Gianluca Mancini,Fouls 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
+Donyell Malen,Fouled 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
+Donyell Malen,SOT 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
+Donyell Malen,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
+Donyell Malen,Shots 2+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
+Mario Hermoso,Fouled 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
+Mario Hermoso,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
+Nahuel Molina,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
+Evan N'Dicka,Fouls 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
 Noa Lang,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
 Noa Lang,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
 Scott McTominay,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
-Rasmus Højlund,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,100,Pending
-Rafa Marín,Fouled 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
-Rafa Marín,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
-Bryan Cristante,Fouls 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
-Bryan Cristante,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
-Bryan Cristante,Tackles 2+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
-Gianluca Mancini,Fouls 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
-Donyell Malen,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
-Donyell Malen,Shots 2+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
-Donyell Malen,SOT 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
-Donyell Malen,Fouled 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
-Mario Hermoso,Fouled 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
-Mario Hermoso,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
-Evan N'Dicka,Fouls 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
-Matias Soulé,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
-Wesley,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,83,80,Pending
-Rodrigo Mora,Shots 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
-Marten de Roon,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
-Nahuel Molina,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
+Roma (team),Cards 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
+Roma (team),Over 1.5,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
+Roma (team),SOT 4+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
+Roma (team),Scores 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
 Leonardo Balerdi,Tackles 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,80,80,Pending
-Napoli (team),Scores 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
 Napoli (team),Corners 4+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,100,Pending
 Napoli (team),Corners 5+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,100,Pending
 Napoli (team),Match corners 9+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,100,100,Pending
-Roma (team),Scores 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
-Roma (team),Over 1.5,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
-Roma (team),Cards 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
-Roma (team),SOT 4+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
-Sergio Canales,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
-Manu,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,80,80,Pending
-Iñigo Vicente,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
-Iñigo Vicente,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,100,Pending
-Andrés Martin,Shots 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,80,80,Pending
+Napoli (team),Scores 1+,Napoli v Roma,Sat 24 Oct 17:00,Serie A,86,80,Pending
+Tyrhys Dolan,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
 Álvaro Mantilla,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
+Bryan Zaragoza,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,83,100,Pending
 Facundo González,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,80,80,Pending
+Roberto Fernández,Shots 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
+Roberto Fernández,Shots 2+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
+Jeanuël Belocian,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,80,80,Pending
 Gustavo Puerta,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
 Gustavo Puerta,Fouls 2+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
 Gustavo Puerta,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
+Sergio Canales,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
 Yassir Zabiri,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
 Jorge Salinas,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
 Jorge Salinas,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
-Unai Núñez,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,83,80,Pending
-Edu Expósito,Shots 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
-Tyrhys Dolan,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
-Roberto Fernández,Shots 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
-Roberto Fernández,Shots 2+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
 Roger Hinojo,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
-Iván Martin,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,86,80,Pending
 André Almeida,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
 André Almeida,Tackles 2+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,80,80,Pending
-Jeanuël Belocian,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,80,80,Pending
-Bryan Zaragoza,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,83,100,Pending
-Racing Santander (team),Over 1.5,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,100,Pending
-Racing Santander (team),Match corners 9+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
-Racing Santander (team),Match corners 10+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
-Racing Santander (team),Cards 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
-Racing Santander (team),Cards 2+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
-Racing Santander (team),Match cards 4+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,100,Pending
-Espanyol (team),Scores 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
-Espanyol (team),Over 1.5,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
+Unai Núñez,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,83,80,Pending
+Edu Expósito,Shots 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
 Espanyol (team),Cards 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
 Espanyol (team),Cards 2+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
 Espanyol (team),Match cards 4+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,100,Pending
-Taiwo Awoniyi,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,80,80,Pending
-Kai Havertz,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Kai Havertz,SOT 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Ben White,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,83,80,Pending
-Brandon Thomas-Asante,Fouled 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Frank Onyeka,Fouls 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,83,80,Pending
-Frank Onyeka,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,83,80,Pending
-Jack Rudoni,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Milan van Ewijk,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Riccardo Calafiori,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Carl Rushworth,Saves 2+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,100,Pending
-Loum Tchaouna,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Myles Lewis-Skelly,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,80,80,Pending
-Myles Lewis-Skelly,Fouls 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,80,80,Pending
-Myles Lewis-Skelly,Fouled 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
-James Tarkowski,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Jordan Pickford,Saves 2+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Vitaliy Mykolenko,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,83,100,Pending
-Kiernan Dewsbury-Hall,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Kiernan Dewsbury-Hall,Fouled 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
-James Garner,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Espanyol (team),Over 1.5,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
+Espanyol (team),Scores 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
+Manu,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,80,80,Pending
+Racing Santander (team),Cards 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
+Racing Santander (team),Cards 2+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,100,100,Pending
+Racing Santander (team),Match cards 4+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,100,Pending
+Racing Santander (team),Match corners 10+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
+Racing Santander (team),Match corners 9+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
+Racing Santander (team),Over 1.5,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,100,Pending
+Iñigo Vicente,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,80,Pending
+Iñigo Vicente,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,89,100,Pending
+Andrés Martin,Shots 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,80,80,Pending
+Iván Martin,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct 15:15,La Liga,86,80,Pending
+Emmanuel Fernandez,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
+Kevin Kelsy,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
+Djeidi Gassama,Fouled 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Djeidi Gassama,Fouled 2+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
+Djeidi Gassama,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Djeidi Gassama,Shots 2+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
+Ryan Don Naderi,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Ryan Don Naderi,SOT 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
+Ryan Don Naderi,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
+Olwethu Makhanya,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
+Min-Su Kim,Fouled 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Pending
+Min-Su Kim,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Min-Su Kim,Shots 2+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
+James Penrice,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
+James Penrice,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Pending
+James Penrice,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Dujon Sterling,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
+Dujon Sterling,Tackles 2+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
+Rangers (team),Cards 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
+Rangers (team),Corners 4+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Rangers (team),Corners 5+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
+Rangers (team),Match corners 10+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
+Rangers (team),Match corners 9+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Rangers (team),SOT 4+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Rangers (team),Scores 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Daniel Neil,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Jarrad Branthwaite,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Riccardo Calafiori,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Thierno Barry,Fouled 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Thierno Barry,SOT 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
 Thierno Barry,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
 Thierno Barry,Shots 2+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Thierno Barry,SOT 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Thierno Barry,Fouled 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Myles Lewis-Skelly,Fouled 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Myles Lewis-Skelly,Fouls 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,80,80,Pending
+Myles Lewis-Skelly,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,80,80,Pending
 Harrison Armstrong,Fouls 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
 Harrison Armstrong,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+James Tarkowski,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Jordan Pickford,Saves 2+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Ezri Konsa,Fouled 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,83,100,Pending
+Kai Havertz,SOT 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Kai Havertz,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Ben White,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,83,80,Pending
+Everton (team),Corners 4+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Vitaliy Mykolenko,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,83,100,Pending
+Kiernan Dewsbury-Hall,Fouled 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Kiernan Dewsbury-Hall,Shots 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+James Garner,Tackles 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Arsenal (team),Cards 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Arsenal (team),Scores 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Arsenal (team),Win,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Jack Rudoni,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
+David Affengruber,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Milan van Ewijk,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Oscar Bobb,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Carl Rushworth,Saves 2+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,100,Pending
+Loum Tchaouna,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
+César Palacios,Fouls 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,80,80,Pending
+Gonzalo García,Fouls 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Gonzalo García,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Joshua King,Fouled 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,100,Pending
+Joshua King,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Joshua King,Shots 2+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Sidiki Cherif,Fouled 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
 Bernd Leno,Saves 2+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
 Timothy Castagne,Fouls 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,83,80,Pending
 Timothy Castagne,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,83,80,Pending
 Alex Iwobi,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Taiwo Awoniyi,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,80,80,Pending
 Antonee Robinson,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
 Antonee Robinson,Tackles 2+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
+Brandon Thomas-Asante,Fouled 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Frank Onyeka,Fouls 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,83,80,Pending
+Frank Onyeka,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,83,80,Pending
+Coventry City (team),Cards 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
 Calvin Bassey,Fouled 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
 Calvin Bassey,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Oscar Bobb,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
-César Palacios,Fouls 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,80,80,Pending
-Gonzalo García,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Gonzalo García,Fouls 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Joshua King,Shots 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Joshua King,Shots 2+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Joshua King,Fouled 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,100,Pending
-Ezri Konsa,Fouled 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,83,100,Pending
-David Affengruber,Tackles 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Sidiki Cherif,Fouled 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Arsenal (team),Win,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Arsenal (team),Scores 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Arsenal (team),Cards 1+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Coventry City (team),Cards 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
-Everton (team),Corners 4+,Arsenal v Everton,Sat 24 Oct 15:00,Premier League,100,100,Pending
-Fulham (team),Corners 4+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
 Fulham (team),Cards 1+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
+Fulham (team),Corners 4+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,80,Pending
 Fulham (team),SOT 4+,Coventry City v Fulham,Sat 24 Oct 15:00,Premier League,86,100,Pending
-Sam Morsy,Tackles 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,100,Pending
-Marshall Munetsi,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
-Todd Cantwell,Shots 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Todd Cantwell,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,100,Pending
-Oladapo Afolayan,Shots 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Oladapo Afolayan,Fouls 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Oladapo Afolayan,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,100,Pending
-André,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,100,Pending
+Callum Doyle,Tackles 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,80,100,Pending
 Kristi Montgomery,Tackles 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,100,100,Pending
 Kristi Montgomery,Tackles 2+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,100,Pending
-Fer López,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
-Fer López,Shots 2+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,100,Pending
-Mateus Mané,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
-Mateus Mané,Fouls 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
-Mateus Mané,Fouled 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,80,Pending
-Daniel Iversen,Saves 2+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,100,Pending
-Léo Leroy,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,80,Pending
-Alfie Devine,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
-Alfie Devine,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,100,Pending
-Conor McGrandles,Fouled 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,80,100,Pending
-Ben House,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,89,80,Pending
-Ben House,Tackles 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,89,80,Pending
-George Wickens,Saves 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
-Ivan Varfolomeev,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,89,100,Pending
-Glen Kamara,Fouls 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,80,80,Pending
-Kwame Poku,Shots 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,89,100,Pending
-Harvey Vale,Tackles 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Viktor Johansson,Saves 2+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Sorba Thomas,Shots 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Sorba Thomas,Fouled 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Adam Idah,Shots 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,90,80,Pending
-Moussa Kounfolo Yeo,Tackles 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Djibril Soumaré,Tackles 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Filip Lissah,Tackles 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,90,100,Pending
-Joseph Opoku,Fouls 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,80,100,Pending
-Joseph Opoku,Tackles 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,80,80,Pending
-Rob Dickie,Shots 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,86,100,Pending
-Rob Dickie,Fouls 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,86,100,Pending
-Adam Randell,Fouled 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Jason Knight,Fouls 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Dominic Ballard,Shots 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Max O'Leary,Saves 2+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
-Callum Styles,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,100,Pending
-Jayson Molumby,Fouled 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,80,80,Pending
-Ousmane Diakité,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
-Ousmane Diakité,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,80,Pending
-Isaac Price,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,100,Pending
-Jimmy-Jay Morgan,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
-Jimmy-Jay Morgan,Fouls 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
-Bright Osayi-Samuel,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Tomoki Iwata,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Tomoki Iwata,Fouls 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,100,Pending
-Callum O'Hare,Shots 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,80,80,Pending
-Callum O'Hare,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,90,80,Pending
-Phil Neumann,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Phil Neumann,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Alexander Cochrane,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Christoph Klarer,Fouls 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Christoph Klarer,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Jay Stansfield,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Jay Stansfield,Shots 2+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-August Priske,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,80,100,Pending
-August Priske,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,80,80,Pending
-Jhon Solís,Fouls 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,89,100,Pending
-Jhon Solís,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,89,100,Pending
-Ryan Manning,Fouls 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,82,80,Pending
-Federico Ravaglia,Saves 2+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,100,Pending
-Finn Azaz,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
-Daniel Peretz,Saves 2+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,82,100,Pending
-Matthew Pollock,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
-Jordan Zemura,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,90,80,Pending
-Hector Kyprianou,Fouls 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
-Hector Kyprianou,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,80,Pending
-Léo Scienza,Fouled 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
-Léo Scienza,Fouled 2+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,90,80,Pending
-Mamadou Doumbia,Fouls 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,100,Pending
-Amin Nabizada,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
-Josh Laurent,Fouls 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,80,80,Pending
-Jarrod Bowen,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
-Jarrod Bowen,Shots 2+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
-Jarrod Bowen,SOT 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,91,100,Pending
-Jarrod Bowen,Fouled 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,82,100,Pending
-Konstantinos Mavropanos,Tackles 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
-Kyle Walker-Peters,Tackles 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,89,80,Pending
-Valentín Castellanos,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,80,80,Pending
-Valentín Castellanos,Fouls 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,90,80,Pending
-Aaron Ramsey,Shots 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
-Aaron Ramsey,Shots 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,86,80,Pending
-Aaron Ramsey,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,86,80,Pending
-Pablo,Fouls 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,86,100,Pending
-Mohamadou Kanté,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,80,80,Pending
-Kieffer Moore,Shots 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,80,Pending
+Jacques Ekomié,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,100,100,Pending
+Sam Morsy,Tackles 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,100,Pending
 Kieffer Moore,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,100,Pending
-Perry Ng,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,80,80,Pending
-Perry Ng,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Nathan Trott,Saves 2+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Kieffer Moore,Shots 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,80,Pending
+Callum O'Hare,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,90,80,Pending
+Callum O'Hare,Shots 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,80,80,Pending
 Oliver Rathbone,Tackles 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,89,100,Pending
+Todd Cantwell,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,100,Pending
+Todd Cantwell,Shots 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Oladapo Afolayan,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,100,Pending
+Oladapo Afolayan,Fouls 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Oladapo Afolayan,Shots 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Blackburn Rovers (team),BTTS,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Blackburn Rovers (team),Cards 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,80,Pending
+Blackburn Rovers (team),Corners 4+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,100,Pending
+Blackburn Rovers (team),Match corners 10+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Blackburn Rovers (team),Match corners 9+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Blackburn Rovers (team),Over 1.5,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Blackburn Rovers (team),Over 2.5,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Blackburn Rovers (team),Scores 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,100,Pending
+Wrexham (team),Cards 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
+Wrexham (team),Over 1.5,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,100,Pending
+Wrexham (team),Scores 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
 Ollie Tanner,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,100,Pending
 Ollie Tanner,Shots 2+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,100,Pending
+Jay Stansfield,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Jay Stansfield,Shots 2+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
 Alex Robertson,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,80,Pending
 Joel Bagan,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,80,Pending
 Yousef Salech,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,88,100,Pending
+Jack Moylan,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
 Jack Moylan,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
 Jack Moylan,Shots 2+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Jack Moylan,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
 Jack Moylan,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,80,Pending
-Callum Doyle,Tackles 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,80,100,Pending
+August Priske,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,80,80,Pending
+August Priske,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,80,100,Pending
 Joel Colwill,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,100,Pending
-Scott Twine,Fouled 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,89,80,Pending
-George Hirst,Fouls 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,80,80,Pending
-Nathan Wood,Tackles 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,86,80,Pending
-José Sá,Saves 2+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
-Lewis Gibson,Fouled 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,83,80,Pending
-Hugo Bueno,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
-Joël Piroe,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,80,80,Pending
-Arne Engels,Tackles 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,80,80,Pending
+Jhon Solís,Fouls 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,89,100,Pending
+Jhon Solís,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,89,100,Pending
+Perry Ng,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,80,80,Pending
+Perry Ng,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Bright Osayi-Samuel,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Nathan Trott,Saves 2+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Tomoki Iwata,Fouls 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,100,Pending
+Tomoki Iwata,Shots 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Phil Neumann,Fouled 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Phil Neumann,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Cardiff City (team),BTTS,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Cardiff City (team),Cards 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,80,Pending
+Cardiff City (team),Corners 4+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Cardiff City (team),Corners 5+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Cardiff City (team),Over 1.5,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,80,Pending
+Cardiff City (team),Scores 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Birmingham City (team),Cards 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Birmingham City (team),Cards 2+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Birmingham City (team),Corners 4+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Birmingham City (team),Over 1.5,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Birmingham City (team),Scores 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Alexander Cochrane,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Christoph Klarer,Fouls 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Christoph Klarer,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Liam Millar,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,86,100,Pending
+Largie Ramazani,Shots 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
+Aaron Ramsey,Shots 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
+Aaron Ramsey,Shots 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,86,80,Pending
+Aaron Ramsey,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,86,80,Pending
+Ivan Varfolomeev,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,89,100,Pending
 Dastan Satpaev,Fouled 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,80,80,Pending
 Dastan Satpaev,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,80,80,Pending
-Jacques Ekomié,Fouled 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,100,100,Pending
-Stanley Mills,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,86,80,Pending
-Keven Schlotterbeck,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,89,80,Pending
-Hjalmar Ekdal,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,80,80,Pending
-Largie Ramazani,Shots 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
-Jack McGlynn,Shots 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,86,100,Pending
-Lamine Cissé,Fouled 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
 Sonny Bradley,Fouled 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
+Conor McGrandles,Fouled 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,80,100,Pending
+Josh Laurent,Fouls 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,80,80,Pending
+Igor Julio,Fouls 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,83,80,Pending
+Burnley (team),BTTS,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,91,80,Pending
+Burnley (team),Cards 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,91,80,Pending
+Burnley (team),Over 1.5,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
+Burnley (team),Scores 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
+Hjalmar Ekdal,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,80,80,Pending
+Lincoln City (team),Cards 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
+Lincoln City (team),Cards 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,82,100,Pending
+Grégoire Coudert,Saves 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
+Ben House,Tackles 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,89,80,Pending
+Ben House,Tackles 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,89,80,Pending
+George Wickens,Saves 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
+Léo Leroy,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,80,Pending
+Alfie Devine,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
+Alfie Devine,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,100,Pending
+Brayann Pereira,Fouled 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,100,100,Pending
 Johnny Kenny,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,80,80,Pending
 Johnny Kenny,Shots 2+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,80,80,Pending
-Soumaïla Coulibaly,Fouled 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
-Ladislav Krejcí,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
-Ladislav Krejcí,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
-Liam Millar,Tackles 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,86,100,Pending
-Igor Julio,Fouls 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,83,80,Pending
+Isaac Price,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,100,Pending
+Stanley Mills,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,86,80,Pending
+Jimmy-Jay Morgan,Fouls 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
+Jimmy-Jay Morgan,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
 Conor Townsend,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,100,100,Pending
-Brayann Pereira,Fouled 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,100,100,Pending
-Grégoire Coudert,Saves 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
-Rayan Kolli,Shots 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Rayan Kolli,SOT 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Rayan Kolli,Fouls 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Max O'Leary,Saves 2+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
+Daniel Iversen,Saves 2+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,100,Pending
+Callum Styles,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,100,Pending
+Jayson Molumby,Fouled 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,80,80,Pending
+Preston North End (team),Cards 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,100,100,Pending
+West Bromwich Albion (team),Cards 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,100,100,Pending
+West Bromwich Albion (team),Match corners 9+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
+Lewis Gibson,Fouled 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,83,80,Pending
+Ousmane Diakité,Shots 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
+Ousmane Diakité,Tackles 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,91,80,Pending
+Swansea City (team),Cards 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Queens Park Rangers (team),Cards 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Kwame Poku,Shots 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,89,100,Pending
+Harvey Vale,Tackles 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Moussa Kounfolo Yeo,Tackles 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
 Rayan Kolli,Fouled 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Rayan Kolli,Fouls 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Rayan Kolli,SOT 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Rayan Kolli,Shots 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Filip Lissah,Tackles 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,90,100,Pending
+Joseph Opoku,Fouls 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,80,100,Pending
+Joseph Opoku,Tackles 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,80,80,Pending
+Glen Kamara,Fouls 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,80,80,Pending
+Adam Idah,Shots 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,90,80,Pending
+Stoke City (team),Cards 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,91,80,Pending
+Stoke City (team),Over 1.5,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Stoke City (team),Scores 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Jason Knight,Fouls 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Jack McGlynn,Shots 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,86,100,Pending
+Lamine Cissé,Fouled 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Dominic Ballard,Shots 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Djibril Soumaré,Tackles 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,91,100,Pending
+Viktor Johansson,Saves 2+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Rob Dickie,Fouls 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,86,100,Pending
+Rob Dickie,Shots 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,86,100,Pending
+Scott Twine,Fouled 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,89,80,Pending
+George Hirst,Fouls 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,80,80,Pending
+Sorba Thomas,Fouled 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Sorba Thomas,Shots 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Adam Randell,Fouled 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
+Arne Engels,Tackles 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,80,80,Pending
+Léo Scienza,Fouled 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
+Léo Scienza,Fouled 2+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,90,80,Pending
+Pablo,Fouls 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,86,100,Pending
+Mohamadou Kanté,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,80,80,Pending
+Ryan Manning,Fouls 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,82,80,Pending
+Jarrod Bowen,Fouled 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,82,100,Pending
+Jarrod Bowen,SOT 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,91,100,Pending
+Jarrod Bowen,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
+Jarrod Bowen,Shots 2+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
+Konstantinos Mavropanos,Tackles 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
+Kyle Walker-Peters,Tackles 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,89,80,Pending
+Joël Piroe,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,80,80,Pending
+Valentín Castellanos,Fouls 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,90,80,Pending
+Valentín Castellanos,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,80,80,Pending
+Southampton (team),Scores 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,91,80,Pending
+West Ham United (team),Cards 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,91,100,Pending
+West Ham United (team),Over 1.5,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,91,80,Pending
+West Ham United (team),SOT 4+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,82,100,Pending
+West Ham United (team),Scores 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
+Finn Azaz,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
+Keven Schlotterbeck,Shots 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,89,80,Pending
+Daniel Peretz,Saves 2+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,82,100,Pending
+Nathan Wood,Tackles 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,86,80,Pending
+Hector Kyprianou,Fouls 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
+Hector Kyprianou,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,80,Pending
+Hugo Bueno,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
+André,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,100,Pending
 Rafiki Saïd,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
 Rafiki Saïd,Shots 2+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
-Wolverhampton Wanderers (team),Scores 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,80,Pending
+Soumaïla Coulibaly,Fouled 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
+Fer López,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
+Fer López,Shots 2+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,100,Pending
+Mamadou Doumbia,Fouls 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,100,Pending
+Mateus Mané,Fouled 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,80,Pending
+Mateus Mané,Fouls 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
+Mateus Mané,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
+Amin Nabizada,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
+José Sá,Saves 2+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
+Marshall Munetsi,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
+Federico Ravaglia,Saves 2+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,100,Pending
+Ladislav Krejcí,Shots 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
+Ladislav Krejcí,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,80,80,Pending
+Wolverhampton Wanderers (team),Cards 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
 Wolverhampton Wanderers (team),Corners 4+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
 Wolverhampton Wanderers (team),Corners 5+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,100,Pending
 Wolverhampton Wanderers (team),Match corners 9+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
-Wolverhampton Wanderers (team),Cards 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
-Blackburn Rovers (team),Scores 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,100,Pending
-Blackburn Rovers (team),BTTS,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Blackburn Rovers (team),Over 1.5,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Blackburn Rovers (team),Over 2.5,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Blackburn Rovers (team),Corners 4+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,100,Pending
-Blackburn Rovers (team),Match corners 9+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Blackburn Rovers (team),Match corners 10+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Blackburn Rovers (team),Cards 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,80,Pending
-Preston North End (team),Cards 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,100,100,Pending
-Lincoln City (team),Cards 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
-Lincoln City (team),Cards 2+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,82,100,Pending
-Queens Park Rangers (team),Cards 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Stoke City (team),Scores 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Stoke City (team),Over 1.5,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Stoke City (team),Cards 1+,Stoke City v Bristol City,Sat 24 Oct 15:00,Championship,91,80,Pending
-Swansea City (team),Cards 1+,Queens Park Rangers v Swansea City,Sat 24 Oct 15:00,Championship,82,80,Pending
-West Bromwich Albion (team),Match corners 9+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,82,80,Pending
-West Bromwich Albion (team),Cards 1+,Preston North End v West Bromwich Albion,Sat 24 Oct 15:00,Championship,100,100,Pending
-Birmingham City (team),Scores 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Birmingham City (team),Over 1.5,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Birmingham City (team),Corners 4+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Birmingham City (team),Cards 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,100,Pending
-Birmingham City (team),Cards 2+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
+Wolverhampton Wanderers (team),Scores 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,91,80,Pending
+Matthew Pollock,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,100,100,Pending
 Watford (team),Over 1.5,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,82,80,Pending
-Southampton (team),Scores 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,91,80,Pending
-Burnley (team),Scores 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
-Burnley (team),BTTS,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,91,80,Pending
-Burnley (team),Over 1.5,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,100,100,Pending
-Burnley (team),Cards 1+,Lincoln City v Burnley,Sat 24 Oct 15:00,Championship,91,80,Pending
-West Ham United (team),Scores 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,100,100,Pending
-West Ham United (team),Over 1.5,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,91,80,Pending
-West Ham United (team),Cards 1+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,91,100,Pending
-West Ham United (team),SOT 4+,West Ham United v Southampton,Sat 24 Oct 15:00,Championship,82,100,Pending
-Cardiff City (team),Scores 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Cardiff City (team),BTTS,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Cardiff City (team),Over 1.5,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,80,Pending
-Cardiff City (team),Corners 4+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,100,100,Pending
-Cardiff City (team),Corners 5+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,82,80,Pending
-Cardiff City (team),Cards 1+,Cardiff City v Birmingham City,Sat 24 Oct 15:00,Championship,91,80,Pending
-Wrexham (team),Scores 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Wrexham (team),Over 1.5,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,91,100,Pending
-Wrexham (team),Cards 1+,Blackburn Rovers v Wrexham,Sat 24 Oct 15:00,Championship,82,80,Pending
-Dujon Sterling,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
-Dujon Sterling,Tackles 2+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
-Daniel Neil,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Emmanuel Fernandez,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Djeidi Gassama,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Djeidi Gassama,Shots 2+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Djeidi Gassama,Fouled 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Djeidi Gassama,Fouled 2+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Ryan Don Naderi,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-Ryan Don Naderi,SOT 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-Ryan Don Naderi,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Olwethu Makhanya,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-James Penrice,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Pending
-James Penrice,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
-James Penrice,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Min-Su Kim,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Min-Su Kim,Shots 2+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
-Min-Su Kim,Fouled 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Pending
-Kevin Kelsy,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Rangers (team),Scores 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),Corners 4+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),Corners 5+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Rangers (team),Match corners 9+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),Match corners 10+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Rangers (team),Cards 1+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Rangers (team),SOT 4+,Rangers v St. Johnstone,Sat 24 Oct 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Willi Orbán,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Christopher Nkunku,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Ridle Baku,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Maarten Vandevoordt,Saves 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Maarten Vandevoordt,Saves 3+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Nicolas Seiwald,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Rocco Reitz,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Antonio Nusa,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Antonio Nusa,Shots 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Antonio Nusa,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Ezechiel Banzuzi,Fouls 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Ezechiel Banzuzi,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Ezechiel Banzuzi,Tackles 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Brajan Gruda,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Brajan Gruda,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Tidiam Gomis,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Tidiam Gomis,Shots 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Marvin Schwäbe,Saves 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Marvin Schwäbe,Saves 3+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Alessio Castro-Montes,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Alessio Castro-Montes,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Gideon Mensah,Fouls 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Linton Maina,Fouled 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Tom Krauß,Fouls 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Ísak Jóhannesson,Shots 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Jahmai Simpson-Pusey,Fouled 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Saïd El Mala,Shots 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Saïd El Mala,Shots 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Saïd El Mala,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Rani Khedira,Fouls 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Rani Khedira,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Janik Haberer,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Michel Aebischer,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-András Schäfer,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Jordan Zemura,Tackles 1+,Wolverhampton Wanderers v Watford,Sat 24 Oct 15:00,Championship,90,80,Pending
+Fabian Rieder,Score or assist,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Fabian Rieder,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Robin Fellhauer,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Leopold Querfeld,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Zeno Van Den Bosch,Fouls 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
 Marin Ljubičić,Fouls 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Tom Rothe,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Tom Rothe,Tackles 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Łukasz Poręba,Fouls 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Lukas Petkov,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Lukas Petkov,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Lukas Petkov,Tackles 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Lasse Günther,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Nicolas Kristof,Saves 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Phillipp Mwene,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Phillipp Mwene,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Phillipp Mwene,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Sheraldo Becker,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Nadiem Amiri,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Nadiem Amiri,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Nadiem Amiri,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Phillip Tietz,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Phillip Tietz,Shots 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Phillip Tietz,SOT 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Phillip Tietz,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Anthony Caci,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Anthony Caci,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Raphael Obermair,Shots 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Raphael Obermair,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Marvin Pieringer,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Calvin Brackelmann,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Calvin Brackelmann,Tackles 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Arijon Ibrahimović,SOT 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Arijon Ibrahimović,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Hennes Behrens,Fouled 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Hennes Behrens,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Frederik Rønnow,Saves 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Michael Gregoritsch,SOT 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Michael Gregoritsch,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Rani Khedira,Fouls 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Rani Khedira,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Janik Haberer,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Felix Uduokhai,Fouled 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Felix Uduokhai,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Michel Aebischer,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Union Berlin (team),Cards 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Union Berlin (team),Cards 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Union Berlin (team),Match cards 4+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Union Berlin (team),Match corners 9+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+András Schäfer,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Augsburg (team),BTTS,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Augsburg (team),Cards 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Augsburg (team),Match corners 10+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Augsburg (team),Match corners 9+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Augsburg (team),Over 1.5,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Augsburg (team),Over 2.5,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Augsburg (team),SOT 4+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Augsburg (team),Scores 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Finn Dahmen,Saves 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Finn Dahmen,Saves 3+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Ísak Jóhannesson,Shots 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Schalke 04 (team),Cards 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Junior Dina Ebimbe,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Junior Dina Ebimbe,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Satoshi Tanaka,Fouled 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Satoshi Tanaka,Fouled 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Satoshi Tanaka,Fouls 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Satoshi Tanaka,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Soufian El-Faouzi,Fouled 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Soufian El-Faouzi,Fouls 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Soufian El-Faouzi,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Mikey Moore,Shots 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Jahmai Simpson-Pusey,Fouled 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Saïd El Mala,Shots 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Saïd El Mala,Shots 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Saïd El Mala,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Loris Karius,Saves 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Loris Karius,Saves 3+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Kenan Karaman,Shots 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Robin Gosens,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Robin Gosens,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Marvin Schwäbe,Saves 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Marvin Schwäbe,Saves 3+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Nikola Katić,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Alessio Castro-Montes,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Alessio Castro-Montes,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Gideon Mensah,Fouls 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Timo Becker,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Timo Becker,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Hasan Kuruçay,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Hasan Kuruçay,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+1. FC Köln (team),BTTS,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+1. FC Köln (team),Cards 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+1. FC Köln (team),Corners 4+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+1. FC Köln (team),Corners 5+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+1. FC Köln (team),Match corners 10+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+1. FC Köln (team),Match corners 9+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+1. FC Köln (team),Over 1.5,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+1. FC Köln (team),Scores 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Linton Maina,Fouled 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Sebastian Sebulonsen,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Tom Krauß,Fouls 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Marco Grüll,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Marco Grüll,Fouled 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Marco Grüll,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Marco Grüll,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Kaishu Sano,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Kaishu Sano,Fouled 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Youri Regeer,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Youri Regeer,Tackles 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Chuki,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Arthur,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Fabio Gruber,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Kacper Potulski,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Niclas Füllkrug,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Niclas Füllkrug,Goal 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Niclas Füllkrug,SOT 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Niclas Füllkrug,Score or assist,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Niclas Füllkrug,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Niclas Füllkrug,Shots 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Phillipp Mwene,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Phillipp Mwene,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Phillipp Mwene,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Sheraldo Becker,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Stefan Posch,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Stefan Posch,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Stefan Posch,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Nadiem Amiri,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Nadiem Amiri,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Nadiem Amiri,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Phillip Tietz,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Phillip Tietz,SOT 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Phillip Tietz,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Phillip Tietz,Shots 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Amos Pieper,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Marco Friedl,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Anthony Caci,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Anthony Caci,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Ludovit Reis,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Werder Bremen (team),BTTS,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Werder Bremen (team),Cards 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Werder Bremen (team),Over 1.5,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Werder Bremen (team),Over 2.5,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Werder Bremen (team),SOT 4+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Werder Bremen (team),Scores 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Olivier Deman,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Karl Hein,Saves 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Mainz 05 (team),Cards 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Mainz 05 (team),Corners 4+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Mainz 05 (team),SOT 4+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Mainz 05 (team),Scores 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Nicolás Capaldo,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Nicolás Capaldo,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Fábio Vieira,Fouled 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Fábio Vieira,SOT 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Fábio Vieira,Shots 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Fábio Vieira,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+David Møller Wolfe,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
 Nahuel Noll,Saves 2+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Nahuel Noll,Saves 3+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Stefano Marino,Shots 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Fabio Gruber,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Santiago Castañeda,Shots 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
 Santiago Castañeda,Fouled 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
+Santiago Castañeda,Shots 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
 Santiago Castañeda,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Laurin Ulrich,Fouled 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Tjark Scheller,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Laurin Curda,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Laurin Curda,Tackles 2+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Jano ter Horst,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Kacper Potulski,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
 Daniel Heuer Fernandes,Saves 2+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Daniel Heuer Fernandes,Saves 3+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Nicolás Capaldo,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Nicolás Capaldo,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Niclas Füllkrug,Goal 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Niclas Füllkrug,Score or assist,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Niclas Füllkrug,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Niclas Füllkrug,Shots 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Niclas Füllkrug,SOT 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Niclas Füllkrug,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Amos Pieper,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Marco Friedl,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Ludovit Reis,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Olivier Deman,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Karl Hein,Saves 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Marco Grüll,Shots 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Marco Grüll,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Marco Grüll,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Marco Grüll,Fouled 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Chuki,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Michael Gregoritsch,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Michael Gregoritsch,SOT 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Loris Karius,Saves 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Loris Karius,Saves 3+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Robin Gosens,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Robin Gosens,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Nikola Katić,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Timo Becker,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Timo Becker,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Hasan Kuruçay,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Hasan Kuruçay,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Finn Dahmen,Saves 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Finn Dahmen,Saves 3+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Junior Dina Ebimbe,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Junior Dina Ebimbe,Tackles 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Fabian Rieder,Score or assist,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Fabian Rieder,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Robin Fellhauer,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Soufian El-Faouzi,Fouls 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Soufian El-Faouzi,Fouled 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Soufian El-Faouzi,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Calvin Brackelmann,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Calvin Brackelmann,Tackles 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Hennes Behrens,Fouled 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Hennes Behrens,Tackles 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Mikey Moore,Shots 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Frederik Rønnow,Saves 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Felix Uduokhai,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Felix Uduokhai,Fouled 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Youri Regeer,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Youri Regeer,Tackles 2+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Raphael Obermair,Shots 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Raphael Obermair,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Paderborn (team),Cards 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Paderborn (team),Match corners 9+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Marvin Pieringer,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Hamburger SV (team),Cards 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Hamburger SV (team),Over 1.5,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Nicolas Seiwald,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Lukas Petkov,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Lukas Petkov,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Lukas Petkov,Tackles 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Rocco Reitz,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Lasse Günther,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Antonio Nusa,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Antonio Nusa,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Antonio Nusa,Shots 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
 Neil El Aynaoui,Fouls 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
 Neil El Aynaoui,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Arthur,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Kenan Karaman,Shots 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Satoshi Tanaka,Fouls 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Satoshi Tanaka,Fouled 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Satoshi Tanaka,Fouled 2+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Satoshi Tanaka,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Stefan Posch,Fouls 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Stefan Posch,Fouled 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Stefan Posch,Tackles 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Fábio Vieira,Shots 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Fábio Vieira,SOT 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Fábio Vieira,Fouled 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Fábio Vieira,Tackles 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-David Møller Wolfe,Fouls 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
-Arijon Ibrahimović,Shots 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Arijon Ibrahimović,SOT 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Sebastian Sebulonsen,Tackles 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Nicolas Kristof,Saves 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Ezechiel Banzuzi,Fouls 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Ezechiel Banzuzi,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Ezechiel Banzuzi,Tackles 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Rômulo,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 Rômulo,Tackles 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-RB Leipzig (team),Scores 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Brajan Gruda,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Brajan Gruda,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Tidiam Gomis,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Tidiam Gomis,Shots 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+RB Leipzig (team),Match corners 9+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 RB Leipzig (team),Over 1.5,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 RB Leipzig (team),Over 2.5,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-RB Leipzig (team),Match corners 9+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
 RB Leipzig (team),SOT 4+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-1. FC Köln (team),Scores 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-1. FC Köln (team),BTTS,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-1. FC Köln (team),Over 1.5,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-1. FC Köln (team),Corners 4+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-1. FC Köln (team),Corners 5+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-1. FC Köln (team),Match corners 9+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-1. FC Köln (team),Match corners 10+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-1. FC Köln (team),Cards 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Union Berlin (team),Match corners 9+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Union Berlin (team),Cards 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Union Berlin (team),Cards 2+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Union Berlin (team),Match cards 4+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+RB Leipzig (team),Scores 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Willi Orbán,Shots 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
+Christopher Nkunku,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
 Elversberg (team),Cards 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Mainz 05 (team),Scores 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Mainz 05 (team),Corners 4+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Mainz 05 (team),Cards 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Mainz 05 (team),SOT 4+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Paderborn (team),Match corners 9+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Paderborn (team),Cards 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Hamburger SV (team),Over 1.5,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Hamburger SV (team),Cards 1+,Paderborn v Hamburger SV,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Werder Bremen (team),Scores 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Werder Bremen (team),BTTS,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Werder Bremen (team),Over 1.5,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Werder Bremen (team),Over 2.5,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Werder Bremen (team),Cards 1+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Werder Bremen (team),SOT 4+,Mainz 05 v Werder Bremen,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Augsburg (team),Scores 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Augsburg (team),BTTS,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,100,Pending
-Augsburg (team),Over 1.5,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Augsburg (team),Over 2.5,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Augsburg (team),Match corners 9+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Augsburg (team),Match corners 10+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Augsburg (team),Cards 1+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Augsburg (team),SOT 4+,Augsburg v Union Berlin,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
-Schalke 04 (team),Cards 1+,1. FC Köln v Schalke 04,Sat 24 Oct 14:30,Bundesliga,83,80,Pending
-Anastasios Douvikas,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Anastasios Douvikas,Shots 2+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Anastasios Douvikas,Fouled 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Lucas Da Cunha,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,100,Pending
-Martin Baturina,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Nico Paz,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Nico Paz,Shots 2+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Nico Paz,Fouls 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Nico Paz,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Nico Paz,Tackles 2+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Álex Valle,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,80,80,Pending
-Jacobo Ramón,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Alessandro Deiola,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Elia Caprile,Saves 2+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Daniel Maldini,Shots 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Ridle Baku,Fouled 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,80,80,Pending
+Łukasz Poręba,Fouls 1+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Maarten Vandevoordt,Saves 2+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Maarten Vandevoordt,Saves 3+,RB Leipzig v Elversberg,Sat 24 Oct 14:30,Bundesliga,100,100,Pending
+Nicolò Cambiaghi,Fouled 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
 Daniel Maldini,Fouled 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,100,Pending
+Daniel Maldini,Shots 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
 Adam Obert,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
 Adam Obert,Tackles 2+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Rahim Alhassane,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Eivind Helland,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,80,80,Pending
 Juan Rodríguez,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Alessandro Romano,Shots 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Alessandro Romano,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Paul Mendy,Fouls 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Arijanet Murić,Saves 2+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Arijanet Murić,Saves 3+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Armand Laurienté,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Kieron Bowie,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Cas Odenthal,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Vasilije Adžić,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Vasilije Adžić,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
-Darryl Bakola,Fouled 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
-Darryl Bakola,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Simone Cinquegrano,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
 Łukasz Skorupski,Saves 2+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,80,80,Pending
+Paul Mendy,Fouls 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Federico Bernardeschi,Shots 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Alessandro Deiola,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Yerry Mina,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Yerry Mina,Tackles 2+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Tommaso Pobega,Fouls 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,83,80,Pending
+Tommaso Pobega,Shots 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Tommaso Pobega,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,83,80,Pending
 Juan Miranda,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Juan Miranda,Tackles 2+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,83,80,Pending
 Lewis Ferguson,Fouls 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Lewis Ferguson,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
 Lewis Ferguson,Tackles 2+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Nicolò Cambiaghi,Fouled 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Eivind Helland,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,80,80,Pending
-Domenico Berardi,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Domenico Berardi,SOT 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
-Domenico Berardi,Fouled 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
-Domenico Berardi,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Kaiki,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,80,80,Pending
-Kaiki,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,80,80,Pending
-Tommaso Pobega,Shots 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Tommaso Pobega,Fouls 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,83,80,Pending
-Tommaso Pobega,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,83,80,Pending
-Rahim Alhassane,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Yerry Mina,Tackles 1+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Yerry Mina,Tackles 2+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Como (team),Over 1.5,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Elia Caprile,Saves 2+,Cagliari v Bologna,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Como (team),Corners 4+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Como (team),Corners 5+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
 Como (team),Match corners 9+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Como (team),Over 1.5,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
 Como (team),SOT 4+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Sassuolo (team),Scores 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Lucas Da Cunha,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,100,Pending
+Cas Odenthal,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Martin Baturina,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Nico Paz,Fouls 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Nico Paz,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Nico Paz,Shots 2+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Nico Paz,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Nico Paz,Tackles 2+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Vasilije Adžić,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Vasilije Adžić,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
+Álex Valle,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,80,80,Pending
+Jacobo Ramón,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Kaiki,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,80,80,Pending
+Kaiki,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,80,80,Pending
+Darryl Bakola,Fouled 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
+Darryl Bakola,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Simone Cinquegrano,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
+Domenico Berardi,Fouled 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
+Domenico Berardi,SOT 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,83,80,Pending
+Domenico Berardi,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Domenico Berardi,Tackles 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Arijanet Murić,Saves 2+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Arijanet Murić,Saves 3+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Sassuolo (team),BTTS,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Sassuolo (team),Cards 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,100,Pending
 Sassuolo (team),Over 1.5,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
 Sassuolo (team),Over 2.5,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
-Sassuolo (team),Cards 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,100,Pending
 Sassuolo (team),SOT 4+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
-Florian Lejeune,Shots 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
-Florian Lejeune,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,80,Pending
-Florian Lejeune,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,80,Pending
-Álvaro Garcia,Shots 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
-Unai López,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
-Isi Palazón,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
-Sergio Camello,Shots 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
-Sergio Camello,Shots 2+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
-Sergio Camello,Fouled 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
-Sergio Camello,Fouled 2+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
-Matías Dituro,Saves 2+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
-Tete Morente,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
-Gonzalo Villar,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
-Gonzalo Villar,Fouled 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
-Gonzalo Villar,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
+Sassuolo (team),Scores 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Anastasios Douvikas,Fouled 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Anastasios Douvikas,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,100,100,Pending
+Anastasios Douvikas,Shots 2+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Armand Laurienté,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Kieron Bowie,Shots 1+,Como v Sassuolo,Sat 24 Oct 14:00,Serie A,86,80,Pending
+Elche (team),Cards 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
 David Affengruber,Shots 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
 Federico Redondo,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,83,80,Pending
 Buba Sangaré,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
 Ali Houary,Shots 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
-Adrià Pedrosa,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,83,80,Pending
-Adrià Pedrosa,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,83,80,Pending
+Florian Lejeune,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,80,Pending
+Florian Lejeune,Shots 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
+Florian Lejeune,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,80,Pending
 Thomas Lemar,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,83,80,Pending
 Thomas Lemar,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,83,80,Pending
+Álvaro Garcia,Shots 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
+Unai López,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
+Matías Dituro,Saves 2+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
 Emil Audero,Saves 2+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
-Rayo Vallecano (team),Scores 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
+Isi Palazón,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
+Tete Morente,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
 Rayo Vallecano (team),BTTS,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
-Rayo Vallecano (team),Over 1.5,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
 Rayo Vallecano (team),Cards 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
-Elche (team),Cards 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
-Iliman Ndiaye,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,100,Pending
-John McGinn,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-John McGinn,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
-Emiliano Buendía,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
-Emiliano Buendía,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-Matty Cash,Fouls 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-Matty Cash,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,83,80,Pending
-Boubacar Kamara,Fouls 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
-Boubacar Kamara,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-Ian Maatsen,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-João Gomes,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-João Gomes,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-George Hemmings,Fouls 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,80,80,Pending
-Erling Haaland,Goal 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,100,Pending
-Erling Haaland,Score or assist,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,100,Pending
-Erling Haaland,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-Erling Haaland,Shots 2+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-Erling Haaland,SOT 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-Phil Foden,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,80,80,Pending
-Phil Foden,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,80,80,Pending
-Marc Guéhi,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
+Rayo Vallecano (team),Over 1.5,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
+Rayo Vallecano (team),Scores 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,100,100,Pending
+Gonzalo Villar,Fouled 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
+Gonzalo Villar,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
+Gonzalo Villar,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,89,80,Pending
+Adrià Pedrosa,Fouls 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,83,80,Pending
+Adrià Pedrosa,Tackles 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,83,80,Pending
+Sergio Camello,Fouled 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
+Sergio Camello,Fouled 2+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
+Sergio Camello,Shots 1+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
+Sergio Camello,Shots 2+,Rayo Vallecano v Elche,Sat 24 Oct 13:00,La Liga,88,100,Pending
+Aston Villa (team),Cards 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
+Aston Villa (team),Cards 2+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
 Elliot Anderson,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
 Elliot Anderson,Fouled 2+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,100,Pending
 Elliot Anderson,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
 Rayan Cherki,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,83,100,Pending
-Enzo Fernández,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,83,100,Pending
 Enzo Fernández,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,83,80,Pending
-Aston Villa (team),Cards 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
-Aston Villa (team),Cards 2+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
-Manchester City (team),Win,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-Manchester City (team),Scores 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
-Manchester City (team),Corners 4+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
+Enzo Fernández,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,83,100,Pending
+João Gomes,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+João Gomes,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+George Hemmings,Fouls 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,80,80,Pending
+John McGinn,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+John McGinn,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
+Emiliano Buendía,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Emiliano Buendía,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
+Matty Cash,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,83,80,Pending
+Matty Cash,Fouls 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Erling Haaland,Goal 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,100,Pending
+Erling Haaland,SOT 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Erling Haaland,Score or assist,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,100,Pending
+Erling Haaland,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Erling Haaland,Shots 2+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Phil Foden,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,80,80,Pending
+Phil Foden,Shots 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,80,80,Pending
+Boubacar Kamara,Fouls 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
+Boubacar Kamara,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Marc Guéhi,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
 Manchester City (team),Cards 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
+Manchester City (team),Corners 4+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
 Manchester City (team),SOT 4+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,80,Pending
-Ebou Adams,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
-Ebou Adams,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
-Ebou Adams,Tackles 2+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
+Manchester City (team),Scores 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Manchester City (team),Win,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Iliman Ndiaye,Fouled 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,86,100,Pending
+Ian Maatsen,Tackles 1+,Aston Villa v Manchester City,Sat 24 Oct 12:30,Premier League,100,100,Pending
+Pelle Mattsson,Fouled 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,80,Pending
+Pelle Mattsson,Fouls 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,100,Pending
+Pelle Mattsson,Fouls 2+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,100,Pending
+Pelle Mattsson,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,91,100,Pending
+Anthony Musaba,Shots 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,89,80,Pending
+Ivan Mesík,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,90,80,Pending
+Benjamin Chrisene,Fouled 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,80,80,Pending
+Benjamin Chrisene,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,90,80,Pending
+Darlin Yongwa,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Darlin Yongwa,Tackles 2+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Tyreece Campbell,Shots 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,91,80,Pending
+Miles Leaburn,Fouls 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,80,Pending
+Kellen Fisher,Fouled 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Kellen Fisher,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Tyler Bindon,Fouls 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Tyler Bindon,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,80,80,Pending
+Amari'i Bell,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,88,80,Pending
+Jack Stacey,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,89,100,Pending
+Conor Coventry,Fouls 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Conor Coventry,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Charlton Athletic (team),Cards 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,100,Pending
+Oliver Skipp,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Arthur Okonkwo,Saves 2+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,90,100,Pending
+Norwich City (team),Cards 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,80,Pending
+Norwich City (team),SOT 4+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,80,Pending
+Millwall (team),Cards 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,91,80,Pending
+Millwall (team),Scores 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
 Zak Swanson,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,90,100,Pending
 Abu Kamara,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
 Rocco Shein,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,88,80,Pending
-Adrian Segečić,Shots 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
-Adrian Segečić,Shots 2+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
-Amari'i Bell,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,88,80,Pending
-Alex Mowatt,Fouls 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,89,80,Pending
-Alex Mowatt,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,89,80,Pending
-Sammie Szmodics,Shots 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,80,Pending
-Carlton Morris,Shots 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,86,80,Pending
-Conor Coventry,Fouls 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
-Conor Coventry,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
-Ivan Mesík,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,90,80,Pending
-Bobby Clark,Shots 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,91,100,Pending
-Tyreece Campbell,Shots 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,91,80,Pending
-Miles Leaburn,Fouls 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,80,Pending
-Ryan Leonard,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
-Lyndon Dykes,Shots 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,100,Pending
-Lyndon Dykes,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,91,80,Pending
 Camiel Neghli,Shots 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,91,100,Pending
 Jenson Metcalfe,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
-Zak Sturge,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
-Kyrell Lisbie,Fouled 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,86,100,Pending
-Pelle Mattsson,Fouls 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,100,Pending
-Pelle Mattsson,Fouls 2+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,100,Pending
-Pelle Mattsson,Fouled 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,80,Pending
-Pelle Mattsson,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,91,100,Pending
-Benjamin Chrisene,Fouled 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,80,80,Pending
-Benjamin Chrisene,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,90,80,Pending
-Kellen Fisher,Fouled 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
-Kellen Fisher,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
-Tahith Chong,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,80,Pending
-Michael Cooper,Saves 2+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,82,80,Pending
-Sam McCallum,Fouled 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,90,80,Pending
-Sam McCallum,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,80,Pending
-Thomas Cannon,Shots 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,100,Pending
-Jack Stacey,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,89,100,Pending
-Anthony Musaba,Shots 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,89,80,Pending
-Ryan Hedges,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,100,Pending
-Arthur Okonkwo,Saves 2+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,90,100,Pending
-Kalvin Phillips,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,88,80,Pending
-Daniel Bielica,Saves 2+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
-Daniel Bielica,Saves 3+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
-Hamza Choudhury,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,100,100,Pending
-Darlin Yongwa,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
-Darlin Yongwa,Tackles 2+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Adrian Segečić,Shots 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
+Adrian Segečić,Shots 2+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
 Derek Mazou-Sacko,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,88,80,Pending
 Derek Mazou-Sacko,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,88,80,Pending
-Tyler Bindon,Fouls 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
-Tyler Bindon,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,80,80,Pending
-Oliver Skipp,Tackles 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,100,100,Pending
+Zak Sturge,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
+Kyrell Lisbie,Fouled 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,86,100,Pending
+Jayden Meghoma,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,86,100,Pending
+Ryan Leonard,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
+Ebou Adams,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
+Ebou Adams,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
+Ebou Adams,Tackles 2+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
+Lyndon Dykes,Fouls 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,91,80,Pending
+Lyndon Dykes,Shots 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,100,Pending
+Daniel Bielica,Saves 2+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
+Daniel Bielica,Saves 3+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,100,100,Pending
+Derby County (team),Cards 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,91,100,Pending
+Derby County (team),Match corners 9+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,91,80,Pending
+Derby County (team),Over 1.5,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,82,80,Pending
+Thomas Cannon,Shots 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,100,Pending
+Bobby Clark,Shots 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,91,100,Pending
 David Ozoh,Fouls 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,86,80,Pending
 David Ozoh,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,100,100,Pending
 David Ozoh,Tackles 2+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,86,80,Pending
 Mohammed Fuseini,Fouled 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,86,80,Pending
-Jayden Meghoma,Tackles 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,86,100,Pending
+Alex Mowatt,Fouls 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,89,80,Pending
+Alex Mowatt,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,89,80,Pending
+Sammie Szmodics,Shots 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,80,Pending
+Carlton Morris,Shots 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,86,80,Pending
+Kalvin Phillips,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,88,80,Pending
+Ryan Hedges,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,100,Pending
+Hamza Choudhury,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,100,100,Pending
+Tahith Chong,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,80,Pending
+Sheffield United (team),Cards 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,82,100,Pending
+Michael Cooper,Saves 2+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,82,80,Pending
 Liam Kitching,Fouls 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,86,100,Pending
 Liam Kitching,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,100,100,Pending
-Charlton Athletic (team),Cards 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,100,Pending
-Derby County (team),Over 1.5,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,82,80,Pending
-Derby County (team),Match corners 9+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,91,80,Pending
-Derby County (team),Cards 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,91,100,Pending
-Millwall (team),Scores 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,82,80,Pending
-Millwall (team),Cards 1+,Portsmouth v Millwall,Sat 24 Oct 12:30,Championship,91,80,Pending
-Norwich City (team),Cards 1+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,80,Pending
-Norwich City (team),SOT 4+,Charlton Athletic v Norwich City,Sat 24 Oct 12:30,Championship,82,80,Pending
-Sheffield United (team),Cards 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,82,100,Pending
-Daniel Muñoz,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
-Daniel Muñoz,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
-Daizen Maeda,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
-Kjell Scherpen,Saves 2+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
+Sam McCallum,Fouled 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,90,80,Pending
+Sam McCallum,Tackles 1+,Sheffield United v Derby County,Sat 24 Oct 12:30,Championship,80,80,Pending
+Nottingham Forest (team),Cards 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
+Nottingham Forest (team),Cards 2+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
+Dan Ndoye,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
+Julio Enciso,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
 Julio Enciso,Shots 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
 Julio Enciso,Shots 2+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
-Julio Enciso,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
-Jacob Greaves,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
-Jacob Greaves,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
-Abdul Fatawu,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
-Abdul Fatawu,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
-Abdul Fatawu,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
-Emersonn,Shots 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,100,Pending
-Emersonn,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
-Xaver Schlager,Shots 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,100,Pending
-Ola Aina,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
-Ola Aina,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
-Ola Aina,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
-Ola Aina,Tackles 2+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
-Nikola Milenković,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
-Dan Ndoye,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
 Neco Williams,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
 Neco Williams,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
+Jacob Greaves,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
+Jacob Greaves,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
 James McAtee,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
+Liam Delap,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,100,Pending
+Liam Delap,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,100,Pending
+Liam Delap,Shots 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
+Abdul Fatawu,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
+Abdul Fatawu,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
+Abdul Fatawu,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
+Emersonn,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
+Emersonn,Shots 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,100,Pending
 Jair Cunha,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
 Jair Cunha,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
 Murillo,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,100,Pending
-Liam Delap,Shots 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
-Liam Delap,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,100,Pending
-Liam Delap,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,100,Pending
+Xaver Schlager,Shots 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,100,Pending
+Ola Aina,Fouled 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
+Ola Aina,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
+Ola Aina,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
+Ola Aina,Tackles 2+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,80,80,Pending
 Exequiel Palacios,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
 Exequiel Palacios,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
-Ipswich Town (team),Over 1.5,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
+Daizen Maeda,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
+Nikola Milenković,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
+Kjell Scherpen,Saves 2+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
+Daniel Muñoz,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,83,80,Pending
+Daniel Muñoz,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
 Ipswich Town (team),Cards 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,100,Pending
-Nottingham Forest (team),Cards 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,100,100,Pending
-Nottingham Forest (team),Cards 2+,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
-Jonny Otto,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
-Antonio Sivera,Saves 2+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
-Toni Martínez,Fouled 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
-Nahuel Tenaglia,Fouled 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,100,Pending
-Nahuel Tenaglia,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
-Abderrahman Rebbach,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
-Pablo Ibánez,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,100,Pending
-Pablo Ibánez,Fouled 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,100,Pending
-Ángel Pérez,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
-Alfonso Herrero,Saves 2+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
-Alfonso Herrero,Saves 3+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
-David Larrubia,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
-David Larrubia,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
-Carlos Puga,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
-Chupe,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
-Lucas Boyé,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
-Lucas Boyé,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
-Lucas Boyé,Fouls 2+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,100,Pending
-Lucas Boyé,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
-Deportivo Alavés (team),Cards 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
-Málaga (team),Corners 4+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,100,Pending
-Málaga (team),Cards 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
-Josh Sheehan,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,80,Pending
-Josh Sheehan,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,91,80,Pending
-Akin Famewo,Fouls 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,86,100,Pending
-Sam Dalby,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,80,Pending
-John McAtee,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,83,80,Pending
-Ethan Erhahon,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,90,80,Pending
-Callum Brittain,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,91,80,Pending
-Morgan Whittaker,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
+Ipswich Town (team),Over 1.5,Ipswich Town v Nottingham Forest,Fri 23 Oct 20:00,Premier League,86,80,Pending
 Morgan Whittaker,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
+Morgan Whittaker,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
 Morgan Whittaker,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
 Morgan Whittaker,Tackles 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
-Will Lankshear,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
-Will Lankshear,Shots 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,91,100,Pending
 Aidan Morris,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,80,80,Pending
 Aidan Morris,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
-Rúben Rodrigues,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
-Gavin Bazunu,Saves 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,83,80,Pending
 Amario Cozier-Duberry,Score or assist,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,83,80,Pending
 Amario Cozier-Duberry,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
 Amario Cozier-Duberry,Shots 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,83,80,Pending
-Bolton Wanderers (team),SOT 4+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,80,Pending
-Middlesbrough (team),Scores 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
+Will Lankshear,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
+Will Lankshear,Shots 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,91,100,Pending
+Josh Sheehan,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,91,80,Pending
+Josh Sheehan,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,80,Pending
+Callum Brittain,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,91,80,Pending
+Akin Famewo,Fouls 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,86,100,Pending
+Sam Dalby,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,80,Pending
+John McAtee,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,83,80,Pending
 Middlesbrough (team),BTTS,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,80,Pending
 Middlesbrough (team),Over 1.5,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,80,Pending
 Middlesbrough (team),SOT 4+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,100,Pending
-Samuele Birindelli,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Samuele Birindelli,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Andrea Colpani,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
-Andrea Carboni,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
-Jay Robinson,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
-Jay Robinson,SOT 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
-Jay Robinson,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
-Lorenzo Lucchesi,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Foe Ondoa,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
-Gustavo Varela,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Gustavo Varela,Shots 2+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
-Gustavo Varela,SOT 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
-Eddy Kouadio,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
-Giovanni Simeone,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
-Giovanni Simeone,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Nikola Vlašić,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
-Ché Adams,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Ché Adams,SOT 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
-Gvidas Gineitis,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
-Pietro Comuzzo,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
-Pietro Comuzzo,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Alessio Cacciamani,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,100,Pending
-Rolando Mandragora,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,100,Pending
-Eray Cömert,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Michael Folorunsho,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
-Ebenezer Akinsanmiro,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Middlesbrough (team),Scores 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
+Bolton Wanderers (team),SOT 4+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,82,80,Pending
+Ethan Erhahon,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,90,80,Pending
+Gavin Bazunu,Saves 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,83,80,Pending
+Rúben Rodrigues,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct 20:00,Championship,100,100,Pending
+David Larrubia,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
+David Larrubia,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
+Abderrahman Rebbach,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
+Pablo Ibánez,Fouled 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,100,Pending
+Pablo Ibánez,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,100,Pending
+Ángel Pérez,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
+Carlos Puga,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
+Chupe,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
+Jonny Otto,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
+Antonio Sivera,Saves 2+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
+Lucas Boyé,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
+Lucas Boyé,Fouls 2+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,100,Pending
+Lucas Boyé,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
+Lucas Boyé,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
+Alfonso Herrero,Saves 2+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
+Alfonso Herrero,Saves 3+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
+Toni Martínez,Fouled 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,88,80,Pending
+Nahuel Tenaglia,Fouled 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,100,Pending
+Nahuel Tenaglia,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
+Málaga (team),Cards 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,100,100,Pending
+Málaga (team),Corners 4+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,100,Pending
+Deportivo Alavés (team),Cards 1+,Deportivo Alavés v Málaga,Fri 23 Oct 20:00,La Liga,89,80,Pending
 Daniel Bragança,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
 Noel Törnqvist,Saves 2+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
 Noel Törnqvist,Saves 3+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Monza (team),Scores 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Andrea Carboni,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
+Gvidas Gineitis,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
+Jay Robinson,SOT 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
+Jay Robinson,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
+Jay Robinson,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
+Ebenezer Akinsanmiro,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Lorenzo Lucchesi,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Pietro Comuzzo,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
+Pietro Comuzzo,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Foe Ondoa,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
+Gustavo Varela,SOT 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
+Gustavo Varela,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Gustavo Varela,Shots 2+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
+Eddy Kouadio,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
+Alessio Cacciamani,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,100,Pending
+Giovanni Simeone,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Giovanni Simeone,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
+Nikola Vlašić,Fouls 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
+Rolando Mandragora,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,100,Pending
+Ché Adams,SOT 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
+Ché Adams,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
 Monza (team),BTTS,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
+Monza (team),Cards 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
 Monza (team),Over 1.5,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
 Monza (team),Over 2.5,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
-Monza (team),Cards 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
 Monza (team),SOT 4+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,100,Pending
-Torino (team),Scores 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
+Monza (team),Scores 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Eray Cömert,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Samuele Birindelli,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Samuele Birindelli,Tackles 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
+Michael Folorunsho,Fouled 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,83,80,Pending
+Andrea Colpani,Shots 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,80,80,Pending
 Torino (team),Over 1.5,Torino v Monza,Fri 23 Oct 19:45,Serie A,100,100,Pending
-Yéhvann Diouf,Saves 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,100,Pending
-Mohamed Abdelmonem,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,100,Pending
-Xavier Mandza,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
-Kenny Lala,Fouled 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Kenny Lala,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Ludovic Ajorque,Fouls 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
-Ludovic Ajorque,Fouls 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Egil Selvik,Saves 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,100,Pending
-Bradley Locko,Fouled 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Bradley Locko,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Kamory Doumbia,Fouls 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Kamory Doumbia,Fouled 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
-Pathé Mboup,Shots 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Shots 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,SOT 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Fouls 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Fouls 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
-Hugo Magnetti,Fouled 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,83,80,Pending
-Axel Witsel,Shots 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,83,100,Pending
-Elye Wahi,Shots 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
-Elye Wahi,SOT 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,83,80,Pending
+Torino (team),Scores 1+,Torino v Monza,Fri 23 Oct 19:45,Serie A,86,80,Pending
 Niels Nkounkou,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
 Mohamed Amoura,Shots 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
 Mohamed Amoura,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,80,80,Pending
-Nice (team),Cards 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
-Brest (team),Scores 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Mohamed Abdelmonem,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,100,Pending
+Elye Wahi,SOT 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,83,80,Pending
+Elye Wahi,Shots 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
+Bradley Locko,Fouled 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Bradley Locko,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Kamory Doumbia,Fouled 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
+Kamory Doumbia,Fouls 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Pathé Mboup,Fouls 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Pathé Mboup,Fouls 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Pathé Mboup,SOT 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Pathé Mboup,Shots 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Pathé Mboup,Shots 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Pathé Mboup,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
+Xavier Mandza,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
+Kenny Lala,Fouled 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Kenny Lala,Tackles 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Axel Witsel,Shots 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,83,100,Pending
+Ludovic Ajorque,Fouls 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
+Ludovic Ajorque,Fouls 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Egil Selvik,Saves 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,100,Pending
+Yéhvann Diouf,Saves 2+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,100,Pending
+Hugo Magnetti,Fouled 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,83,80,Pending
 Brest (team),BTTS,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
-Brest (team),Over 1.5,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
 Brest (team),Cards 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
-Maximilian Mittelstädt,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,80,80,Pending
-Deniz Undav,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-Ermedin Demirović,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Ermedin Demirović,SOT 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
-Ermedin Demirović,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-Ermedin Demirović,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-Jeff Chabot,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-Jeff Chabot,Tackles 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Brest (team),Over 1.5,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Brest (team),Scores 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,86,80,Pending
+Nice (team),Cards 1+,Brest v Nice,Fri 23 Oct 19:45,Ligue 1,100,100,Pending
+VfB Stuttgart (team),Corners 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
+VfB Stuttgart (team),Corners 5+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
+VfB Stuttgart (team),Match corners 10+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+VfB Stuttgart (team),Match corners 9+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+VfB Stuttgart (team),SOT 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
 Ramon Hendriks,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
 Ramon Hendriks,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,80,80,Pending
 Bilal El Khannouss,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Dženan Pejčinović,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Moritz Nicolas,Saves 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Moritz Nicolas,Saves 3+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Philipp Sander,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-Philipp Sander,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Philipp Sander,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-Joseph Scally,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-Joseph Scally,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
-Joseph Scally,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
-Hugo Bolin,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
 Hugo Bolin,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-Lukas Ullrich,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
+Hugo Bolin,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Dženan Pejčinović,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
 Lukas Ullrich,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
 Lukas Ullrich,Fouls 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,80,80,Pending
+Lukas Ullrich,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
 Lukas Ullrich,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,80,80,Pending
 Lukas Ullrich,Tackles 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,80,80,Pending
-Chris Führich,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,80,80,Pending
+Maximilian Mittelstädt,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,80,80,Pending
+Deniz Undav,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
 Florian Neuhaus,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-VfB Stuttgart (team),Corners 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
-VfB Stuttgart (team),Corners 5+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
-VfB Stuttgart (team),Match corners 9+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-VfB Stuttgart (team),Match corners 10+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
-VfB Stuttgart (team),SOT 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Borussia Mönchengladbach (team),Over 1.5,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Borussia Mönchengladbach (team),Over 2.5,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
-Borussia Mönchengladbach (team),Match corners 9+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Moritz Nicolas,Saves 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
+Moritz Nicolas,Saves 3+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
+Ermedin Demirović,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Ermedin Demirović,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Ermedin Demirović,SOT 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
+Ermedin Demirović,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
+Jeff Chabot,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Jeff Chabot,Tackles 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Chris Führich,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,80,80,Pending
+Philipp Sander,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
+Philipp Sander,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Philipp Sander,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Joseph Scally,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
+Joseph Scally,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Joseph Scally,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
 Borussia Mönchengladbach (team),Cards 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
 Borussia Mönchengladbach (team),Cards 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
 Borussia Mönchengladbach (team),Match cards 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,100,Pending
-Nacho,Fouls 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,100,Pending
-Julian Weigl,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
-Julián Quiñones,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Julián Quiñones,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Julián Quiñones,SOT 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
-Mateo Retegui,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),90,80,Pending
-Mateo Retegui,SOT 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Gaston Álvarez,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Gaston Álvarez,Tackles 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,100,Pending
-Jehad Thakri,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Musab Al Juwayr,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Musab Al Juwayr,Fouls 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,100,Pending
-Christopher Bonsu Baah,Fouls 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),90,80,Pending
-Christopher Bonsu Baah,Fouls 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),90,80,Pending
-Christopher Bonsu Baah,Fouled 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Mohammed Abu Al Shamat,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Mohammed Abu Al Shamat,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Mohammed Abu Al Shamat,Tackles 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,100,Pending
-Ivan Toney,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Ivan Toney,Shots 2+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Ivan Toney,SOT 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
-Ivan Toney,SOT 2+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
-Trincão,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
-Galeno,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),86,80,Pending
-Eduard Spertsyan,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
+Borussia Mönchengladbach (team),Match corners 9+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,83,80,Pending
+Borussia Mönchengladbach (team),Over 1.5,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
+Borussia Mönchengladbach (team),Over 2.5,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct 19:30,Bundesliga,100,100,Pending
+Artem Bondarenko,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Saad Yaslam,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),86,80,Pending
 Rayan Hamed,Tackles 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
 Zakaria Hawsawi,Tackles 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
 Matheus Gonçalves,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Valentin Atangana Edoa,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
 Valentin Atangana Edoa,Fouls 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
 Valentin Atangana Edoa,Fouls 2+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
-Valentin Atangana Edoa,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
-Sergej Milinković-Savić,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,100,Pending
-Sergej Milinković-Savić,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
-Rúben Neves,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Rúben Neves,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
-Mohamed Kanno,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,100,Pending
-Mohamed Kanno,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
-Crysencio Summerville,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Crysencio Summerville,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
-Crysencio Summerville,Fouled 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Mohammed Mahzari,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Abdulaziz Al Elewai,Fouled 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
-Saeed Baattia,Fouls 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
 Saeed Baattia,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
+Saeed Baattia,Fouls 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
 Saeed Baattia,Tackles 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
-Tijjani Reijnders,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Tijjani Reijnders,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
-Saad Yaslam,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),86,80,Pending
-Artem Bondarenko,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Ollie Watkins,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Ollie Watkins,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
-Ollie Watkins,SOT 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
-Ollie Watkins,Fouls 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
-Ollie Watkins,Fouled 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Gabriel Martinelli,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
-Gabriel Martinelli,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Gabriel Martinelli,SOT 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Al Qadsiah (team),Win,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Al Qadsiah (team),Scores 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),90,100,Pending
-Al Qadsiah (team),Over 1.5,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Al Qadsiah (team),Corners 4+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Al Qadsiah (team),SOT 4+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
-Al Ahli (team),Scores 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
 Al Ahli (team),Over 1.5,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
 Al Ahli (team),Over 2.5,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
-Al Hilal (team),Win,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
-Al Hilal (team),Scores 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
+Al Ahli (team),Scores 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
+Ivan Toney,SOT 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
+Ivan Toney,SOT 2+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
+Ivan Toney,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Ivan Toney,Shots 2+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Trincão,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
+Galeno,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),86,80,Pending
+Eduard Spertsyan,Shots 1+,Al Ahli v Al Khaleej,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
+Al Qadsiah (team),Corners 4+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Al Qadsiah (team),Over 1.5,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Al Qadsiah (team),SOT 4+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Al Qadsiah (team),Scores 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),90,100,Pending
+Al Qadsiah (team),Win,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Gabriel Martinelli,SOT 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Gabriel Martinelli,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Gabriel Martinelli,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Gaston Álvarez,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Gaston Álvarez,Tackles 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,100,Pending
+Jehad Thakri,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Musab Al Juwayr,Fouls 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,100,Pending
+Musab Al Juwayr,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Abdulaziz Al Elewai,Fouled 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
+Christopher Bonsu Baah,Fouled 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Christopher Bonsu Baah,Fouls 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),90,80,Pending
+Christopher Bonsu Baah,Fouls 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),90,80,Pending
+Mohammed Mahzari,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Mohammed Abu Al Shamat,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Mohammed Abu Al Shamat,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Mohammed Abu Al Shamat,Tackles 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,100,Pending
+Nacho,Fouls 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,100,Pending
 Al Hilal (team),Over 1.5,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
 Al Hilal (team),SOT 4+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Al Hilal (team),Scores 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
+Al Hilal (team),Win,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,80,Pending
+Sergej Milinković-Savić,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,100,Pending
+Sergej Milinković-Savić,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
+Julian Weigl,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
+Rúben Neves,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Rúben Neves,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
+Ollie Watkins,Fouled 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Ollie Watkins,Fouls 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
+Ollie Watkins,SOT 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
+Ollie Watkins,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Ollie Watkins,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),83,80,Pending
+Julián Quiñones,SOT 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
+Julián Quiñones,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Julián Quiñones,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Mohamed Kanno,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,100,Pending
+Mohamed Kanno,Tackles 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
+Tijjani Reijnders,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Tijjani Reijnders,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),88,80,Pending
+Mateo Retegui,SOT 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),80,80,Pending
+Mateo Retegui,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),90,80,Pending
+Crysencio Summerville,Fouled 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Crysencio Summerville,Shots 1+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),100,100,Pending
+Crysencio Summerville,Shots 2+,Al Qadsiah v Al Hilal,Fri 23 Oct 19:00,Saudi Pro League (top 5),89,100,Pending
