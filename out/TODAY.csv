@@ -1,4 +1,4 @@
-"Games kicking off in the next 24 hours (from 24 Oct 2026 06:23 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
+"Games kicking off in the next 24 hours (from 24 Oct 2026 06:25 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
 Kick-off (UK),Competition,Match,Pick,Team,Market,Season %,Last 5 %,When starting %,Games,Opponent context,Note
 Sat 24 Oct · 12:30,Premier League,Aston Villa v Manchester City,Boubacar Kamara,Aston Villa,Tackles 1+,100,100,100,7,,
 Sat 24 Oct · 12:30,Premier League,Aston Villa v Manchester City,Elliot Anderson,Manchester City,Fouled 1+,100,100,100,7,Aston Villa: 10.7 fouls committed/game,
@@ -652,6 +652,33 @@ Sat 24 Oct · 17:00,Serie A,Napoli v Roma,Alex Meret,Napoli,Saves 2+,80,80,,5,Ro
 Sat 24 Oct · 17:00,Serie A,Napoli v Roma,Bryan Cristante,Roma,Fouls 1+,80,80,80,5,Napoli: 8.9 fouls won/game,Small sample (5 games)
 Sat 24 Oct · 17:00,Serie A,Napoli v Roma,Bryan Cristante,Roma,Tackles 2+,80,80,80,5,,Small sample (5 games)
 Sat 24 Oct · 17:00,Serie A,Napoli v Roma,Evan N'Dicka,Roma,Fouls 1+,80,80,75,5,Napoli: 8.9 fouls won/game,Small sample (5 games)
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Arnaut Danjuma,Valencia,Fouled 1+,100,100,100,9,Villarreal: 11.1 fouls committed/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Ayoze Pérez,Villarreal,Fouled 1+,100,100,100,9,Valencia: 10.9 fouls committed/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Guido Rodríguez,Valencia,Tackles 1+,100,100,100,6,,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Pau Navarro,Villarreal,Tackles 1+,100,100,100,4,,Small sample (4 games)
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Santi Comesaña,Villarreal,Fouls 1+,100,100,100,8,Valencia: 11.4 fouls won/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Sergi Cardona,Villarreal,Fouled 1+,100,100,100,5,Valencia: 10.9 fouls committed/game,Small sample (5 games)
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Valencia (team),Valencia,Cards 1+,100,100,,9,Villarreal: 11.7 fouls won/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Villarreal (team),Villarreal,Cards 1+,100,100,,9,Valencia: 11.4 fouls won/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Villarreal (team),Villarreal,SOT 4+,100,100,,9,Valencia: 5.1 SOT conceded/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Arnaut Danjuma,Valencia,Shots 1+,89,80,100,9,Villarreal: 12.0 shots conceded/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Ayoze Pérez,Villarreal,Shots 1+,89,80,100,9,Valencia: 15.1 shots conceded/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Georges Mikautadze,Villarreal,Shots 1+,89,80,100,9,Valencia: 15.1 shots conceded/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Pape Gueye,Villarreal,Fouled 1+,89,80,100,9,Valencia: 10.9 fouls committed/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Pepelu,Valencia,Tackles 1+,89,80,89,9,,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Stole Dimitrievski,Valencia,Saves 2+,89,80,,9,Villarreal: 6.2 shots on target/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Tajon Buchanan,Villarreal,Fouled 1+,86,100,100,7,Valencia: 10.9 fouls committed/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Tajon Buchanan,Villarreal,Shots 1+,86,80,100,7,Valencia: 15.1 shots conceded/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Tajon Buchanan,Villarreal,Fouls 1+,86,80,75,7,Valencia: 11.4 fouls won/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Guido Rodríguez,Valencia,Tackles 2+,83,100,83,6,,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,César Tárrega,Valencia,Fouls 1+,83,80,80,6,Villarreal: 11.7 fouls won/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,César Tárrega,Valencia,Tackles 1+,83,80,100,6,,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Guido Rodríguez,Valencia,Fouls 1+,83,80,83,6,Villarreal: 11.7 fouls won/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Guido Rodríguez,Valencia,Fouled 1+,83,80,83,6,Villarreal: 11.1 fouls committed/game,
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Juan Foyth,Villarreal,Tackles 1+,80,80,80,5,,Small sample (5 games)
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Ryunosuke Sato,Valencia,Tackles 1+,80,80,75,5,,Small sample (5 games)
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Sergi Cardona,Villarreal,Fouls 1+,80,80,80,5,Valencia: 11.4 fouls won/game,Small sample (5 games)
+Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Sergi Cardona,Villarreal,Tackles 1+,80,80,80,5,,Small sample (5 games)
 Sat 24 Oct · 17:30,Premier League,Chelsea v Tottenham Hotspur,Chelsea (team),Chelsea,Over 1.5,100,100,,7,Tottenham Hotspur: 1.43 goals conceded/game,
 Sat 24 Oct · 17:30,Premier League,Chelsea v Tottenham Hotspur,Jan Paul van Hecke,Tottenham Hotspur,Fouls 1+,100,100,100,7,Chelsea: 11.7 fouls won/game,
 Sat 24 Oct · 17:30,Premier League,Chelsea v Tottenham Hotspur,Jan Paul van Hecke,Tottenham Hotspur,Tackles 1+,100,100,100,7,,
@@ -712,33 +739,6 @@ Sat 24 Oct · 17:30,Bundesliga,Borussia Dortmund v Eintracht Frankfurt,Joane Gad
 Sat 24 Oct · 17:30,Bundesliga,Borussia Dortmund v Eintracht Frankfurt,Jobe Bellingham,Borussia Dortmund,Tackles 1+,83,80,80,6,,
 Sat 24 Oct · 17:30,Bundesliga,Borussia Dortmund v Eintracht Frankfurt,Maximilian Beier,Borussia Dortmund,Shots 1+,83,80,100,6,Eintracht Frankfurt: 17.5 shots conceded/game,
 Sat 24 Oct · 17:30,Bundesliga,Borussia Dortmund v Eintracht Frankfurt,Maximilian Beier,Borussia Dortmund,Shots 2+,83,80,100,6,Eintracht Frankfurt: 17.5 shots conceded/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Arnaut Danjuma,Valencia,Fouled 1+,100,100,100,9,Villarreal: 11.1 fouls committed/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Ayoze Pérez,Villarreal,Fouled 1+,100,100,100,9,Valencia: 10.9 fouls committed/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Guido Rodríguez,Valencia,Tackles 1+,100,100,100,6,,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Pau Navarro,Villarreal,Tackles 1+,100,100,100,4,,Small sample (4 games)
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Santi Comesaña,Villarreal,Fouls 1+,100,100,100,8,Valencia: 11.4 fouls won/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Sergi Cardona,Villarreal,Fouled 1+,100,100,100,5,Valencia: 10.9 fouls committed/game,Small sample (5 games)
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Valencia (team),Valencia,Cards 1+,100,100,,9,Villarreal: 11.7 fouls won/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Villarreal (team),Villarreal,Cards 1+,100,100,,9,Valencia: 11.4 fouls won/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Villarreal (team),Villarreal,SOT 4+,100,100,,9,Valencia: 5.1 SOT conceded/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Arnaut Danjuma,Valencia,Shots 1+,89,80,100,9,Villarreal: 12.0 shots conceded/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Ayoze Pérez,Villarreal,Shots 1+,89,80,100,9,Valencia: 15.1 shots conceded/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Georges Mikautadze,Villarreal,Shots 1+,89,80,100,9,Valencia: 15.1 shots conceded/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Pape Gueye,Villarreal,Fouled 1+,89,80,100,9,Valencia: 10.9 fouls committed/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Pepelu,Valencia,Tackles 1+,89,80,89,9,,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Stole Dimitrievski,Valencia,Saves 2+,89,80,,9,Villarreal: 6.2 shots on target/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Tajon Buchanan,Villarreal,Fouled 1+,86,100,100,7,Valencia: 10.9 fouls committed/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Tajon Buchanan,Villarreal,Shots 1+,86,80,100,7,Valencia: 15.1 shots conceded/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Tajon Buchanan,Villarreal,Fouls 1+,86,80,75,7,Valencia: 11.4 fouls won/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Guido Rodríguez,Valencia,Tackles 2+,83,100,83,6,,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,César Tárrega,Valencia,Fouls 1+,83,80,80,6,Villarreal: 11.7 fouls won/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,César Tárrega,Valencia,Tackles 1+,83,80,100,6,,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Guido Rodríguez,Valencia,Fouls 1+,83,80,83,6,Villarreal: 11.7 fouls won/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Guido Rodríguez,Valencia,Fouled 1+,83,80,83,6,Villarreal: 11.1 fouls committed/game,
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Juan Foyth,Villarreal,Tackles 1+,80,80,80,5,,Small sample (5 games)
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Ryunosuke Sato,Valencia,Tackles 1+,80,80,75,5,,Small sample (5 games)
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Sergi Cardona,Villarreal,Fouls 1+,80,80,80,5,Valencia: 11.4 fouls won/game,Small sample (5 games)
-Sat 24 Oct · 17:30,La Liga,Valencia v Villarreal,Sergi Cardona,Villarreal,Tackles 1+,80,80,80,5,,Small sample (5 games)
 Sat 24 Oct · 18:30,MLS,CF Montréal v Nashville SC,Hany Mukhtar,Nashville SC,Shots 1+,100,100,100,30,CF Montréal: 13.6 shots conceded/game,
 Sat 24 Oct · 18:30,MLS,CF Montréal v Nashville SC,Gennadiy Synchuk,CF Montréal,Shots 1+,95,100,100,20,Nashville SC: 11.0 shots conceded/game,
 Sat 24 Oct · 18:30,MLS,CF Montréal v Nashville SC,Elias Saad,Nashville SC,Shots 1+,92,100,89,13,CF Montréal: 13.6 shots conceded/game,
