@@ -1,3 +1,3 @@
 ===== LIGUE1
 fixtures 306 table 18 scope None
-LIGUE1 {'new_matches': 0, 'cached': 63, 'run_seconds': 56, 'at': '2026-10-23T17:21Z'}
+LIGUE1 {'new_matches': 1, 'cached': 64, 'run_seconds': 57, 'at': '2026-10-24T05:28Z'}

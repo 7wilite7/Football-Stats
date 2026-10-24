@@ -1,25 +1,25 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 24 Oct 2026 06:27 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 24 Oct 2026 06:28 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,125,90,72,89
-Tackles 1+,23,16,70,89
-Fouls 1+,21,10,48,89
-Fouled 1+,19,12,63,90
-Shots 1+,19,15,79,91
-Cards 1+,6,5,83,91
-Saves 2+,4,4,100,97
-SOT 1+,4,4,100,82
-Over 1.5,4,4,100,96
+All picks,154,116,75,89
+Tackles 1+,29,22,76,89
+Fouls 1+,24,13,54,89
+Fouled 1+,23,15,65,90
+Shots 1+,23,18,78,91
+Cards 1+,8,7,88,93
+Saves 2+,6,5,83,94
+SOT 1+,6,6,100,82
+Over 1.5,5,5,100,94
+Fouls 2+,4,3,75,85
 Saves 3+,3,3,100,96
-Shots 2+,2,2,100,84
+Shots 2+,3,3,100,85
+Scores 1+,3,3,100,91
+BTTS,2,2,100,86
 Over 2.5,2,2,100,93
 SOT 4+,2,1,50,93
-Scores 1+,2,2,100,93
 Cards 2+,2,1,50,84
-Fouls 2+,2,1,50,84
 Corners 4+,2,1,50,86
 Match corners 9+,2,2,100,83
 Tackles 2+,2,1,50,82
-BTTS,1,1,100,86
 Corners 5+,1,1,100,83
 Match corners 10+,1,1,100,83
 Match cards 4+,1,1,100,83
@@ -1386,36 +1386,36 @@ Michael Folorunsho,Fouled 1+,Torino v Monza,Fri 23 Oct · 19:45,Serie A,83,80,Hi
 Andrea Colpani,Shots 1+,Torino v Monza,Fri 23 Oct · 19:45,Serie A,80,80,Did not play
 Torino (team),Over 1.5,Torino v Monza,Fri 23 Oct · 19:45,Serie A,100,100,Hit
 Torino (team),Scores 1+,Torino v Monza,Fri 23 Oct · 19:45,Serie A,86,80,Hit
-Niels Nkounkou,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-Mohamed Amoura,Shots 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-Mohamed Amoura,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,80,80,Pending
-Mohamed Abdelmonem,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,100,Pending
-Elye Wahi,SOT 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,83,80,Pending
-Elye Wahi,Shots 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-Bradley Locko,Fouled 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Bradley Locko,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Kamory Doumbia,Fouled 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-Kamory Doumbia,Fouls 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Fouls 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Fouls 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,SOT 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Shots 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Shots 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Pathé Mboup,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-Xavier Mandza,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-Kenny Lala,Fouled 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Kenny Lala,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Axel Witsel,Shots 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,83,100,Pending
-Ludovic Ajorque,Fouls 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-Ludovic Ajorque,Fouls 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Egil Selvik,Saves 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,100,Pending
-Yéhvann Diouf,Saves 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,100,Pending
-Hugo Magnetti,Fouled 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,83,80,Pending
-Brest (team),BTTS,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Brest (team),Cards 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-Brest (team),Over 1.5,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Brest (team),Scores 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
-Nice (team),Cards 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
+Niels Nkounkou,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Hit
+Mohamed Amoura,Shots 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Hit
+Mohamed Amoura,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,80,80,Hit
+Mohamed Abdelmonem,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,100,Hit
+Elye Wahi,SOT 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,83,80,Hit
+Elye Wahi,Shots 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Hit
+Bradley Locko,Fouled 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Bradley Locko,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Kamory Doumbia,Fouled 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Miss
+Kamory Doumbia,Fouls 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Pathé Mboup,Fouls 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Pathé Mboup,Fouls 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Pathé Mboup,SOT 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Pathé Mboup,Shots 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Pathé Mboup,Shots 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Pathé Mboup,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Hit
+Xavier Mandza,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Did not play
+Kenny Lala,Fouled 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Kenny Lala,Tackles 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Axel Witsel,Shots 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,83,100,Miss
+Ludovic Ajorque,Fouls 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Hit
+Ludovic Ajorque,Fouls 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Egil Selvik,Saves 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,100,Miss
+Yéhvann Diouf,Saves 2+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,100,Hit
+Hugo Magnetti,Fouled 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,83,80,Hit
+Brest (team),BTTS,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Brest (team),Cards 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Hit
+Brest (team),Over 1.5,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Brest (team),Scores 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Hit
+Nice (team),Cards 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Hit
 VfB Stuttgart (team),Corners 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
 VfB Stuttgart (team),Corners 5+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
 VfB Stuttgart (team),Match corners 10+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
