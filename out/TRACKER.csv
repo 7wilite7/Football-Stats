@@ -1,25 +1,26 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 24 Oct 2026 06:28 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 24 Oct 2026 06:29 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,154,116,75,89
-Tackles 1+,29,22,76,89
-Fouls 1+,24,13,54,89
-Fouled 1+,23,15,65,90
-Shots 1+,23,18,78,91
+All picks,174,132,76,89
+Tackles 1+,32,24,75,89
+Shots 1+,28,22,79,91
+Fouls 1+,25,13,52,89
+Fouled 1+,25,16,64,90
 Cards 1+,8,7,88,93
-Saves 2+,6,5,83,94
+Saves 2+,7,6,86,92
 SOT 1+,6,6,100,82
-Over 1.5,5,5,100,94
+Over 1.5,6,6,100,92
+Shots 2+,5,5,100,86
+SOT 4+,4,3,75,88
+Scores 1+,4,4,100,93
 Fouls 2+,4,3,75,85
 Saves 3+,3,3,100,96
-Shots 2+,3,3,100,85
-Scores 1+,3,3,100,91
-BTTS,2,2,100,86
+BTTS,3,3,100,85
 Over 2.5,2,2,100,93
-SOT 4+,2,1,50,93
 Cards 2+,2,1,50,84
 Corners 4+,2,1,50,86
 Match corners 9+,2,2,100,83
 Tackles 2+,2,1,50,82
+Score or assist,1,1,100,83
 Corners 5+,1,1,100,83
 Match corners 10+,1,1,100,83
 Match cards 4+,1,1,100,83
@@ -1302,31 +1303,31 @@ Daniel Muñoz,Fouls 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct · 20:00,Prem
 Daniel Muñoz,Tackles 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct · 20:00,Premier League,100,100,Hit
 Ipswich Town (team),Cards 1+,Ipswich Town v Nottingham Forest,Fri 23 Oct · 20:00,Premier League,86,100,Hit
 Ipswich Town (team),Over 1.5,Ipswich Town v Nottingham Forest,Fri 23 Oct · 20:00,Premier League,86,80,Hit
-Morgan Whittaker,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
-Morgan Whittaker,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
-Morgan Whittaker,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
-Morgan Whittaker,Tackles 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
-Aidan Morris,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,80,80,Pending
-Aidan Morris,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
-Amario Cozier-Duberry,Score or assist,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,83,80,Pending
-Amario Cozier-Duberry,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
-Amario Cozier-Duberry,Shots 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,83,80,Pending
-Will Lankshear,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
-Will Lankshear,Shots 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,91,100,Pending
-Josh Sheehan,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,91,80,Pending
-Josh Sheehan,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Pending
-Callum Brittain,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,91,80,Pending
-Akin Famewo,Fouls 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,86,100,Pending
-Sam Dalby,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Pending
-John McAtee,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,83,80,Pending
-Middlesbrough (team),BTTS,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Pending
-Middlesbrough (team),Over 1.5,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Pending
-Middlesbrough (team),SOT 4+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,100,Pending
-Middlesbrough (team),Scores 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
-Bolton Wanderers (team),SOT 4+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Pending
-Ethan Erhahon,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,90,80,Pending
-Gavin Bazunu,Saves 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,83,80,Pending
-Rúben Rodrigues,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Pending
+Morgan Whittaker,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Did not play
+Morgan Whittaker,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Did not play
+Morgan Whittaker,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Did not play
+Morgan Whittaker,Tackles 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Did not play
+Aidan Morris,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,80,80,Hit
+Aidan Morris,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Hit
+Amario Cozier-Duberry,Score or assist,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,83,80,Hit
+Amario Cozier-Duberry,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Hit
+Amario Cozier-Duberry,Shots 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,83,80,Hit
+Will Lankshear,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Hit
+Will Lankshear,Shots 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,91,100,Hit
+Josh Sheehan,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,91,80,Hit
+Josh Sheehan,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Hit
+Callum Brittain,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,91,80,Hit
+Akin Famewo,Fouls 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,86,100,Miss
+Sam Dalby,Shots 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Miss
+John McAtee,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,83,80,Did not play
+Middlesbrough (team),BTTS,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Hit
+Middlesbrough (team),Over 1.5,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Hit
+Middlesbrough (team),SOT 4+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,100,Hit
+Middlesbrough (team),Scores 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Hit
+Bolton Wanderers (team),SOT 4+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,82,80,Hit
+Ethan Erhahon,Tackles 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,90,80,Miss
+Gavin Bazunu,Saves 2+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,83,80,Hit
+Rúben Rodrigues,Fouled 1+,Bolton Wanderers v Middlesbrough,Fri 23 Oct · 20:00,Championship,100,100,Miss
 David Larrubia,Shots 1+,Deportivo Alavés v Málaga,Fri 23 Oct · 20:00,La Liga,89,80,Miss
 David Larrubia,Tackles 1+,Deportivo Alavés v Málaga,Fri 23 Oct · 20:00,La Liga,100,100,Hit
 Abderrahman Rebbach,Fouls 1+,Deportivo Alavés v Málaga,Fri 23 Oct · 20:00,La Liga,89,80,Miss
