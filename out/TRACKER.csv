@@ -1,23 +1,28 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 24 Oct 2026 06:26 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 24 Oct 2026 06:27 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,85,59,69,90
-Fouls 1+,16,6,38,87
-Tackles 1+,15,12,80,91
-Fouled 1+,15,8,53,90
-Shots 1+,13,11,85,91
-Cards 1+,5,4,80,92
-Saves 2+,3,3,100,96
-SOT 1+,3,3,100,81
-Over 1.5,3,3,100,95
-Saves 3+,2,2,100,94
+All picks,125,90,72,89
+Tackles 1+,23,16,70,89
+Fouls 1+,21,10,48,89
+Fouled 1+,19,12,63,90
+Shots 1+,19,15,79,91
+Cards 1+,6,5,83,91
+Saves 2+,4,4,100,97
+SOT 1+,4,4,100,82
+Over 1.5,4,4,100,96
+Saves 3+,3,3,100,96
 Shots 2+,2,2,100,84
+Over 2.5,2,2,100,93
+SOT 4+,2,1,50,93
 Scores 1+,2,2,100,93
+Cards 2+,2,1,50,84
+Fouls 2+,2,1,50,84
+Corners 4+,2,1,50,86
+Match corners 9+,2,2,100,83
+Tackles 2+,2,1,50,82
 BTTS,1,1,100,86
-Over 2.5,1,1,100,86
-SOT 4+,1,0,0,86
-Cards 2+,1,0,0,86
-Fouls 2+,1,1,100,88
-Corners 4+,1,0,0,89
+Corners 5+,1,1,100,83
+Match corners 10+,1,1,100,83
+Match cards 4+,1,1,100,83
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
@@ -1411,46 +1416,46 @@ Brest (team),Cards 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
 Brest (team),Over 1.5,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
 Brest (team),Scores 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,86,80,Pending
 Nice (team),Cards 1+,Brest v Nice,Fri 23 Oct · 19:45,Ligue 1,100,100,Pending
-VfB Stuttgart (team),Corners 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Pending
-VfB Stuttgart (team),Corners 5+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Pending
-VfB Stuttgart (team),Match corners 10+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-VfB Stuttgart (team),Match corners 9+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-VfB Stuttgart (team),SOT 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Ramon Hendriks,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Ramon Hendriks,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Pending
-Bilal El Khannouss,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Hugo Bolin,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Hugo Bolin,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Dženan Pejčinović,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Lukas Ullrich,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Lukas Ullrich,Fouls 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Pending
-Lukas Ullrich,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Lukas Ullrich,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Pending
-Lukas Ullrich,Tackles 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Pending
-Maximilian Mittelstädt,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Pending
-Deniz Undav,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Florian Neuhaus,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Moritz Nicolas,Saves 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Moritz Nicolas,Saves 3+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Ermedin Demirović,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Ermedin Demirović,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Ermedin Demirović,SOT 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Pending
-Ermedin Demirović,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Jeff Chabot,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Jeff Chabot,Tackles 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Chris Führich,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Pending
-Philipp Sander,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Philipp Sander,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Philipp Sander,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Joseph Scally,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Pending
-Joseph Scally,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Joseph Scally,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Pending
-Borussia Mönchengladbach (team),Cards 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Pending
-Borussia Mönchengladbach (team),Cards 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Pending
-Borussia Mönchengladbach (team),Match cards 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Pending
-Borussia Mönchengladbach (team),Match corners 9+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Pending
-Borussia Mönchengladbach (team),Over 1.5,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
-Borussia Mönchengladbach (team),Over 2.5,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Pending
+VfB Stuttgart (team),Corners 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
+VfB Stuttgart (team),Corners 5+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
+VfB Stuttgart (team),Match corners 10+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+VfB Stuttgart (team),Match corners 9+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+VfB Stuttgart (team),SOT 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Ramon Hendriks,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Ramon Hendriks,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Miss
+Bilal El Khannouss,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Hugo Bolin,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+Hugo Bolin,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+Dženan Pejčinović,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Lukas Ullrich,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Lukas Ullrich,Fouls 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Miss
+Lukas Ullrich,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Miss
+Lukas Ullrich,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Hit
+Lukas Ullrich,Tackles 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Hit
+Maximilian Mittelstädt,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Miss
+Deniz Undav,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Miss
+Florian Neuhaus,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Moritz Nicolas,Saves 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Moritz Nicolas,Saves 3+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Ermedin Demirović,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+Ermedin Demirović,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+Ermedin Demirović,SOT 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
+Ermedin Demirović,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Jeff Chabot,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Miss
+Jeff Chabot,Tackles 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Miss
+Chris Führich,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,80,80,Miss
+Philipp Sander,Fouls 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Philipp Sander,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Miss
+Philipp Sander,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+Joseph Scally,Fouled 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
+Joseph Scally,Shots 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+Joseph Scally,Tackles 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
+Borussia Mönchengladbach (team),Cards 1+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
+Borussia Mönchengladbach (team),Cards 2+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
+Borussia Mönchengladbach (team),Match cards 4+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,100,Hit
+Borussia Mönchengladbach (team),Match corners 9+,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,83,80,Hit
+Borussia Mönchengladbach (team),Over 1.5,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
+Borussia Mönchengladbach (team),Over 2.5,VfB Stuttgart v Borussia Mönchengladbach,Fri 23 Oct · 19:30,Bundesliga,100,100,Hit
 Artem Bondarenko,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct · 19:00,Saudi Pro League (top 5),100,100,Pending
 Saad Yaslam,Fouled 1+,Al Ahli v Al Khaleej,Fri 23 Oct · 19:00,Saudi Pro League (top 5),86,80,Pending
 Rayan Hamed,Tackles 1+,Al Ahli v Al Khaleej,Fri 23 Oct · 19:00,Saudi Pro League (top 5),100,100,Pending
