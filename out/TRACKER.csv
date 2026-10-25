@@ -1,31 +1,31 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,1300,955,73,89
-Tackles 1+,266,208,78,90
-Shots 1+,230,187,81,90
-Fouled 1+,157,107,68,89
-Fouls 1+,143,87,61,87
-Cards 1+,80,72,90,92
+All picks,1326,973,73,89
+Tackles 1+,270,211,78,90
+Shots 1+,235,191,81,90
+Fouled 1+,159,108,68,89
+Fouls 1+,146,88,60,87
+Cards 1+,81,73,90,92
 Over 1.5,56,44,79,89
-Scores 1+,53,39,74,89
-Shots 2+,49,33,67,89
+Scores 1+,54,40,74,89
+Shots 2+,51,34,67,89
 Saves 2+,48,35,73,90
-SOT 1+,32,24,75,86
-Tackles 2+,29,12,41,87
-SOT 4+,23,17,74,90
-Match corners 9+,17,13,76,86
-Corners 4+,17,12,71,89
-Fouled 2+,13,7,54,87
+SOT 1+,33,25,76,87
+Tackles 2+,30,12,40,87
+SOT 4+,24,18,75,90
+Match corners 9+,18,14,78,87
+Corners 4+,18,13,72,90
+Fouled 2+,14,7,50,87
 Cards 2+,13,8,62,87
 BTTS,13,7,54,88
 Over 2.5,12,7,58,87
 Saves 3+,11,8,73,90
+Corners 5+,7,5,71,84
 Fouls 2+,7,3,43,86
 Score or assist,6,5,83,84
-Corners 5+,6,4,67,84
 Win,6,4,67,90
+Match corners 10+,6,5,83,85
 Match cards 4+,5,5,100,86
-Match corners 10+,5,4,80,84
 Goal 1+,2,2,100,84
 SOT 2+,1,1,100,88
 
@@ -1488,32 +1488,32 @@ Iñigo Vicente,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct · 15:15,La Liga
 Iñigo Vicente,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct · 15:15,La Liga,89,100,Hit
 Andrés Martin,Shots 1+,Racing Santander v Espanyol,Sat 24 Oct · 15:15,La Liga,80,80,Hit
 Iván Martin,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct · 15:15,La Liga,86,80,Hit
-Emmanuel Fernandez,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Kevin Kelsy,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Djeidi Gassama,Fouled 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Djeidi Gassama,Fouled 2+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Djeidi Gassama,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Djeidi Gassama,Shots 2+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Ryan Don Naderi,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Ryan Don Naderi,SOT 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-Ryan Don Naderi,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-Olwethu Makhanya,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-Min-Su Kim,Fouled 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Pending
-Min-Su Kim,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Min-Su Kim,Shots 2+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
-James Penrice,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
-James Penrice,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Pending
-James Penrice,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Dujon Sterling,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
-Dujon Sterling,Tackles 2+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Pending
-Rangers (team),Cards 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Rangers (team),Corners 4+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),Corners 5+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Rangers (team),Match corners 10+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Rangers (team),Match corners 9+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),SOT 4+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),Scores 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Daniel Neil,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Emmanuel Fernandez,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Miss
+Kevin Kelsy,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Hit
+Djeidi Gassama,Fouled 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Djeidi Gassama,Fouled 2+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Miss
+Djeidi Gassama,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Miss
+Djeidi Gassama,Shots 2+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Miss
+Ryan Don Naderi,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Ryan Don Naderi,SOT 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Hit
+Ryan Don Naderi,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Hit
+Olwethu Makhanya,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Miss
+Min-Su Kim,Fouled 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Miss
+Min-Su Kim,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Min-Su Kim,Shots 2+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Hit
+James Penrice,Fouls 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Miss
+James Penrice,Shots 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Hit
+James Penrice,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Dujon Sterling,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Hit
+Dujon Sterling,Tackles 2+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,80,Miss
+Rangers (team),Cards 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Rangers (team),Corners 4+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Rangers (team),Corners 5+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Rangers (team),Match corners 10+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Rangers (team),Match corners 9+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Rangers (team),SOT 4+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Rangers (team),Scores 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Daniel Neil,Tackles 1+,Rangers v St. Johnstone,Sat 24 Oct · 15:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
 Jarrad Branthwaite,Tackles 1+,Arsenal v Everton,Sat 24 Oct · 15:00,Premier League,86,80,Did not play
 Riccardo Calafiori,Shots 1+,Arsenal v Everton,Sat 24 Oct · 15:00,Premier League,86,80,Miss
 Thierno Barry,Fouled 1+,Arsenal v Everton,Sat 24 Oct · 15:00,Premier League,86,80,Hit
