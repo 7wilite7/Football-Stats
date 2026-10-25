@@ -1,32 +1,32 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:35 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:37 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,572,429,75,90
-Tackles 1+,122,96,79,90
-Shots 1+,99,80,81,91
-Fouled 1+,79,55,70,89
-Fouls 1+,69,39,57,88
-Cards 1+,25,23,92,93
-Shots 2+,21,18,86,91
-Over 1.5,19,17,89,91
-Saves 2+,18,14,78,90
-Scores 1+,18,14,78,92
-SOT 1+,16,14,88,85
-SOT 4+,14,10,71,91
-Tackles 2+,11,5,45,84
-Corners 4+,9,6,67,88
-BTTS,6,3,50,90
+All picks,789,581,74,90
+Tackles 1+,169,133,79,90
+Shots 1+,130,104,80,91
+Fouled 1+,100,67,67,89
+Fouls 1+,90,53,59,88
+Cards 1+,36,33,92,93
+Shots 2+,30,23,77,89
+Saves 2+,27,20,74,91
+Over 1.5,25,20,80,91
+Scores 1+,25,19,76,91
+SOT 1+,23,20,87,86
+Tackles 2+,22,9,41,86
+SOT 4+,18,14,78,91
+Corners 4+,11,8,73,87
+Match corners 9+,10,8,80,87
+Saves 3+,10,7,70,91
+BTTS,9,5,56,90
+Over 2.5,9,5,56,88
+Cards 2+,8,6,75,90
+Fouled 2+,6,3,50,87
 Fouls 2+,6,3,50,86
-Match corners 9+,5,5,100,88
-Over 2.5,5,3,60,89
 Win,5,3,60,88
-Cards 2+,5,4,80,91
-Saves 3+,4,4,100,94
-Match cards 4+,4,4,100,87
-Corners 5+,3,2,67,85
-Fouled 2+,3,1,33,91
-Score or assist,2,2,100,84
-Match corners 10+,2,2,100,86
-Goal 1+,1,1,100,86
+Match cards 4+,5,5,100,86
+Corners 5+,4,3,75,84
+Score or assist,4,4,100,84
+Match corners 10+,4,3,75,84
+Goal 1+,2,2,100,84
 SOT 2+,1,1,100,88
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
@@ -1377,47 +1377,47 @@ Arnaut Danjuma,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,1
 Arnaut Danjuma,Shots 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Hit
 Juan Foyth,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,80,80,Miss
 Pape Gueye,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Hit
-Maximilian Beier,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Maximilian Beier,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Raphael Onyedika,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Raphael Onyedika,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Raphael Onyedika,Tackles 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Ansgar Knauff,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Daniel Svensson,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Ethan Nwaneri,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,80,80,Pending
-Noah Atubolu,Saves 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Noah Atubolu,Saves 3+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Jobe Bellingham,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Can Uzun,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Can Uzun,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Can Uzun,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,80,80,Pending
-Elias Baum,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Younes Ebnoutalib,SOT 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Younes Ebnoutalib,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Younes Ebnoutalib,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Joane Gadou,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Keita Kosugi,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Keita Kosugi,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,SOT 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Serhou Guirassy,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Ritsu Doan,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,80,80,Pending
-Ritsu Doan,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Ritsu Doan,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Waldemar Anton,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Waldemar Anton,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,100,Pending
-Jonathan Burkardt,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Felix Nmecha,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Borussia Dortmund (team),Cards 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Borussia Dortmund (team),Cards 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Borussia Dortmund (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Eintracht Frankfurt (team),Cards 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Pending
-Eintracht Frankfurt (team),Cards 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Eintracht Frankfurt (team),Over 1.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Eintracht Frankfurt (team),Over 2.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Eintracht Frankfurt (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
+Maximilian Beier,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Maximilian Beier,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
+Raphael Onyedika,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Raphael Onyedika,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Raphael Onyedika,Tackles 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
+Ansgar Knauff,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Daniel Svensson,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Ethan Nwaneri,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,80,80,Hit
+Noah Atubolu,Saves 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Noah Atubolu,Saves 3+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Jobe Bellingham,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Can Uzun,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Miss
+Can Uzun,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Miss
+Can Uzun,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,80,80,Miss
+Elias Baum,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Younes Ebnoutalib,SOT 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Younes Ebnoutalib,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Younes Ebnoutalib,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
+Joane Gadou,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
+Keita Kosugi,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Did not play
+Keita Kosugi,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Did not play
+Serhou Guirassy,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Serhou Guirassy,Fouls 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Miss
+Serhou Guirassy,SOT 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Serhou Guirassy,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Serhou Guirassy,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Ritsu Doan,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,80,80,Miss
+Ritsu Doan,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Miss
+Ritsu Doan,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Waldemar Anton,Fouled 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
+Waldemar Anton,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,100,Hit
+Jonathan Burkardt,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Felix Nmecha,Tackles 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Borussia Dortmund (team),Cards 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Miss
+Borussia Dortmund (team),Cards 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
+Borussia Dortmund (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Eintracht Frankfurt (team),Cards 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,100,100,Hit
+Eintracht Frankfurt (team),Cards 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
+Eintracht Frankfurt (team),Over 1.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
+Eintracht Frankfurt (team),Over 2.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
+Eintracht Frankfurt (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
 Rasmus Højlund,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,100,Hit
 Matias Soulé,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Hit
 Rafa Marín,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Hit
