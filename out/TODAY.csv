@@ -1,4 +1,4 @@
-"Games kicking off in the next 24 hours (from 25 Oct 2026 06:37 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
+"Games kicking off in the next 24 hours (from 25 Oct 2026 06:38 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
 Kick-off (UK),Competition,Match,Pick,Team,Market,Season %,Last 5 %,When starting %,Games,Opponent context,Note
 Sun 25 Oct · 11:30,Serie A,Inter v Fiorentina,Alessandro Bastoni,Inter,Tackles 1+,100,100,100,6,,
 Sun 25 Oct · 11:30,Serie A,Inter v Fiorentina,Alieu Njie,Fiorentina,Shots 1+,100,100,100,6,Inter: 11.0 shots conceded/game,Transferred (from Torino)
@@ -101,6 +101,36 @@ Sun 25 Oct · 13:30,Eredivisie (top 5),PSV Eindhoven v Feyenoord,Jeremiah St. Ju
 Sun 25 Oct · 13:30,Eredivisie (top 5),PSV Eindhoven v Feyenoord,Ayoni Santos,PSV Eindhoven,Tackles 1+,83,80,100,6,,Transferred (from Sparta Rotterdam)
 Sun 25 Oct · 13:30,Eredivisie (top 5),PSV Eindhoven v Feyenoord,Noah Fernandez,PSV Eindhoven,Shots 1+,83,80,100,6,Feyenoord: 11.1 shots conceded/game,
 Sun 25 Oct · 13:30,Eredivisie (top 5),PSV Eindhoven v Feyenoord,Noah Fernandez,PSV Eindhoven,Tackles 1+,83,80,80,6,,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Başar Önal,Lille,Fouled 1+,100,100,100,4,Monaco: 11.7 fouls committed/game,Small sample (4 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Edan Diop,Monaco,Tackles 1+,100,100,100,3,,Small sample (3 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lamine Camara,Monaco,Fouled 1+,100,100,100,7,Lille: 11.7 fouls committed/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lamine Camara,Monaco,Tackles 1+,100,100,100,7,,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lille (team),Lille,Scores 1+,100,100,,7,Monaco: 0.86 goals conceded/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lukás Hrádecky,Monaco,Saves 2+,100,100,,7,Lille: 5.4 shots on target/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Mamadou Coulibaly,Monaco,Fouled 1+,100,100,100,3,Lille: 11.7 fouls committed/game,Small sample (3 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Mamadou Coulibaly,Monaco,Fouled 2+,100,100,100,3,Lille: 11.7 fouls committed/game,Small sample (3 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Mamadou Coulibaly,Monaco,Tackles 1+,100,100,100,3,,Small sample (3 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Monaco (team),Monaco,Cards 1+,100,100,,7,Lille: 14.6 fouls won/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Paris Brunner,Monaco,Shots 1+,100,100,100,5,Lille: 15.0 shots conceded/game,Small sample (5 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Romain Perraud,Lille,Tackles 1+,100,100,100,7,,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Hákon Arnar Haraldsson,Lille,Fouled 1+,86,100,83,7,Monaco: 11.7 fouls committed/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lamine Camara,Monaco,Fouls 1+,86,80,86,7,Lille: 14.6 fouls won/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lamine Camara,Monaco,Tackles 2+,86,80,86,7,,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lille (team),Lille,Cards 1+,86,80,,7,Monaco: 11.1 fouls won/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lille (team),Lille,SOT 4+,86,80,,7,Monaco: 4.1 SOT conceded/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Monaco (team),Monaco,Scores 1+,86,80,,7,Lille: 0.71 goals conceded/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Vanderson,Monaco,Fouls 1+,86,80,86,7,Lille: 14.6 fouls won/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Vanderson,Monaco,Tackles 1+,86,80,86,7,,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Vanderson,Monaco,Tackles 2+,86,80,86,7,,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Alexsandro Ribeiro,Lille,Fouls 1+,83,80,83,6,Monaco: 11.1 fouls won/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Berke Özer,Lille,Saves 2+,83,80,,6,Monaco: 4.4 shots on target/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Dilane Bakwa,Lille,Shots 1+,83,80,100,6,Monaco: 13.1 shots conceded/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Dilane Bakwa,Lille,Tackles 1+,83,80,100,6,,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Nathan Ngoy,Lille,Fouled 1+,83,80,83,6,Monaco: 11.7 fouls committed/game,
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Benjamin André,Lille,Fouls 1+,80,80,100,5,Monaco: 11.1 fouls won/game,Small sample (5 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Benjamin André,Lille,Fouled 1+,80,80,75,5,Monaco: 11.7 fouls committed/game,Small sample (5 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Benjamin André,Lille,Tackles 1+,80,80,100,5,,Small sample (5 games)
+Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Benjamin André,Lille,Tackles 2+,80,80,100,5,,Small sample (5 games)
 Sun 25 Oct · 14:00,Premier League,Crystal Palace v Newcastle United,Adam Wharton,Crystal Palace,Fouled 1+,100,100,100,7,Newcastle United: 12.1 fouls committed/game,
 Sun 25 Oct · 14:00,Premier League,Crystal Palace v Newcastle United,Anan Khalaili,Crystal Palace,Tackles 1+,100,100,100,7,,
 Sun 25 Oct · 14:00,Premier League,Crystal Palace v Newcastle United,Harvey Barnes,Newcastle United,Shots 1+,100,100,100,7,Crystal Palace: 17.9 shots conceded/game,
@@ -280,36 +310,6 @@ Sun 25 Oct · 14:00,Serie A,Genoa v Venezia,Antoine Hainaut,Venezia,Tackles 1+,8
 Sun 25 Oct · 14:00,Serie A,Genoa v Venezia,Filip Stanković,Venezia,Saves 2+,86,80,,7,Genoa: 2.9 shots on target/game,
 Sun 25 Oct · 14:00,Serie A,Genoa v Venezia,John Yeboah,Venezia,Fouled 1+,86,80,100,7,Genoa: 9.7 fouls committed/game,
 Sun 25 Oct · 14:00,Serie A,Genoa v Venezia,John Yeboah,Venezia,Tackles 1+,86,80,83,7,,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Başar Önal,Lille,Fouled 1+,100,100,100,4,Monaco: 11.7 fouls committed/game,Small sample (4 games)
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Edan Diop,Monaco,Tackles 1+,100,100,100,3,,Small sample (3 games)
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Ethan Mbappé,Lille,Shots 1+,100,100,100,6,Monaco: 13.1 shots conceded/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lamine Camara,Monaco,Fouled 1+,100,100,100,7,Lille: 11.7 fouls committed/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lamine Camara,Monaco,Tackles 1+,100,100,100,7,,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lille (team),Lille,Scores 1+,100,100,,7,Monaco: 0.86 goals conceded/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lukás Hrádecky,Monaco,Saves 2+,100,100,,7,Lille: 5.4 shots on target/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Mamadou Coulibaly,Monaco,Fouled 1+,100,100,100,3,Lille: 11.7 fouls committed/game,Small sample (3 games)
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Mamadou Coulibaly,Monaco,Fouled 2+,100,100,100,3,Lille: 11.7 fouls committed/game,Small sample (3 games)
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Mamadou Coulibaly,Monaco,Tackles 1+,100,100,100,3,,Small sample (3 games)
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Monaco (team),Monaco,Cards 1+,100,100,,7,Lille: 14.6 fouls won/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Paris Brunner,Monaco,Shots 1+,100,100,100,5,Lille: 15.0 shots conceded/game,Small sample (5 games)
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Romain Perraud,Lille,Tackles 1+,100,100,100,7,,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Hákon Arnar Haraldsson,Lille,Fouled 1+,86,100,83,7,Monaco: 11.7 fouls committed/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lamine Camara,Monaco,Fouls 1+,86,80,86,7,Lille: 14.6 fouls won/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lamine Camara,Monaco,Tackles 2+,86,80,86,7,,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lille (team),Lille,Cards 1+,86,80,,7,Monaco: 11.1 fouls won/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Lille (team),Lille,SOT 4+,86,80,,7,Monaco: 4.1 SOT conceded/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Monaco (team),Monaco,Scores 1+,86,80,,7,Lille: 0.71 goals conceded/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Vanderson,Monaco,Fouls 1+,86,80,86,7,Lille: 14.6 fouls won/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Vanderson,Monaco,Tackles 1+,86,80,86,7,,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Vanderson,Monaco,Tackles 2+,86,80,86,7,,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Alexsandro Ribeiro,Lille,Fouls 1+,83,80,83,6,Monaco: 11.1 fouls won/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Berke Özer,Lille,Saves 2+,83,80,,6,Monaco: 4.4 shots on target/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Dilane Bakwa,Lille,Shots 1+,83,80,100,6,Monaco: 13.1 shots conceded/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Dilane Bakwa,Lille,Tackles 1+,83,80,100,6,,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Nathan Ngoy,Lille,Fouled 1+,83,80,83,6,Monaco: 11.7 fouls committed/game,
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Benjamin André,Lille,Fouls 1+,80,80,100,5,Monaco: 11.1 fouls won/game,Small sample (5 games)
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Benjamin André,Lille,Fouled 1+,80,80,75,5,Monaco: 11.7 fouls committed/game,Small sample (5 games)
-Sun 25 Oct · 14:00,Ligue 1,Monaco v Lille,Benjamin André,Lille,Tackles 1+,80,80,100,5,,Small sample (5 games)
 Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",Motherwell v Heart of Midlothian,Heart of Midlothian (team),Heart of Midlothian,Scores 1+,100,100,,9,Motherwell: 1.78 goals conceded/game,
 Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",Motherwell v Heart of Midlothian,Heart of Midlothian (team),Heart of Midlothian,Over 1.5,100,100,,9,Motherwell: 1.78 goals conceded/game,
 Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",Motherwell v Heart of Midlothian,Jordi Altena,Heart of Midlothian,Tackles 1+,100,100,100,8,,

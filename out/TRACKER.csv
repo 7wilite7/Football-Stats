@@ -1,25 +1,25 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:37 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:38 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,789,581,74,90
-Tackles 1+,169,133,79,90
-Shots 1+,130,104,80,91
-Fouled 1+,100,67,67,89
-Fouls 1+,90,53,59,88
-Cards 1+,36,33,92,93
-Shots 2+,30,23,77,89
-Saves 2+,27,20,74,91
-Over 1.5,25,20,80,91
-Scores 1+,25,19,76,91
-SOT 1+,23,20,87,86
+All picks,827,604,73,90
+Tackles 1+,177,138,78,90
+Shots 1+,135,107,79,91
+Fouled 1+,106,71,67,89
+Fouls 1+,95,57,60,88
+Cards 1+,38,35,92,93
+Shots 2+,31,23,74,89
+Saves 2+,28,20,71,91
+Over 1.5,26,21,81,91
+Scores 1+,26,20,77,90
+SOT 1+,25,20,80,86
 Tackles 2+,22,9,41,86
-SOT 4+,18,14,78,91
-Corners 4+,11,8,73,87
-Match corners 9+,10,8,80,87
+SOT 4+,19,14,74,91
+Corners 4+,12,9,75,88
+Match corners 9+,11,8,73,87
+BTTS,10,6,60,90
+Over 2.5,10,6,60,88
 Saves 3+,10,7,70,91
-BTTS,9,5,56,90
-Over 2.5,9,5,56,88
 Cards 2+,8,6,75,90
-Fouled 2+,6,3,50,87
+Fouled 2+,7,3,43,86
 Fouls 2+,6,3,50,86
 Win,5,3,60,88
 Match cards 4+,5,5,100,86
@@ -1259,49 +1259,49 @@ Nuno Tavares,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Hit
 Kenneth Taylor,Fouled 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
 Kenneth Taylor,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Miss
 Kenneth Taylor,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
-Samir Chergui,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Samir Chergui,Fouls 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Pending
-Yacine Titraoui,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Pending
-Yacine Titraoui,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Pending
-Pablo Pagis,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Pablo Pagis,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Pablo Pagis,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Luca Koleosho,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Pending
-Luca Koleosho,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Luca Koleosho,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,100,Pending
-Robin Risser,Saves 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Kyllian Antonio,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Pending
-Kyllian Antonio,Fouled 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Pending
-Kyllian Antonio,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Pending
-Souleymane Sagnan,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Souleymane Sagnan,Tackles 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Florian Thauvin,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Hamari Traoré,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,100,Pending
-Ruben Aguilar,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Pending
-Ruben Aguilar,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,100,Pending
-Maxime Lopez,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Paris FC (team),Cards 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Matthieu Udol,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Pending
-Pierre Lees-Melou,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Lens (team),BTTS,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Lens (team),Cards 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Lens (team),Corners 4+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Lens (team),Match corners 9+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Lens (team),Over 1.5,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Lens (team),Over 2.5,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Lens (team),SOT 4+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Lens (team),Scores 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Lassine Sinayoko,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Lassine Sinayoko,SOT 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Lassine Sinayoko,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Lassine Sinayoko,Shots 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Lassine Sinayoko,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Michał Skóras,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
-Michał Skóras,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Pending
-Ilan Kebbal,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Ilan Kebbal,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Pending
-Ilan Kebbal,SOT 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Pending
-Ilan Kebbal,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
+Samir Chergui,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Did not play
+Samir Chergui,Fouls 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Did not play
+Yacine Titraoui,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Hit
+Yacine Titraoui,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Hit
+Pablo Pagis,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
+Pablo Pagis,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Hit
+Pablo Pagis,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
+Luca Koleosho,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Hit
+Luca Koleosho,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Hit
+Luca Koleosho,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,100,Hit
+Robin Risser,Saves 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Miss
+Kyllian Antonio,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Hit
+Kyllian Antonio,Fouled 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Miss
+Kyllian Antonio,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Miss
+Souleymane Sagnan,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Did not play
+Souleymane Sagnan,Tackles 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Did not play
+Florian Thauvin,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
+Hamari Traoré,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,100,Did not play
+Ruben Aguilar,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Hit
+Ruben Aguilar,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,100,Hit
+Maxime Lopez,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Hit
+Paris FC (team),Cards 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Hit
+Matthieu Udol,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Miss
+Pierre Lees-Melou,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
+Lens (team),BTTS,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
+Lens (team),Cards 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Hit
+Lens (team),Corners 4+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Hit
+Lens (team),Match corners 9+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Miss
+Lens (team),Over 1.5,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
+Lens (team),Over 2.5,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
+Lens (team),SOT 4+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Miss
+Lens (team),Scores 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
+Lassine Sinayoko,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
+Lassine Sinayoko,SOT 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
+Lassine Sinayoko,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Miss
+Lassine Sinayoko,Shots 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
+Lassine Sinayoko,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Miss
+Michał Skóras,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Miss
+Michał Skóras,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Hit
+Ilan Kebbal,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Hit
+Ilan Kebbal,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Miss
+Ilan Kebbal,SOT 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
+Ilan Kebbal,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Hit
 Elias Saad,Shots 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,92,100,Pending
 Matthew Corcoran,Tackles 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,85,100,Pending
 Gennadiy Synchuk,Shots 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,95,100,Pending
