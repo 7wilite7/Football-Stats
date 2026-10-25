@@ -1,31 +1,31 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:38 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:39 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,827,604,73,90
-Tackles 1+,177,138,78,90
-Shots 1+,135,107,79,91
-Fouled 1+,106,71,67,89
-Fouls 1+,95,57,60,88
-Cards 1+,38,35,92,93
-Shots 2+,31,23,74,89
-Saves 2+,28,20,71,91
-Over 1.5,26,21,81,91
-Scores 1+,26,20,77,90
-SOT 1+,25,20,80,86
-Tackles 2+,22,9,41,86
-SOT 4+,19,14,74,91
-Corners 4+,12,9,75,88
-Match corners 9+,11,8,73,87
-BTTS,10,6,60,90
-Over 2.5,10,6,60,88
+All picks,1051,766,73,89
+Tackles 1+,229,177,77,90
+Shots 1+,174,138,79,90
+Fouled 1+,129,87,67,89
+Fouls 1+,123,74,60,88
+Cards 1+,56,53,95,92
+Saves 2+,39,29,74,90
+Shots 2+,38,28,74,89
+Scores 1+,36,27,75,91
+Over 1.5,35,26,74,90
+SOT 1+,27,21,78,87
+Tackles 2+,26,11,42,87
+SOT 4+,21,16,76,90
+Corners 4+,16,11,69,89
+Match corners 9+,15,12,80,86
+BTTS,13,7,54,88
+Over 2.5,11,6,55,88
 Saves 3+,10,7,70,91
-Cards 2+,8,6,75,90
-Fouled 2+,7,3,43,86
-Fouls 2+,6,3,50,86
+Cards 2+,10,7,70,88
+Fouled 2+,8,3,38,86
+Fouls 2+,7,3,43,86
+Corners 5+,6,4,67,84
 Win,5,3,60,88
 Match cards 4+,5,5,100,86
-Corners 5+,4,3,75,84
+Match corners 10+,5,4,80,84
 Score or assist,4,4,100,84
-Match corners 10+,4,3,75,84
 Goal 1+,2,2,100,84
 SOT 2+,1,1,100,88
 
