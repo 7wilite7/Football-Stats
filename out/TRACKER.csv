@@ -1,32 +1,32 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:34 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:35 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,459,351,76,90
-Tackles 1+,92,73,79,90
-Shots 1+,78,64,82,91
-Fouled 1+,67,49,73,90
-Fouls 1+,58,32,55,87
-Cards 1+,22,20,91,94
-Shots 2+,18,15,83,90
-Over 1.5,15,13,87,91
-SOT 1+,14,13,93,85
-Scores 1+,14,11,79,91
-Saves 2+,13,11,85,91
-SOT 4+,11,8,73,90
-Corners 4+,7,5,71,87
-Tackles 2+,7,4,57,84
+All picks,572,429,75,90
+Tackles 1+,122,96,79,90
+Shots 1+,99,80,81,91
+Fouled 1+,79,55,70,89
+Fouls 1+,69,39,57,88
+Cards 1+,25,23,92,93
+Shots 2+,21,18,86,91
+Over 1.5,19,17,89,91
+Saves 2+,18,14,78,90
+Scores 1+,18,14,78,92
+SOT 1+,16,14,88,85
+SOT 4+,14,10,71,91
+Tackles 2+,11,5,45,84
+Corners 4+,9,6,67,88
+BTTS,6,3,50,90
 Fouls 2+,6,3,50,86
-BTTS,5,3,60,89
+Match corners 9+,5,5,100,88
+Over 2.5,5,3,60,89
+Win,5,3,60,88
 Cards 2+,5,4,80,91
-Over 2.5,4,3,75,90
-Win,4,2,50,89
+Saves 3+,4,4,100,94
 Match cards 4+,4,4,100,87
-Saves 3+,3,3,100,96
-Match corners 9+,3,3,100,85
-Fouled 2+,2,1,50,87
+Corners 5+,3,2,67,85
+Fouled 2+,3,1,33,91
 Score or assist,2,2,100,84
 Match corners 10+,2,2,100,86
 Goal 1+,1,1,100,86
-Corners 5+,1,1,100,83
 SOT 2+,1,1,100,88
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
@@ -1231,34 +1231,34 @@ Atlético Madrid (team),Cards 1+,Atlético Madrid v Deportivo A Coruña,Sat 24 O
 Atlético Madrid (team),Over 1.5,Atlético Madrid v Deportivo A Coruña,Sat 24 Oct · 20:00,La Liga,89,80,Miss
 Atlético Madrid (team),SOT 4+,Atlético Madrid v Deportivo A Coruña,Sat 24 Oct · 20:00,La Liga,100,100,Hit
 Atlético Madrid (team),Scores 1+,Atlético Madrid v Deportivo A Coruña,Sat 24 Oct · 20:00,La Liga,89,100,Hit
-Gustav Isaksen,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Parma (team),Over 1.5,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Pending
-El Bilal Touré,Shots 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Pending
-Edoardo Corvi,Saves 2+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Edoardo Corvi,Saves 3+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-David Romero,Shots 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,83,80,Pending
-Mandela Keita,Fouled 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Pending
-Mandela Keita,Fouled 2+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Pending
-Mandela Keita,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Pending
-Romano Floriani Mussolini,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Romano Floriani Mussolini,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Pending
-Oliver Provstgaard,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Reda Belahyane,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Pending
-Mattia Zaccagni,Shots 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Mattia Zaccagni,Shots 2+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Mattia Zaccagni,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Diego Carlos,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Pending
-Davide Frattesi,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Lazio (team),Cards 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Lazio (team),Scores 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Pending
-Lazio (team),Win,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Christos Mandas,Saves 2+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Pending
-Adrián Bernabé,Fouled 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,80,80,Pending
-Adrián Bernabé,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,80,80,Pending
-Nuno Tavares,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Pending
-Kenneth Taylor,Fouled 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Kenneth Taylor,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
-Kenneth Taylor,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Pending
+Gustav Isaksen,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Miss
+Parma (team),Over 1.5,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Hit
+El Bilal Touré,Shots 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Hit
+Edoardo Corvi,Saves 2+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Edoardo Corvi,Saves 3+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+David Romero,Shots 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,83,80,Hit
+Mandela Keita,Fouled 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Miss
+Mandela Keita,Fouled 2+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Miss
+Mandela Keita,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Hit
+Romano Floriani Mussolini,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Romano Floriani Mussolini,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Hit
+Oliver Provstgaard,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Reda Belahyane,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Miss
+Mattia Zaccagni,Shots 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Mattia Zaccagni,Shots 2+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Mattia Zaccagni,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Miss
+Diego Carlos,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Hit
+Davide Frattesi,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Lazio (team),Cards 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Lazio (team),Scores 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,100,100,Hit
+Lazio (team),Win,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Christos Mandas,Saves 2+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Hit
+Adrián Bernabé,Fouled 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,80,80,Miss
+Adrián Bernabé,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,80,80,Miss
+Nuno Tavares,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,100,Hit
+Kenneth Taylor,Fouled 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
+Kenneth Taylor,Fouls 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Miss
+Kenneth Taylor,Tackles 1+,Lazio v Parma,Sat 24 Oct · 19:45,Serie A,86,80,Hit
 Samir Chergui,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Pending
 Samir Chergui,Fouls 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Pending
 Yacine Titraoui,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,80,80,Pending
@@ -1418,41 +1418,41 @@ Eintracht Frankfurt (team),Cards 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 
 Eintracht Frankfurt (team),Over 1.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
 Eintracht Frankfurt (team),Over 2.5,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
 Eintracht Frankfurt (team),Scores 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Pending
-Rasmus Højlund,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,100,Pending
-Matias Soulé,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Rafa Marín,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Pending
-Rafa Marín,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Pending
-Wesley,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Pending
-Rodrigo Mora,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Pending
-Marten de Roon,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Pending
-Bryan Cristante,Fouls 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Pending
-Bryan Cristante,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Pending
-Bryan Cristante,Tackles 2+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Pending
-Stanislav Lobotka,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Giovanni Di Lorenzo,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Amir Rrahmani,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Alex Meret,Saves 2+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Pending
-Gianluca Mancini,Fouls 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Pending
-Donyell Malen,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Pending
-Donyell Malen,SOT 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Pending
-Donyell Malen,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Pending
-Donyell Malen,Shots 2+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Pending
-Mario Hermoso,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Mario Hermoso,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Nahuel Molina,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Pending
-Evan N'Dicka,Fouls 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Pending
-Noa Lang,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Pending
-Noa Lang,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Pending
-Scott McTominay,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Pending
-Roma (team),Cards 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Roma (team),Over 1.5,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Roma (team),SOT 4+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Roma (team),Scores 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
-Leonardo Balerdi,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Pending
-Napoli (team),Corners 4+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,100,Pending
-Napoli (team),Corners 5+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,100,Pending
-Napoli (team),Match corners 9+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Pending
-Napoli (team),Scores 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Pending
+Rasmus Højlund,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,100,Hit
+Matias Soulé,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Hit
+Rafa Marín,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Hit
+Rafa Marín,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Hit
+Wesley,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Hit
+Rodrigo Mora,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Miss
+Marten de Roon,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Hit
+Bryan Cristante,Fouls 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Hit
+Bryan Cristante,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Hit
+Bryan Cristante,Tackles 2+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Miss
+Stanislav Lobotka,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Miss
+Giovanni Di Lorenzo,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Hit
+Amir Rrahmani,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Did not play
+Alex Meret,Saves 2+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Miss
+Gianluca Mancini,Fouls 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Miss
+Donyell Malen,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Miss
+Donyell Malen,SOT 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,83,80,Hit
+Donyell Malen,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Hit
+Donyell Malen,Shots 2+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Hit
+Mario Hermoso,Fouled 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Miss
+Mario Hermoso,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Miss
+Nahuel Molina,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Hit
+Evan N'Dicka,Fouls 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Hit
+Noa Lang,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Hit
+Noa Lang,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Hit
+Scott McTominay,Shots 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Hit
+Roma (team),Cards 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Hit
+Roma (team),Over 1.5,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Hit
+Roma (team),SOT 4+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Hit
+Roma (team),Scores 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Hit
+Leonardo Balerdi,Tackles 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,80,80,Hit
+Napoli (team),Corners 4+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,100,Miss
+Napoli (team),Corners 5+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,100,Miss
+Napoli (team),Match corners 9+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,100,100,Hit
+Napoli (team),Scores 1+,Napoli v Roma,Sat 24 Oct · 17:00,Serie A,86,80,Hit
 Tyrhys Dolan,Fouls 1+,Racing Santander v Espanyol,Sat 24 Oct · 15:15,La Liga,100,100,Miss
 Álvaro Mantilla,Tackles 1+,Racing Santander v Espanyol,Sat 24 Oct · 15:15,La Liga,100,100,Hit
 Bryan Zaragoza,Fouled 1+,Racing Santander v Espanyol,Sat 24 Oct · 15:15,La Liga,83,100,Hit
