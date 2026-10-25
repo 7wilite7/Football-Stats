@@ -1,18 +1,18 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:46 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 25 Oct 2026 06:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,1291,947,73,89
-Tackles 1+,265,207,78,90
-Shots 1+,228,185,81,90
+All picks,1300,955,73,89
+Tackles 1+,266,208,78,90
+Shots 1+,230,187,81,90
 Fouled 1+,157,107,68,89
-Fouls 1+,141,85,60,87
+Fouls 1+,143,87,61,87
 Cards 1+,80,72,90,92
-Over 1.5,55,44,80,88
-Scores 1+,52,38,73,89
+Over 1.5,56,44,79,89
+Scores 1+,53,39,74,89
 Shots 2+,49,33,67,89
 Saves 2+,48,35,73,90
 SOT 1+,32,24,75,86
 Tackles 2+,29,12,41,87
-SOT 4+,22,16,73,90
+SOT 4+,23,17,74,90
 Match corners 9+,17,13,76,86
 Corners 4+,17,12,71,89
 Fouled 2+,13,7,54,87
@@ -23,7 +23,7 @@ Saves 3+,11,8,73,90
 Fouls 2+,7,3,43,86
 Score or assist,6,5,83,84
 Corners 5+,6,4,67,84
-Win,5,3,60,88
+Win,6,4,67,90
 Match cards 4+,5,5,100,86
 Match corners 10+,5,4,80,84
 Goal 1+,2,2,100,84
@@ -1195,16 +1195,16 @@ Diego Rossi,Fouled 1+,Columbus Crew v Toronto FC,Sat 24 Oct · 20:30,MLS,80,80,D
 Diego Rossi,Shots 1+,Columbus Crew v Toronto FC,Sat 24 Oct · 20:30,MLS,93,80,Did not play
 Diego Rossi,Shots 2+,Columbus Crew v Toronto FC,Sat 24 Oct · 20:30,MLS,80,80,Did not play
 Joshua Sargent,Shots 1+,Columbus Crew v Toronto FC,Sat 24 Oct · 20:30,MLS,87,80,Hit
-Gabriel Veiga,Fouls 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Gabriel Veiga,Shots 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Alberto Costa,Fouls 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,100,Pending
-André Silva,Shots 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-Pablo Rosario,Tackles 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Francisco Moura,Fouls 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-FC Porto (team),Over 1.5,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-FC Porto (team),SOT 4+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-FC Porto (team),Scores 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-FC Porto (team),Win,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gabriel Veiga,Fouls 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Gabriel Veiga,Shots 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Alberto Costa,Fouls 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,100,Hit
+André Silva,Shots 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Hit
+Pablo Rosario,Tackles 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Francisco Moura,Fouls 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Did not play
+FC Porto (team),Over 1.5,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Miss
+FC Porto (team),SOT 4+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Hit
+FC Porto (team),Scores 1+,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+FC Porto (team),Win,Gil Vicente v FC Porto,Sat 24 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
 Mario Soriano,Shots 1+,Atlético Madrid v Deportivo A Coruña,Sat 24 Oct · 20:00,La Liga,89,100,Hit
 Adrià Altimira,Fouls 1+,Atlético Madrid v Deportivo A Coruña,Sat 24 Oct · 20:00,La Liga,83,80,Miss
 Adrià Altimira,Tackles 1+,Atlético Madrid v Deportivo A Coruña,Sat 24 Oct · 20:00,La Liga,100,100,Hit
