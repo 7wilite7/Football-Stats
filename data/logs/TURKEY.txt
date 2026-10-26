@@ -1,3 +1,3 @@
 ===== TURKEY
 fixtures 306 table 18 scope ['Galatasaray', 'Fenerbahçe', 'Beşiktaş', 'Trabzonspor']
-TURKEY {'new_matches': 3, 'cached': 76, 'run_seconds': 20, 'at': '2026-10-25T06:48Z'}
+TURKEY {'new_matches': 2, 'cached': 78, 'run_seconds': 16, 'at': '2026-10-26T06:55Z'}

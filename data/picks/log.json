@@ -36479,6 +36479,36 @@
 "utc": "2026-10-26T18:30:00Z",
 "who": "Fenerbah\u00e7e (team)"
 },
+"5904782|890232|Fouls 1+ %": {
+"fixture": "5904782",
+"games": 8,
+"key": "Fouls 1+ %",
+"l5": 100,
+"league": "Turkey (Gala, Fener, Besiktas, Trabzon)",
+"market": "Fouls 1+",
+"match": "Galatasaray v Fenerbah\u00e7e",
+"pid": 890232,
+"result": "",
+"season": 100,
+"tid": null,
+"utc": "2026-10-26T18:30:00.000Z",
+"who": "Bar\u0131\u015f Alper Y\u0131lmaz"
+},
+"5904782|890232|Shots 1+ %": {
+"fixture": "5904782",
+"games": 8,
+"key": "Shots 1+ %",
+"l5": 80,
+"league": "Turkey (Gala, Fener, Besiktas, Trabzon)",
+"market": "Shots 1+",
+"match": "Galatasaray v Fenerbah\u00e7e",
+"pid": 890232,
+"result": "",
+"season": 88,
+"tid": null,
+"utc": "2026-10-26T18:30:00.000Z",
+"who": "Bar\u0131\u015f Alper Y\u0131lmaz"
+},
 "5904782|902710|Shots 1+ %": {
 "fixture": "5904782",
 "games": 8,

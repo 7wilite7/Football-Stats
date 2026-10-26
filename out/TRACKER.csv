@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:54 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:55 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,2152,1574,73,90
 Tackles 1+,441,342,78,90
@@ -141,6 +141,8 @@ Fenerbahçe (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turk
 Gabriel Sara,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
 Mason Greenwood,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Mason Greenwood,Shots 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Barış Alper Yılmaz,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Barış Alper Yılmaz,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Ernest Muçi,SOT 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Ernest Muçi,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Ernest Muçi,Shots 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
@@ -1529,5 +1531,3 @@ Arnaut Danjuma,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,1
 Arnaut Danjuma,Shots 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Hit
 Juan Foyth,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,80,80,Miss
 Pape Gueye,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Hit
-Maximilian Beier,Shots 1+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Hit
-Maximilian Beier,Shots 2+,Borussia Dortmund v Eintracht Frankfurt,Sat 24 Oct · 17:30,Bundesliga,83,80,Miss
