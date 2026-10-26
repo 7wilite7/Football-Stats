@@ -1,4 +1,3 @@
 ===== MLS
 fixtures 510 table 30 scope None
-HTTP 500 https://www.fotmob.com/teams/307690/squad/portland-timbers
-MLS {'new_matches': 1, 'cached': 466, 'run_seconds': 103, 'at': '2026-10-26T06:49Z'}
+MLS {'new_matches': 0, 'cached': 466, 'run_seconds': 98, 'at': '2026-10-26T08:55Z'}
