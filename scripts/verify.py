@@ -73,10 +73,6 @@ def _check(lg, m, diffs, stats):
         es = {s.get("name"): num(s.get("displayValue")) for s in t.get("statistics", [])}
         for lab, fm, en, exact in TEAM_MAP:
             mine = B.ts(m, fm, side); theirs = es.get(en)
-            if lab in ("Yellow cards", "Red cards") and m.get("players"):
-                # the sheet now counts players' own cards (no manager/staff cards)
-                tid = m["home" if side == 0 else "away"]["id"]
-                mine = sum(p["yc" if lab == "Yellow cards" else "rc"] for p in m["players"] if p["team"] == tid)
             if mine is None or theirs is None: continue
             stats[f"team {lab} checks"] += 1
             if mine == theirs: stats[f"team {lab} agree"] += 1
