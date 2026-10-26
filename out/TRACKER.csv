@@ -1,32 +1,32 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:45 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:46 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,1834,1333,73,90
-Tackles 1+,377,290,77,90
-Shots 1+,317,256,81,91
-Fouled 1+,218,150,69,90
-Fouls 1+,203,122,60,88
-Cards 1+,107,94,88,92
-Over 1.5,78,63,81,89
-Shots 2+,76,54,71,89
-Scores 1+,70,52,74,90
-Saves 2+,66,45,68,90
-SOT 1+,46,36,78,87
-Tackles 2+,42,19,45,87
-SOT 4+,37,26,70,91
-Corners 4+,27,18,67,91
-Match corners 9+,23,16,70,88
-Cards 2+,22,10,45,89
-Over 2.5,19,14,74,87
-Fouled 2+,17,9,53,87
-Saves 3+,16,13,81,90
-BTTS,14,7,50,89
-Corners 5+,13,7,54,89
+All picks,2033,1478,73,90
+Tackles 1+,414,322,78,90
+Shots 1+,342,275,80,91
+Fouled 1+,245,171,70,89
+Fouls 1+,232,145,62,88
+Cards 1+,116,103,89,92
+Over 1.5,86,68,79,89
+Shots 2+,82,58,71,89
+Scores 1+,77,57,74,90
+Saves 2+,73,50,68,91
+SOT 1+,51,38,75,87
+Tackles 2+,49,24,49,88
+SOT 4+,41,29,71,90
+Corners 4+,30,19,63,91
+Match corners 9+,26,17,65,89
+Cards 2+,23,11,48,88
+Over 2.5,23,16,70,87
+Fouled 2+,20,11,55,89
+Saves 3+,19,14,74,90
+BTTS,17,9,53,89
+Corners 5+,15,7,47,89
+Score or assist,11,8,73,85
 Fouls 2+,11,5,45,89
-Score or assist,9,7,78,86
+Match corners 10+,10,6,60,88
 Win,8,5,62,91
-Match corners 10+,8,6,75,86
 Match cards 4+,6,6,100,88
-Goal 1+,3,2,67,90
+Goal 1+,5,3,60,86
 SOT 2+,1,1,100,88
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
@@ -431,183 +431,183 @@ Sunderland (team),Over 1.5,Sunderland v Leeds United,Sun 25 Oct · 16:30,Premier
 Ao Tanaka,Shots 1+,Sunderland v Leeds United,Sun 25 Oct · 16:30,Premier League,83,100,Hit
 Ao Tanaka,Tackles 1+,Sunderland v Leeds United,Sun 25 Oct · 16:30,Premier League,100,100,Hit
 Ao Tanaka,Tackles 2+,Sunderland v Leeds United,Sun 25 Oct · 16:30,Premier League,83,80,Hit
-Jim Allevinah,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Jim Allevinah,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Noah Cadiou,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Noah Cadiou,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Amine Sbaï,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Ibrahima Baldé,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Théo Le Bris,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Théo Le Bris,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Yassin Belkhdim,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Yassin Belkhdim,Fouls 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Nathaniel Adjei,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Dembo Sylla,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Arthur Avom,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Joseph Kalulu,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Arsène Kouassi,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Gabin Bernardeau,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Anthony Lopes,Saves 2+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Anthony Lopes,Saves 3+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Mamadou Koné,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Jordan Lefort,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Branco van den Boomen,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Jean-Victor Makengo,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Jean-Victor Makengo,Fouled 2+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Angers (team),Cards 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Angers (team),Match corners 9+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Angers (team),Over 1.5,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Lorient (team),Scores 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Alexandre Lauray,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Alexandre Lauray,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Cameron Archer,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Cameron Archer,Goal 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Cameron Archer,SOT 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Cameron Archer,Score or assist,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Cameron Archer,Shots 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Cameron Archer,Shots 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Fredrik Oppegård,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Jean Vercruysse,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Jean Vercruysse,Shots 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Kévin Danois,Fouled 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Kévin Danois,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Kévin Danois,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Harold Voyer,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Mamadou Diop,Saves 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Mamadou Diop,Saves 3+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Clément Akpa,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Christ Makosso,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Lucas Bretelle,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Noa Boissé,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Djibril Sidibé,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Nicolas Kocik,Saves 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Louis Mafouta,Shots 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Louis Mafouta,Shots 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Danny Namaso,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Danny Namaso,SOT 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Danny Namaso,Shots 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Danny Namaso,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Auxerre (team),BTTS,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Auxerre (team),Cards 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Auxerre (team),Corners 4+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Auxerre (team),Match corners 10+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Auxerre (team),Match corners 9+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Auxerre (team),Over 1.5,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Auxerre (team),Over 2.5,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Auxerre (team),SOT 4+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Auxerre (team),Scores 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Le Mans (team),BTTS,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Le Mans (team),Cards 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Le Mans (team),Cards 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Le Mans (team),Over 1.5,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Le Mans (team),Over 2.5,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Le Mans (team),Scores 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Lucas Buadés,Fouled 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Rassoul Ndiaye,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Amir Richardson,Fouled 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Amir Richardson,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Amir Richardson,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Amir Richardson,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Igor Paixão,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Junior Mwanga,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Simon Ebonog,Fouled 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Simon Ebonog,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Simon Ebonog,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Simon Ebonog,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Djibril Ouziad,Fouled 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Djibril Ouziad,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Pierre-Emile Højbjerg,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Pierre-Emile Højbjerg,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Pierre-Emile Højbjerg,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Mbwana Samatta,SOT 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Mbwana Samatta,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Mbwana Samatta,Shots 2+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Jeffrey De Lange,Saves 2+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Amine Harit,Fouled 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Amine Harit,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Angel Gomes,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Ayumu Seko,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Marseille (team),Over 1.5,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Timothy Weah,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Timothy Weah,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Le Havre (team),Cards 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Le Havre (team),Corners 4+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Le Havre (team),Corners 5+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Le Havre (team),Match corners 10+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Le Havre (team),Match corners 9+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Le Havre (team),SOT 4+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Anthony Rouault,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Issa Soumaré,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Filip Jörgensen,Saves 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Filip Jörgensen,Saves 3+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Dário Essugo,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Jeyland Mitchell,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Jeyland Mitchell,Tackles 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Pape Demba Diop,Fouls 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Pape Demba Diop,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Pape Demba Diop,Tackles 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Mahamadou Nagida,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Oso,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Oso,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Gessime Yassine,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Gessime Yassine,Fouled 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Gessime Yassine,Fouls 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Gessime Yassine,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Genesis Antwi,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Diogo Sousa,Fouls 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Brice Samba,Saves 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Brice Samba,Saves 3+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Adrien Thomasson,Fouls 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Adrien Thomasson,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Valentin Rongier,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Sebastian Szymański,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Mahdi Camara,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Mahdi Camara,Shots 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Strasbourg (team),BTTS,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Strasbourg (team),Cards 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Strasbourg (team),Over 1.5,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Strasbourg (team),Over 2.5,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Strasbourg (team),Scores 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Rennes (team),Cards 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Rennes (team),Over 1.5,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Rennes (team),Over 2.5,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Rennes (team),SOT 4+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Rennes (team),Scores 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Troyes (team),Corners 4+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Troyes (team),Corners 5+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Troyes (team),Over 1.5,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Casper Tengstedt,Goal 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Casper Tengstedt,SOT 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Casper Tengstedt,Score or assist,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Casper Tengstedt,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Casper Tengstedt,Shots 2+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Jacen Russell-Rowe,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Dermane Karim,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Dermane Karim,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Dermane Karim,Tackles 2+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,83,100,Pending
-Lucas Maronnier,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,83,80,Pending
-Antoine Mille,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Antoine Mille,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Michel Diaz,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Thomas Jørgensen,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Julián Vignolo,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Rafik Messali,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Ilyas Azizi,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Ilyas Azizi,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Seny Koumbassa,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Renaud Ripart,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Adrien Monfray,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Cristian Cásseres,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Cristian Cásseres,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Cristian Cásseres,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Cristian Cásseres,Tackles 2+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Pending
-Jérémy Le Douaron,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Jérémy Le Douaron,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Jérémy Le Douaron,Shots 2+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Pending
-Mark McKenzie,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Mark McKenzie,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Pending
-Toulouse (team),Cards 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
-Toulouse (team),Over 1.5,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Pending
+Jim Allevinah,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Jim Allevinah,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Noah Cadiou,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Noah Cadiou,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Amine Sbaï,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Ibrahima Baldé,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Théo Le Bris,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,80,80,Did not play
+Théo Le Bris,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Did not play
+Yassin Belkhdim,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Yassin Belkhdim,Fouls 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Nathaniel Adjei,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Dembo Sylla,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Arthur Avom,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Joseph Kalulu,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Arsène Kouassi,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Gabin Bernardeau,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Anthony Lopes,Saves 2+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Anthony Lopes,Saves 3+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Mamadou Koné,Shots 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Jordan Lefort,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Branco van den Boomen,Tackles 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Jean-Victor Makengo,Fouled 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Jean-Victor Makengo,Fouled 2+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Angers (team),Cards 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Angers (team),Match corners 9+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Angers (team),Over 1.5,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Lorient (team),Scores 1+,Angers v Lorient,Sun 25 Oct · 16:15,Ligue 1,86,100,Miss
+Alexandre Lauray,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Alexandre Lauray,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,100,Hit
+Cameron Archer,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Cameron Archer,Goal 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Cameron Archer,SOT 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Cameron Archer,Score or assist,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Cameron Archer,Shots 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Cameron Archer,Shots 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Fredrik Oppegård,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Jean Vercruysse,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Jean Vercruysse,Shots 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,100,Hit
+Kévin Danois,Fouled 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Kévin Danois,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Kévin Danois,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Harold Voyer,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,80,Did not play
+Mamadou Diop,Saves 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,80,Did not play
+Mamadou Diop,Saves 3+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,80,Did not play
+Clément Akpa,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Christ Makosso,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Lucas Bretelle,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Noa Boissé,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Djibril Sidibé,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Nicolas Kocik,Saves 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Louis Mafouta,Shots 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Louis Mafouta,Shots 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Danny Namaso,Fouls 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Danny Namaso,SOT 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Danny Namaso,Shots 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Danny Namaso,Tackles 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Auxerre (team),BTTS,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Auxerre (team),Cards 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Auxerre (team),Corners 4+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Auxerre (team),Match corners 10+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Auxerre (team),Match corners 9+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Auxerre (team),Over 1.5,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Auxerre (team),Over 2.5,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Auxerre (team),SOT 4+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Auxerre (team),Scores 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Le Mans (team),BTTS,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Le Mans (team),Cards 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Le Mans (team),Cards 2+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Le Mans (team),Over 1.5,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Le Mans (team),Over 2.5,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Le Mans (team),Scores 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Lucas Buadés,Fouled 1+,Auxerre v Le Mans,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Rassoul Ndiaye,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Miss
+Amir Richardson,Fouled 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,100,Miss
+Amir Richardson,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Amir Richardson,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Amir Richardson,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Igor Paixão,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Junior Mwanga,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Simon Ebonog,Fouled 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Simon Ebonog,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Simon Ebonog,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Simon Ebonog,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Djibril Ouziad,Fouled 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Djibril Ouziad,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Pierre-Emile Højbjerg,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Pierre-Emile Højbjerg,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Pierre-Emile Højbjerg,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,80,80,Miss
+Mbwana Samatta,SOT 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Mbwana Samatta,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Mbwana Samatta,Shots 2+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Jeffrey De Lange,Saves 2+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Amine Harit,Fouled 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Amine Harit,Tackles 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Angel Gomes,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Ayumu Seko,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,100,Miss
+Marseille (team),Over 1.5,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Timothy Weah,Fouls 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Timothy Weah,Shots 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,83,100,Hit
+Le Havre (team),Cards 1+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Le Havre (team),Corners 4+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Le Havre (team),Corners 5+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Le Havre (team),Match corners 10+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Le Havre (team),Match corners 9+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Le Havre (team),SOT 4+,Marseille v Le Havre,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Anthony Rouault,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Issa Soumaré,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,80,Did not play
+Filip Jörgensen,Saves 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Filip Jörgensen,Saves 3+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
+Dário Essugo,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,80,80,Miss
+Jeyland Mitchell,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,100,Hit
+Jeyland Mitchell,Tackles 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,100,Hit
+Pape Demba Diop,Fouls 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Pape Demba Diop,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Pape Demba Diop,Tackles 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Mahamadou Nagida,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Oso,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,80,80,Miss
+Oso,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,80,80,Miss
+Gessime Yassine,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Gessime Yassine,Fouled 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Gessime Yassine,Fouls 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Gessime Yassine,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Genesis Antwi,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Diogo Sousa,Fouls 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Brice Samba,Saves 2+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Brice Samba,Saves 3+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Adrien Thomasson,Fouls 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Adrien Thomasson,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Valentin Rongier,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Sebastian Szymański,Tackles 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Mahdi Camara,Fouled 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Mahdi Camara,Shots 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,83,100,Miss
+Strasbourg (team),BTTS,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Miss
+Strasbourg (team),Cards 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Strasbourg (team),Over 1.5,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Strasbourg (team),Over 2.5,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Strasbourg (team),Scores 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Miss
+Rennes (team),Cards 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Rennes (team),Over 1.5,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Rennes (team),Over 2.5,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Rennes (team),SOT 4+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Rennes (team),Scores 1+,Rennes v Strasbourg,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Troyes (team),Corners 4+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Troyes (team),Corners 5+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Miss
+Troyes (team),Over 1.5,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Miss
+Casper Tengstedt,Goal 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Miss
+Casper Tengstedt,SOT 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Casper Tengstedt,Score or assist,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Miss
+Casper Tengstedt,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Casper Tengstedt,Shots 2+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Jacen Russell-Rowe,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Miss
+Dermane Karim,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,83,80,Miss
+Dermane Karim,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,83,100,Hit
+Dermane Karim,Tackles 2+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,83,100,Hit
+Lucas Maronnier,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,83,80,Hit
+Antoine Mille,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Antoine Mille,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Michel Diaz,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Thomas Jørgensen,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Julián Vignolo,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Did not play
+Rafik Messali,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Ilyas Azizi,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Ilyas Azizi,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Seny Koumbassa,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Did not play
+Renaud Ripart,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Adrien Monfray,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Cristian Cásseres,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Cristian Cásseres,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Cristian Cásseres,Tackles 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Cristian Cásseres,Tackles 2+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,100,100,Hit
+Jérémy Le Douaron,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Hit
+Jérémy Le Douaron,Shots 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Miss
+Jérémy Le Douaron,Shots 2+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,80,80,Miss
+Mark McKenzie,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Mark McKenzie,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
+Toulouse (team),Cards 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
+Toulouse (team),Over 1.5,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
 Tolu Arokodare,Shots 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),88,100,Pending
 Oscar Gloukh,Shots 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
 Lucas Rosa,Fouled 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Pending
@@ -781,39 +781,39 @@ Heart of Midlothian (team),Over 1.5,Motherwell v Heart of Midlothian,Sun 25 Oct 
 Heart of Midlothian (team),Over 2.5,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
 Heart of Midlothian (team),SOT 4+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
 Heart of Midlothian (team),Scores 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Hákon Arnar Haraldsson,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,100,Pending
-Dilane Bakwa,Shots 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Pending
-Dilane Bakwa,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Pending
-Alexsandro Ribeiro,Fouls 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Pending
-Vanderson,Fouls 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Pending
-Vanderson,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Pending
-Vanderson,Tackles 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Pending
-Nathan Ngoy,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Pending
-Başar Önal,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Edan Diop,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Paris Brunner,SOT 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Pending
-Paris Brunner,Shots 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Paris Brunner,Shots 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Pending
-Ethan Mbappé,Shots 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Lamine Camara,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Lamine Camara,Fouls 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Pending
-Lamine Camara,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Lamine Camara,Tackles 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Pending
-Benjamin André,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Pending
-Benjamin André,Fouls 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Pending
-Benjamin André,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Pending
-Benjamin André,Tackles 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Pending
-Mamadou Coulibaly,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Mamadou Coulibaly,Fouled 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Mamadou Coulibaly,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Lukás Hrádecky,Saves 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Romain Perraud,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Berke Özer,Saves 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Pending
-Lille (team),Cards 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Pending
-Lille (team),SOT 4+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Pending
-Lille (team),Scores 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Monaco (team),Cards 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Pending
-Monaco (team),Scores 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Pending
+Hákon Arnar Haraldsson,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,100,Hit
+Dilane Bakwa,Shots 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Did not play
+Dilane Bakwa,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Did not play
+Alexsandro Ribeiro,Fouls 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Miss
+Vanderson,Fouls 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Hit
+Vanderson,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Hit
+Vanderson,Tackles 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Hit
+Nathan Ngoy,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Hit
+Başar Önal,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Did not play
+Edan Diop,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Miss
+Paris Brunner,SOT 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Miss
+Paris Brunner,Shots 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Hit
+Paris Brunner,Shots 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Hit
+Ethan Mbappé,Shots 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Hit
+Lamine Camara,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Hit
+Lamine Camara,Fouls 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Hit
+Lamine Camara,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Hit
+Lamine Camara,Tackles 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Miss
+Benjamin André,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Hit
+Benjamin André,Fouls 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Hit
+Benjamin André,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Hit
+Benjamin André,Tackles 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,80,80,Hit
+Mamadou Coulibaly,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Miss
+Mamadou Coulibaly,Fouled 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Miss
+Mamadou Coulibaly,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Hit
+Lukás Hrádecky,Saves 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Miss
+Romain Perraud,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Hit
+Berke Özer,Saves 2+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Hit
+Lille (team),Cards 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Hit
+Lille (team),SOT 4+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Miss
+Lille (team),Scores 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Hit
+Monaco (team),Cards 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,100,100,Hit
+Monaco (team),Scores 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,80,Hit
 Newcastle United (team),Cards 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,100,100,Hit
 Newcastle United (team),Corners 4+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,100,Hit
 Newcastle United (team),Over 1.5,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,80,Hit
