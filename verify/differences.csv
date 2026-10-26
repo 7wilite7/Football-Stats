@@ -46,6 +46,12 @@ Bundesliga,Borussia Dortmund v Hamburger SV (2026-08-29),team,Borussia Dortmund,
 Bundesliga,Borussia Dortmund v Werder Bremen (2026-10-09),team,Borussia Dortmund,Shots on target,10,9.0
 Bundesliga,Union Berlin v Elversberg (2026-10-10),team,Union Berlin,Shots on target,6,7.0
 Bundesliga,VfB Stuttgart v 1. FC Köln (2026-09-04),team,1. FC Köln,Shots on target,3,5.0
+Bundesliga,Freiburg v Borussia Mönchengladbach (2026-09-12),team,Borussia Mönchengladbach,Yellow cards,4,2.0
+Bundesliga,Freiburg v Schalke 04 (2026-10-11),team,Freiburg,Yellow cards,3,1.0
+Bundesliga,Hoffenheim v Bayer Leverkusen (2026-10-25),team,Hoffenheim,Yellow cards,4,2.0
+Bundesliga,Hoffenheim v Hamburger SV (2026-10-10),team,Hoffenheim,Yellow cards,3,1.0
+Bundesliga,Mainz 05 v Werder Bremen (2026-10-24),team,Mainz 05,Yellow cards,3,2.0
+Bundesliga,Mainz 05 v Werder Bremen (2026-10-24),team,Werder Bremen,Yellow cards,2,1.0
 Champions League,Inter v Shakhtar Donetsk (2026-10-21),player,Pedrinho (Shakhtar Donetsk),Fouled,0,2.0
 Champions League,Shakhtar Donetsk v AEK Athens (2026-10-14),player,Pedrinho (Shakhtar Donetsk),Fouled,0,3.0
 Champions League,Inter v Shakhtar Donetsk (2026-10-21),player,Pedrinho (Shakhtar Donetsk),Fouls,0,1.0
@@ -59,11 +65,6 @@ Champions League,Inter v Shakhtar Donetsk (2026-10-21),player,Pedrinho (Shakhtar
 Champions League,Shakhtar Donetsk v AEK Athens (2026-10-14),player,Pedrinho (Shakhtar Donetsk),Shots on target,1,0.0
 Champions League,Inter v Shakhtar Donetsk (2026-10-21),player,Alessandro Bastoni (Internazionale),Yellow cards,2,0.0
 Champions League,Viking v Bayern München (2026-10-13),player,Michael Olise (FC Bayern München),Yellow cards,2,0.0
-Champions League,League table,table,Manchester City,Goals against,5,6.0
-Champions League,League table,table,Manchester City,Goals for,9,5.0
-Champions League,League table,table,Manchester City,Lost,1,2.0
-Champions League,League table,table,Manchester City,Points,6,3.0
-Champions League,League table,table,Manchester City,Won,2,1.0
 Champions League,Bodø/Glimt v Borussia Dortmund (2026-10-14),team,Borussia Dortmund,Corners,9,10.0
 Champions League,Feyenoord v Como (2026-10-14),team,Feyenoord,Corners,4,5.0
 Champions League,Liverpool v Villarreal (2026-10-20),team,Liverpool,Corners,7,8.0
@@ -73,6 +74,8 @@ Champions League,VfB Stuttgart v Viking (2026-09-09),team,VfB Stuttgart,Corners,
 Champions League,Slavia Prague v Lens (2026-09-10),team,Slavia Prague,Offsides,2,1.0
 Champions League,Slavia Prague v Lens (2026-09-10),team,Slavia Prague,Shots,17,18.0
 Champions League,Villarreal v Napoli (2026-10-13),team,Villarreal,Shots,16,17.0
+Champions League,Inter v Shakhtar Donetsk (2026-10-21),team,Inter,Yellow cards,4,2.0
+Champions League,Viking v Bayern München (2026-10-13),team,Bayern München,Yellow cards,4,2.0
 Championship,Wrexham v Preston North End (2026-10-17),player,Joe Worrall (Wrexham),Assists,0,1.0
 Championship,Wrexham v Preston North End (2026-10-17),player,Callum Doyle (Wrexham),Assists,1,0.0
 Championship,Birmingham City v Bristol City (2026-08-22),player,Phil Neumann (Birmingham City),Fouled,3,4.0
@@ -324,16 +327,27 @@ Championship,Stoke City v Norwich City (2026-09-01),team,Stoke City,Shots on tar
 Championship,Swansea City v Burnley (2026-09-12),team,Swansea City,Shots on target,6,7.0
 Championship,West Ham United v Southampton (2026-10-24),team,West Ham United,Shots on target,11,10.0
 Championship,Birmingham City v Bristol City (2026-08-22),team,Bristol City,Yellow cards,2,1.0
+Championship,Birmingham City v Preston North End (2026-10-13),team,Preston North End,Yellow cards,2,0.0
 Championship,Bolton Wanderers v West Ham United (2026-09-08),team,West Ham United,Yellow cards,3,2.0
-Championship,Bristol City v Millwall (2026-08-15),team,Bristol City,Yellow cards,0,1.0
+Championship,Bristol City v Millwall (2026-08-15),team,Bristol City,Yellow cards,2,1.0
 Championship,Cardiff City v Wrexham (2026-08-17),team,Cardiff City,Yellow cards,1,0.0
+Championship,Charlton Athletic v Norwich City (2026-10-24),team,Norwich City,Yellow cards,1,2.0
+Championship,Derby County v West Bromwich Albion (2026-09-09),team,West Bromwich Albion,Yellow cards,4,2.0
+Championship,Lincoln City v Blackburn Rovers (2026-09-01),team,Blackburn Rovers,Yellow cards,4,2.0
 Championship,Lincoln City v Swansea City (2026-09-19),team,Swansea City,Yellow cards,2,1.0
+Championship,Millwall v Norwich City (2026-08-22),team,Norwich City,Yellow cards,3,1.0
 Championship,Millwall v West Ham United (2026-09-19),team,Millwall,Yellow cards,0,1.0
 Championship,Norwich City v Birmingham City (2026-09-09),team,Birmingham City,Yellow cards,3,2.0
+Championship,Norwich City v Burnley (2026-08-29),team,Burnley,Yellow cards,3,1.0
 Championship,Norwich City v Portsmouth (2026-10-17),team,Norwich City,Yellow cards,4,3.0
+Championship,Portsmouth v Sheffield United (2026-10-14),team,Sheffield United,Yellow cards,3,1.0
 Championship,Queens Park Rangers v Derby County (2026-10-14),team,Derby County,Yellow cards,4,3.0
 Championship,Queens Park Rangers v Preston North End (2026-09-19),team,Preston North End,Yellow cards,3,2.0
+Championship,Sheffield United v Derby County (2026-10-24),team,Derby County,Yellow cards,4,2.0
 Championship,Southampton v Bristol City (2026-09-12),team,Bristol City,Yellow cards,3,2.0
+Championship,Southampton v Portsmouth (2026-10-11),team,Southampton,Yellow cards,5,3.0
+Championship,Southampton v Stoke City (2026-08-22),team,Stoke City,Yellow cards,5,3.0
+Championship,Stoke City v Charlton Athletic (2026-09-05),team,Charlton Athletic,Yellow cards,4,2.0
 Championship,Wrexham v West Bromwich Albion (2026-10-13),team,West Bromwich Albion,Yellow cards,2,1.0
 Eredivisie (top 5),ADO Den Haag v PSV Eindhoven (2026-10-17),player,Evan Rottier (ADO Den Haag),Assists,0,1.0
 Eredivisie (top 5),PEC Zwolle v Feyenoord (2026-09-13),player,Tsuyoshi Watanabe (Feyenoord),Assists,1,0.0
@@ -452,8 +466,13 @@ Eredivisie (top 5),Fortuna Sittard v Ajax (2026-09-12),team,Ajax,Shots on target
 Eredivisie (top 5),NEC Nijmegen v Feyenoord (2026-09-05),team,Feyenoord,Shots on target,5,6.0
 Eredivisie (top 5),PEC Zwolle v Feyenoord (2026-09-13),team,Feyenoord,Shots on target,12,11.0
 Eredivisie (top 5),Willem II v SC Heerenveen (2026-08-30),team,SC Heerenveen,Shots on target,4,5.0
-Eredivisie (top 5),Ajax v PSV Eindhoven (2026-09-05),team,Ajax,Yellow cards,4,3.0
-Eredivisie (top 5),FC Twente v PSV Eindhoven (2026-09-20),team,PSV Eindhoven,Yellow cards,3,2.0
+Eredivisie (top 5),ADO Den Haag v Cambuur (2026-09-19),team,ADO Den Haag,Yellow cards,2,3.0
+Eredivisie (top 5),ADO Den Haag v PSV Eindhoven (2026-10-17),team,PSV Eindhoven,Yellow cards,2,0.0
+Eredivisie (top 5),AZ Alkmaar v FC Twente (2026-10-25),team,FC Twente,Yellow cards,3,1.0
+Eredivisie (top 5),Cambuur v AZ Alkmaar (2026-10-18),team,Cambuur,Yellow cards,3,1.0
+Eredivisie (top 5),FC Groningen v Fortuna Sittard (2026-08-28),team,Fortuna Sittard,Yellow cards,3,4.0
+Eredivisie (top 5),Fortuna Sittard v Excelsior (2026-10-25),team,Excelsior,Yellow cards,2,1.0
+Eredivisie (top 5),Sparta Rotterdam v Feyenoord (2026-08-09),team,Sparta Rotterdam,Yellow cards,2,3.0
 Europa League,Beşiktaş v Marseille (2026-09-17),player,Pierre-Emile Højbjerg (Marseille),Fouled,2,1.0
 Europa League,Beşiktaş v Marseille (2026-09-17),player,Václav Cerny (Besiktas),Fouls,1,0.0
 Europa League,Marseille v Olympiacos (2026-10-15),player,Santiago Hezze (Olympiakos),Fouls,0,1.0
@@ -473,6 +492,9 @@ Europa League,Olympiacos v Jagiellonia Białystok (2026-09-16),team,Olympiacos,K
 Europa League,Union St.Gilloise v Real Sociedad (2026-10-15),team,Union St.Gilloise,Keeper saves,1,0.0
 Europa League,NK Celje v Omonia Nicosia (2026-10-15),team,NK Celje,Shots,12,13.0
 Europa League,Union St.Gilloise v Real Sociedad (2026-10-15),team,Real Sociedad,Shots,6,5.0
+Europa League,Beşiktaş v Crystal Palace (2026-10-22),team,Beşiktaş,Yellow cards,3,2.0
+Europa League,Crystal Palace v Lech Poznań (2026-09-17),team,Lech Poznań,Yellow cards,2,0.0
+Europa League,Lillestrøm v Torreense (2026-09-17),team,Torreense,Yellow cards,5,3.0
 La Liga,Athletic Club v Elche (2026-09-12),player,Alex Berenguer (Athletic Club),Assists,0,1.0
 La Liga,Racing Santander v Deportivo Alavés (2026-09-12),player,Jorge Salinas (Racing de Santander),Assists,1,0.0
 La Liga,Athletic Club v Deportivo Alavés (2026-09-19),player,Pablo Ibánez (Alavés),Fouled,3,2.0
@@ -538,16 +560,16 @@ La Liga,Osasuna v Rayo Vallecano (2026-09-19),team,Osasuna,Shots,10,9.0
 La Liga,Real Sociedad v Espanyol (2026-08-29),team,Real Sociedad,Shots,18,17.0
 La Liga,Athletic Club v Elche (2026-09-12),team,Athletic Club,Shots on target,2,3.0
 La Liga,Villarreal v Elche (2026-10-17),team,Villarreal,Shots on target,6,7.0
-La Liga,Athletic Club v Sevilla (2026-08-22),team,Sevilla,Yellow cards,4,5.0
-La Liga,Celta Vigo v Athletic Club (2026-08-30),team,Athletic Club,Yellow cards,2,3.0
 La Liga,Celta Vigo v Osasuna (2026-08-27),team,Celta Vigo,Yellow cards,0,1.0
 La Liga,Deportivo A Coruña v Levante (2026-10-16),team,Deportivo A Coruña,Yellow cards,3,2.0
-La Liga,Deportivo Alavés v Villarreal (2026-08-28),team,Villarreal,Yellow cards,1,2.0
-La Liga,Getafe v Rayo Vallecano (2026-10-19),team,Rayo Vallecano,Yellow cards,2,3.0
-La Liga,Levante v Athletic Club (2026-10-21),team,Levante,Yellow cards,3,2.0
-La Liga,Levante v Athletic Club (2026-10-21),team,Athletic Club,Yellow cards,2,1.0
-La Liga,Málaga v Real Sociedad (2026-10-18),team,Málaga,Yellow cards,1,0.0
-La Liga,Real Madrid v Villarreal (2026-10-10),team,Real Madrid,Yellow cards,4,5.0
+La Liga,Deportivo A Coruña v Valencia (2026-08-30),team,Deportivo A Coruña,Yellow cards,2,0.0
+La Liga,Getafe v Celta Vigo (2026-09-07),team,Getafe,Yellow cards,4,2.0
+La Liga,Levante v Sevilla (2026-10-12),team,Sevilla,Yellow cards,6,4.0
+La Liga,Osasuna v Rayo Vallecano (2026-09-19),team,Osasuna,Yellow cards,2,3.0
+La Liga,Racing Santander v Espanyol (2026-10-24),team,Espanyol,Yellow cards,5,4.0
+La Liga,Real Betis v Getafe (2026-09-17),team,Getafe,Yellow cards,5,3.0
+La Liga,Valencia v Real Sociedad (2026-09-20),team,Real Sociedad,Yellow cards,3,1.0
+La Liga,Valencia v Villarreal (2026-10-24),team,Valencia,Yellow cards,5,3.0
 Ligue 1,Lorient v Paris FC (2026-10-10),player,Jean-Victor Makengo (Lorient),Assists,0,1.0
 Ligue 1,Auxerre v Angers (2026-08-29),player,Kévin Danois (Auxerre),Fouled,1,0.0
 Ligue 1,Auxerre v Angers (2026-08-29),player,Rémy Lascary (Auxerre),Fouled,0,1.0
@@ -603,30 +625,18 @@ Ligue 1,Monaco v Lille (2026-10-25),team,Monaco,Shots,21,20.0
 Ligue 1,Strasbourg v Paris Saint-Germain (2026-10-17),team,Strasbourg,Shots,17,16.0
 Ligue 1,Brest v Paris Saint-Germain (2026-09-13),team,Brest,Shots on target,4,5.0
 Ligue 1,Le Mans v Lens (2026-09-13),team,Le Mans,Shots on target,4,5.0
-Ligue 1,Angers v Troyes (2026-09-19),team,Troyes,Yellow cards,1,2.0
-Ligue 1,Lens v Auxerre (2026-08-22),team,Lens,Yellow cards,0,1.0
-Ligue 1,Lyon v Rennes (2026-09-19),team,Lyon,Yellow cards,3,4.0
+Ligue 1,Lens v Lorient (2026-09-05),team,Lens,Yellow cards,4,2.0
+Ligue 1,Marseille v Paris Saint-Germain (2026-09-20),team,Marseille,Yellow cards,4,2.0
 Ligue 1,Marseille v Strasbourg (2026-08-21),team,Strasbourg,Yellow cards,3,2.0
-Ligue 1,Paris Saint-Germain v Le Mans (2026-10-10),team,Le Mans,Yellow cards,4,5.0
 MLS,Charlotte FC v Chicago Fire FC (2026-09-26),player,Jack Elliott (Chicago Fire),Assists,1,0.0
 MLS,Colorado Rapids v Seattle Sounders FC (2026-09-20),player,Sebastian Gomez (Seattle Sounders FC),Assists,1,0.0
 MLS,Columbus Crew v Orlando City (2026-04-12),player,Iago (Orlando City SC),Assists,0,1.0
 MLS,DC United v Toronto FC (2026-07-25),player,Keisuke Kurokawa (D.C. United),Assists,0,1.0
-MLS,FC Dallas v LA Galaxy (2026-04-19),player,Logan Farrington (FC Dallas),Assists,0,1.0
-MLS,FC Dallas v Real Salt Lake (2026-05-10),player,Alexandros Katranis (Real Salt Lake),Assists,0,1.0
-MLS,Inter Miami CF v Red Bull New York (2026-04-11),player,Emil Forsberg (New York Red Bulls),Assists,0,1.0
-MLS,Los Angeles FC v San Jose Earthquakes (2026-04-19),player,Beau Leroux (San Jose Earthquakes),Assists,1,2.0
 MLS,New England Revolution v Atlanta United (2026-07-25),player,Matt Polster (New England Revolution),Assists,1,2.0
 MLS,New England Revolution v Atlanta United (2026-07-25),player,Alhassan Yusuf (New England Revolution),Assists,2,1.0
-MLS,New York City FC v Charlotte FC (2026-04-18),player,Wilfried Zaha (Charlotte FC),Assists,0,2.0
-MLS,New York City FC v FC Cincinnati (2026-04-22),player,Gerardo Valenzuela (Cincinnati),Assists,1,2.0
-MLS,Orlando City v Atlanta United (2026-05-16),player,Martín Ojeda (Orlando City SC),Assists,0,1.0
 MLS,Portland Timbers v Charlotte FC (2026-10-25),player,Ian Smith (Portland Timbers),Assists,1,0.0
 MLS,Portland Timbers v Charlotte FC (2026-10-25),player,Cole Bassett (Portland Timbers),Assists,0,1.0
-MLS,Portland Timbers v Los Angeles FC (2026-04-11),player,Kristoffer Velde (Portland Timbers),Assists,0,1.0
-MLS,Real Salt Lake v San Diego FC (2026-04-19),player,Diego Luna (Real Salt Lake),Assists,1,2.0
 MLS,San Diego FC v Houston Dynamo FC (2026-10-15),player,Manu Duah (San Diego),Assists,1,0.0
-MLS,San Jose Earthquakes v Austin FC (2026-04-23),player,Timo Werner (San Jose Earthquakes),Assists,0,1.0
 MLS,Vancouver Whitecaps v DC United (2026-09-27),player,Nathan Ordaz (D.C. United),Assists,0,1.0
 MLS,Atlanta United v FC Cincinnati (2026-10-10),player,Breel Embolo (Atlanta United FC),Fouled,5,4.0
 MLS,Austin FC v Nashville SC (2026-10-11),player,Facundo Torres (Austin FC),Fouled,2,3.0
@@ -1095,19 +1105,54 @@ MLS,Portland Timbers v Charlotte FC (2026-10-25),team,Portland Timbers,Shots on 
 MLS,Real Salt Lake v Los Angeles FC (2026-09-06),team,Los Angeles FC,Shots on target,5,6.0
 MLS,St. Louis City v Vancouver Whitecaps (2026-10-15),team,St. Louis City,Shots on target,4,5.0
 MLS,Toronto FC v Chicago Fire FC (2026-09-05),team,Toronto FC,Shots on target,7,8.0
-MLS,Austin FC v Seattle Sounders FC (2026-07-23),team,Seattle Sounders FC,Yellow cards,0,1.0
-MLS,Charlotte FC v Houston Dynamo FC (2026-09-05),team,Charlotte FC,Yellow cards,2,3.0
-MLS,Columbus Crew v FC Cincinnati (2026-07-25),team,Columbus Crew,Yellow cards,1,0.0
+MLS,Austin FC v Seattle Sounders FC (2026-07-23),team,Seattle Sounders FC,Yellow cards,2,1.0
+MLS,CF Montreal v New York City FC (2026-04-25),team,New York City FC,Yellow cards,4,2.0
+MLS,Charlotte FC v Chicago Fire FC (2026-09-26),team,Charlotte FC,Yellow cards,6,4.0
+MLS,Charlotte FC v Houston Dynamo FC (2026-09-05),team,Charlotte FC,Yellow cards,5,3.0
+MLS,Charlotte FC v New England Revolution (2026-05-23),team,Charlotte FC,Yellow cards,2,0.0
+MLS,Chicago Fire FC v New York City FC (2026-10-10),team,Chicago Fire FC,Yellow cards,4,2.0
+MLS,Chicago Fire FC v Philadelphia Union (2026-10-15),team,Chicago Fire FC,Yellow cards,4,2.0
+MLS,Colorado Rapids v Austin FC (2026-08-02),team,Austin FC,Yellow cards,3,4.0
+MLS,Colorado Rapids v LA Galaxy (2026-03-08),team,LA Galaxy,Yellow cards,3,1.0
+MLS,Colorado Rapids v St. Louis City (2026-05-10),team,St. Louis City,Yellow cards,5,3.0
+MLS,Columbus Crew v Chicago Fire FC (2026-03-08),team,Columbus Crew,Yellow cards,3,2.0
 MLS,Columbus Crew v Inter Miami CF (2026-09-27),team,Columbus Crew,Yellow cards,4,5.0
+MLS,Columbus Crew v Inter Miami CF (2026-09-27),team,Inter Miami CF,Yellow cards,6,5.0
 MLS,Columbus Crew v Red Bull New York (2026-09-12),team,Columbus Crew,Yellow cards,3,2.0
-MLS,Inter Miami CF v Atlanta United (2026-09-06),team,Inter Miami CF,Yellow cards,5,6.0
-MLS,Inter Miami CF v Atlanta United (2026-09-06),team,Atlanta United,Yellow cards,2,3.0
+MLS,Columbus Crew v Toronto FC (2026-10-24),team,Columbus Crew,Yellow cards,2,0.0
+MLS,DC United v Orlando City (2026-04-25),team,DC United,Yellow cards,4,5.0
+MLS,DC United v Red Bull New York (2026-10-14),team,DC United,Yellow cards,3,1.0
+MLS,DC United v St. Louis City (2026-05-16),team,St. Louis City,Yellow cards,5,3.0
+MLS,FC Dallas v Houston Dynamo FC (2026-03-22),team,Houston Dynamo FC,Yellow cards,4,2.0
+MLS,FC Dallas v Nashville SC (2026-03-01),team,Nashville SC,Yellow cards,3,1.0
+MLS,Houston Dynamo FC v LA Galaxy (2026-08-16),team,Houston Dynamo FC,Yellow cards,4,2.0
+MLS,Inter Miami CF v Orlando City (2026-05-02),team,Inter Miami CF,Yellow cards,5,4.0
+MLS,LA Galaxy v New York City FC (2026-02-23),team,LA Galaxy,Yellow cards,3,1.0
+MLS,LA Galaxy v San Jose Earthquakes (2026-08-20),team,LA Galaxy,Yellow cards,4,2.0
+MLS,LA Galaxy v St. Louis City (2026-07-23),team,LA Galaxy,Yellow cards,3,2.0
+MLS,Los Angeles FC v Portland Timbers (2026-08-23),team,Portland Timbers,Yellow cards,3,1.0
+MLS,Los Angeles FC v San Diego FC (2026-08-16),team,San Diego FC,Yellow cards,4,2.0
+MLS,Nashville SC v DC United (2026-05-10),team,DC United,Yellow cards,2,0.0
 MLS,New England Revolution v Houston Dynamo FC (2026-08-08),team,New England Revolution,Yellow cards,0,1.0
-MLS,New York City FC v Inter Miami CF (2026-03-22),team,Inter Miami CF,Yellow cards,4,3.0
+MLS,Orlando City v CF Montreal (2026-03-14),team,CF Montreal,Yellow cards,0,1.0
 MLS,Orlando City v Columbus Crew (2026-10-10),team,Orlando City,Yellow cards,3,4.0
+MLS,Orlando City v Inter Miami CF (2026-03-02),team,Orlando City,Yellow cards,5,3.0
+MLS,Philadelphia Union v New York City FC (2026-03-01),team,Philadelphia Union,Yellow cards,3,1.0
+MLS,Real Salt Lake v St. Louis City (2026-10-25),team,St. Louis City,Yellow cards,3,1.0
+MLS,Red Bull New York v Charlotte FC (2026-07-25),team,Red Bull New York,Yellow cards,5,3.0
+MLS,San Diego FC v LA Galaxy (2026-08-30),team,San Diego FC,Yellow cards,5,3.0
+MLS,San Diego FC v Minnesota United (2026-04-12),team,San Diego FC,Yellow cards,3,1.0
+MLS,San Diego FC v Real Salt Lake (2026-03-22),team,San Diego FC,Yellow cards,3,1.0
+MLS,San Diego FC v San Jose Earthquakes (2026-09-10),team,San Diego FC,Yellow cards,4,2.0
+MLS,San Diego FC v San Jose Earthquakes (2026-09-10),team,San Jose Earthquakes,Yellow cards,6,4.0
+MLS,San Diego FC v Vancouver Whitecaps (2026-05-24),team,San Diego FC,Yellow cards,3,1.0
+MLS,San Jose Earthquakes v Austin FC (2026-04-23),team,San Jose Earthquakes,Yellow cards,2,4.0
 MLS,San Jose Earthquakes v Houston Dynamo FC (2026-09-13),team,San Jose Earthquakes,Yellow cards,4,3.0
-MLS,Sporting Kansas City v Houston Dynamo FC (2026-08-02),team,Sporting Kansas City,Yellow cards,0,1.0
-MLS,Vancouver Whitecaps v FC Dallas (2026-08-23),team,FC Dallas,Yellow cards,5,4.0
+MLS,Sporting Kansas City v Houston Dynamo FC (2026-08-02),team,Sporting Kansas City,Yellow cards,2,1.0
+MLS,St. Louis City v Minnesota United (2026-09-13),team,Minnesota United,Yellow cards,3,1.0
+MLS,Toronto FC v Colorado Rapids (2026-04-04),team,Colorado Rapids,Yellow cards,5,3.0
+MLS,Toronto FC v FC Cincinnati (2026-04-11),team,FC Cincinnati,Yellow cards,3,1.0
+MLS,Vancouver Whitecaps v Austin FC (2026-09-13),team,Austin FC,Yellow cards,5,3.0
 "Portugal (Porto, Sporting, Benfica)",Alverca v Estrela da Amadora (2026-08-15),player,Rafa Soares (Estrela),Assists,2,1.0
 "Portugal (Porto, Sporting, Benfica)",Estrela da Amadora v Sporting CP (2026-08-08),player,Robinho (Estrela),Assists,0,1.0
 "Portugal (Porto, Sporting, Benfica)",Arouca v Marítimo (2026-08-29),player,Tiago Esgaio (Arouca),Fouled,1,0.0
@@ -1159,6 +1204,7 @@ MLS,Vancouver Whitecaps v FC Dallas (2026-08-23),team,FC Dallas,Yellow cards,5,4
 "Portugal (Porto, Sporting, Benfica)",FC Porto v Alverca (2026-08-09),team,Alverca,Keeper saves,1,2.0
 "Portugal (Porto, Sporting, Benfica)",Marítimo v Académico Viseu (2026-08-22),team,Marítimo,Keeper saves,4,5.0
 "Portugal (Porto, Sporting, Benfica)",Benfica v Vitória de Guimarães (2026-10-11),team,Benfica,Offsides,0,1.0
+"Portugal (Porto, Sporting, Benfica)",Alverca v Arouca (2026-10-24),team,Alverca,Red cards,1,2.0
 "Portugal (Porto, Sporting, Benfica)",Académico Viseu v Vitória de Guimarães (2026-09-12),team,Académico Viseu,Shots,10,11.0
 "Portugal (Porto, Sporting, Benfica)",Arouca v Moreirense (2026-08-16),team,Arouca,Shots,15,14.0
 "Portugal (Porto, Sporting, Benfica)",Braga v Sporting CP (2026-10-09),team,Braga,Shots,16,15.0
@@ -1176,7 +1222,16 @@ MLS,Vancouver Whitecaps v FC Dallas (2026-08-23),team,FC Dallas,Yellow cards,5,4
 "Portugal (Porto, Sporting, Benfica)",Marítimo v Académico Viseu (2026-08-22),team,Académico Viseu,Shots on target,6,7.0
 "Portugal (Porto, Sporting, Benfica)",Marítimo v FC Porto (2026-10-10),team,FC Porto,Shots on target,8,9.0
 "Portugal (Porto, Sporting, Benfica)",Alverca v Braga (2026-09-05),team,Alverca,Yellow cards,2,1.0
-"Portugal (Porto, Sporting, Benfica)",Gil Vicente v Rio Ave (2026-08-09),team,Gil Vicente,Yellow cards,2,1.0
+"Portugal (Porto, Sporting, Benfica)",Arouca v Santa Clara (2026-09-13),team,Santa Clara,Yellow cards,5,3.0
+"Portugal (Porto, Sporting, Benfica)",Braga v Estoril (2026-09-14),team,Estoril,Yellow cards,4,2.0
+"Portugal (Porto, Sporting, Benfica)",Casa Pia AC v Benfica (2026-08-17),team,Casa Pia AC,Yellow cards,3,1.0
+"Portugal (Porto, Sporting, Benfica)",Casa Pia AC v Moreirense (2026-08-30),team,Moreirense,Yellow cards,2,3.0
+"Portugal (Porto, Sporting, Benfica)",Estrela da Amadora v Famalicão (2026-09-05),team,Estrela da Amadora,Yellow cards,2,3.0
+"Portugal (Porto, Sporting, Benfica)",FC Porto v Benfica (2026-09-20),team,Benfica,Yellow cards,5,3.0
+"Portugal (Porto, Sporting, Benfica)",Nacional v Estoril (2026-08-16),team,Estoril,Yellow cards,4,2.0
+"Portugal (Porto, Sporting, Benfica)",Nacional v Famalicão (2026-09-19),team,Nacional,Yellow cards,3,1.0
+"Portugal (Porto, Sporting, Benfica)",Rio Ave v Nacional (2026-10-11),team,Rio Ave,Yellow cards,4,2.0
+"Portugal (Porto, Sporting, Benfica)",Vitoria de Guimaraes v Arouca (2026-08-08),team,Arouca,Yellow cards,5,3.0
 Premier League,Leeds United v Newcastle United (2026-09-14),player,James Justin (Leeds United),Assists,1,0.0
 Premier League,Leeds United v Newcastle United (2026-09-14),player,Dominic Calvert-Lewin (Leeds United),Assists,0,1.0
 Premier League,Aston Villa v Manchester City (2026-10-24),player,Phil Foden (Manchester City),Fouled,1,0.0
@@ -1215,12 +1270,6 @@ Premier League,Chelsea v Tottenham Hotspur (2026-10-24),player,Cole Palmer (Chel
 Premier League,Crystal Palace v Ipswich Town (2026-09-12),player,Jacob Greaves (Ipswich Town),Yellow cards,1,0.0
 Premier League,Liverpool v Manchester City (2026-10-11),player,Ryan Gravenberch (Liverpool),Yellow cards,2,0.0
 Premier League,Sunderland v Arsenal (2026-09-12),player,Reinildo (Sunderland),Yellow cards,2,0.0
-Premier League,League table,table,Manchester United,Drawn,4,0.0
-Premier League,League table,table,Manchester United,Goals against,13,9.0
-Premier League,League table,table,Manchester United,Goals for,10,20.0
-Premier League,League table,table,Manchester United,Lost,3,1.0
-Premier League,League table,table,Manchester United,Points,7,21.0
-Premier League,League table,table,Manchester United,Won,1,7.0
 Premier League,Arsenal v Leeds United (2026-10-10),team,Arsenal,Corners,2,3.0
 Premier League,Chelsea v Hull City (2026-09-12),team,Chelsea,Corners,10,11.0
 Premier League,Sunderland v Arsenal (2026-09-12),team,Arsenal,Corners,2,3.0
@@ -1231,8 +1280,13 @@ Premier League,Chelsea v Hull City (2026-09-12),team,Hull City,Shots,14,13.0
 Premier League,Leeds United v Newcastle United (2026-09-14),team,Leeds United,Shots,14,15.0
 Premier League,Newcastle United v Hull City (2026-09-19),team,Hull City,Shots,22,21.0
 Premier League,Nottingham Forest v Tottenham Hotspur (2026-09-05),team,Tottenham Hotspur,Shots,11,12.0
+Premier League,Brentford v Liverpool (2026-10-17),team,Brentford,Yellow cards,4,2.0
+Premier League,Chelsea v Tottenham Hotspur (2026-10-24),team,Chelsea,Yellow cards,4,2.0
 Premier League,Crystal Palace v Ipswich Town (2026-09-12),team,Ipswich Town,Yellow cards,4,3.0
+Premier League,Everton v Ipswich Town (2026-09-19),team,Ipswich Town,Yellow cards,3,1.0
+Premier League,Liverpool v Manchester City (2026-10-11),team,Liverpool,Yellow cards,4,2.0
 Premier League,Newcastle United v Hull City (2026-09-19),team,Hull City,Yellow cards,5,4.0
+Premier League,Sunderland v Arsenal (2026-09-12),team,Sunderland,Yellow cards,6,4.0
 Saudi Pro League (top 5),Al Diriyah v Al Qadsiah (2026-09-03),player,Mohammed Abu Al Shamat (Al Qadsiah),Assists,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),player,Hussain Al Sibyani (Al Diriyah),Assists,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Óscar Rodríguez (Al Diriyah),Assists,1,0.0
@@ -1695,7 +1749,6 @@ Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),team,Al Ittihad,Of
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),team,Al Nassr FC,Offsides,3,0.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),team,Al Diriyah,Offsides,2,0.0
 Saudi Pro League (top 5),Al-Ettifaq v Al Nassr FC (2026-08-25),team,Al Nassr FC,Offsides,7,6.0
-Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),team,Al Diriyah,Red cards,0,1.0
 Saudi Pro League (top 5),Al Diriyah v Abha (2026-09-13),team,Al Diriyah,Shots,13,0.0
 Saudi Pro League (top 5),Al Diriyah v Abha (2026-09-13),team,Abha,Shots,10,0.0
 Saudi Pro League (top 5),Al Diriyah v Al Qadsiah (2026-09-03),team,Al Diriyah,Shots,8,0.0
@@ -1746,11 +1799,16 @@ Saudi Pro League (top 5),Al-Ettifaq v Al Riyadh (2026-08-14),team,Al-Ettifaq,Sho
 Saudi Pro League (top 5),Al-Faisaly v Al Nassr FC (2026-10-23),team,Al Nassr FC,Shots on target,5,4.0
 Saudi Pro League (top 5),Al-Taawoun v Al Fateh FC (2026-09-05),team,Al-Taawoun,Shots on target,1,0.0
 Saudi Pro League (top 5),Al-Taawoun v Al Khaleej (2026-08-15),team,Al-Taawoun,Shots on target,3,4.0
+Saudi Pro League (top 5),Abha v Al Khaleej (2026-08-25),team,Abha,Yellow cards,1,2.0
 Saudi Pro League (top 5),Al Fateh FC v Al Ittihad (2026-08-29),team,Al Ittihad,Yellow cards,5,4.0
-Saudi Pro League (top 5),Al Hazem v Al-Fayha (2026-10-22),team,Al-Fayha,Yellow cards,2,1.0
+Saudi Pro League (top 5),Al Fateh FC v Al Shabab (2026-10-22),team,Al Fateh FC,Yellow cards,2,0.0
+Saudi Pro League (top 5),Al Hazem v Al Shabab (2026-08-30),team,Al Shabab,Yellow cards,3,1.0
+Saudi Pro League (top 5),Al Hilal v Al Ahli (2026-09-01),team,Al Ahli,Yellow cards,5,3.0
 Saudi Pro League (top 5),Al Hilal v Al Ittihad (2026-10-10),team,Al Hilal,Yellow cards,2,1.0
-Saudi Pro League (top 5),Al Nassr FC v Neom SC (2026-10-20),team,Neom SC,Yellow cards,5,4.0
-Saudi Pro League (top 5),Al Qadsiah v Al Ittihad (2026-08-21),team,Al Ittihad,Yellow cards,0,1.0
+Saudi Pro League (top 5),Al Qadsiah v Al Ittihad (2026-08-21),team,Al Ittihad,Yellow cards,2,1.0
+Saudi Pro League (top 5),Al-Faisaly v Al Fateh FC (2026-08-26),team,Al-Faisaly,Yellow cards,4,2.0
+Saudi Pro League (top 5),Al-Taawoun v Al Fateh FC (2026-09-05),team,Al-Taawoun,Yellow cards,3,1.0
+Saudi Pro League (top 5),Al-Taawoun v Al-Fayha (2026-08-25),team,Al-Fayha,Yellow cards,0,1.0
 Saudi Pro League (top 5),Neom SC v Al-Ettifaq (2026-10-17),team,Al-Ettifaq,Yellow cards,3,2.0
 "Scotland (Rangers, Celtic, Hearts)",Celtic v Heart of Midlothian (2026-10-18),player,Benjamin Nygren (Celtic),Assists,1,0.0
 "Scotland (Rangers, Celtic, Hearts)",Aberdeen v Heart of Midlothian (2026-08-01),player,Jordi Altena (Heart of Midlothian),Fouled,3,2.0
@@ -1887,7 +1945,14 @@ Saudi Pro League (top 5),Neom SC v Al-Ettifaq (2026-10-17),team,Al-Ettifaq,Yello
 "Scotland (Rangers, Celtic, Hearts)",Motherwell v Celtic (2026-10-11),team,Motherwell,Shots on target,1,2.0
 "Scotland (Rangers, Celtic, Hearts)",Rangers v St. Mirren (2026-09-09),team,Rangers,Shots on target,6,7.0
 "Scotland (Rangers, Celtic, Hearts)",St. Johnstone v Kilmarnock (2026-08-02),team,Kilmarnock,Shots on target,4,5.0
+"Scotland (Rangers, Celtic, Hearts)",Aberdeen v Heart of Midlothian (2026-08-01),team,Aberdeen,Yellow cards,2,3.0
+"Scotland (Rangers, Celtic, Hearts)",Aberdeen v Kilmarnock (2026-09-05),team,Kilmarnock,Yellow cards,3,1.0
 "Scotland (Rangers, Celtic, Hearts)",Aberdeen v St. Johnstone (2026-10-11),team,Aberdeen,Yellow cards,1,0.0
+"Scotland (Rangers, Celtic, Hearts)",Hibernian v Heart of Midlothian (2026-09-03),team,Hibernian,Yellow cards,3,1.0
+"Scotland (Rangers, Celtic, Hearts)",Hibernian v Kilmarnock (2026-09-15),team,Kilmarnock,Yellow cards,3,1.0
+"Scotland (Rangers, Celtic, Hearts)",St. Johnstone v Dundee United (2026-10-17),team,Dundee United,Yellow cards,3,4.0
+"Scotland (Rangers, Celtic, Hearts)",St. Johnstone v Falkirk (2026-09-19),team,St. Johnstone,Yellow cards,4,2.0
+"Scotland (Rangers, Celtic, Hearts)",St. Mirren v Dundee FC (2026-10-24),team,Dundee FC,Yellow cards,1,3.0
 Serie A,Cagliari v Bologna (2026-10-24),player,Jens Odgaard (Bologna),Fouled,3,2.0
 Serie A,Cagliari v Bologna (2026-10-24),player,Federico Bernardeschi (Bologna),Fouled,4,5.0
 Serie A,Frosinone v Venezia (2026-09-06),player,Antoine Hainaut (Venezia),Fouled,1,2.0
@@ -1916,8 +1981,9 @@ Serie A,Udinese v Como (2026-08-22),team,Udinese,Offsides,0,1.0
 Serie A,Como v Parma (2026-09-14),team,Como,Shots,29,28.0
 Serie A,Lecce v Bologna (2026-10-11),team,Bologna,Shots,9,10.0
 Serie A,Napoli v Bologna (2026-09-13),team,Napoli,Shots,14,15.0
-Serie A,Bologna v Sassuolo (2026-09-06),team,Bologna,Yellow cards,2,3.0
-Serie A,Sassuolo v Milan (2026-10-11),team,Sassuolo,Yellow cards,2,1.0
+Serie A,Genoa v Frosinone (2026-09-12),team,Genoa,Yellow cards,3,1.0
+Serie A,Genoa v Napoli (2026-08-22),team,Genoa,Yellow cards,1,2.0
+Serie A,Lecce v Juventus (2026-10-25),team,Lecce,Yellow cards,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Amed Sportif v Başakşehir (2026-09-13),player,Umut Günes (Istanbul Basaksehir),Fouled,0,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Trabzonspor (2026-10-10),player,Gabriele Guarino (Samsunspor),Fouled,1,2.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Trabzonspor (2026-10-10),player,Yunus Emre Çift (Samsunspor),Fouled,1,0.0
@@ -1972,8 +2038,8 @@ Serie A,Sassuolo v Milan (2026-10-11),team,Sassuolo,Yellow cards,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Çorum FK v Rizespor (2026-10-16),team,Rizespor,Shots,16,15.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Amed Sportif (2026-10-24),team,Amed Sportif,Shots on target,6,5.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Trabzonspor (2026-10-10),team,Trabzonspor,Shots on target,8,7.0
-"Turkey (Gala, Fener, Besiktas, Trabzon)",Alanyaspor v Göztepe (2026-09-12),team,Göztepe,Yellow cards,1,2.0
-"Turkey (Gala, Fener, Besiktas, Trabzon)",Gençlerbirliği v Erzurumspor FK (2026-08-28),team,Erzurumspor FK,Yellow cards,2,3.0
-"Turkey (Gala, Fener, Besiktas, Trabzon)",Çorum FK v Kasımpaşa (2026-08-22),team,Çorum FK,Yellow cards,0,1.0
-"Turkey (Gala, Fener, Besiktas, Trabzon)",Çorum FK v Rizespor (2026-10-16),team,Çorum FK,Yellow cards,3,2.0
-"Turkey (Gala, Fener, Besiktas, Trabzon)",Çorum FK v Rizespor (2026-10-16),team,Rizespor,Yellow cards,3,2.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Alanyaspor v Kocaelispor (2026-10-23),team,Kocaelispor,Yellow cards,3,4.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Amed Sportif v Beşiktaş (2026-09-20),team,Amed Sportif,Yellow cards,9,7.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Beşiktaş v Eyüpspor (2026-08-16),team,Eyüpspor,Yellow cards,3,1.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Amed Sportif (2026-10-24),team,Samsunspor,Yellow cards,5,3.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Amed Sportif (2026-10-24),team,Amed Sportif,Yellow cards,5,3.0
