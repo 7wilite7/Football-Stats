@@ -35444,6 +35444,21 @@
 "utc": "2026-10-26T18:45:00Z",
 "who": "Leandro Barreiro"
 },
+"5887660|9772|Match cards 4+ %": {
+"fixture": "5887660",
+"games": 8,
+"key": "Match cards 4+ %",
+"l5": 100,
+"league": "Portugal (Porto, Sporting, Benfica)",
+"market": "Match cards 4+",
+"match": "Santa Clara v Benfica",
+"pid": null,
+"result": "",
+"season": 88,
+"tid": 9772,
+"utc": "2026-10-26T18:45:00.000Z",
+"who": "Benfica (team)"
+},
 "5887660|9772|Over 1.5 %": {
 "fixture": "5887660",
 "games": 8,
