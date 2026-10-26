@@ -1,32 +1,32 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:44 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:45 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,1739,1265,73,90
-Tackles 1+,365,280,77,90
-Shots 1+,302,243,80,91
-Fouled 1+,208,145,70,89
-Fouls 1+,191,116,61,88
-Cards 1+,104,91,88,91
-Over 1.5,74,59,80,89
-Shots 2+,69,48,70,90
-Scores 1+,66,49,74,90
-Saves 2+,65,45,69,90
-Tackles 2+,41,18,44,87
-SOT 1+,41,33,80,87
-SOT 4+,33,23,70,90
-Corners 4+,24,15,62,90
+All picks,1834,1333,73,90
+Tackles 1+,377,290,77,90
+Shots 1+,317,256,81,91
+Fouled 1+,218,150,69,90
+Fouls 1+,203,122,60,88
+Cards 1+,107,94,88,92
+Over 1.5,78,63,81,89
+Shots 2+,76,54,71,89
+Scores 1+,70,52,74,90
+Saves 2+,66,45,68,90
+SOT 1+,46,36,78,87
+Tackles 2+,42,19,45,87
+SOT 4+,37,26,70,91
+Corners 4+,27,18,67,91
+Match corners 9+,23,16,70,88
 Cards 2+,22,10,45,89
-Match corners 9+,21,15,71,87
+Over 2.5,19,14,74,87
 Fouled 2+,17,9,53,87
 Saves 3+,16,13,81,90
-Over 2.5,15,10,67,87
-BTTS,13,7,54,88
-Corners 5+,11,5,45,86
-Fouls 2+,10,5,50,88
-Score or assist,8,7,88,84
+BTTS,14,7,50,89
+Corners 5+,13,7,54,89
+Fouls 2+,11,5,45,89
+Score or assist,9,7,78,86
 Win,8,5,62,91
-Match corners 10+,6,5,83,85
+Match corners 10+,8,6,75,86
 Match cards 4+,6,6,100,88
-Goal 1+,2,2,100,84
+Goal 1+,3,2,67,90
 SOT 2+,1,1,100,88
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
@@ -355,55 +355,55 @@ Juventus (team),SOT 4+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Miss
 Juventus (team),Scores 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
 Lecce (team),Cards 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
 Lecce (team),Over 1.5,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
-Michael Olise,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Michael Olise,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Michael Olise,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Michael Olise,Shots 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Yuito Suzuki,Fouls 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,80,80,Pending
-Yuito Suzuki,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,80,80,Pending
-Ismael Saibari,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Igor Matanović,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Igor Matanović,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Igor Matanović,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Igor Matanović,Shots 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Philipp Treu,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Jordy Makengo,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Derry Scherhant,Fouls 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Derry Scherhant,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Derry Scherhant,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Nathaniel Brown,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Harry Kane,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,100,Pending
-Harry Kane,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Harry Kane,Shots 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Matthias Ginter,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Joshua Kimmich,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Konrad Laimer,Fouls 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Konrad Laimer,Fouls 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Konrad Laimer,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Konrad Laimer,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Maximilian Eggestein,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,100,Pending
-Maximilian Eggestein,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Maximilian Eggestein,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Philipp Lienhart,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Dayot Upamecano,Fouls 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,100,Pending
-Dayot Upamecano,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Dayot Upamecano,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Dayot Upamecano,Tackles 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Freiburg (team),Cards 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Freiburg (team),Corners 4+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Freiburg (team),Over 1.5,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Freiburg (team),Over 2.5,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Freiburg (team),SOT 4+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Freiburg (team),Scores 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Jan-Niklas Beste,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,100,Pending
-Bayern München (team),Corners 4+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Bayern München (team),Corners 5+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Bayern München (team),Match corners 10+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Bayern München (team),Match corners 9+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Bayern München (team),Over 1.5,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Bayern München (team),Over 2.5,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
-Bayern München (team),SOT 4+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
-Bayern München (team),Scores 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Pending
+Michael Olise,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Michael Olise,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Michael Olise,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Michael Olise,Shots 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Yuito Suzuki,Fouls 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,80,80,Miss
+Yuito Suzuki,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,80,80,Hit
+Ismael Saibari,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Igor Matanović,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Igor Matanović,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Igor Matanović,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Igor Matanović,Shots 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Philipp Treu,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Jordy Makengo,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Derry Scherhant,Fouls 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Miss
+Derry Scherhant,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Derry Scherhant,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Nathaniel Brown,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Harry Kane,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,100,Hit
+Harry Kane,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Harry Kane,Shots 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Matthias Ginter,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Miss
+Joshua Kimmich,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Did not play
+Konrad Laimer,Fouls 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Konrad Laimer,Fouls 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Miss
+Konrad Laimer,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Miss
+Konrad Laimer,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Maximilian Eggestein,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,100,Miss
+Maximilian Eggestein,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Maximilian Eggestein,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Philipp Lienhart,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Miss
+Dayot Upamecano,Fouls 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,100,Hit
+Dayot Upamecano,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Dayot Upamecano,Tackles 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Dayot Upamecano,Tackles 2+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Freiburg (team),Cards 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Freiburg (team),Corners 4+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Freiburg (team),Over 1.5,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Freiburg (team),Over 2.5,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Freiburg (team),SOT 4+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Freiburg (team),Scores 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Jan-Niklas Beste,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,100,Hit
+Bayern München (team),Corners 4+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Bayern München (team),Corners 5+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Bayern München (team),Match corners 10+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Bayern München (team),Match corners 9+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Bayern München (team),Over 1.5,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Bayern München (team),Over 2.5,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
+Bayern München (team),SOT 4+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Hit
+Bayern München (team),Scores 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,83,80,Hit
 Enzo Le Fée,Fouled 1+,Sunderland v Leeds United,Sun 25 Oct · 16:30,Premier League,100,100,Hit
 Trai Hume,Tackles 1+,Sunderland v Leeds United,Sun 25 Oct · 16:30,Premier League,100,100,Miss
 James Trafford,Saves 2+,Sunderland v Leeds United,Sun 25 Oct · 16:30,Premier League,100,100,Hit
@@ -643,55 +643,55 @@ Real Betis (team),Scores 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,
 Celta Vigo (team),Cards 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,100,Hit
 Álvaro Vallés,Saves 2+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Hit
 Álvaro Vallés,Saves 3+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,80,Hit
-Jarell Quansah,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Tim Lemperle,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
-Tim Lemperle,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
-Equi Fernández,Fouled 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Equi Fernández,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Bambasé Conté,Fouled 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Afonso Moreira,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Afonso Moreira,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Afonso Moreira,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Afonso Moreira,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Mats Rots,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
-Mats Rots,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
-Ibrahim Maza,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Ibrahim Maza,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Ibrahim Maza,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Leon Avdullahu,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Oliver Baumann,Saves 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Vladimír Coufal,Fouled 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Vladimír Coufal,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Patrik Schick,Fouled 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Patrik Schick,Goal 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Patrik Schick,SOT 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Patrik Schick,Score or assist,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Patrik Schick,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Patrik Schick,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Edmond Tapsoba,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Facundo Medina,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Bayer Leverkusen (team),Cards 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Bayer Leverkusen (team),Over 1.5,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Bayer Leverkusen (team),Over 2.5,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Bayer Leverkusen (team),SOT 4+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Bayer Leverkusen (team),Scores 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),BTTS,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Cards 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Corners 4+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Corners 5+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Match corners 10+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Hoffenheim (team),Match corners 9+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Over 1.5,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Over 2.5,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),SOT 4+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Hoffenheim (team),Scores 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Pending
-Ozan Kabak,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Miguel Gutiérrez,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Wouter Burger,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
-Wouter Burger,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
-Wouter Burger,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
-Adam Hložek,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Adam Hložek,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
+Jarell Quansah,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Tim Lemperle,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Did not play
+Tim Lemperle,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Did not play
+Equi Fernández,Fouled 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Equi Fernández,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Bambasé Conté,Fouled 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Afonso Moreira,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Afonso Moreira,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Afonso Moreira,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Afonso Moreira,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Mats Rots,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Hit
+Mats Rots,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Hit
+Ibrahim Maza,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Ibrahim Maza,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Ibrahim Maza,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Leon Avdullahu,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Oliver Baumann,Saves 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Vladimír Coufal,Fouled 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Vladimír Coufal,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Patrik Schick,Fouled 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Patrik Schick,Goal 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Patrik Schick,SOT 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Patrik Schick,Score or assist,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Patrik Schick,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Patrik Schick,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Edmond Tapsoba,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Facundo Medina,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Bayer Leverkusen (team),Cards 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Bayer Leverkusen (team),Over 1.5,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Bayer Leverkusen (team),Over 2.5,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Bayer Leverkusen (team),SOT 4+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Bayer Leverkusen (team),Scores 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Hoffenheim (team),BTTS,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Hoffenheim (team),Cards 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Hoffenheim (team),Corners 4+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Hoffenheim (team),Corners 5+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Hoffenheim (team),Match corners 10+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Hoffenheim (team),Match corners 9+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Miss
+Hoffenheim (team),Over 1.5,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Hoffenheim (team),Over 2.5,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Hoffenheim (team),SOT 4+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Hoffenheim (team),Scores 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,100,100,Hit
+Ozan Kabak,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Miguel Gutiérrez,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Miss
+Wouter Burger,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Miss
+Wouter Burger,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Hit
+Wouter Burger,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Hit
+Adam Hložek,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
+Adam Hložek,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Hit
 Marco Carnesecchi,Saves 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
 Marco Carnesecchi,Saves 3+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
 Lazar Samardžić,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Miss
