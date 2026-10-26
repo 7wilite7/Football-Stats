@@ -1,29 +1,29 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:43 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:44 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,1577,1147,73,89
-Tackles 1+,328,252,77,90
-Shots 1+,276,222,80,91
-Fouled 1+,190,133,70,90
-Fouls 1+,172,104,60,88
-Cards 1+,96,86,90,92
-Over 1.5,64,51,80,89
-Scores 1+,62,45,73,90
-Shots 2+,62,42,68,89
-Saves 2+,58,39,67,90
-Tackles 2+,38,16,42,87
-SOT 1+,38,30,79,87
-SOT 4+,29,21,72,91
-Corners 4+,22,14,64,90
-Cards 2+,20,10,50,88
-Match corners 9+,19,14,74,87
-Fouled 2+,15,8,53,87
-Saves 3+,14,11,79,90
-Over 2.5,13,8,62,87
+All picks,1739,1265,73,90
+Tackles 1+,365,280,77,90
+Shots 1+,302,243,80,91
+Fouled 1+,208,145,70,89
+Fouls 1+,191,116,61,88
+Cards 1+,104,91,88,91
+Over 1.5,74,59,80,89
+Shots 2+,69,48,70,90
+Scores 1+,66,49,74,90
+Saves 2+,65,45,69,90
+Tackles 2+,41,18,44,87
+SOT 1+,41,33,80,87
+SOT 4+,33,23,70,90
+Corners 4+,24,15,62,90
+Cards 2+,22,10,45,89
+Match corners 9+,21,15,71,87
+Fouled 2+,17,9,53,87
+Saves 3+,16,13,81,90
+Over 2.5,15,10,67,87
 BTTS,13,7,54,88
-Corners 5+,10,5,50,86
-Fouls 2+,9,5,56,87
-Score or assist,7,6,86,84
-Win,7,4,57,92
+Corners 5+,11,5,45,86
+Fouls 2+,10,5,50,88
+Score or assist,8,7,88,84
+Win,8,5,62,91
 Match corners 10+,6,5,83,85
 Match cards 4+,6,6,100,88
 Goal 1+,2,2,100,84
@@ -251,34 +251,34 @@ Barcelona (team),Scores 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,1
 Barcelona (team),Win,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Miss
 Anthony Gordon,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Hit
 Aurélien Tchouaméni,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,80,80,Miss
-Strahinja Pavlović,Fouled 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Strahinja Pavlović,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Pending
-Maduka Okoye,Saves 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Mario Gila,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Koni De Winter,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Koni De Winter,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-James Abankwah,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,83,80,Pending
-Diego Moreira,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,80,80,Pending
-Lennon Miller,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Pending
-Lennon Miller,Fouls 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Pending
-Alphadjo Cissè,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,80,80,Pending
-Jesper Karlström,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,100,Pending
-Adrien Rabiot,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Mike Maignan,Saves 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,100,Pending
-Hassane Kamara,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Mërgim Vojvoda,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Keinan Davis,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,83,80,Pending
-Enzo Ebosse,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Milan (team),Cards 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Milan (team),Over 1.5,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Pending
-Milan (team),SOT 4+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Milan (team),Scores 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Pending
-Udinese (team),Cards 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,100,Pending
-Udinese (team),Over 1.5,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Oumar Solet,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,80,80,Pending
-Jurgen Ekkelenkamp,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Pending
-Jurgen Ekkelenkamp,Shots 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
-Gonçalo Ramos,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
+Strahinja Pavlović,Fouled 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Miss
+Strahinja Pavlović,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Hit
+Maduka Okoye,Saves 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
+Mario Gila,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Did not play
+Koni De Winter,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
+Koni De Winter,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
+James Abankwah,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,83,80,Miss
+Diego Moreira,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,80,80,Did not play
+Lennon Miller,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Hit
+Lennon Miller,Fouls 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Miss
+Alphadjo Cissè,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,80,80,Hit
+Jesper Karlström,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,100,Hit
+Adrien Rabiot,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Did not play
+Mike Maignan,Saves 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,100,Hit
+Hassane Kamara,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
+Mërgim Vojvoda,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
+Keinan Davis,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,83,80,Hit
+Enzo Ebosse,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Did not play
+Milan (team),Cards 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
+Milan (team),Over 1.5,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Hit
+Milan (team),SOT 4+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
+Milan (team),Scores 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Hit
+Udinese (team),Cards 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,100,Hit
+Udinese (team),Over 1.5,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
+Oumar Solet,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,80,80,Did not play
+Jurgen Ekkelenkamp,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Hit
+Jurgen Ekkelenkamp,Shots 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Miss
+Gonçalo Ramos,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
 AZ Alkmaar (team),Corners 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
 AZ Alkmaar (team),Corners 5+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
 AZ Alkmaar (team),Over 1.5,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
@@ -329,32 +329,32 @@ Real Sociedad (team),Corners 5+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La L
 Real Sociedad (team),Match corners 9+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Miss
 Levante (team),Cards 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,100,Hit
 Luka Sučić,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,88,80,Hit
-Jamil Siebert,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Joël Monteiro,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,80,80,Pending
-Kialonda Gaspar,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Pending
-Kialonda Gaspar,Tackles 2+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Pending
-Danilo Veiga,Fouls 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Pending
-Danilo Veiga,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Pending
-Oumar Ngom,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Tiago Gabriel,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,83,100,Pending
-Kerim Alajbegović,Shots 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,83,100,Pending
-Wladimiro Falcone,Saves 2+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Douglas Luiz,Fouled 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Douglas Luiz,Shots 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Douglas Luiz,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,100,Pending
-Randal Kolo Muani,Fouled 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Randal Kolo Muani,Fouls 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Randal Kolo Muani,Shots 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Pending
-Gleison Bremer,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Pending
-Juventus (team),Cards 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Juventus (team),Corners 4+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Pending
-Juventus (team),Corners 5+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Juventus (team),Match corners 9+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Juventus (team),Over 1.5,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,100,Pending
-Juventus (team),SOT 4+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Juventus (team),Scores 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Lecce (team),Cards 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
-Lecce (team),Over 1.5,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
+Jamil Siebert,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
+Joël Monteiro,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,80,80,Miss
+Kialonda Gaspar,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Hit
+Kialonda Gaspar,Tackles 2+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Hit
+Danilo Veiga,Fouls 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Miss
+Danilo Veiga,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Miss
+Oumar Ngom,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
+Tiago Gabriel,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,83,100,Hit
+Kerim Alajbegović,Shots 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,83,100,Miss
+Wladimiro Falcone,Saves 2+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Miss
+Douglas Luiz,Fouled 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
+Douglas Luiz,Shots 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
+Douglas Luiz,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,100,Miss
+Randal Kolo Muani,Fouled 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
+Randal Kolo Muani,Fouls 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
+Randal Kolo Muani,Shots 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Hit
+Gleison Bremer,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Hit
+Juventus (team),Cards 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Miss
+Juventus (team),Corners 4+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Miss
+Juventus (team),Corners 5+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Miss
+Juventus (team),Match corners 9+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Miss
+Juventus (team),Over 1.5,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,100,Hit
+Juventus (team),SOT 4+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Miss
+Juventus (team),Scores 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
+Lecce (team),Cards 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
+Lecce (team),Over 1.5,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Hit
 Michael Olise,Fouled 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
 Michael Olise,SOT 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
 Michael Olise,Shots 1+,Freiburg v Bayern München,Sun 25 Oct · 16:30,Bundesliga,100,100,Pending
@@ -692,81 +692,81 @@ Wouter Burger,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesl
 Wouter Burger,Tackles 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
 Adam Hložek,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
 Adam Hložek,Shots 2+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
-Marco Carnesecchi,Saves 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Marco Carnesecchi,Saves 3+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Lazar Samardžić,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Lazar Samardžić,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Jonathan Rowe,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Jonathan Rowe,Fouled 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,80,80,Pending
-Jonathan Rowe,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,80,80,Pending
-Ilario Monterisi,Fouls 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,83,80,Pending
-Ilario Monterisi,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,83,80,Pending
-Patrizio Masini,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Anthony Oyono,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Anthony Oyono,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Antonio Raimondo,Fouls 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Antonio Raimondo,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Lorenzo Palmisani,Saves 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Lorenzo Palmisani,Saves 3+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Giorgio Cittadini,Fouls 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Giorgio Cittadini,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Giorgi Kvernadze,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Giorgi Kvernadze,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Giorgi Kvernadze,Shots 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Giorgi Kvernadze,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Gabriele Bracaglia,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Gabriele Calvani,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Gabriele Calvani,Tackles 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,83,100,Pending
-Farès Ghedjemis,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Farès Ghedjemis,Shots 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,80,80,Pending
-Giacomo Calò,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Nikola Krstović,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Atalanta (team),Over 1.5,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Atalanta (team),Scores 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Éderson,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Éderson,Fouls 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Éderson,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Frosinone (team),Corners 4+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Frosinone (team),Match corners 9+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Frosinone (team),Over 1.5,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Junior Messias,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Junior Messias,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Junior Messias,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Genoa (team),Cards 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Genoa (team),Cards 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Genoa (team),Over 1.5,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Filip Stanković,Saves 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Tommaso Baldanzi,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,80,80,Pending
-Antoine Hainaut,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Antoine Hainaut,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Redouane Halhal,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Alessandro Marcandalli,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Matías Moreno,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,80,80,Pending
-Juan Jesus,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Ridgeciano Haps,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,80,80,Pending
-Toma Bašić,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Leo Østigard,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Leo Østigard,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Venezia (team),Cards 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Venezia (team),Cards 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Venezia (team),Over 1.5,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-John Yeboah,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-John Yeboah,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-John Yeboah,Shots 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-John Yeboah,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Kike Pérez,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Kike Pérez,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Kike Pérez,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,100,Pending
-Johan Vásquez,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Morten Frendrup,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Milutin Osmajić,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,83,80,Pending
-Milutin Osmajić,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Mikael Egill Ellertsson,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Mikael Egill Ellertsson,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Mikael Egill Ellertsson,Tackles 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Akor Adams,SOT 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Pending
-Akor Adams,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
-Akor Adams,Shots 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Pending
+Marco Carnesecchi,Saves 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Marco Carnesecchi,Saves 3+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Lazar Samardžić,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Miss
+Lazar Samardžić,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Hit
+Jonathan Rowe,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Jonathan Rowe,Fouled 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,80,80,Hit
+Jonathan Rowe,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,80,80,Hit
+Ilario Monterisi,Fouls 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,83,80,Miss
+Ilario Monterisi,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,83,80,Miss
+Patrizio Masini,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Anthony Oyono,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Anthony Oyono,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Antonio Raimondo,Fouls 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Antonio Raimondo,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Lorenzo Palmisani,Saves 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Lorenzo Palmisani,Saves 3+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Giorgio Cittadini,Fouls 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Giorgio Cittadini,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Giorgi Kvernadze,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Giorgi Kvernadze,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Giorgi Kvernadze,Shots 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Giorgi Kvernadze,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Gabriele Bracaglia,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Gabriele Calvani,Tackles 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Gabriele Calvani,Tackles 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,83,100,Hit
+Farès Ghedjemis,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Farès Ghedjemis,Shots 2+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,80,80,Hit
+Giacomo Calò,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Nikola Krstović,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Hit
+Atalanta (team),Over 1.5,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Hit
+Atalanta (team),Scores 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Éderson,Fouled 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Miss
+Éderson,Fouls 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Miss
+Éderson,Shots 1+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Hit
+Frosinone (team),Corners 4+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Hit
+Frosinone (team),Match corners 9+,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Frosinone (team),Over 1.5,Atalanta v Frosinone,Sun 25 Oct · 14:00,Serie A,86,100,Hit
+Junior Messias,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Junior Messias,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,100,Hit
+Junior Messias,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Genoa (team),Cards 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Genoa (team),Cards 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Genoa (team),Over 1.5,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,100,Miss
+Filip Stanković,Saves 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Tommaso Baldanzi,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,80,80,Did not play
+Antoine Hainaut,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Antoine Hainaut,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Redouane Halhal,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Alessandro Marcandalli,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Matías Moreno,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,80,80,Hit
+Juan Jesus,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Ridgeciano Haps,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,80,80,Hit
+Toma Bašić,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Leo Østigard,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Leo Østigard,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Venezia (team),Cards 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Venezia (team),Cards 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,100,Miss
+Venezia (team),Over 1.5,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Miss
+John Yeboah,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+John Yeboah,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+John Yeboah,Shots 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+John Yeboah,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Miss
+Kike Pérez,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Kike Pérez,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Kike Pérez,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,100,Hit
+Johan Vásquez,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Morten Frendrup,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Milutin Osmajić,Fouled 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,83,80,Miss
+Milutin Osmajić,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Mikael Egill Ellertsson,Fouls 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Mikael Egill Ellertsson,Tackles 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Mikael Egill Ellertsson,Tackles 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Miss
+Akor Adams,SOT 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
+Akor Adams,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
+Akor Adams,Shots 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
 Joshua McPake,Fouled 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Joshua McPake,Score or assist,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
 Joshua McPake,Shots 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
@@ -1016,46 +1016,46 @@ Celtic (team),Match corners 9+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland 
 Celtic (team),SOT 4+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
 Celtic (team),Scores 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
 Celtic (team),Win,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Radu Drăgușin,Fouls 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Cher Ndour,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Francesco Pio Esposito,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Francesco Pio Esposito,SOT 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Francesco Pio Esposito,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Petar Sučić,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Pending
-Petar Sučić,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Pending
-Viery,Fouls 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Pending
-Alieu Njie,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,100,Pending
-Alieu Njie,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Franco Mastantuono,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Franco Mastantuono,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Franco Mastantuono,Shots 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Pending
-David de Gea,Saves 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Piotr Zieliński,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Manuel Akanji,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Pending
-Manuel Akanji,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,100,Pending
-Nicolò Barella,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Pending
-Marcus Thuram,SOT 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,100,Pending
-Marcus Thuram,Score or assist,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,100,Pending
-Marcus Thuram,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Marcus Thuram,Shots 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Josep Martínez,Saves 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Pending
-Alessandro Bastoni,Fouls 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Pending
-Alessandro Bastoni,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Fiorentina (team),Cards 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Fiorentina (team),Over 1.5,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Fiorentina (team),Over 2.5,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Fiorentina (team),SOT 4+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Inter (team),Cards 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Inter (team),Over 1.5,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Pending
-Inter (team),Over 2.5,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Pending
-Inter (team),SOT 4+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Inter (team),Scores 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-Inter (team),Win,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Pending
-Nicolò Fagioli,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Pending
-Nicolò Fagioli,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Pending
-João Mário,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-João Mário,Fouled 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
-João Mário,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Pending
+Radu Drăgușin,Fouls 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Miss
+Cher Ndour,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Francesco Pio Esposito,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Miss
+Francesco Pio Esposito,SOT 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Hit
+Francesco Pio Esposito,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Hit
+Petar Sučić,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Hit
+Petar Sučić,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Hit
+Viery,Fouls 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Hit
+Alieu Njie,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,100,Hit
+Alieu Njie,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Miss
+Franco Mastantuono,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Hit
+Franco Mastantuono,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Franco Mastantuono,Shots 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Hit
+David de Gea,Saves 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Hit
+Piotr Zieliński,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Manuel Akanji,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Hit
+Manuel Akanji,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,100,Hit
+Nicolò Barella,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Hit
+Marcus Thuram,SOT 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,100,Hit
+Marcus Thuram,Score or assist,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,100,Hit
+Marcus Thuram,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Marcus Thuram,Shots 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Josep Martínez,Saves 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Did not play
+Alessandro Bastoni,Fouls 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,83,80,Hit
+Alessandro Bastoni,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Fiorentina (team),Cards 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Hit
+Fiorentina (team),Over 1.5,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Fiorentina (team),Over 2.5,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Hit
+Fiorentina (team),SOT 4+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Miss
+Inter (team),Cards 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Miss
+Inter (team),Over 1.5,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Hit
+Inter (team),Over 2.5,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Hit
+Inter (team),SOT 4+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Inter (team),Scores 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
+Inter (team),Win,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,80,Hit
+Nicolò Fagioli,Shots 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Miss
+Nicolò Fagioli,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,86,100,Hit
+João Mário,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Miss
+João Mário,Fouled 2+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Miss
+João Mário,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Miss
 Charlotte FC (team),Cards 1+,Portland Timbers v Charlotte FC,Sun 25 Oct · 02:30,MLS,87,80,Hit
 Charlotte FC (team),Over 1.5,Portland Timbers v Charlotte FC,Sun 25 Oct · 02:30,MLS,80,80,Hit
 Charlotte FC (team),Scores 1+,Portland Timbers v Charlotte FC,Sun 25 Oct · 02:30,MLS,80,80,Hit
