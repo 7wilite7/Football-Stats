@@ -1,26 +1,26 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:53 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2051,1490,73,90
-Tackles 1+,419,323,77,90
-Shots 1+,346,279,81,91
-Fouled 1+,248,172,69,89
-Fouls 1+,232,145,62,88
-Cards 1+,117,104,89,92
-Over 1.5,87,69,79,89
-Shots 2+,83,59,71,89
-Scores 1+,79,59,75,90
-Saves 2+,74,51,69,90
+All picks,2114,1540,73,90
+Tackles 1+,434,335,77,90
+Shots 1+,363,292,80,91
+Fouled 1+,251,175,70,89
+Fouls 1+,235,147,63,88
+Cards 1+,118,105,89,92
+Over 1.5,91,73,80,89
+Scores 1+,84,63,75,90
+Shots 2+,84,60,71,89
+Saves 2+,75,52,69,91
 SOT 1+,51,38,75,87
 Tackles 2+,49,24,49,88
-SOT 4+,41,29,71,90
-Corners 4+,30,19,63,91
-Match corners 9+,26,17,65,89
+SOT 4+,46,34,74,90
+Corners 4+,33,20,61,91
+Match corners 9+,27,18,67,90
+Over 2.5,24,16,67,87
 Cards 2+,23,11,48,88
-Over 2.5,23,16,70,87
 Fouled 2+,20,11,55,89
 Saves 3+,19,14,74,90
-BTTS,17,9,53,89
-Corners 5+,15,7,47,89
+BTTS,18,10,56,89
+Corners 5+,17,8,47,89
 Score or assist,11,8,73,85
 Fouls 2+,11,5,45,89
 Match corners 10+,10,6,60,88
@@ -279,35 +279,35 @@ Oumar Solet,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,80,80,Did not
 Jurgen Ekkelenkamp,Shots 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Hit
 Jurgen Ekkelenkamp,Shots 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Miss
 Gonçalo Ramos,Fouls 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Hit
-AZ Alkmaar (team),Corners 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-AZ Alkmaar (team),Corners 5+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-AZ Alkmaar (team),Over 1.5,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-AZ Alkmaar (team),SOT 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-AZ Alkmaar (team),Scores 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-Wouter Goes,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Pending
-Mexx Meerdink,Fouled 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Pending
-Mexx Meerdink,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Pending
-Lewis Schouten,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-Lewis Schouten,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-Ro-Zangelo Daal,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-Sondre Ørjasæter,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Pending
-Daouda Weidmann,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Pending
-Dave Kwakman,Fouled 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),88,80,Pending
-Aske Adelgaard,Fouls 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),83,80,Pending
-Aske Adelgaard,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),83,80,Pending
-Mateo Chávez,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-Robin Pröpper,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-Wout Weghorst,Fouls 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-Wout Weghorst,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Pending
-Wout Weghorst,Shots 2+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-Joël Drommel,Saves 2+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Pending
-Calvin Stengs,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-FC Twente (team),Corners 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-FC Twente (team),Corners 5+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-FC Twente (team),Match corners 9+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Pending
-FC Twente (team),SOT 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-FC Twente (team),Scores 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
-Peer Koopmeiners,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
+AZ Alkmaar (team),Corners 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Miss
+AZ Alkmaar (team),Corners 5+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Miss
+AZ Alkmaar (team),Over 1.5,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Hit
+AZ Alkmaar (team),SOT 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Hit
+AZ Alkmaar (team),Scores 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Miss
+Wouter Goes,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Did not play
+Mexx Meerdink,Fouled 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Hit
+Mexx Meerdink,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Hit
+Lewis Schouten,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Miss
+Lewis Schouten,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+Ro-Zangelo Daal,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Hit
+Sondre Ørjasæter,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Hit
+Daouda Weidmann,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Hit
+Dave Kwakman,Fouled 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),88,80,Hit
+Aske Adelgaard,Fouls 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),83,80,Hit
+Aske Adelgaard,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),83,80,Hit
+Mateo Chávez,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+Robin Pröpper,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+Wout Weghorst,Fouls 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Hit
+Wout Weghorst,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Hit
+Wout Weghorst,Shots 2+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+Joël Drommel,Saves 2+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Hit
+Calvin Stengs,Shots 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+FC Twente (team),Corners 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+FC Twente (team),Corners 5+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+FC Twente (team),Match corners 9+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),100,100,Hit
+FC Twente (team),SOT 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+FC Twente (team),Scores 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Hit
+Peer Koopmeiners,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Hit
 Ander Barrenetxea,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,88,100,Miss
 Manuel Sánchez,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Hit
 Orri Óskarsson,Fouls 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,86,80,Miss
@@ -608,18 +608,18 @@ Mark McKenzie,Fouled 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
 Mark McKenzie,Fouls 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,100,Hit
 Toulouse (team),Cards 1+,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Hit
 Toulouse (team),Over 1.5,Toulouse v Troyes,Sun 25 Oct · 16:15,Ligue 1,86,80,Miss
-Tolu Arokodare,Shots 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),88,100,Pending
-Oscar Gloukh,Shots 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
-Lucas Rosa,Fouled 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Pending
-Lucas Rosa,Fouls 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Pending
-Lucas Rosa,Shots 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
-Lucas Rosa,Tackles 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Pending
-Sofyan Amrabat,Tackles 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
-Thilo Kehrer,Tackles 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Pending
-Ajax (team),Corners 4+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),89,100,Pending
-Ajax (team),Over 1.5,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
-Ajax (team),SOT 4+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
-Ajax (team),Scores 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
+Tolu Arokodare,Shots 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),88,100,Hit
+Oscar Gloukh,Shots 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Hit
+Lucas Rosa,Fouled 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Hit
+Lucas Rosa,Fouls 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Miss
+Lucas Rosa,Shots 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Miss
+Lucas Rosa,Tackles 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Hit
+Sofyan Amrabat,Tackles 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Hit
+Thilo Kehrer,Tackles 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),80,80,Miss
+Ajax (team),Corners 4+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),89,100,Miss
+Ajax (team),Over 1.5,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Hit
+Ajax (team),SOT 4+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Hit
+Ajax (team),Scores 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Hit
 Sebastián Cáceres,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Did not play
 Natan,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,86,80,Miss
 Abdessamad Ezzalzouli,Fouled 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,100,Hit
@@ -942,38 +942,38 @@ Bryan Mbeumo,SOT 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Prem
 Bryan Mbeumo,Shots 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,100,100,Hit
 Bryan Mbeumo,Shots 2+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,100,100,Hit
 James Hill,Tackles 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Feyenoord (team),Over 1.5,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Pending
-Feyenoord (team),SOT 4+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Feyenoord (team),Scores 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Mika Mármol,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Pending
-Luciano Valente,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Kodai Sano,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,80,Pending
-Kodai Sano,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,100,Pending
-Givairo Read,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Pending
-Gjivai Zechiël,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Pending
-Gjivai Zechiël,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Pending
-Anis Hadj Moussa,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Ivan Perišić,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,80,Pending
-Gaoussou Diarra,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,80,Pending
-Gaoussou Diarra,Shots 2+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,80,Pending
-Ayoni Santos,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),83,80,Pending
-Noah Fernandez,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),83,80,Pending
-Noah Fernandez,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),83,80,Pending
-Jeremiah St. Juste,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),86,80,Pending
-Guus Til,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Pending
-PSV Eindhoven (team),BTTS,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Pending
-PSV Eindhoven (team),Cards 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Pending
-PSV Eindhoven (team),Over 1.5,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-PSV Eindhoven (team),Over 2.5,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Pending
-PSV Eindhoven (team),SOT 4+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Pending
-PSV Eindhoven (team),Scores 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Mauro Júnior,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Lutsharel Geertruida,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),80,80,Pending
-Lutsharel Geertruida,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),80,80,Pending
-Ayase Ueda,Fouled 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Ayase Ueda,SOT 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Ayase Ueda,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Ayase Ueda,Shots 2+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
+Feyenoord (team),Over 1.5,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Hit
+Feyenoord (team),SOT 4+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Hit
+Feyenoord (team),Scores 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Hit
+Mika Mármol,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Hit
+Luciano Valente,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Hit
+Kodai Sano,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,80,Miss
+Kodai Sano,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,100,Hit
+Givairo Read,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Hit
+Gjivai Zechiël,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Miss
+Gjivai Zechiël,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Miss
+Anis Hadj Moussa,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Hit
+Ivan Perišić,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,80,Hit
+Gaoussou Diarra,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,80,Did not play
+Gaoussou Diarra,Shots 2+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),88,80,Did not play
+Ayoni Santos,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),83,80,Did not play
+Noah Fernandez,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),83,80,Did not play
+Noah Fernandez,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),83,80,Did not play
+Jeremiah St. Juste,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),86,80,Hit
+Guus Til,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Hit
+PSV Eindhoven (team),BTTS,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Hit
+PSV Eindhoven (team),Cards 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,100,Hit
+PSV Eindhoven (team),Over 1.5,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Hit
+PSV Eindhoven (team),Over 2.5,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Miss
+PSV Eindhoven (team),SOT 4+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),89,80,Hit
+PSV Eindhoven (team),Scores 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Hit
+Mauro Júnior,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Hit
+Lutsharel Geertruida,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),80,80,Hit
+Lutsharel Geertruida,Tackles 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),80,80,Miss
+Ayase Ueda,Fouled 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Did not play
+Ayase Ueda,SOT 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Did not play
+Ayase Ueda,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Did not play
+Ayase Ueda,Shots 2+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Did not play
 Robert Navarro,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,86,100,Did not play
 Aitor Paredes,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Miss
 Martín Satriano,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,80,Hit
