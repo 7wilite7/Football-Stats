@@ -1,30 +1,30 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:54 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2128,1553,73,90
-Tackles 1+,436,337,77,90
-Shots 1+,365,294,81,91
-Fouled 1+,254,177,70,89
+All picks,2152,1574,73,90
+Tackles 1+,441,342,78,90
+Shots 1+,367,296,81,91
+Fouled 1+,256,179,70,89
 Fouls 1+,238,150,63,88
-Cards 1+,119,106,89,92
-Over 1.5,92,74,80,89
-Scores 1+,85,64,75,90
-Shots 2+,84,60,71,89
+Cards 1+,120,107,89,92
+Over 1.5,93,75,81,90
+Scores 1+,87,66,76,90
+Shots 2+,85,61,72,89
 Saves 2+,75,52,69,91
+Tackles 2+,51,26,51,88
 SOT 1+,51,38,75,87
-Tackles 2+,50,25,50,88
-SOT 4+,46,34,74,90
-Corners 4+,33,20,61,91
-Match corners 9+,27,18,67,90
-Over 2.5,24,16,67,87
+SOT 4+,48,36,75,90
+Corners 4+,35,22,63,91
+Match corners 9+,28,18,64,90
+Over 2.5,25,16,64,87
 Cards 2+,23,11,48,88
 Fouled 2+,20,11,55,89
 Saves 3+,19,14,74,90
+Corners 5+,18,9,50,90
 BTTS,18,10,56,89
-Corners 5+,17,8,47,89
-Score or assist,11,8,73,85
+Score or assist,12,8,67,85
 Fouls 2+,11,5,45,89
 Match corners 10+,10,6,60,88
-Win,8,5,62,91
+Win,9,6,67,91
 Match cards 4+,6,6,100,88
 Goal 1+,5,3,60,86
 SOT 2+,1,1,100,88
@@ -767,20 +767,20 @@ Mikael Egill Ellertsson,Tackles 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,1
 Akor Adams,SOT 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,86,80,Hit
 Akor Adams,Shots 1+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
 Akor Adams,Shots 2+,Genoa v Venezia,Sun 25 Oct · 14:00,Serie A,100,100,Hit
-Joshua McPake,Fouled 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Joshua McPake,Score or assist,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
-Joshua McPake,Shots 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Joshua McPake,Tackles 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
-Cláudio Braga,Shots 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Cláudio Braga,Shots 2+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Jordi Altena,Fouled 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-Jordi Altena,Tackles 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Laurent Mendy,Tackles 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
-Heart of Midlothian (team),Corners 4+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Heart of Midlothian (team),Over 1.5,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Heart of Midlothian (team),Over 2.5,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Heart of Midlothian (team),SOT 4+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Heart of Midlothian (team),Scores 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Joshua McPake,Fouled 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Joshua McPake,Score or assist,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Miss
+Joshua McPake,Shots 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Joshua McPake,Tackles 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Hit
+Cláudio Braga,Shots 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Cláudio Braga,Shots 2+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Jordi Altena,Fouled 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Hit
+Jordi Altena,Tackles 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Laurent Mendy,Tackles 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Hit
+Heart of Midlothian (team),Corners 4+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Heart of Midlothian (team),Over 1.5,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Heart of Midlothian (team),Over 2.5,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Miss
+Heart of Midlothian (team),SOT 4+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Heart of Midlothian (team),Scores 1+,Motherwell v Heart of Midlothian,Sun 25 Oct · 14:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
 Hákon Arnar Haraldsson,Fouled 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,86,100,Hit
 Dilane Bakwa,Shots 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Did not play
 Dilane Bakwa,Tackles 1+,Monaco v Lille,Sun 25 Oct · 14:00,Ligue 1,83,80,Did not play
@@ -1005,17 +1005,17 @@ Athletic Club (team),Cards 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga
 Athletic Club (team),Cards 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Miss
 Athletic Club (team),Corners 4+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Miss
 Athletic Club (team),Corners 5+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Miss
-Callum McGregor,Tackles 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
-Mika Baur,Tackles 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Mika Baur,Tackles 2+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Pending
-Alex Oxlade-Chamberlain,Shots 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Celtic (team),Cards 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Celtic (team),Corners 4+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Celtic (team),Corners 5+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Celtic (team),Match corners 9+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Celtic (team),SOT 4+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Celtic (team),Scores 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Celtic (team),Win,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
+Callum McGregor,Tackles 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Hit
+Mika Baur,Tackles 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Mika Baur,Tackles 2+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Hit
+Alex Oxlade-Chamberlain,Shots 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Did not play
+Celtic (team),Cards 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Hit
+Celtic (team),Corners 4+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Celtic (team),Corners 5+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Celtic (team),Match corners 9+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Miss
+Celtic (team),SOT 4+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Celtic (team),Scores 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Celtic (team),Win,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
 Radu Drăgușin,Fouls 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Miss
 Cher Ndour,Tackles 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Hit
 Francesco Pio Esposito,Fouled 1+,Inter v Fiorentina,Sun 25 Oct · 11:30,Serie A,100,100,Miss
