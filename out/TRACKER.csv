@@ -1,17 +1,17 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:54 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2114,1540,73,90
-Tackles 1+,434,335,77,90
-Shots 1+,363,292,80,91
-Fouled 1+,251,175,70,89
-Fouls 1+,235,147,63,88
-Cards 1+,118,105,89,92
-Over 1.5,91,73,80,89
-Scores 1+,84,63,75,90
+All picks,2128,1553,73,90
+Tackles 1+,436,337,77,90
+Shots 1+,365,294,81,91
+Fouled 1+,254,177,70,89
+Fouls 1+,238,150,63,88
+Cards 1+,119,106,89,92
+Over 1.5,92,74,80,89
+Scores 1+,85,64,75,90
 Shots 2+,84,60,71,89
 Saves 2+,75,52,69,91
 SOT 1+,51,38,75,87
-Tackles 2+,49,24,49,88
+Tackles 2+,50,25,50,88
 SOT 4+,46,34,74,90
 Corners 4+,33,20,61,91
 Match corners 9+,27,18,67,90
@@ -205,20 +205,20 @@ João Klauss,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,100,
 James Marcinkowski,Saves 2+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,88,80,Hit
 Joseph Paintsil,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,83,80,Hit
 Los Angeles FC (team),Scores 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,81,80,Hit
-Maxi Araújo,Fouled 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
-Maxi Araújo,Fouls 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
-Geny Catamo,Fouled 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Geny Catamo,Shots 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-Sergi Altimira,Fouls 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Sergi Altimira,Tackles 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Sergi Altimira,Tackles 2+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Iván Fresneda,Fouls 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-Issa Doumbia,Tackles 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Flávio Gonçalves,Fouled 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
-Flávio Gonçalves,Shots 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
-Sporting CP (team),Cards 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Sporting CP (team),Over 1.5,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Sporting CP (team),Scores 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Maxi Araújo,Fouled 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Hit
+Maxi Araújo,Fouls 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Hit
+Geny Catamo,Fouled 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Geny Catamo,Shots 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Hit
+Sergi Altimira,Fouls 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Sergi Altimira,Tackles 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Sergi Altimira,Tackles 2+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Iván Fresneda,Fouls 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Hit
+Issa Doumbia,Tackles 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Flávio Gonçalves,Fouled 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Miss
+Flávio Gonçalves,Shots 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Hit
+Sporting CP (team),Cards 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Sporting CP (team),Over 1.5,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Sporting CP (team),Scores 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
 Jude Bellingham,Fouled 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Hit
 Jude Bellingham,Fouled 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Hit
 Jude Bellingham,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Hit
