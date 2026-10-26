@@ -1,0 +1,26 @@
+name: verify-stats
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/verify.py", ".github/workflows/verify.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests
+      - run: python scripts/verify.py
+      - name: Save report
+        run: |
+          git config user.name "stats-bot"; git config user.email "stats-bot@users.noreply.github.com"
+          git add verify && git commit -qm "fact-check report" || true
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
