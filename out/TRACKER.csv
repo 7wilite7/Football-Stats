@@ -1,188 +1,188 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:42 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:43 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,1474,1081,73,89
-Tackles 1+,304,238,78,90
-Shots 1+,257,208,81,91
-Fouled 1+,180,124,69,89
-Fouls 1+,162,99,61,88
-Cards 1+,90,80,89,92
-Over 1.5,63,50,79,89
-Scores 1+,59,43,73,89
-Shots 2+,58,39,67,89
-Saves 2+,54,38,70,90
-Tackles 2+,36,16,44,87
-SOT 1+,35,27,77,87
-SOT 4+,26,19,73,90
-Corners 4+,20,14,70,89
-Match corners 9+,18,14,78,87
-Cards 2+,17,9,53,87
-Fouled 2+,14,7,50,87
-Saves 3+,13,10,77,90
+All picks,1577,1147,73,89
+Tackles 1+,328,252,77,90
+Shots 1+,276,222,80,91
+Fouled 1+,190,133,70,90
+Fouls 1+,172,104,60,88
+Cards 1+,96,86,90,92
+Over 1.5,64,51,80,89
+Scores 1+,62,45,73,90
+Shots 2+,62,42,68,89
+Saves 2+,58,39,67,90
+Tackles 2+,38,16,42,87
+SOT 1+,38,30,79,87
+SOT 4+,29,21,72,91
+Corners 4+,22,14,64,90
+Cards 2+,20,10,50,88
+Match corners 9+,19,14,74,87
+Fouled 2+,15,8,53,87
+Saves 3+,14,11,79,90
+Over 2.5,13,8,62,87
 BTTS,13,7,54,88
-Over 2.5,12,7,58,87
+Corners 5+,10,5,50,86
 Fouls 2+,9,5,56,87
-Corners 5+,8,5,62,85
-Score or assist,6,5,83,84
-Win,6,4,67,90
+Score or assist,7,6,86,84
+Win,7,4,57,92
 Match corners 10+,6,5,83,85
-Match cards 4+,5,5,100,86
+Match cards 4+,6,6,100,88
 Goal 1+,2,2,100,84
 SOT 2+,1,1,100,88
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
-Odysseas Vlachodimos,Saves 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
-Lucien Agoumé,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Lucien Agoumé,Tackles 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
 Juan Iglesias,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
 Juan Iglesias,Tackles 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Pending
-Peque Fernández,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
 Peque Fernández,Fouled 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Arouna Sangante,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Kike Salas,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Ante Budimir,Shots 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
-Ante Budimir,Fouled 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
-Moi Gómez,Fouled 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,83,80,Pending
-Rubén Garcia,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Pending
-Jon Moncayola,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
-Abel Bretones,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Iñigo Arguibide,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Pending
-Asier Osambela,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,86,80,Pending
+Peque Fernández,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
 Flavien Boyomo,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Arouna Sangante,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Abel Bretones,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Kike Salas,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Asier Osambela,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,86,80,Pending
+Iñigo Arguibide,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Pending
+Unai Santos,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Ante Budimir,Fouled 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
+Ante Budimir,Shots 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
+Moi Gómez,Fouled 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,83,80,Pending
+Odysseas Vlachodimos,Saves 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
+Rubén Garcia,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Pending
+Sevilla (team),Cards 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Sevilla (team),Scores 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Osasuna (team),Cards 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Osasuna (team),Cards 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Pending
+Jon Moncayola,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
+Félix Correia,Shots 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,80,80,Pending
 Youssouf Fofana,Shots 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,83,80,Pending
 Youssouf Fofana,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,83,100,Pending
 Youssouf Fofana,Tackles 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,83,100,Pending
-Félix Correia,Shots 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,80,80,Pending
-Unai Santos,Fouls 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Sevilla (team),Scores 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Sevilla (team),Cards 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Osasuna (team),Cards 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
-Osasuna (team),Cards 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Pending
-Corentin Tolisso,Fouled 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Corentin Tolisso,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Pending
+Lucien Agoumé,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
+Lucien Agoumé,Tackles 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Pending
 Mads Bidstrup,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Pending
-Zachary Athekame,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Fabián Ruiz,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
-Achraf Hakimi,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
-Ferrán Torres,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
 Willian Pacho,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
+Ernest Nuamah,Fouled 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
+Ernest Nuamah,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
+Ernest Nuamah,Shots 2+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
 Désiré Doué,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
 Désiré Doué,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
 João Neves,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
 João Neves,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
+Zachary Athekame,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
 Lucas Digne,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
+Corentin Tolisso,Fouled 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
+Corentin Tolisso,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Pending
+Fabián Ruiz,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
 Dominik Greif,Saves 2+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
 Dominik Greif,Saves 3+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
-Ernest Nuamah,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
-Ernest Nuamah,Shots 2+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
-Ernest Nuamah,Fouled 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Lyon (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Lyon (team),Over 1.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Lyon (team),Match corners 9+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Lyon (team),Match corners 10+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
+Achraf Hakimi,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
+Ferrán Torres,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
 Lyon (team),Cards 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Pending
-Paris Saint-Germain (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
+Lyon (team),Match corners 10+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
+Lyon (team),Match corners 9+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
+Lyon (team),Over 1.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
+Lyon (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
 Paris Saint-Germain (team),BTTS,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
+Paris Saint-Germain (team),Corners 4+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
 Paris Saint-Germain (team),Over 1.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
 Paris Saint-Germain (team),Over 2.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Paris Saint-Germain (team),Corners 4+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
 Paris Saint-Germain (team),SOT 4+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Rafa Silva,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
+Paris Saint-Germain (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
+Georgiy Sudakov,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
+Gianluca Prestianni,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gianluca Prestianni,Fouled 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
+Gianluca Prestianni,SOT 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
+Gianluca Prestianni,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gianluca Prestianni,Shots 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Rafa Silva,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
+Rafa Silva,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
+João Palhinha,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+João Palhinha,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",83,80,Pending
+João Palhinha,Tackles 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+João Palhinha,Tackles 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",83,80,Pending
 Vangelis Pavlidis,Score or assist,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
 Vangelis Pavlidis,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Vangelis Pavlidis,Shots 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Alexander Bah,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Leandro Barreiro,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Leandro Barreiro,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Georgiy Sudakov,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
-Gianluca Prestianni,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Gianluca Prestianni,Shots 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Gianluca Prestianni,SOT 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Gianluca Prestianni,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Gianluca Prestianni,Fouled 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-João Palhinha,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",83,80,Pending
-João Palhinha,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-João Palhinha,Tackles 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-João Palhinha,Tackles 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",83,80,Pending
-Benfica (team),Scores 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Leandro Barreiro,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Benfica (team),Over 1.5,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Benfica (team),Over 2.5,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
 Benfica (team),SOT 4+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
+Benfica (team),Scores 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Oğuz Aydın,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Kerem Aktürkoglu,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Abdülkerim Bardakci,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Roland Sallai,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Roland Sallai,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+N'Golo Kanté,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Nélson Semedo,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
+Vedat Muriqi,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Vedat Muriqi,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Roland Sallai,Fouled 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Roland Sallai,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Roland Sallai,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Lucas Torreira,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Lucas Torreira,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Victor Osimhen,SOT 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Victor Osimhen,SOT 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
 Victor Osimhen,Score or assist,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
 Victor Osimhen,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Victor Osimhen,Shots 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Victor Osimhen,SOT 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Victor Osimhen,SOT 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
-Yunus Akgün,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Yunus Akgün,Fouled 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Gabriel Sara,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-N'Golo Kanté,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Nélson Semedo,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Vedat Muriqi,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Vedat Muriqi,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Mason Greenwood,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Mason Greenwood,Shots 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Oğuz Aydın,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Kerem Aktürkoglu,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Yunus Akgün,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Rafael Leão,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Galatasaray (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Galatasaray (team),Cards 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
 Galatasaray (team),Corners 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
 Galatasaray (team),Corners 5+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Galatasaray (team),Cards 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
 Galatasaray (team),SOT 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Fenerbahçe (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Fenerbahçe (team),Over 1.5,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Galatasaray (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Fenerbahçe (team),Corners 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Fenerbahçe (team),Over 1.5,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Fenerbahçe (team),SOT 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Fenerbahçe (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Gabriel Sara,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
+Mason Greenwood,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Mason Greenwood,Shots 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Ernest Muçi,SOT 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Ernest Muçi,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Ernest Muçi,Shots 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Ernest Muçi,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Aral Şimşir,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Franculino,Score or assist,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
+Franculino,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
+Chibuike Nwaiwu,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Wagner Pina,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Wagner Pina,Fouls 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Wagner Pina,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Pending
 Mohamed Salah,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Mohamed Salah,Shots 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Fabinho,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 André Onana,Saves 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 André Onana,Saves 3+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Melih Kabasakal,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,100,Pending
-Aral Şimşir,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Chibuike Nwaiwu,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Wagner Pina,Fouls 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Wagner Pina,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Wagner Pina,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Pending
+Trabzonspor (team),Cards 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
+Trabzonspor (team),Corners 4+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Trabzonspor (team),Over 1.5,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Trabzonspor (team),SOT 4+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Trabzonspor (team),Scores 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Beşiktaş (team),Cards 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
+Beşiktaş (team),Corners 4+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Beşiktaş (team),Corners 5+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Beşiktaş (team),Match corners 10+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Beşiktaş (team),Match corners 9+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Beşiktaş (team),SOT 4+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Emmanuel Agbadou,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Leandro Trossard,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Leandro Trossard,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Leandro Trossard,Shots 2+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Pending
-Leandro Trossard,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Václav Cerny,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Dušan Vlahović,Fouls 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Dušan Vlahović,SOT 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Dušan Vlahović,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Dušan Vlahović,Shots 2+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Salih Özcan,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Salih Özcan,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
 Tiago Djaló,Fouls 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
 Tiago Djaló,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Emmanuel Agbadou,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Ernest Muçi,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Ernest Muçi,Shots 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Ernest Muçi,SOT 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Ernest Muçi,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Dušan Vlahović,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,Shots 2+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,SOT 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,Fouls 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Emirhan Topçu,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
-Fabinho,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Franculino,Score or assist,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Franculino,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Trabzonspor (team),Scores 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Trabzonspor (team),Over 1.5,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Trabzonspor (team),Corners 4+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Trabzonspor (team),Cards 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Trabzonspor (team),SOT 4+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Beşiktaş (team),Corners 4+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Beşiktaş (team),Corners 5+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Beşiktaş (team),Match corners 9+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Beşiktaş (team),Match corners 10+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Beşiktaş (team),Cards 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Beşiktaş (team),SOT 4+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Justin Haak,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,83,80,Pending
 Calegari,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,80,80,Pending
 Gabriel Pec,SOT 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,80,Pending
@@ -219,38 +219,38 @@ Flávio Gonçalves,Shots 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"
 Sporting CP (team),Cards 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Sporting CP (team),Over 1.5,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Sporting CP (team),Scores 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Jude Bellingham,Fouled 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Pending
-Jude Bellingham,Fouled 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Pending
-Jude Bellingham,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Pending
-Arda Güler,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Pending
-Dean Huijsen,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,86,100,Pending
-Fermín López,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Pending
-Fermín López,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Pending
-Lamine Yamal,Fouled 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Pending
-Lamine Yamal,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Lamine Yamal,Shots 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Pau Cubarsí,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,83,80,Pending
-Xavi Espart,Fouls 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,86,80,Pending
-Xavi Espart,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,86,100,Pending
-Xavi Espart,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Rodri,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,100,Pending
-Raphinha,SOT 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Pending
-Raphinha,Score or assist,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Pending
-Raphinha,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Raphinha,Shots 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Pending
-Kylian Mbappé,SOT 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Pending
-Kylian Mbappé,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Kylian Mbappé,Shots 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Pending
-Ibrahima Konaté,Fouls 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,100,Pending
-Real Madrid (team),SOT 4+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Pending
-Real Madrid (team),Scores 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Pending
-Barcelona (team),Over 1.5,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Barcelona (team),Over 2.5,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Pending
-Barcelona (team),SOT 4+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Barcelona (team),Scores 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Barcelona (team),Win,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Pending
-Anthony Gordon,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Pending
-Aurélien Tchouaméni,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,80,80,Pending
+Jude Bellingham,Fouled 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Hit
+Jude Bellingham,Fouled 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Hit
+Jude Bellingham,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Hit
+Arda Güler,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Hit
+Dean Huijsen,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,86,100,Miss
+Fermín López,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Hit
+Fermín López,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Miss
+Lamine Yamal,Fouled 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Hit
+Lamine Yamal,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Hit
+Lamine Yamal,Shots 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Hit
+Pau Cubarsí,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,83,80,Hit
+Xavi Espart,Fouls 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,86,80,Hit
+Xavi Espart,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,86,100,Miss
+Xavi Espart,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Hit
+Rodri,Tackles 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,100,Hit
+Raphinha,SOT 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Hit
+Raphinha,Score or assist,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Hit
+Raphinha,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Hit
+Raphinha,Shots 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Hit
+Kylian Mbappé,SOT 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Hit
+Kylian Mbappé,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Hit
+Kylian Mbappé,Shots 2+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Hit
+Ibrahima Konaté,Fouls 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,100,Miss
+Real Madrid (team),SOT 4+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,80,Hit
+Real Madrid (team),Scores 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Hit
+Barcelona (team),Over 1.5,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Hit
+Barcelona (team),Over 2.5,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,89,100,Hit
+Barcelona (team),SOT 4+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Hit
+Barcelona (team),Scores 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Hit
+Barcelona (team),Win,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,100,100,Miss
+Anthony Gordon,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,88,80,Hit
+Aurélien Tchouaméni,Shots 1+,Barcelona v Real Madrid,Sun 25 Oct · 20:00,La Liga,80,80,Miss
 Strahinja Pavlović,Fouled 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
 Strahinja Pavlović,Tackles 1+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,100,100,Pending
 Maduka Okoye,Saves 2+,Udinese v Milan,Sun 25 Oct · 19:45,Serie A,86,80,Pending
@@ -308,27 +308,27 @@ FC Twente (team),Match corners 9+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Ere
 FC Twente (team),SOT 4+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
 FC Twente (team),Scores 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,100,Pending
 Peer Koopmeiners,Tackles 1+,AZ Alkmaar v FC Twente,Sun 25 Oct · 19:00,Eredivisie (top 5),89,80,Pending
-Ander Barrenetxea,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,88,100,Pending
-Manuel Sánchez,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Orri Óskarsson,Fouls 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,86,80,Pending
-Jon Olasagasti,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,80,Pending
-Jon Olasagasti,Tackles 2+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,80,Pending
-Iván Romero,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,80,Pending
-Roger Brugué,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,88,80,Pending
-Mamadou Sarr,Fouled 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Mamadou Sarr,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Thiago Fernández,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Ifeanyi Ndukwe,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,80,80,Pending
-Mathew Ryan,Saves 2+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Alex Remiro,Saves 2+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Sergio Gómez,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Real Sociedad (team),Cards 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Real Sociedad (team),Cards 2+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Real Sociedad (team),Corners 4+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Real Sociedad (team),Corners 5+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Real Sociedad (team),Match corners 9+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Pending
-Levante (team),Cards 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,100,Pending
-Luka Sučić,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,88,80,Pending
+Ander Barrenetxea,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,88,100,Miss
+Manuel Sánchez,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Hit
+Orri Óskarsson,Fouls 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,86,80,Miss
+Jon Olasagasti,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,80,Miss
+Jon Olasagasti,Tackles 2+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,80,Miss
+Iván Romero,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,80,Hit
+Roger Brugué,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,88,80,Miss
+Mamadou Sarr,Fouled 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Hit
+Mamadou Sarr,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Hit
+Thiago Fernández,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Hit
+Ifeanyi Ndukwe,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,80,80,Miss
+Mathew Ryan,Saves 2+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Miss
+Alex Remiro,Saves 2+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Miss
+Sergio Gómez,Tackles 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Miss
+Real Sociedad (team),Cards 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Hit
+Real Sociedad (team),Cards 2+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Miss
+Real Sociedad (team),Corners 4+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Miss
+Real Sociedad (team),Corners 5+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Miss
+Real Sociedad (team),Match corners 9+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,100,100,Miss
+Levante (team),Cards 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,89,100,Hit
+Luka Sučić,Shots 1+,Real Sociedad v Levante,Sun 25 Oct · 17:30,La Liga,88,80,Hit
 Jamil Siebert,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,86,80,Pending
 Joël Monteiro,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,80,80,Pending
 Kialonda Gaspar,Tackles 1+,Lecce v Juventus,Sun 25 Oct · 17:00,Serie A,100,100,Pending
@@ -620,29 +620,29 @@ Ajax (team),Corners 4+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (t
 Ajax (team),Over 1.5,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
 Ajax (team),SOT 4+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
 Ajax (team),Scores 1+,Sparta Rotterdam v Ajax,Sun 25 Oct · 15:45,Eredivisie (top 5),100,100,Pending
-Sebastián Cáceres,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Pending
-Natan,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,86,80,Pending
-Abdessamad Ezzalzouli,Fouled 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,100,Pending
-Abdessamad Ezzalzouli,SOT 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,100,Pending
-Abdessamad Ezzalzouli,Shots 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,100,Pending
-Valentín Gómez,Fouls 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Pending
-Ángel Ortiz,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Pending
-Marc Bartra,Shots 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,80,80,Pending
-Marc Bartra,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,80,80,Pending
-Marcos Alonso,Fouls 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,86,80,Pending
-Marcos Alonso,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,86,100,Pending
-Marc Roca,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Pending
-Marc Roca,Tackles 2+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,80,Pending
-Aleix Febas,Fouled 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Pending
-Aleix Febas,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Pending
-Fran García,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,88,100,Pending
-Fran García,Tackles 2+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,88,100,Pending
-Real Betis (team),Cards 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,80,Pending
-Real Betis (team),SOT 4+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,100,Pending
-Real Betis (team),Scores 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Pending
-Celta Vigo (team),Cards 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,100,Pending
-Álvaro Vallés,Saves 2+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Pending
-Álvaro Vallés,Saves 3+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,80,Pending
+Sebastián Cáceres,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Did not play
+Natan,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,86,80,Miss
+Abdessamad Ezzalzouli,Fouled 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,100,Hit
+Abdessamad Ezzalzouli,SOT 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,100,Hit
+Abdessamad Ezzalzouli,Shots 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,100,Hit
+Valentín Gómez,Fouls 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Miss
+Ángel Ortiz,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Hit
+Marc Bartra,Shots 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,80,80,Miss
+Marc Bartra,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,80,80,Hit
+Marcos Alonso,Fouls 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,86,80,Hit
+Marcos Alonso,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,86,100,Miss
+Marc Roca,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Hit
+Marc Roca,Tackles 2+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,83,80,Miss
+Aleix Febas,Fouled 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Hit
+Aleix Febas,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Hit
+Fran García,Tackles 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,88,100,Did not play
+Fran García,Tackles 2+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,88,100,Did not play
+Real Betis (team),Cards 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,80,Hit
+Real Betis (team),SOT 4+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,100,Miss
+Real Betis (team),Scores 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Miss
+Celta Vigo (team),Cards 1+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,100,Hit
+Álvaro Vallés,Saves 2+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,100,100,Hit
+Álvaro Vallés,Saves 3+,Celta Vigo v Real Betis,Sun 25 Oct · 15:15,La Liga,89,80,Hit
 Jarell Quansah,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,83,80,Pending
 Tim Lemperle,Fouls 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
 Tim Lemperle,Shots 1+,Hoffenheim v Bayer Leverkusen,Sun 25 Oct · 14:30,Bundesliga,80,80,Pending
@@ -974,37 +974,37 @@ Ayase Ueda,Fouled 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (t
 Ayase Ueda,SOT 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
 Ayase Ueda,Shots 1+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
 Ayase Ueda,Shots 2+,PSV Eindhoven v Feyenoord,Sun 25 Oct · 13:30,Eredivisie (top 5),100,100,Pending
-Robert Navarro,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,86,100,Pending
-Aitor Paredes,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Pending
-Martín Satriano,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,80,Pending
-Martín Satriano,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Pending
-Martín Satriano,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,80,Pending
-Nico Williams,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Pending
-Ramón Terrats,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
-Ramón Terrats,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
-Ramón Terrats,Shots 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
-Ramón Terrats,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,100,Pending
-Iván Azon,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,80,80,Pending
-Mario Martín,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Pending
-Mario Martín,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Pending
-Mario Martín,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Pending
-Beñat Gerenabarrena,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Pending
-Beñat Gerenabarrena,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Pending
-Hugo Rincón,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Pending
-Andrés García,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Pending
-Kiko,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,80,80,Pending
-Nemanja Gudelj,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,86,80,Pending
-Johan Mojica,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
-Alex Berenguer,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
-David Soria,Saves 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,100,Pending
-Yuri Berchiche,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Pending
-Getafe (team),Cards 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Pending
-Getafe (team),Cards 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,100,Pending
-Getafe (team),Match cards 4+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Pending
-Athletic Club (team),Cards 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
-Athletic Club (team),Cards 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
-Athletic Club (team),Corners 4+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
-Athletic Club (team),Corners 5+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Pending
+Robert Navarro,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,86,100,Did not play
+Aitor Paredes,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Miss
+Martín Satriano,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,80,Hit
+Martín Satriano,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Miss
+Martín Satriano,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,80,Hit
+Nico Williams,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Hit
+Ramón Terrats,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Hit
+Ramón Terrats,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Hit
+Ramón Terrats,Shots 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Miss
+Ramón Terrats,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,100,Miss
+Iván Azon,Shots 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,80,80,Hit
+Mario Martín,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Miss
+Mario Martín,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Hit
+Mario Martín,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Hit
+Beñat Gerenabarrena,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Hit
+Beñat Gerenabarrena,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Hit
+Hugo Rincón,Fouled 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Hit
+Andrés García,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Hit
+Kiko,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,80,80,Hit
+Nemanja Gudelj,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,86,80,Hit
+Johan Mojica,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Hit
+Alex Berenguer,Tackles 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Miss
+David Soria,Saves 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,100,Miss
+Yuri Berchiche,Fouls 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,83,80,Miss
+Getafe (team),Cards 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Hit
+Getafe (team),Cards 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,89,100,Hit
+Getafe (team),Match cards 4+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,100,100,Hit
+Athletic Club (team),Cards 1+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Hit
+Athletic Club (team),Cards 2+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Miss
+Athletic Club (team),Corners 4+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Miss
+Athletic Club (team),Corners 5+,Athletic Club v Getafe,Sun 25 Oct · 13:00,La Liga,88,80,Miss
 Callum McGregor,Tackles 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
 Mika Baur,Tackles 1+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Mika Baur,Tackles 2+,Hibernian v Celtic,Sun 25 Oct · 12:00,"Scotland (Rangers, Celtic, Hearts)",86,100,Pending
