@@ -1,15 +1,15 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 06:49 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2033,1478,73,90
-Tackles 1+,414,322,78,90
-Shots 1+,342,275,80,91
-Fouled 1+,245,171,70,89
+All picks,2051,1490,73,90
+Tackles 1+,419,323,77,90
+Shots 1+,346,279,81,91
+Fouled 1+,248,172,69,89
 Fouls 1+,232,145,62,88
-Cards 1+,116,103,89,92
-Over 1.5,86,68,79,89
-Shots 2+,82,58,71,89
-Scores 1+,77,57,74,90
-Saves 2+,73,50,68,91
+Cards 1+,117,104,89,92
+Over 1.5,87,69,79,89
+Shots 2+,83,59,71,89
+Scores 1+,79,59,75,90
+Saves 2+,74,51,69,90
 SOT 1+,51,38,75,87
 Tackles 2+,49,24,49,88
 SOT 4+,41,29,71,90
@@ -183,28 +183,28 @@ Salih Özcan,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (G
 Tiago Djaló,Fouls 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
 Tiago Djaló,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
 Emirhan Topçu,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
-Justin Haak,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,83,80,Pending
-Calegari,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,80,80,Pending
-Gabriel Pec,SOT 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,80,Pending
-Gabriel Pec,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,80,Pending
-Gabriel Pec,Shots 2+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,80,Pending
-Leo Walta,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,100,100,Pending
-Leo Walta,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,100,100,Pending
-Leo Walta,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,100,100,Pending
-Heung-Min Son,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,96,100,Pending
-Heung-Min Son,Shots 2+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,86,100,Pending
-Sergi Palencia,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,80,100,Pending
-LA Galaxy (team),Cards 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,94,100,Pending
-LA Galaxy (team),Over 1.5,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,90,100,Pending
-LA Galaxy (team),Scores 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,87,100,Pending
-Denis Bouanga,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,97,100,Pending
-Evgen Cheberko,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,89,100,Pending
-Ryan Porteous,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,85,100,Pending
-Eddie Segura,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,84,80,Pending
-João Klauss,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,100,Pending
-James Marcinkowski,Saves 2+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,88,80,Pending
-Joseph Paintsil,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,83,80,Pending
-Los Angeles FC (team),Scores 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,81,80,Pending
+Justin Haak,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,83,80,Miss
+Calegari,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,80,80,Miss
+Gabriel Pec,SOT 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,80,Did not play
+Gabriel Pec,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,80,Did not play
+Gabriel Pec,Shots 2+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,80,Did not play
+Leo Walta,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,100,100,Miss
+Leo Walta,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,100,100,Hit
+Leo Walta,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,100,100,Miss
+Heung-Min Son,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,96,100,Hit
+Heung-Min Son,Shots 2+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,86,100,Hit
+Sergi Palencia,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,80,100,Miss
+LA Galaxy (team),Cards 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,94,100,Hit
+LA Galaxy (team),Over 1.5,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,90,100,Hit
+LA Galaxy (team),Scores 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,87,100,Hit
+Denis Bouanga,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,97,100,Hit
+Evgen Cheberko,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,89,100,Hit
+Ryan Porteous,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,85,100,Miss
+Eddie Segura,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,84,80,Did not play
+João Klauss,Shots 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,100,Hit
+James Marcinkowski,Saves 2+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,88,80,Hit
+Joseph Paintsil,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,83,80,Hit
+Los Angeles FC (team),Scores 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,81,80,Hit
 Maxi Araújo,Fouled 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
 Maxi Araújo,Fouls 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
 Geny Catamo,Fouled 1+,Sporting CP v Académico Viseu,Sun 25 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
