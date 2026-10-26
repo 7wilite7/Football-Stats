@@ -1,6 +1,10 @@
 name: verify-stats
 on:
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "blank = full check, tables = league tables only"
+        required: false
   push:
     branches: [main]
     paths: ["scripts/verify.py", ".github/workflows/verify.yml"]
@@ -18,7 +22,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install requests
-      - run: python scripts/verify.py
+      - run: python scripts/verify.py ${{ github.event.inputs.mode }}
       - name: Save report
         run: |
           git config user.name "stats-bot"; git config user.email "stats-bot@users.noreply.github.com"

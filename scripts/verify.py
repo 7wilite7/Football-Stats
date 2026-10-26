@@ -73,6 +73,10 @@ def _check(lg, m, diffs, stats):
         es = {s.get("name"): num(s.get("displayValue")) for s in t.get("statistics", [])}
         for lab, fm, en, exact in TEAM_MAP:
             mine = B.ts(m, fm, side); theirs = es.get(en)
+            if lab in ("Yellow cards", "Red cards") and m.get("players"):
+                # the sheet now counts players' own cards (no manager/staff cards)
+                tid = m["home" if side == 0 else "away"]["id"]
+                mine = sum(p["yc" if lab == "Yellow cards" else "rc"] for p in m["players"] if p["team"] == tid)
             if mine is None or theirs is None: continue
             stats[f"team {lab} checks"] += 1
             if mine == theirs: stats[f"team {lab} agree"] += 1
@@ -121,7 +125,8 @@ def standings(lg, matches, diffs, stats):
     for e in entries:
         name = (e.get("team") or {}).get("displayName", "")
         es = {s.get("name"): num(s.get("value")) for s in e.get("stats", [])}
-        tid, r = max(tab.items(), key=lambda kv: sim(kv[1]["name"], name), default=(None, None))
+        raw = lambda a, b: len(set(a.lower().split()) & set(b.lower().split())) / max(1, len(set(a.lower().split()) | set(b.lower().split())))
+        tid, r = max(tab.items(), key=lambda kv: sim(kv[1]["name"], name) + 0.5 * raw(kv[1]["name"], name), default=(None, None))
         if not r or sim(r["name"], name) < 0.5: continue
         stats["table rows compared"] += 1
         pairs = [("Played", r["P"], es.get("gamesPlayed")), ("Won", r["W"], es.get("wins")), ("Drawn", r["D"], es.get("ties")),
@@ -137,16 +142,20 @@ def standings(lg, matches, diffs, stats):
 def main():
     os.makedirs(OUT, exist_ok=True)
     all_diffs, per_league = [], {}
+    only_tables = "tables" in sys.argv
     for lg in LEAGUES:
         matches = B.load_matches(lg["key"])
         diffs, stats = [], defaultdict(int)
         standings(lg, matches, diffs, stats)
+        if only_tables:
+            print(lg["name"], dict(stats), [d for d in diffs], flush=True); continue
         with ThreadPoolExecutor(6) as ex:
             for d, st in ex.map(lambda m: check_match(lg, m), matches):
                 diffs += d
                 for k, v in st.items(): stats[k] += v
         per_league[lg["name"]] = stats; all_diffs += diffs
         print(lg["name"], dict(stats), "differences:", len(diffs), flush=True)
+    if only_tables: return
     with open(os.path.join(OUT, "differences.csv"), "w", newline="") as f:
         w = csv.writer(f); w.writerow(["League", "Match", "Level", "Team / player", "Stat", "Sheet (FotMob)", "ESPN"])
         w.writerows(sorted(all_diffs, key=lambda d: (d[0], d[2], d[4], d[1])))
