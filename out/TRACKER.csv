@@ -1,29 +1,29 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 27 Oct 2026 06:42 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 27 Oct 2026 06:43 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2175,1594,73,90
-Tackles 1+,449,349,78,90
-Shots 1+,370,299,81,91
-Fouled 1+,258,180,70,89
+All picks,2202,1617,73,90
+Tackles 1+,455,355,78,90
+Shots 1+,375,303,81,91
+Fouled 1+,260,182,70,89
 Fouls 1+,240,152,63,88
-Cards 1+,122,109,89,92
-Over 1.5,93,75,81,90
-Scores 1+,88,67,76,91
-Shots 2+,85,61,72,89
-Saves 2+,76,53,70,91
+Cards 1+,123,110,89,92
+Over 1.5,95,77,81,90
+Scores 1+,90,68,76,91
+Shots 2+,86,62,72,89
+Saves 2+,77,54,70,91
 Tackles 2+,54,28,52,88
 SOT 1+,51,38,75,87
-SOT 4+,48,36,75,90
-Corners 4+,35,22,63,91
-Match corners 9+,28,18,64,90
-Over 2.5,25,16,64,87
+SOT 4+,49,37,76,91
+Corners 4+,36,23,64,91
+Match corners 9+,29,19,66,90
+Over 2.5,26,16,62,87
 Cards 2+,24,12,50,88
 Fouled 2+,20,11,55,89
-Saves 3+,19,14,74,90
+Saves 3+,20,15,75,90
+BTTS,19,10,53,89
 Corners 5+,18,9,50,90
-BTTS,18,10,56,89
 Score or assist,12,8,67,85
 Fouls 2+,11,5,45,89
-Match corners 10+,10,6,60,88
+Match corners 10+,11,7,64,88
 Win,9,6,67,91
 Match cards 4+,6,6,100,88
 Goal 1+,5,3,60,86
@@ -146,35 +146,35 @@ Youssouf Fofana,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,83,100,
 Youssouf Fofana,Tackles 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,83,100,Miss
 Lucien Agoumé,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Hit
 Lucien Agoumé,Tackles 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,80,Hit
-Mads Bidstrup,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Pending
-Willian Pacho,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
-Ernest Nuamah,Fouled 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Ernest Nuamah,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
-Ernest Nuamah,Shots 2+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
-Désiré Doué,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Désiré Doué,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-João Neves,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
-João Neves,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
-Zachary Athekame,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Lucas Digne,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Corentin Tolisso,Fouled 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Corentin Tolisso,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Pending
-Fabián Ruiz,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
-Dominik Greif,Saves 2+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Dominik Greif,Saves 3+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Pending
-Achraf Hakimi,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Pending
-Ferrán Torres,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Lyon (team),Cards 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Pending
-Lyon (team),Match corners 10+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Lyon (team),Match corners 9+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Lyon (team),Over 1.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Lyon (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Paris Saint-Germain (team),BTTS,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Paris Saint-Germain (team),Corners 4+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Paris Saint-Germain (team),Over 1.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Paris Saint-Germain (team),Over 2.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Pending
-Paris Saint-Germain (team),SOT 4+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
-Paris Saint-Germain (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Pending
+Mads Bidstrup,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Did not play
+Willian Pacho,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Hit
+Ernest Nuamah,Fouled 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
+Ernest Nuamah,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Hit
+Ernest Nuamah,Shots 2+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Hit
+Désiré Doué,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
+Désiré Doué,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
+João Neves,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Hit
+João Neves,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Hit
+Zachary Athekame,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
+Lucas Digne,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Did not play
+Corentin Tolisso,Fouled 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
+Corentin Tolisso,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Hit
+Fabián Ruiz,Tackles 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Hit
+Dominik Greif,Saves 2+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
+Dominik Greif,Saves 3+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,80,80,Hit
+Achraf Hakimi,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,83,80,Miss
+Ferrán Torres,Shots 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Hit
+Lyon (team),Cards 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,100,Hit
+Lyon (team),Match corners 10+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Hit
+Lyon (team),Match corners 9+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Hit
+Lyon (team),Over 1.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Hit
+Lyon (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Miss
+Paris Saint-Germain (team),BTTS,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Miss
+Paris Saint-Germain (team),Corners 4+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Hit
+Paris Saint-Germain (team),Over 1.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Hit
+Paris Saint-Germain (team),Over 2.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Miss
+Paris Saint-Germain (team),SOT 4+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
+Paris Saint-Germain (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
 Georgiy Sudakov,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
 Gianluca Prestianni,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Gianluca Prestianni,Fouled 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
