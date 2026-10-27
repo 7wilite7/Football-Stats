@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 26 Oct 2026 09:27 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 27 Oct 2026 06:39 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,2152,1574,73,90
 Tackles 1+,441,342,78,90
@@ -31,6 +31,94 @@ SOT 2+,1,1,100,88
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
+Anastasios Douvikas,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Anastasios Douvikas,Shots 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Anastasios Douvikas,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Lucas Da Cunha,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Pending
+Martin Baturina,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Nico Paz,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Nico Paz,Shots 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Nico Paz,Fouls 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Pending
+Nico Paz,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Pending
+Nico Paz,Tackles 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Pending
+Álex Valle,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,80,80,Pending
+Jacobo Ramón,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Elia Caprile,Saves 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Daniel Maldini,Fouled 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Pending
+Adam Obert,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Pending
+Juan Rodríguez,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Alessandro Romano,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Alessandro Romano,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Paul Mendy,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Giovanni Simeone,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Pending
+Giovanni Simeone,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Nikola Vlašić,Fouls 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Ché Adams,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Ché Adams,SOT 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,83,80,Pending
+Pietro Comuzzo,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Bryan Cristante,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,100,Pending
+Bryan Cristante,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Rolando Mandragora,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Pending
+Donyell Malen,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Donyell Malen,Shots 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Donyell Malen,SOT 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,86,80,Pending
+Evan N'Dicka,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Pending
+Matias Soulé,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Wesley,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,86,80,Pending
+Eray Cömert,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Kaiki,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,83,100,Pending
+Marten de Roon,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Nahuel Molina,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Pending
+Leonardo Balerdi,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Pending
+Yerry Mina,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Yerry Mina,Tackles 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Como (team),Over 1.5,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Como (team),Corners 4+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Como (team),Corners 5+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Pending
+Como (team),Match corners 9+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Como (team),SOT 4+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Torino (team),Scores 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Torino (team),Over 1.5,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
+Roma (team),Scores 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Roma (team),Over 1.5,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Roma (team),Cards 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Pending
+Roma (team),SOT 4+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
+Arijanet Murić,Saves 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Arijanet Murić,Saves 3+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Armand Laurienté,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Kieron Bowie,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Cas Odenthal,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Vasilije Adžić,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Pending
+Vasilije Adžić,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Pending
+Darryl Bakola,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,100,Pending
+Darryl Bakola,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Simone Cinquegrano,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,83,80,Pending
+Mattia Zaccagni,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Mattia Zaccagni,Shots 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Davide Frattesi,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Christos Mandas,Saves 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Pending
+Nuno Tavares,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Pending
+Kenneth Taylor,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Pending
+Kenneth Taylor,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Matteo Cancellieri,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Matteo Cancellieri,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Pending
+Matteo Cancellieri,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Pending
+Romano Floriani Mussolini,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Romano Floriani Mussolini,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Oliver Provstgaard,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Domenico Berardi,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Domenico Berardi,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Reda Belahyane,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Pending
+Sebastiano Esposito,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Pending
+Ignace Van Der Brempt,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Sassuolo (team),Scores 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Sassuolo (team),BTTS,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Sassuolo (team),Over 1.5,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Sassuolo (team),Cards 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Pending
+Sassuolo (team),SOT 4+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Lazio (team),Win,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Lazio (team),Scores 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
+Lazio (team),Cards 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
 Juan Iglesias,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
 Juan Iglesias,Tackles 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Pending
 Peque Fernández,Fouled 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Pending
@@ -1443,91 +1531,3 @@ Lens (team),Cards 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Hit
 Lens (team),Corners 4+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Hit
 Lens (team),Match corners 9+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Miss
 Lens (team),Over 1.5,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
-Lens (team),Over 2.5,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
-Lens (team),SOT 4+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Miss
-Lens (team),Scores 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Hit
-Lassine Sinayoko,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
-Lassine Sinayoko,SOT 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
-Lassine Sinayoko,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Miss
-Lassine Sinayoko,Shots 2+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
-Lassine Sinayoko,Tackles 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Miss
-Michał Skóras,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Miss
-Michał Skóras,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,83,80,Hit
-Ilan Kebbal,Fouled 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Hit
-Ilan Kebbal,Fouls 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,80,Miss
-Ilan Kebbal,SOT 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,86,100,Miss
-Ilan Kebbal,Shots 1+,Lens v Paris FC,Sat 24 Oct · 19:45,Ligue 1,100,100,Hit
-Elias Saad,Shots 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,92,100,Miss
-Matthew Corcoran,Tackles 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,85,100,Hit
-Gennadiy Synchuk,Shots 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,95,100,Hit
-CF Montréal (team),Cards 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,90,100,Hit
-CF Montréal (team),Over 1.5,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,83,100,Hit
-Hany Mukhtar,Shots 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,100,100,Hit
-Hany Mukhtar,Shots 2+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,80,100,Hit
-Nashville SC (team),Cards 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,83,80,Hit
-Nashville SC (team),Scores 1+,CF Montréal v Nashville SC,Sat 24 Oct · 18:30,MLS,83,100,Hit
-João Pedro,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Did not play
-João Pedro,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Did not play
-João Pedro,SOT 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Did not play
-João Pedro,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Did not play
-Cole Palmer,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,100,Miss
-Cole Palmer,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Hit
-Cole Palmer,Shots 2+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Hit
-Roméo Lavia,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Did not play
-Mathys Tel,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,80,80,Hit
-Archie Gray,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Hit
-Archie Gray,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,100,Hit
-Archie Gray,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Hit
-Josh Acheampong,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Hit
-Jorrel Hato,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Hit
-Dominic Solanke,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Miss
-Rodrigo Bentancur,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Did not play
-Omar Marmoush,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Hit
-Omar Marmoush,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Hit
-Omar Marmoush,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,80,Hit
-Pedro Neto,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Hit
-Pedro Neto,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,100,Hit
-Chelsea (team),Match cards 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Hit
-Chelsea (team),Over 1.5,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Hit
-Chelsea (team),Over 2.5,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Miss
-Chelsea (team),SOT 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Hit
-Chelsea (team),Scores 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Miss
-Tottenham Hotspur (team),Cards 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Hit
-Tottenham Hotspur (team),Corners 4+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,100,Hit
-Sandro Tonali,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Miss
-Sandro Tonali,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Hit
-Morgan Rogers,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,86,80,Hit
-Morgan Rogers,Shots 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Hit
-Morgan Rogers,Shots 2+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Miss
-Mohammed Kudus,Fouled 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,83,100,Hit
-Maxence Lacroix,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Hit
-Conor Gallagher,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,80,80,Hit
-Conor Gallagher,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,80,80,Hit
-Jan Paul van Hecke,Fouls 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Hit
-Jan Paul van Hecke,Tackles 1+,Chelsea v Tottenham Hotspur,Sat 24 Oct · 17:30,Premier League,100,100,Hit
-Villarreal (team),Cards 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Hit
-Villarreal (team),SOT 4+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Miss
-Tajon Buchanan,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,86,100,Hit
-Tajon Buchanan,Fouls 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,86,80,Hit
-Tajon Buchanan,Shots 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,86,80,Hit
-Valencia (team),Cards 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Hit
-Sergi Cardona,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Hit
-Sergi Cardona,Fouls 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,80,80,Miss
-Sergi Cardona,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,80,80,Hit
-Georges Mikautadze,Shots 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Hit
-César Tárrega,Fouls 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,83,80,Hit
-César Tárrega,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,83,80,Miss
-Pau Navarro,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Miss
-Ryunosuke Sato,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,80,80,Did not play
-Stole Dimitrievski,Saves 2+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Miss
-Ayoze Pérez,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Hit
-Ayoze Pérez,Shots 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Hit
-Guido Rodríguez,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,83,80,Miss
-Guido Rodríguez,Fouls 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,83,80,Hit
-Guido Rodríguez,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Hit
-Guido Rodríguez,Tackles 2+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,83,100,Hit
-Santi Comesaña,Fouls 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Miss
-Pepelu,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Hit
-Arnaut Danjuma,Fouled 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,100,100,Miss
-Arnaut Danjuma,Shots 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,89,80,Hit
-Juan Foyth,Tackles 1+,Valencia v Villarreal,Sat 24 Oct · 17:30,La Liga,80,80,Miss
