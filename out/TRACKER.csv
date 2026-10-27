@@ -1,31 +1,31 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 27 Oct 2026 06:51 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2202,1617,73,90
-Tackles 1+,455,355,78,90
-Shots 1+,375,303,81,91
-Fouled 1+,260,182,70,89
-Fouls 1+,240,152,63,88
+All picks,2223,1634,74,90
+Tackles 1+,456,356,78,90
+Shots 1+,378,305,81,91
+Fouled 1+,264,186,70,90
+Fouls 1+,242,153,63,88
 Cards 1+,123,110,89,92
-Over 1.5,95,77,81,90
-Scores 1+,90,68,76,91
-Shots 2+,86,62,72,89
+Over 1.5,96,78,81,90
+Scores 1+,91,69,76,91
+Shots 2+,88,64,73,90
 Saves 2+,77,54,70,91
-Tackles 2+,54,28,52,88
-SOT 1+,51,38,75,87
-SOT 4+,49,37,76,91
+Tackles 2+,55,29,53,88
+SOT 1+,52,39,75,87
+SOT 4+,50,37,74,91
 Corners 4+,36,23,64,91
 Match corners 9+,29,19,66,90
-Over 2.5,26,16,62,87
+Over 2.5,27,17,63,87
 Cards 2+,24,12,50,88
-Fouled 2+,20,11,55,89
+Fouled 2+,21,11,52,89
 Saves 3+,20,15,75,90
 BTTS,19,10,53,89
 Corners 5+,18,9,50,90
-Score or assist,12,8,67,85
+Score or assist,13,9,69,85
 Fouls 2+,11,5,45,89
 Match corners 10+,11,7,64,88
 Win,9,6,67,91
-Match cards 4+,6,6,100,88
+Match cards 4+,7,7,100,88
 Goal 1+,5,3,60,86
 SOT 2+,1,1,100,88
 
@@ -175,29 +175,29 @@ Paris Saint-Germain (team),Over 1.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:
 Paris Saint-Germain (team),Over 2.5,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,86,80,Miss
 Paris Saint-Germain (team),SOT 4+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
 Paris Saint-Germain (team),Scores 1+,Paris Saint-Germain v Lyon,Mon 26 Oct · 19:30,Ligue 1,100,100,Hit
-Georgiy Sudakov,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
-Gianluca Prestianni,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Gianluca Prestianni,Fouled 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-Gianluca Prestianni,SOT 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Gianluca Prestianni,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Gianluca Prestianni,Shots 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Rafa Silva,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-Rafa Silva,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-João Palhinha,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-João Palhinha,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",83,80,Pending
-João Palhinha,Tackles 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-João Palhinha,Tackles 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",83,80,Pending
-Vangelis Pavlidis,Score or assist,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Vangelis Pavlidis,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Vangelis Pavlidis,Shots 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Alexander Bah,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Leandro Barreiro,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Leandro Barreiro,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Benfica (team),Over 1.5,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Benfica (team),Over 2.5,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Benfica (team),SOT 4+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Benfica (team),Scores 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Benfica (team),Match cards 4+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
+Georgiy Sudakov,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",86,80,Miss
+Gianluca Prestianni,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Gianluca Prestianni,Fouled 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Miss
+Gianluca Prestianni,SOT 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Gianluca Prestianni,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Gianluca Prestianni,Shots 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Rafa Silva,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Hit
+Rafa Silva,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Miss
+João Palhinha,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+João Palhinha,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",83,80,Hit
+João Palhinha,Tackles 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+João Palhinha,Tackles 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",83,80,Hit
+Vangelis Pavlidis,Score or assist,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Vangelis Pavlidis,Shots 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Vangelis Pavlidis,Shots 2+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Alexander Bah,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Leandro Barreiro,Fouled 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Did not play
+Leandro Barreiro,Fouls 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Did not play
+Benfica (team),Over 1.5,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Benfica (team),Over 2.5,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Benfica (team),SOT 4+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Miss
+Benfica (team),Scores 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Benfica (team),Match cards 4+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Hit
 Oğuz Aydın,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Kerem Aktürkoglu,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Abdülkerim Bardakci,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
