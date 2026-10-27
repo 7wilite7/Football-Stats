@@ -1,3 +1,3 @@
 ===== SAUDI
 fixtures 306 table 18 scope ['Al Qadsiah', 'Al Hilal', 'Al Nassr FC', 'Al Ittihad', 'Al Ahli']
-SAUDI {'new_matches': 0, 'cached': 94, 'run_seconds': 8, 'at': '2026-10-26T09:26Z'}
+SAUDI {'new_matches': 0, 'cached': 94, 'run_seconds': 21, 'at': '2026-10-27T06:51Z'}
