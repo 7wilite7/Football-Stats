@@ -1,33 +1,33 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 27 Oct 2026 06:51 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 27 Oct 2026 06:52 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2223,1634,74,90
-Tackles 1+,456,356,78,90
-Shots 1+,378,305,81,91
-Fouled 1+,264,186,70,90
-Fouls 1+,242,153,63,88
-Cards 1+,123,110,89,92
-Over 1.5,96,78,81,90
-Scores 1+,91,69,76,91
-Shots 2+,88,64,73,90
-Saves 2+,77,54,70,91
+All picks,2297,1691,74,90
+Tackles 1+,465,365,78,90
+Shots 1+,395,315,80,91
+Fouled 1+,272,193,71,90
+Fouls 1+,248,156,63,88
+Cards 1+,126,113,90,92
+Over 1.5,98,80,82,90
+Scores 1+,94,72,77,91
+Shots 2+,94,67,71,90
+Saves 2+,78,55,71,91
 Tackles 2+,55,29,53,88
-SOT 1+,52,39,75,87
-SOT 4+,50,37,74,91
-Corners 4+,36,23,64,91
-Match corners 9+,29,19,66,90
+SOT 1+,55,42,76,88
+SOT 4+,54,40,74,91
+Corners 4+,40,27,68,91
+Match corners 9+,30,19,63,90
 Over 2.5,27,17,63,87
 Cards 2+,24,12,50,88
 Fouled 2+,21,11,52,89
-Saves 3+,20,15,75,90
+Saves 3+,21,16,76,89
+Corners 5+,20,11,55,90
 BTTS,19,10,53,89
-Corners 5+,18,9,50,90
-Score or assist,13,9,69,85
+Score or assist,15,11,73,85
+Match corners 10+,12,7,58,88
 Fouls 2+,11,5,45,89
-Match corners 10+,11,7,64,88
 Win,9,6,67,91
 Match cards 4+,7,7,100,88
 Goal 1+,5,3,60,86
-SOT 2+,1,1,100,88
+SOT 2+,2,2,100,86
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
@@ -198,82 +198,82 @@ Benfica (team),Over 2.5,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Por
 Benfica (team),SOT 4+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,80,Miss
 Benfica (team),Scores 1+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
 Benfica (team),Match cards 4+,Santa Clara v Benfica,Mon 26 Oct · 18:45,"Portugal (Porto, Sporting, Benfica)",88,100,Hit
-Oğuz Aydın,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Kerem Aktürkoglu,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Abdülkerim Bardakci,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-N'Golo Kanté,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Nélson Semedo,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Vedat Muriqi,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Vedat Muriqi,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Roland Sallai,Fouled 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Roland Sallai,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Roland Sallai,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Lucas Torreira,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Lucas Torreira,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Victor Osimhen,SOT 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Victor Osimhen,SOT 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
-Victor Osimhen,Score or assist,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
-Victor Osimhen,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Victor Osimhen,Shots 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Yunus Akgün,Fouled 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Yunus Akgün,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Rafael Leão,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Galatasaray (team),Cards 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Galatasaray (team),Corners 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Galatasaray (team),Corners 5+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Galatasaray (team),SOT 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Galatasaray (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Fenerbahçe (team),Corners 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Fenerbahçe (team),Over 1.5,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Fenerbahçe (team),SOT 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Fenerbahçe (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Gabriel Sara,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Mason Greenwood,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Mason Greenwood,Shots 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Barış Alper Yılmaz,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Barış Alper Yılmaz,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Ernest Muçi,SOT 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Ernest Muçi,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Ernest Muçi,Shots 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Ernest Muçi,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Aral Şimşir,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Franculino,Score or assist,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Franculino,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Chibuike Nwaiwu,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Wagner Pina,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Wagner Pina,Fouls 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Wagner Pina,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Pending
-Mohamed Salah,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Mohamed Salah,Shots 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Fabinho,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-André Onana,Saves 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-André Onana,Saves 3+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Melih Kabasakal,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,100,Pending
-Trabzonspor (team),Cards 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Trabzonspor (team),Corners 4+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Trabzonspor (team),Over 1.5,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Trabzonspor (team),SOT 4+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Trabzonspor (team),Scores 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Beşiktaş (team),Cards 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Beşiktaş (team),Corners 4+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Beşiktaş (team),Corners 5+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Beşiktaş (team),Match corners 10+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Beşiktaş (team),Match corners 9+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Beşiktaş (team),SOT 4+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Emmanuel Agbadou,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Leandro Trossard,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Leandro Trossard,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Leandro Trossard,Shots 2+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Pending
-Václav Cerny,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Dušan Vlahović,Fouls 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,SOT 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,Shots 2+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Salih Özcan,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Salih Özcan,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Tiago Djaló,Fouls 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Tiago Djaló,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Emirhan Topçu,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
+Oğuz Aydın,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
+Kerem Aktürkoglu,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Abdülkerim Bardakci,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Miss
+N'Golo Kanté,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Nélson Semedo,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+Vedat Muriqi,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
+Vedat Muriqi,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
+Roland Sallai,Fouled 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Roland Sallai,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Roland Sallai,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Lucas Torreira,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Lucas Torreira,Tackles 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Victor Osimhen,SOT 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Victor Osimhen,SOT 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Hit
+Victor Osimhen,Score or assist,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Hit
+Victor Osimhen,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Victor Osimhen,Shots 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Yunus Akgün,Fouled 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Yunus Akgün,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Rafael Leão,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Hit
+Galatasaray (team),Cards 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+Galatasaray (team),Corners 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+Galatasaray (team),Corners 5+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+Galatasaray (team),SOT 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Galatasaray (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Fenerbahçe (team),Corners 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Fenerbahçe (team),Over 1.5,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Fenerbahçe (team),SOT 4+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
+Fenerbahçe (team),Scores 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Gabriel Sara,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Miss
+Mason Greenwood,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Mason Greenwood,Shots 2+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Barış Alper Yılmaz,Fouls 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Barış Alper Yılmaz,Shots 1+,Galatasaray v Fenerbahçe,Mon 26 Oct · 18:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Ernest Muçi,SOT 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Ernest Muçi,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Ernest Muçi,Shots 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Ernest Muçi,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Aral Şimşir,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Franculino,Score or assist,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Hit
+Franculino,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Hit
+Chibuike Nwaiwu,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Wagner Pina,Fouled 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Wagner Pina,Fouls 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
+Wagner Pina,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Hit
+Mohamed Salah,Shots 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Mohamed Salah,Shots 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
+Fabinho,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+André Onana,Saves 2+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+André Onana,Saves 3+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Melih Kabasakal,Tackles 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,100,Hit
+Trabzonspor (team),Cards 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+Trabzonspor (team),Corners 4+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Trabzonspor (team),Over 1.5,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Trabzonspor (team),SOT 4+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Trabzonspor (team),Scores 1+,Rizespor v Trabzonspor,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Beşiktaş (team),Cards 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+Beşiktaş (team),Corners 4+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Beşiktaş (team),Corners 5+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Beşiktaş (team),Match corners 10+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
+Beşiktaş (team),Match corners 9+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Beşiktaş (team),SOT 4+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Emmanuel Agbadou,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Leandro Trossard,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Leandro Trossard,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Leandro Trossard,Shots 2+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Miss
+Václav Cerny,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
+Dušan Vlahović,Fouls 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Dušan Vlahović,SOT 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Dušan Vlahović,Shots 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Dušan Vlahović,Shots 2+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Salih Özcan,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Salih Özcan,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+Tiago Djaló,Fouls 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Did not play
+Tiago Djaló,Tackles 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Did not play
+Emirhan Topçu,Fouled 1+,Beşiktaş v Başakşehir,Mon 26 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Hit
 Justin Haak,Tackles 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,83,80,Miss
 Calegari,Fouled 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,80,80,Miss
 Gabriel Pec,SOT 1+,Los Angeles FC v LA Galaxy,Mon 26 Oct · 01:00,MLS,93,80,Did not play
