@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 28 Oct 2026 06:46 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 28 Oct 2026 06:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,2297,1691,74,90
 Tackles 1+,465,365,78,90
@@ -31,518 +31,518 @@ SOT 2+,2,2,100,86
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
-Andrés Cubas,Fouls 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,80,80,Pending
-Andrés Cubas,Tackles 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,100,100,Pending
-Andrés Cubas,Tackles 2+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,96,80,Pending
-Brian White,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,97,80,Pending
-Brian White,Shots 2+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,86,80,Pending
+Miguel Navarro,Fouled 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,84,100,Pending
+Miguel Navarro,Fouls 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,80,80,Pending
+Morgan Whittaker,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,86,80,Pending
+Morgan Whittaker,Shots 2+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,86,80,Pending
+Paxten Aaronson,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,84,80,Pending
+Preston Judd,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,96,100,Pending
+Beau Leroux,Fouled 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,83,100,Pending
+Beau Leroux,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,90,80,Pending
+Beau Leroux,Tackles 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,80,80,Pending
+Reid Roberts,Tackles 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,81,80,Pending
+Earl Edwards Jr.,Saves 2+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,100,100,Pending
+San Jose Earthquakes (team),Cards 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,90,80,Pending
+San Jose Earthquakes (team),Over 1.5,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,81,100,Pending
+San Jose Earthquakes (team),Scores 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,84,80,Pending
+Ronaldo Vieira,Fouls 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,88,100,Pending
+Colorado Rapids (team),Cards 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,94,100,Pending
+Andrew Thomas,Saves 2+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,84,80,Pending
+Seattle Sounders FC (team),Cards 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,84,80,Pending
+Agustin Resch,Tackles 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,84,80,Pending
+Kee-Hee Kim,Tackles 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,86,80,Pending
+Albert Rusnák,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,90,80,Pending
+Ezequiel Ponce,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,88,80,Pending
+Cristian Roldan,Tackles 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,91,80,Pending
+Dejan Joveljić,SOT 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,82,100,Pending
+Dejan Joveljić,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
+Guilherme Augusto,Fouled 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
+Guilherme Augusto,Fouled 2+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,87,80,Pending
+Guilherme Augusto,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
+Guilherme Augusto,Shots 2+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,83,80,Pending
+Nouhou Tolo,Fouled 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,81,100,Pending
+Nouhou Tolo,Tackles 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,81,80,Pending
+Houston Dynamo FC (team),Cards 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,90,80,Pending
+Lyle Foster,Fouls 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,80,80,Pending
+Mateusz Bogusz,Fouled 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,83,100,Pending
+Mateusz Bogusz,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,97,100,Pending
+Mateusz Bogusz,Shots 2+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,83,80,Pending
 Mathías Laborda,Tackles 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,80,80,Pending
-Sebastian Berhalter,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
-Sebastian Berhalter,Fouls 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
 Sebastian Berhalter,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
+Sebastian Berhalter,Fouls 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
+Sebastian Berhalter,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
 Sebastian Berhalter,Tackles 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,93,80,Pending
 Tate Johnson,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,83,100,Pending
 Tate Johnson,Tackles 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,86,100,Pending
-Édier Ocampo,Fouls 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,85,100,Pending
 Édier Ocampo,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,81,100,Pending
+Édier Ocampo,Fouls 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,85,100,Pending
 Édier Ocampo,Tackles 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,85,80,Pending
+David Vazquez,Fouls 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,84,100,Pending
 Jeevan Badwal,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,91,100,Pending
-Ezequiel Ponce,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,88,80,Pending
-Guilherme Augusto,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
-Guilherme Augusto,Shots 2+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,83,80,Pending
-Guilherme Augusto,Fouled 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
-Guilherme Augusto,Fouled 2+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,87,80,Pending
-Mateusz Bogusz,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,97,100,Pending
-Mateusz Bogusz,Shots 2+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,83,80,Pending
-Mateusz Bogusz,Fouled 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,83,100,Pending
-Ronaldo Vieira,Fouls 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,88,100,Pending
-Dejan Joveljić,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,93,100,Pending
-Dejan Joveljić,SOT 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,82,100,Pending
-Preston Judd,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,96,100,Pending
-Beau Leroux,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,90,80,Pending
-Beau Leroux,Fouled 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,83,100,Pending
-Beau Leroux,Tackles 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,80,80,Pending
-Reid Roberts,Tackles 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,81,80,Pending
+Luca Bombino,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,100,100,Pending
+San Diego FC (team),Over 1.5,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,81,100,Pending
+San Diego FC (team),Scores 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,84,100,Pending
+Cédric Bakambu,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,88,80,Pending
+Cédric Bakambu,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,88,100,Pending
+Vancouver Whitecaps (team),Cards 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,90,80,Pending
 Aníbal Godoy,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,83,80,Pending
+Ryan Gauld,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,82,80,Pending
 Marcus Ingvartsen,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,85,100,Pending
+Andrés Cubas,Fouls 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,80,80,Pending
+Andrés Cubas,Tackles 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,100,100,Pending
+Andrés Cubas,Tackles 2+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,96,80,Pending
+Anders Dreyer,SOT 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,80,100,Pending
 Anders Dreyer,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,100,100,Pending
 Anders Dreyer,Shots 2+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,80,100,Pending
-Anders Dreyer,SOT 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,80,100,Pending
-David Vazquez,Fouls 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,84,100,Pending
-Luca Bombino,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,100,100,Pending
-Albert Rusnák,Shots 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,90,80,Pending
-Cristian Roldan,Tackles 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,91,80,Pending
-Nouhou Tolo,Fouled 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,81,100,Pending
-Nouhou Tolo,Tackles 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,81,80,Pending
-Miguel Navarro,Fouls 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,80,80,Pending
-Miguel Navarro,Fouled 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,84,100,Pending
-Paxten Aaronson,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,84,80,Pending
-Andrew Thomas,Saves 2+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,84,80,Pending
-Agustin Resch,Tackles 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,84,80,Pending
-Earl Edwards Jr.,Saves 2+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,100,100,Pending
-Kee-Hee Kim,Tackles 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,86,80,Pending
-Ryan Gauld,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,82,80,Pending
-Cédric Bakambu,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,88,100,Pending
-Cédric Bakambu,Fouled 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,88,80,Pending
-Morgan Whittaker,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,86,80,Pending
-Morgan Whittaker,Shots 2+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,86,80,Pending
-Lyle Foster,Fouls 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,80,80,Pending
-Vancouver Whitecaps (team),Cards 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,90,80,Pending
-Houston Dynamo FC (team),Cards 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,90,80,Pending
-San Jose Earthquakes (team),Scores 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,84,80,Pending
-San Jose Earthquakes (team),Over 1.5,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,81,100,Pending
-San Jose Earthquakes (team),Cards 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,90,80,Pending
-San Diego FC (team),Scores 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,84,100,Pending
-San Diego FC (team),Over 1.5,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,81,100,Pending
-Seattle Sounders FC (team),Cards 1+,Seattle Sounders FC v Houston Dynamo FC,Thu 29 Oct · 02:30,MLS,84,80,Pending
-Colorado Rapids (team),Cards 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,94,100,Pending
-Marcel Hartel,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Marcel Hartel,Shots 2+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,94,100,Pending
-Marcel Hartel,SOT 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,81,80,Pending
-Conrad Wallem,Fouls 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,88,80,Pending
-Christopher Durkin,Fouls 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,93,100,Pending
-Christopher Durkin,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,89,100,Pending
-Jaziel Orozco,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,82,80,Pending
-Dante Polvara,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,84,80,Pending
-Simon Becher,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,90,80,Pending
-Ronald Hernández,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,80,100,Pending
+Brian White,Shots 1+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,97,80,Pending
+Brian White,Shots 2+,Vancouver Whitecaps v San Diego FC,Thu 29 Oct · 02:30,MLS,86,80,Pending
+Joseph Rosales,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,82,80,Pending
+Juan Sanabria,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,81,80,Pending
+Morgan Guilavogui,Shots 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,84,100,Pending
+Kobi Henry,Fouls 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,82,80,Pending
+Kobi Henry,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,91,100,Pending
+Damian Las,Saves 2+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Damian Las,Saves 3+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Austin FC (team),Over 1.5,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,87,100,Pending
+Austin FC (team),Scores 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,81,100,Pending
+Luc De Fougerolles,Fouled 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Luc De Fougerolles,Fouled 2+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Luc De Fougerolles,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
 Zavier Gozo,Shots 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,94,100,Pending
 Zavier Gozo,Shots 2+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,81,80,Pending
 Zavier Gozo,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,88,100,Pending
 Luca Moisa,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,86,100,Pending
 Sergi Solans,Shots 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Martín Ojeda,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,92,100,Pending
-Martín Ojeda,Shots 2+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,100,Pending
-Martín Ojeda,SOT 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,84,100,Pending
-Maxime Crépeau,Saves 2+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Iván Angulo,Tackles 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,81,100,Pending
-Braian Ojeda,Fouled 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,86,80,Pending
-Milan Iloski,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,97,100,Pending
-Milan Iloski,Shots 2+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Milan Iloski,SOT 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,100,Pending
-Danley Jean Jacques,Fouls 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,82,80,Pending
-Bruno Damiani,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Bruno Damiani,Fouls 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,87,100,Pending
-Olwethu Makhanya,Tackles 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,92,100,Pending
-Shaq Moore,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,80,Pending
-Petar Musa,Shots 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Osaze Urhoghide,Fouled 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Osaze Urhoghide,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,84,100,Pending
-Bernard Kamungo,Fouled 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,86,80,Pending
-Kaick Ferreira,Fouled 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,100,Pending
 Brad Stuver,Saves 2+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,89,80,Pending
-Tomás Chancalay,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,87,80,Pending
-Myrto Uzuni,Shots 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,91,80,Pending
-Kelvin Yeboah,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,97,100,Pending
-Kelvin Yeboah,Shots 2+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,80,100,Pending
-Kelvin Yeboah,SOT 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Joseph Rosales,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,82,80,Pending
-Anthony Markanich,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,87,80,Pending
-Anthony Markanich,Tackles 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Hany Mukhtar,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Hany Mukhtar,Shots 2+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,81,100,Pending
-Jeisson Palacios,Tackles 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Sam Surridge,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Sam Surridge,SOT 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Patrick Yazbek,Fouls 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,80,100,Pending
-Matthew Corcoran,Tackles 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,86,100,Pending
-Philip Zinckernagel,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Philip Zinckernagel,Fouls 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,100,Pending
-Philip Zinckernagel,Tackles 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Hugo Cuypers,Goal 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
-Hugo Cuypers,Score or assist,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
-Hugo Cuypers,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Hugo Cuypers,Shots 2+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
-Hugo Cuypers,SOT 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
-Hugo Cuypers,Fouls 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,82,100,Pending
-Hugo Cuypers,Tackles 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
-Maren Haile-Selassie,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,81,100,Pending
-Calvin Harris,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,83,80,Pending
-Diego Rossi,Shots 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,93,80,Pending
-Diego Rossi,Shots 2+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Diego Rossi,Fouled 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Kristoffer Velde,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Kristoffer Velde,Shots 2+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,87,80,Pending
-Kristoffer Velde,Fouled 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,97,100,Pending
-Cole Bassett,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,96,100,Pending
-Patrick Schulte,Saves 2+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,80,Pending
-Finn Surman,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,81,80,Pending
-Max Arfsten,Shots 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,88,80,Pending
-Max Arfsten,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,88,80,Pending
-Kevin Kelsy,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,80,100,Pending
-Taha Habroune,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,100,Pending
-Rafael Navarro,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,97,100,Pending
-Rafael Navarro,Fouls 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,84,80,Pending
-Rafael Navarro,Fouled 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,90,80,Pending
-Juan Sanabria,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,81,80,Pending
-Morgan Guilavogui,Shots 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,84,100,Pending
-Francis Westfield,Fouled 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,92,80,Pending
-Luis Otávio,Tackles 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,92,80,Pending
-Sergio Córdova,Fouled 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,80,100,Pending
 Stijn Spierings,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,86,80,Pending
-Lalas Abubakar,Fouls 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Stefan Cleveland,Saves 2+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,86,100,Pending
-Jonathan Sirois,Saves 2+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,91,80,Pending
-Emir Karić,Tackles 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,88,80,Pending
-Robert Lewandowski,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,94,100,Pending
-Neil Pierre,Tackles 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,93,100,Pending
+Real Salt Lake (team),Cards 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,94,100,Pending
+Real Salt Lake (team),Over 1.5,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,94,100,Pending
+Real Salt Lake (team),Scores 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,81,100,Pending
+Myrto Uzuni,Shots 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,91,80,Pending
+Braian Ojeda,Fouled 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,86,80,Pending
+Vinícius Nogueira,Fouls 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Luis Otávio,Tackles 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,92,80,Pending
+Joran Gerbet,Fouled 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Antoine Griezmann,SOT 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,80,Pending
 Antoine Griezmann,Score or assist,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,87,100,Pending
 Antoine Griezmann,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,100,100,Pending
 Antoine Griezmann,Shots 2+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Antoine Griezmann,SOT 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Elias Saad,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,86,80,Pending
-Joran Gerbet,Fouled 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Carlo Holse,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,82,100,Pending
-Vincent Janssen,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,82,100,Pending
-Damian Las,Saves 2+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Damian Las,Saves 3+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Kobi Henry,Fouls 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,82,80,Pending
-Kobi Henry,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,91,100,Pending
-André Luiz,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Martín Ojeda,SOT 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,84,100,Pending
+Martín Ojeda,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,92,100,Pending
+Martín Ojeda,Shots 2+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,100,Pending
+Orlando City (team),Cards 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,97,100,Pending
+Orlando City (team),Match corners 9+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,81,100,Pending
+Orlando City (team),Over 1.5,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Orlando City (team),Scores 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,84,100,Pending
+Philip Zinckernagel,Fouls 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,100,Pending
+Philip Zinckernagel,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Philip Zinckernagel,Tackles 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Maxime Crépeau,Saves 2+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Chicago Fire FC (team),Cards 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,97,100,Pending
+Chicago Fire FC (team),Over 1.5,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,84,80,Pending
+Chicago Fire FC (team),Scores 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,90,80,Pending
+Hugo Cuypers,Fouls 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,82,100,Pending
+Hugo Cuypers,Goal 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
+Hugo Cuypers,SOT 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
+Hugo Cuypers,Score or assist,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
+Hugo Cuypers,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Hugo Cuypers,Shots 2+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
+Hugo Cuypers,Tackles 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,91,80,Pending
+Maren Haile-Selassie,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,81,100,Pending
+Robert Lewandowski,Shots 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,94,100,Pending
+Iván Angulo,Tackles 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,81,100,Pending
 Santiago Rodríguez,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,89,100,Pending
 Anass Zaroury,Shots 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,100,100,Pending
 Anass Zaroury,Shots 2+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
-Vinícius Nogueira,Fouls 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Luc De Fougerolles,Fouled 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Luc De Fougerolles,Fouled 2+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
-Luc De Fougerolles,Tackles 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Patrick Schulte,Saves 2+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,80,Pending
+Jonathan Sirois,Saves 2+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,91,80,Pending
+Bernard Kamungo,Fouled 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,86,80,Pending
+Max Arfsten,Shots 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,88,80,Pending
+Max Arfsten,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,88,80,Pending
+Taha Habroune,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,100,Pending
+Kaick Ferreira,Fouled 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,100,Pending
+Columbus Crew (team),Cards 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,94,100,Pending
+Columbus Crew (team),Over 1.5,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Columbus Crew (team),Scores 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,100,Pending
+FC Dallas (team),Cards 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,94,80,Pending
+Shaq Moore,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,80,Pending
+Petar Musa,Shots 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Diego Rossi,Fouled 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Diego Rossi,Shots 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,93,80,Pending
+Diego Rossi,Shots 2+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Lalas Abubakar,Fouls 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Osaze Urhoghide,Fouled 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Osaze Urhoghide,Tackles 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,84,100,Pending
+Calvin Harris,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,83,80,Pending
+André Luiz,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Anthony Markanich,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,87,80,Pending
+Anthony Markanich,Tackles 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,90,100,Pending
 Cherrion Valerius,Fouls 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,100,100,Pending
 Cherrion Valerius,Tackles 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,100,100,Pending
-St. Louis City (team),Over 1.5,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,87,80,Pending
-St. Louis City (team),Cards 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Real Salt Lake (team),Scores 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,81,100,Pending
-Real Salt Lake (team),Over 1.5,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,94,100,Pending
-Real Salt Lake (team),Cards 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,94,100,Pending
-Orlando City (team),Scores 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,84,100,Pending
-Orlando City (team),Over 1.5,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Orlando City (team),Match corners 9+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,81,100,Pending
-Orlando City (team),Cards 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,97,100,Pending
-Philadelphia Union (team),Scores 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,100,Pending
-Philadelphia Union (team),Over 1.5,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,100,Pending
-Philadelphia Union (team),Corners 4+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Philadelphia Union (team),Cards 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,81,80,Pending
-FC Dallas (team),Cards 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,94,80,Pending
-Austin FC (team),Scores 1+,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,81,100,Pending
-Austin FC (team),Over 1.5,Austin FC v Real Salt Lake,Thu 29 Oct · 00:30,MLS,87,100,Pending
-Minnesota United (team),Scores 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,81,80,Pending
 Minnesota United (team),Cards 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,90,80,Pending
-Nashville SC (team),Scores 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,100,Pending
-Nashville SC (team),Cards 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,80,Pending
-Chicago Fire FC (team),Scores 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,90,80,Pending
-Chicago Fire FC (team),Over 1.5,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,84,80,Pending
-Chicago Fire FC (team),Cards 1+,Chicago Fire FC v Orlando City,Thu 29 Oct · 00:30,MLS,97,100,Pending
+Minnesota United (team),Scores 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,81,80,Pending
+Emir Karić,Tackles 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,88,80,Pending
 Sporting Kansas City (team),Over 1.5,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,97,100,Pending
 Sporting Kansas City (team),Over 2.5,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,81,100,Pending
-Portland Timbers (team),Over 1.5,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,94,80,Pending
+Stefan Cleveland,Saves 2+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,86,100,Pending
+Tomás Chancalay,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,87,80,Pending
+Kelvin Yeboah,SOT 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Kelvin Yeboah,Shots 1+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,97,100,Pending
+Kelvin Yeboah,Shots 2+,Minnesota United v Sporting Kansas City,Thu 29 Oct · 00:30,MLS,80,100,Pending
+Milan Iloski,SOT 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,100,Pending
+Milan Iloski,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,97,100,Pending
+Milan Iloski,Shots 2+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Patrick Yazbek,Fouls 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,80,100,Pending
+Elias Saad,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,86,80,Pending
+Danley Jean Jacques,Fouls 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,82,80,Pending
+Matthew Corcoran,Tackles 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,86,100,Pending
+Bruno Damiani,Fouls 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,87,100,Pending
+Bruno Damiani,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Olwethu Makhanya,Tackles 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,92,100,Pending
+Francis Westfield,Fouled 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,92,80,Pending
+Neil Pierre,Tackles 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,93,100,Pending
+Philadelphia Union (team),Cards 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,81,80,Pending
+Philadelphia Union (team),Corners 4+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,90,100,Pending
+Philadelphia Union (team),Over 1.5,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,100,Pending
+Philadelphia Union (team),Scores 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,100,Pending
+Hany Mukhtar,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Hany Mukhtar,Shots 2+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,81,100,Pending
+Jeisson Palacios,Tackles 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Sam Surridge,SOT 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Sam Surridge,Shots 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,80,80,Pending
+Nashville SC (team),Cards 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,80,Pending
+Nashville SC (team),Scores 1+,Nashville SC v Philadelphia Union,Thu 29 Oct · 00:30,MLS,84,100,Pending
+Rafael Navarro,Fouled 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,90,80,Pending
+Rafael Navarro,Fouls 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,84,80,Pending
+Rafael Navarro,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,97,100,Pending
+Jaziel Orozco,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,82,80,Pending
+Finn Surman,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,81,80,Pending
+Dante Polvara,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,84,80,Pending
+Kevin Kelsy,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,80,100,Pending
+Simon Becher,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,90,80,Pending
+St. Louis City (team),Cards 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,90,100,Pending
+St. Louis City (team),Over 1.5,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,87,80,Pending
 Portland Timbers (team),Cards 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Columbus Crew (team),Scores 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,87,100,Pending
-Columbus Crew (team),Over 1.5,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,90,100,Pending
-Columbus Crew (team),Cards 1+,FC Dallas v Columbus Crew,Thu 29 Oct · 00:30,MLS,94,100,Pending
-Wilfried Zaha,Fouls 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,92,80,Pending
+Portland Timbers (team),Over 1.5,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,94,80,Pending
+Vincent Janssen,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,82,100,Pending
+Sergio Córdova,Fouled 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,80,100,Pending
+Marcel Hartel,SOT 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,81,80,Pending
+Marcel Hartel,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Marcel Hartel,Shots 2+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,94,100,Pending
+Ronald Hernández,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,80,100,Pending
+Kristoffer Velde,Fouled 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,97,100,Pending
+Kristoffer Velde,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,100,100,Pending
+Kristoffer Velde,Shots 2+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,87,80,Pending
+Conrad Wallem,Fouls 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,88,80,Pending
+Christopher Durkin,Fouls 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,93,100,Pending
+Christopher Durkin,Tackles 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,89,100,Pending
+Carlo Holse,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,82,100,Pending
+Cole Bassett,Shots 1+,St. Louis City v Portland Timbers,Thu 29 Oct · 00:30,MLS,96,100,Pending
+Charlotte FC (team),Cards 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,87,80,Pending
+Charlotte FC (team),Over 1.5,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,81,80,Pending
+Charlotte FC (team),Scores 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,81,80,Pending
+Gennadiy Synchuk,Shots 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,95,100,Pending
+CF Montréal (team),Cards 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,90,100,Pending
+CF Montréal (team),Over 1.5,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,84,100,Pending
 Wilfried Zaha,Fouled 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,100,100,Pending
 Wilfried Zaha,Fouled 2+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Wilfried Zaha,Fouls 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,92,80,Pending
+Allan Saint-Maximin,Fouled 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,83,80,Pending
+Allan Saint-Maximin,Shots 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,100,100,Pending
 Kristijan Kahlina,Saves 2+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,94,100,Pending
 Kristijan Kahlina,Saves 3+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,87,100,Pending
 Pep Biel,Shots 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,87,80,Pending
-Miguel Almirón,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Evander Ferreira,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,93,100,Pending
-Kévin Denkey,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,93,100,Pending
-Obinna Nwobodo,Tackles 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,84,80,Pending
-Juan Berrocal,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Emil Forsberg,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,86,100,Pending
-Ethan Horvath,Saves 2+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,81,80,Pending
-Cade Cowell,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,86,100,Pending
-Dylan Nealis,Fouls 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,81,100,Pending
-Dylan Nealis,Fouled 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,85,100,Pending
-Ronald Donkor,Fouls 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,93,100,Pending
-Julian Hall,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,83,100,Pending
-Adri Mehmeti,Tackles 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,83,100,Pending
-Sean Johnson,Saves 2+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,80,Pending
-Silvan Hefti,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,93,100,Pending
-Brandon Servania,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,80,Pending
-Tai Baribo,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,96,100,Pending
-Peglow,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,89,100,Pending
-Jonathan Osorio,Fouls 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,82,80,Pending
-Dániel Sallói,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,100,Pending
-Raheem Edwards,Fouls 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,85,80,Pending
-Raheem Edwards,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,92,80,Pending
-Richie Laryea,Fouled 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,96,100,Pending
-José Cifuentes,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,90,80,Pending
-Carles Gil,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,84,80,Pending
-Carles Gil,Fouled 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,97,100,Pending
-Matt Turner,Saves 2+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,81,100,Pending
-Dor Turgeman,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,93,100,Pending
-Brooklyn Raines,Fouls 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,82,80,Pending
-Lionel Messi,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Lionel Messi,Shots 2+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,96,80,Pending
-Lionel Messi,SOT 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,89,80,Pending
-Rodrigo De Paul,Fouled 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,92,100,Pending
-Germán Berterame,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,93,100,Pending
+Rocco Ríos Novo,Saves 2+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Matías Galarza,Fouls 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,81,80,Pending
+Gonzalo Luján,Tackles 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,81,100,Pending
 Micael,Tackles 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,82,80,Pending
 Yannick Bright,Fouls 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,88,80,Pending
 Yannick Bright,Tackles 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,83,80,Pending
-Gennadiy Synchuk,Shots 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,95,100,Pending
-Aiden O'Neill,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,89,100,Pending
-Nicolás Fernández,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,97,80,Pending
-Nicolás Fernández,Shots 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,80,80,Pending
-Nicolás Fernández,SOT 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,80,80,Pending
-Nicolás Fernández,Fouls 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
-Nicolás Fernández,Fouled 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Nicolás Fernández,Fouled 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
-Agustín Ojeda,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,81,80,Pending
-Mamadou Fofana,Tackles 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,93,80,Pending
 Kenji Mboma Dem,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,81,80,Pending
-Gonzalo Luján,Tackles 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,81,100,Pending
-Matías Galarza,Fouls 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,81,80,Pending
-Joshua Sargent,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,88,80,Pending
-Rocco Ríos Novo,Saves 2+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Peyton Miller,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,93,100,Pending
-Evan Louro,Saves 2+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Aarón Herrera,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,86,80,Pending
-Aarón Herrera,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,86,100,Pending
-Júnior Alonso,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,87,80,Pending
-Niklas Dorsch,Fouls 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,91,80,Pending
-Niklas Dorsch,Fouled 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Niklas Dorsch,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,91,100,Pending
-Allan Saint-Maximin,Shots 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Allan Saint-Maximin,Fouled 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,83,80,Pending
-Luighi,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,92,80,Pending
-Breel Embolo,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Breel Embolo,Fouled 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Mauricio Amaro,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Giuliano Galoppo,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Giuliano Galoppo,Shots 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
-Giuliano Galoppo,Fouled 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
-Giuliano Galoppo,Fouled 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
-Giuliano Galoppo,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,80,Pending
-Giuliano Galoppo,Tackles 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,80,Pending
-David Douděra,Tackles 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,80,80,Pending
-Charlotte FC (team),Scores 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,81,80,Pending
-Charlotte FC (team),Over 1.5,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,81,80,Pending
-Charlotte FC (team),Cards 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,87,80,Pending
-FC Cincinnati (team),Scores 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,84,80,Pending
-FC Cincinnati (team),Over 1.5,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,94,100,Pending
+Lionel Messi,SOT 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,89,80,Pending
+Lionel Messi,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Lionel Messi,Shots 2+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,96,80,Pending
+Rodrigo De Paul,Fouled 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,92,100,Pending
 FC Cincinnati (team),Cards 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,94,100,Pending
 FC Cincinnati (team),Cards 2+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,81,100,Pending
+FC Cincinnati (team),Over 1.5,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,94,100,Pending
 FC Cincinnati (team),SOT 4+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,81,80,Pending
-Atlanta United (team),Over 1.5,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,84,100,Pending
-Atlanta United (team),Cards 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
-Red Bull New York (team),Over 1.5,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,84,100,Pending
-Red Bull New York (team),Cards 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,94,80,Pending
-DC United (team),Cards 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,80,Pending
-Toronto FC (team),Scores 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,84,80,Pending
-Toronto FC (team),Over 1.5,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,90,100,Pending
-New England Revolution (team),Over 1.5,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,81,80,Pending
-New England Revolution (team),Cards 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,84,100,Pending
-Inter Miami CF (team),Scores 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,90,80,Pending
-Inter Miami CF (team),Over 1.5,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,94,100,Pending
+FC Cincinnati (team),Scores 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,84,80,Pending
+Germán Berterame,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,93,100,Pending
+Evander Ferreira,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,93,100,Pending
+Kévin Denkey,Shots 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,93,100,Pending
+Evan Louro,Saves 2+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Obinna Nwobodo,Tackles 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,84,80,Pending
+David Douděra,Tackles 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,80,80,Pending
 Inter Miami CF (team),Cards 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,97,80,Pending
-CF Montréal (team),Over 1.5,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,84,100,Pending
-CF Montréal (team),Cards 1+,Charlotte FC v CF Montréal,Wed 28 Oct · 23:30,MLS,90,100,Pending
-New York City FC (team),Scores 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,81,80,Pending
+Inter Miami CF (team),Over 1.5,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,94,100,Pending
+Inter Miami CF (team),Scores 1+,Inter Miami CF v FC Cincinnati,Wed 28 Oct · 23:30,MLS,90,80,Pending
+Cade Cowell,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,86,100,Pending
+Dylan Nealis,Fouled 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,85,100,Pending
+Dylan Nealis,Fouls 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,81,100,Pending
+Dor Turgeman,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,93,100,Pending
+Brooklyn Raines,Fouls 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,82,80,Pending
+Ronald Donkor,Fouls 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,93,100,Pending
+Peyton Miller,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,93,100,Pending
+Julian Hall,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,83,100,Pending
+Adri Mehmeti,Tackles 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,83,100,Pending
+Emil Forsberg,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,86,100,Pending
+Carles Gil,Fouled 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,97,100,Pending
+Carles Gil,Shots 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,84,80,Pending
+Ethan Horvath,Saves 2+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,81,80,Pending
+Red Bull New York (team),Cards 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,94,80,Pending
+Red Bull New York (team),Over 1.5,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,84,100,Pending
+New England Revolution (team),Cards 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,84,100,Pending
+New England Revolution (team),Over 1.5,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,81,80,Pending
+Matt Turner,Saves 2+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,81,100,Pending
+Mamadou Fofana,Tackles 1+,New England Revolution v Red Bull New York,Wed 28 Oct · 23:30,MLS,93,80,Pending
+Agustín Ojeda,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,81,80,Pending
+Mauricio Amaro,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Luighi,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,92,80,Pending
+Miguel Almirón,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Júnior Alonso,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,87,80,Pending
+Breel Embolo,Fouled 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Breel Embolo,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
 New York City FC (team),Over 1.5,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,87,100,Pending
-Dujon Sterling,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
-Daniel Neil,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Emmanuel Fernandez,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
+New York City FC (team),Scores 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,81,80,Pending
+Atlanta United (team),Cards 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Atlanta United (team),Over 1.5,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,84,100,Pending
+Aiden O'Neill,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,89,100,Pending
+Juan Berrocal,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Giuliano Galoppo,Fouled 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
+Giuliano Galoppo,Fouled 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
+Giuliano Galoppo,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Giuliano Galoppo,Shots 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
+Giuliano Galoppo,Tackles 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,80,Pending
+Giuliano Galoppo,Tackles 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,80,Pending
+Nicolás Fernández,Fouled 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Nicolás Fernández,Fouled 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
+Nicolás Fernández,Fouls 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,83,100,Pending
+Nicolás Fernández,SOT 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,80,80,Pending
+Nicolás Fernández,Shots 1+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,97,80,Pending
+Nicolás Fernández,Shots 2+,New York City FC v Atlanta United,Wed 28 Oct · 23:30,MLS,80,80,Pending
+José Cifuentes,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,90,80,Pending
+Peglow,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,89,100,Pending
+Sean Johnson,Saves 2+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,80,Pending
+Jonathan Osorio,Fouls 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,82,80,Pending
+Toronto FC (team),Over 1.5,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,90,100,Pending
+Toronto FC (team),Scores 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,84,80,Pending
+Dániel Sallói,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,100,Pending
+DC United (team),Cards 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,80,Pending
+Raheem Edwards,Fouls 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,85,80,Pending
+Raheem Edwards,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,92,80,Pending
+Niklas Dorsch,Fouled 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,100,100,Pending
+Niklas Dorsch,Fouls 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,91,80,Pending
+Niklas Dorsch,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,91,100,Pending
+Silvan Hefti,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,93,100,Pending
+Richie Laryea,Fouled 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,96,100,Pending
+Aarón Herrera,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,86,80,Pending
+Aarón Herrera,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,86,100,Pending
+Joshua Sargent,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,88,80,Pending
+Brandon Servania,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,80,Pending
+Tai Baribo,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,96,100,Pending
+Joshua McPake,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Joshua McPake,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Joshua McPake,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
 Emmanuel Fernandez,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Pending
+Emmanuel Fernandez,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
 Tuur Rommens,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Djeidi Gassama,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Kevin Kelsy,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",83,80,Pending
 Djeidi Gassama,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Djeidi Gassama,Fouled 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Ryan Don Naderi,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Ryan Don Naderi,SOT 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Ryan Don Naderi,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Calvin Miller,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Pending
+Djeidi Gassama,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Cláudio Braga,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
 Cláudio Braga,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
 Cláudio Braga,Shots 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Cláudio Braga,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
+Badredine Bouanani,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
+Ryan Don Naderi,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Ryan Don Naderi,SOT 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
+Ryan Don Naderi,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
 Jordi Altena,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
 Jordi Altena,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Laurent Mendy,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Joshua McPake,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Joshua McPake,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Joshua McPake,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-James Penrice,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-James Penrice,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Min-Su Kim,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Min-Su Kim,Shots 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
-Kevin Kelsy,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",83,80,Pending
-Badredine Bouanani,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Malachi Fagan-Walcott,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Malachi Fagan-Walcott,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Calvin Miller,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Pending
+James Penrice,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
+James Penrice,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Dujon Sterling,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
+Rangers (team),Cards 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,100,Pending
 Rangers (team),Corners 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Rangers (team),Corners 5+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Rangers (team),Match corners 9+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Rangers (team),Match corners 10+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Rangers (team),Cards 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,100,Pending
+Rangers (team),Match corners 9+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Rangers (team),SOT 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Rangers (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Malachi Fagan-Walcott,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Malachi Fagan-Walcott,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Daniel Neil,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Heart of Midlothian (team),Cards 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Pending
+Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Heart of Midlothian (team),SOT 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Samuele Birindelli,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Samuele Birindelli,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Andrea Colpani,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
-Jay Robinson,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
-Jay Robinson,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
-Jay Robinson,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,80,Pending
-Lorenzo Lucchesi,Fouls 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Gustavo Varela,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Gustavo Varela,Shots 2+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Gustavo Varela,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Eddy Kouadio,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Giovanni Di Lorenzo,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Frank Anguissa,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
+Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Junior Messias,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
+Junior Messias,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
+Junior Messias,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Genoa (team),Cards 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Genoa (team),Cards 2+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Lorenzo Colombo,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Tommaso Baldanzi,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,80,80,Pending
+Alessandro Marcandalli,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
 Leo Østigard,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
 Leo Østigard,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Noa Lang,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
-Noa Lang,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Scott McTominay,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Scott McTominay,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
+Douglas Luiz,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Douglas Luiz,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Randal Kolo Muani,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
+Randal Kolo Muani,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Randal Kolo Muani,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Gleison Bremer,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
 Johan Vásquez,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,86,80,Pending
 Morten Frendrup,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Milutin Osmajić,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,86,80,Pending
 Mikael Egill Ellertsson,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
 Mikael Egill Ellertsson,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
 Mikael Egill Ellertsson,Tackles 2+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Junior Messias,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Junior Messias,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Junior Messias,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Lorenzo Colombo,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Rasmus Højlund,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Tommaso Baldanzi,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,80,80,Pending
-Rafa Marín,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Rafa Marín,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Alessandro Marcandalli,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Douglas Luiz,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Douglas Luiz,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Randal Kolo Muani,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Randal Kolo Muani,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Randal Kolo Muani,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Gleison Bremer,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Dany Mota,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,80,Pending
-Michael Folorunsho,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Ebenezer Akinsanmiro,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Milutin Osmajić,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,86,80,Pending
+Juventus (team),Corners 4+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Juventus (team),Over 1.5,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
+Juventus (team),Scores 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
 Noel Törnqvist,Saves 2+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
 Noel Törnqvist,Saves 3+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Rasmus Højlund,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Pending
+Rafa Marín,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
+Rafa Marín,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Jay Robinson,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
+Jay Robinson,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
+Jay Robinson,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,80,Pending
+Ebenezer Akinsanmiro,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
 Saba Goglichidze,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Monza (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Lorenzo Lucchesi,Fouls 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Gustavo Varela,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
+Gustavo Varela,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Gustavo Varela,Shots 2+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
+Eddy Kouadio,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Pending
+Giovanni Di Lorenzo,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Frank Anguissa,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
 Monza (team),BTTS,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Pending
 Monza (team),Over 1.5,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
 Monza (team),Over 2.5,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Genoa (team),Cards 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Genoa (team),Cards 2+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Napoli (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Monza (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Dany Mota,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,80,Pending
+Samuele Birindelli,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Samuele Birindelli,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Michael Folorunsho,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
+Noa Lang,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
+Noa Lang,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Scott McTominay,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
+Scott McTominay,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
+Andrea Colpani,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
 Napoli (team),Match corners 9+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Juventus (team),Scores 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Juventus (team),Over 1.5,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Juventus (team),Corners 4+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Napoli (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Pending
 Callum McGregor,Tackles 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Benjamin Nygren,Shots 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Benjamin Nygren,Fouled 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Alex Oxlade-Chamberlain,Shots 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Mika Baur,Tackles 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Mika Baur,Tackles 2+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-Celtic (team),Win,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Celtic (team),Scores 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Alex Oxlade-Chamberlain,Shots 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Benjamin Nygren,Fouled 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
+Benjamin Nygren,Shots 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
+Celtic (team),Cards 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,100,Pending
 Celtic (team),Corners 4+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Celtic (team),Corners 5+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Celtic (team),Match corners 9+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Celtic (team),Cards 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,100,Pending
 Celtic (team),SOT 4+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Hakan Çalhanoglu,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Piotr Zieliński,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Manuel Akanji,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Manuel Akanji,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Nicolò Barella,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Josep Martínez,Saves 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Alessandro Bastoni,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Alessandro Bastoni,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Francesco Pio Esposito,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Francesco Pio Esposito,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Francesco Pio Esposito,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Petar Sučić,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Petar Sučić,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Jesper Karlström,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Hassane Kamara,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Mërgim Vojvoda,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Enzo Ebosse,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Nicolò Zaniolo,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Jurgen Ekkelenkamp,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Maduka Okoye,Saves 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Lennon Miller,Fouls 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Lennon Miller,Fouls 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,83,80,Pending
-Matteo Palma,Fouled 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Matteo Palma,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-El Bilal Touré,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Edoardo Corvi,Saves 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Edoardo Corvi,Saves 3+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Mandela Keita,Fouled 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Mandela Keita,Fouled 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Mandela Keita,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Ridgeciano Haps,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,83,80,Pending
-Toma Bašić,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-John Yeboah,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-John Yeboah,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-John Yeboah,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Kike Pérez,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Kike Pérez,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Kike Pérez,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Gianluca Busio,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Gianluca Busio,Tackles 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Armel Bella-Kotchap,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Akor Adams,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Akor Adams,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Akor Adams,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Filip Stanković,Saves 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Antoine Hainaut,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Antoine Hainaut,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Mike Maignan,Saves 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Gonçalo Ramos,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Celtic (team),Scores 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Celtic (team),Win,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Nicolò Cambiaghi,Fouled 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
 Strahinja Pavlović,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
 Koni De Winter,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
 Koni De Winter,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Eivind Helland,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,80,80,Pending
 Federico Bernardeschi,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Mike Maignan,Saves 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Matteo Darmian,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Christian Pulisic,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,80,80,Pending
+Tommaso Pobega,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Tommaso Pobega,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,86,100,Pending
+Nicolò Casale,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Nicolò Casale,Tackles 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Milan (team),Cards 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Milan (team),Over 1.5,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Milan (team),SOT 4+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Milan (team),Scores 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
 Juan Miranda,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,86,80,Pending
 Lewis Ferguson,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
 Lewis Ferguson,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
 Lewis Ferguson,Tackles 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Nicolò Cambiaghi,Fouled 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Eivind Helland,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,80,80,Pending
+Gonçalo Ramos,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Parma (team),Over 1.5,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+El Bilal Touré,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Maduka Okoye,Saves 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Edoardo Corvi,Saves 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Edoardo Corvi,Saves 3+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+David Romero,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,100,Pending
+Mandela Keita,Fouled 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Mandela Keita,Fouled 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Mandela Keita,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Lennon Miller,Fouls 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Lennon Miller,Fouls 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,83,80,Pending
+Matteo Palma,Fouled 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Matteo Palma,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Jesper Karlström,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Hassane Kamara,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Mërgim Vojvoda,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Diego Carlos,Fouls 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Keinan Davis,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,80,Pending
+Enzo Ebosse,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,80,Pending
+Nicolò Zaniolo,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Giorgi Chakvetadze,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,80,80,Pending
+Udinese (team),Cards 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Udinese (team),Over 1.5,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Jurgen Ekkelenkamp,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Filip Stanković,Saves 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Antoine Hainaut,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Antoine Hainaut,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
 Redouane Halhal,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Pending
 Redouane Halhal,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Keinan Davis,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-David Romero,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Marcus Thuram,Score or assist,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Marcus Thuram,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Marcus Thuram,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Marcus Thuram,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Tommaso Pobega,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Tommaso Pobega,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Diego Carlos,Fouls 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Francesco Pio Esposito,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Francesco Pio Esposito,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Francesco Pio Esposito,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Petar Sučić,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
+Petar Sučić,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
 Matías Moreno,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,83,80,Pending
 Juan Jesus,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
 Juan Jesus,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Christian Pulisic,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Giorgi Chakvetadze,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Matteo Darmian,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Nicolò Casale,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Nicolò Casale,Tackles 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Inter (team),Win,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Inter (team),Scores 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Hakan Çalhanoglu,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Piotr Zieliński,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Ridgeciano Haps,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,83,80,Pending
+Manuel Akanji,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
+Manuel Akanji,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
+Nicolò Barella,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
+Marcus Thuram,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
+Marcus Thuram,Score or assist,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
+Marcus Thuram,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Marcus Thuram,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Toma Bašić,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Josep Martínez,Saves 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
+Venezia (team),Cards 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Alessandro Bastoni,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
+Alessandro Bastoni,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+John Yeboah,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+John Yeboah,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+John Yeboah,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
 Inter (team),Over 1.5,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
 Inter (team),Over 2.5,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
 Inter (team),SOT 4+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Udinese (team),Over 1.5,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Udinese (team),Cards 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Parma (team),Over 1.5,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Venezia (team),Cards 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Milan (team),Scores 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Milan (team),Over 1.5,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Milan (team),Cards 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Milan (team),SOT 4+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Inter (team),Scores 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Inter (team),Win,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Kike Pérez,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Kike Pérez,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Kike Pérez,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
+Gianluca Busio,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Gianluca Busio,Tackles 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Armel Bella-Kotchap,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Akor Adams,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
+Akor Adams,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Akor Adams,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
 Daniel Maldini,Fouled 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Pending
 Matias Soulé,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
 Adam Obert,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Pending
