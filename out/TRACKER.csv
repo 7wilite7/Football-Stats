@@ -1,30 +1,30 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 28 Oct 2026 06:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 28 Oct 2026 06:48 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2297,1691,74,90
-Tackles 1+,465,365,78,90
-Shots 1+,395,315,80,91
-Fouled 1+,272,193,71,90
-Fouls 1+,248,156,63,88
-Cards 1+,126,113,90,92
-Over 1.5,98,80,82,90
-Scores 1+,94,72,77,91
-Shots 2+,94,67,71,90
-Saves 2+,78,55,71,91
-Tackles 2+,55,29,53,88
-SOT 1+,55,42,76,88
-SOT 4+,54,40,74,91
-Corners 4+,40,27,68,91
-Match corners 9+,30,19,63,90
+All picks,2376,1748,74,90
+Tackles 1+,487,380,78,90
+Shots 1+,410,327,80,91
+Fouled 1+,278,196,71,90
+Fouls 1+,255,158,62,88
+Cards 1+,129,115,89,92
+Over 1.5,102,84,82,90
+Scores 1+,98,76,78,91
+Shots 2+,98,71,72,90
+Saves 2+,80,56,70,91
+Tackles 2+,57,30,53,88
+SOT 4+,57,42,74,91
+SOT 1+,57,44,77,88
+Corners 4+,41,28,68,91
+Match corners 9+,31,20,65,90
 Over 2.5,27,17,63,87
 Cards 2+,24,12,50,88
 Fouled 2+,21,11,52,89
 Saves 3+,21,16,76,89
-Corners 5+,20,11,55,90
-BTTS,19,10,53,89
+Corners 5+,21,12,57,89
+BTTS,20,11,55,89
 Score or assist,15,11,73,85
 Match corners 10+,12,7,58,88
 Fouls 2+,11,5,45,89
-Win,9,6,67,91
+Win,10,7,70,90
 Match cards 4+,7,7,100,88
 Goal 1+,5,3,60,86
 SOT 2+,2,2,100,86
@@ -452,6 +452,7 @@ Celtic (team),Match corners 9+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotl
 Celtic (team),SOT 4+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
 Celtic (team),Scores 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
 Celtic (team),Win,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Amir Rrahmani,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
 Nicolò Cambiaghi,Fouled 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
 Strahinja Pavlović,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
 Koni De Winter,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
@@ -543,94 +544,94 @@ Armel Bella-Kotchap,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,1
 Akor Adams,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
 Akor Adams,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
 Akor Adams,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Daniel Maldini,Fouled 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Pending
-Matias Soulé,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Adam Obert,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Pending
-Wesley,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,86,80,Pending
-Juan Rodríguez,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Alessandro Romano,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Alessandro Romano,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Paul Mendy,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Marten de Roon,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Bryan Cristante,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,100,Pending
-Bryan Cristante,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Yerry Mina,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Yerry Mina,Tackles 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Donyell Malen,SOT 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,86,80,Pending
-Donyell Malen,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Donyell Malen,Shots 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Nahuel Molina,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Pending
-Evan N'Dicka,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Pending
-Roma (team),Cards 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Pending
-Roma (team),Over 1.5,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Roma (team),SOT 4+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Roma (team),Scores 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Elia Caprile,Saves 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Leonardo Balerdi,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Pending
-Como (team),Corners 4+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Como (team),Corners 5+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Pending
-Como (team),Match corners 9+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Como (team),Over 1.5,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Como (team),SOT 4+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Lucas Da Cunha,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Pending
-Martin Baturina,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Nico Paz,Fouls 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Pending
-Nico Paz,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Nico Paz,Shots 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Nico Paz,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Pending
-Nico Paz,Tackles 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Pending
-Álex Valle,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,80,80,Pending
-Jacobo Ramón,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Kaiki,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,83,100,Pending
-Pietro Comuzzo,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Giovanni Simeone,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Giovanni Simeone,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Pending
-Nikola Vlašić,Fouls 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Rolando Mandragora,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Pending
-Ché Adams,SOT 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,83,80,Pending
-Ché Adams,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Eray Cömert,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Anastasios Douvikas,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Anastasios Douvikas,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Anastasios Douvikas,Shots 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Torino (team),Over 1.5,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Pending
-Torino (team),Scores 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Pending
-Sebastiano Esposito,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Pending
-Cas Odenthal,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Ignace Van Der Brempt,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Matteo Cancellieri,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Pending
-Matteo Cancellieri,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Matteo Cancellieri,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Pending
-Romano Floriani Mussolini,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Romano Floriani Mussolini,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Oliver Provstgaard,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Vasilije Adžić,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Pending
-Vasilije Adžić,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Pending
-Reda Belahyane,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Pending
-Darryl Bakola,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,100,Pending
-Darryl Bakola,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Simone Cinquegrano,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,83,80,Pending
-Domenico Berardi,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Domenico Berardi,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Mattia Zaccagni,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Mattia Zaccagni,Shots 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Arijanet Murić,Saves 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Arijanet Murić,Saves 3+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Sassuolo (team),BTTS,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Sassuolo (team),Cards 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Pending
-Sassuolo (team),Over 1.5,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Sassuolo (team),SOT 4+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Sassuolo (team),Scores 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Davide Frattesi,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Lazio (team),Cards 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Lazio (team),Scores 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Pending
-Lazio (team),Win,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Christos Mandas,Saves 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Pending
-Armand Laurienté,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Nuno Tavares,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Pending
-Kenneth Taylor,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Pending
-Kenneth Taylor,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
-Kieron Bowie,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Pending
+Daniel Maldini,Fouled 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Miss
+Matias Soulé,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Adam Obert,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Hit
+Wesley,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,86,80,Hit
+Juan Rodríguez,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Alessandro Romano,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Alessandro Romano,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Paul Mendy,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Marten de Roon,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Bryan Cristante,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,100,Miss
+Bryan Cristante,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Yerry Mina,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Yerry Mina,Tackles 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Miss
+Donyell Malen,SOT 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,86,80,Hit
+Donyell Malen,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Donyell Malen,Shots 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Nahuel Molina,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Miss
+Evan N'Dicka,Fouls 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Miss
+Roma (team),Cards 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Miss
+Roma (team),Over 1.5,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Roma (team),SOT 4+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Roma (team),Scores 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Elia Caprile,Saves 2+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Leonardo Balerdi,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,83,80,Did not play
+Como (team),Corners 4+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Como (team),Corners 5+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Hit
+Como (team),Match corners 9+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Como (team),Over 1.5,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Como (team),SOT 4+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Lucas Da Cunha,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Hit
+Martin Baturina,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Nico Paz,Fouls 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Miss
+Nico Paz,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Nico Paz,Shots 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Nico Paz,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Hit
+Nico Paz,Tackles 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,86,80,Hit
+Álex Valle,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,80,80,Hit
+Jacobo Ramón,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Miss
+Kaiki,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,83,100,Miss
+Pietro Comuzzo,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Giovanni Simeone,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Giovanni Simeone,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Hit
+Nikola Vlašić,Fouls 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Miss
+Rolando Mandragora,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,100,Did not play
+Ché Adams,SOT 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,83,80,Hit
+Ché Adams,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Eray Cömert,Tackles 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Did not play
+Anastasios Douvikas,Fouled 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Miss
+Anastasios Douvikas,Shots 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Anastasios Douvikas,Shots 2+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Torino (team),Over 1.5,Torino v Como,Tue 27 Oct · 19:45,Serie A,100,100,Hit
+Torino (team),Scores 1+,Torino v Como,Tue 27 Oct · 19:45,Serie A,88,80,Hit
+Sebastiano Esposito,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Hit
+Cas Odenthal,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Miss
+Ignace Van Der Brempt,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Did not play
+Matteo Cancellieri,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Miss
+Matteo Cancellieri,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Hit
+Matteo Cancellieri,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,80,80,Miss
+Romano Floriani Mussolini,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Romano Floriani Mussolini,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Hit
+Oliver Provstgaard,Fouls 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Did not play
+Vasilije Adžić,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Did not play
+Vasilije Adžić,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Did not play
+Reda Belahyane,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,80,Hit
+Darryl Bakola,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,86,100,Miss
+Darryl Bakola,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Miss
+Simone Cinquegrano,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,83,80,Miss
+Domenico Berardi,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Miss
+Domenico Berardi,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Hit
+Mattia Zaccagni,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Mattia Zaccagni,Shots 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Arijanet Murić,Saves 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Did not play
+Arijanet Murić,Saves 3+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Did not play
+Sassuolo (team),BTTS,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Sassuolo (team),Cards 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Hit
+Sassuolo (team),Over 1.5,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Hit
+Sassuolo (team),SOT 4+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Miss
+Sassuolo (team),Scores 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Davide Frattesi,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Lazio (team),Cards 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Lazio (team),Scores 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,100,100,Hit
+Lazio (team),Win,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Christos Mandas,Saves 2+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Miss
+Armand Laurienté,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Hit
+Nuno Tavares,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Hit
+Kenneth Taylor,Fouled 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,100,Hit
+Kenneth Taylor,Tackles 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Miss
+Kieron Bowie,Shots 1+,Sassuolo v Lazio,Tue 27 Oct · 17:30,Serie A,88,80,Miss
 Juan Iglesias,Tackles 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Hit
 Juan Iglesias,Tackles 2+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,89,100,Hit
 Peque Fernández,Fouled 1+,Sevilla v Osasuna,Mon 26 Oct · 20:00,La Liga,100,100,Did not play
@@ -1530,4 +1531,3 @@ Adam Smith,Fouls 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Prem
 Bruno Fernandes,Shots 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,100,100,Did not play
 Youri Tielemans,Fouled 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
 Diogo Dalot,Tackles 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,100,Hit
-Marcus Tavernier,Tackles 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
