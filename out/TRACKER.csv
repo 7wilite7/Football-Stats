@@ -1,30 +1,30 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 29 Oct 2026 06:50 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 29 Oct 2026 06:51 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2376,1748,74,90
-Tackles 1+,487,380,78,90
-Shots 1+,410,327,80,91
-Fouled 1+,278,196,71,90
-Fouls 1+,255,158,62,88
-Cards 1+,129,115,89,92
-Over 1.5,102,84,82,90
-Scores 1+,98,76,78,91
-Shots 2+,98,71,72,90
-Saves 2+,80,56,70,91
-Tackles 2+,57,30,53,88
-SOT 4+,57,42,74,91
-SOT 1+,57,44,77,88
-Corners 4+,41,28,68,91
-Match corners 9+,31,20,65,90
-Over 2.5,27,17,63,87
-Cards 2+,24,12,50,88
-Fouled 2+,21,11,52,89
-Saves 3+,21,16,76,89
+All picks,2517,1833,73,90
+Tackles 1+,525,404,77,90
+Shots 1+,439,347,79,91
+Fouled 1+,292,204,70,90
+Fouls 1+,269,165,61,88
+Cards 1+,133,116,87,92
+Over 1.5,108,88,81,90
+Scores 1+,103,80,78,91
+Shots 2+,102,74,73,90
+Saves 2+,84,60,71,91
+SOT 1+,63,48,76,87
+Tackles 2+,61,31,51,88
+SOT 4+,59,42,71,91
+Corners 4+,42,29,69,91
+Match corners 9+,32,20,62,90
+Over 2.5,29,18,62,87
+Cards 2+,25,12,48,88
+Fouled 2+,22,11,50,88
+Saves 3+,22,17,77,90
 Corners 5+,21,12,57,89
-BTTS,20,11,55,89
-Score or assist,15,11,73,85
+BTTS,21,12,57,89
+Score or assist,16,11,69,85
+Fouls 2+,12,5,42,89
 Match corners 10+,12,7,58,88
-Fouls 2+,11,5,45,89
-Win,10,7,70,90
+Win,11,8,73,90
 Match cards 4+,7,7,100,88
 Goal 1+,5,3,60,86
 SOT 2+,2,2,100,86
@@ -477,63 +477,63 @@ Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Rangers,Wed 28 Oct �
 Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Heart of Midlothian (team),SOT 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
 Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Junior Messias,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Junior Messias,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Junior Messias,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Genoa (team),Cards 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Genoa (team),Cards 2+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Lorenzo Colombo,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Tommaso Baldanzi,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,80,80,Pending
-Alessandro Marcandalli,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Leo Østigard,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Leo Østigard,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Douglas Luiz,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Douglas Luiz,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Randal Kolo Muani,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Randal Kolo Muani,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Randal Kolo Muani,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Gleison Bremer,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Johan Vásquez,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Morten Frendrup,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Milutin Osmajić,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Mikael Egill Ellertsson,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Mikael Egill Ellertsson,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Mikael Egill Ellertsson,Tackles 2+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Juventus (team),Corners 4+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Juventus (team),Over 1.5,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Juventus (team),Scores 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Noel Törnqvist,Saves 2+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Noel Törnqvist,Saves 3+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Rasmus Højlund,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Rafa Marín,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Rafa Marín,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Jay Robinson,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
-Jay Robinson,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
-Jay Robinson,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,80,Pending
-Ebenezer Akinsanmiro,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Saba Goglichidze,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Lorenzo Lucchesi,Fouls 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Gustavo Varela,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Gustavo Varela,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Gustavo Varela,Shots 2+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Eddy Kouadio,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Giovanni Di Lorenzo,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Frank Anguissa,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
-Monza (team),BTTS,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Pending
-Monza (team),Over 1.5,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Monza (team),Over 2.5,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Pending
-Monza (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Dany Mota,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,80,Pending
-Samuele Birindelli,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Samuele Birindelli,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Michael Folorunsho,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Noa Lang,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Pending
-Noa Lang,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Scott McTominay,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
-Scott McTominay,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Andrea Colpani,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Pending
-Napoli (team),Match corners 9+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Pending
-Napoli (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Pending
+Junior Messias,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Miss
+Junior Messias,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Miss
+Junior Messias,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Miss
+Genoa (team),Cards 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Miss
+Genoa (team),Cards 2+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Miss
+Lorenzo Colombo,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Miss
+Tommaso Baldanzi,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,80,80,Hit
+Alessandro Marcandalli,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Hit
+Leo Østigard,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Miss
+Leo Østigard,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Douglas Luiz,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Hit
+Douglas Luiz,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Hit
+Randal Kolo Muani,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Miss
+Randal Kolo Muani,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Hit
+Randal Kolo Muani,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Miss
+Gleison Bremer,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Johan Vásquez,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,86,80,Hit
+Morten Frendrup,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Hit
+Milutin Osmajić,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,86,80,Hit
+Mikael Egill Ellertsson,Fouls 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Miss
+Mikael Egill Ellertsson,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Mikael Egill Ellertsson,Tackles 2+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Miss
+Juventus (team),Corners 4+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Hit
+Juventus (team),Over 1.5,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Hit
+Juventus (team),Scores 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Miss
+Noel Törnqvist,Saves 2+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Noel Törnqvist,Saves 3+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Rasmus Højlund,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Hit
+Rafa Marín,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Miss
+Rafa Marín,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Jay Robinson,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Miss
+Jay Robinson,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Miss
+Jay Robinson,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,80,Hit
+Ebenezer Akinsanmiro,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Saba Goglichidze,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Lorenzo Lucchesi,Fouls 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Miss
+Gustavo Varela,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Hit
+Gustavo Varela,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Gustavo Varela,Shots 2+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Hit
+Eddy Kouadio,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Did not play
+Giovanni Di Lorenzo,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Miss
+Frank Anguissa,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Hit
+Monza (team),BTTS,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Hit
+Monza (team),Over 1.5,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Monza (team),Over 2.5,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,100,Hit
+Monza (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Dany Mota,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,80,Did not play
+Samuele Birindelli,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Samuele Birindelli,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Miss
+Michael Folorunsho,Fouled 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Did not play
+Noa Lang,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,83,100,Hit
+Noa Lang,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Scott McTominay,SOT 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Hit
+Scott McTominay,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
+Andrea Colpani,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Hit
+Napoli (team),Match corners 9+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Miss
+Napoli (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Hit
 Callum McGregor,Tackles 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
 Mika Baur,Tackles 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Mika Baur,Tackles 2+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
@@ -547,98 +547,98 @@ Celtic (team),Match corners 9+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotl
 Celtic (team),SOT 4+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
 Celtic (team),Scores 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
 Celtic (team),Win,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Amir Rrahmani,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Pending
-Nicolò Cambiaghi,Fouled 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Strahinja Pavlović,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Koni De Winter,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Koni De Winter,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Eivind Helland,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Federico Bernardeschi,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Mike Maignan,Saves 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Matteo Darmian,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Christian Pulisic,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Tommaso Pobega,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Tommaso Pobega,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Nicolò Casale,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Nicolò Casale,Tackles 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Milan (team),Cards 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Milan (team),Over 1.5,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Milan (team),SOT 4+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Milan (team),Scores 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Juan Miranda,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Lewis Ferguson,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Lewis Ferguson,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Lewis Ferguson,Tackles 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Gonçalo Ramos,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Parma (team),Over 1.5,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-El Bilal Touré,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Maduka Okoye,Saves 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Edoardo Corvi,Saves 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Edoardo Corvi,Saves 3+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-David Romero,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Mandela Keita,Fouled 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Mandela Keita,Fouled 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Mandela Keita,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Lennon Miller,Fouls 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Lennon Miller,Fouls 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,83,80,Pending
-Matteo Palma,Fouled 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Matteo Palma,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Jesper Karlström,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Hassane Kamara,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Mërgim Vojvoda,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Diego Carlos,Fouls 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Keinan Davis,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Enzo Ebosse,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Nicolò Zaniolo,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Giorgi Chakvetadze,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Udinese (team),Cards 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Udinese (team),Over 1.5,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Jurgen Ekkelenkamp,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Filip Stanković,Saves 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Antoine Hainaut,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Antoine Hainaut,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Redouane Halhal,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Redouane Halhal,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Francesco Pio Esposito,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Francesco Pio Esposito,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Francesco Pio Esposito,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Petar Sučić,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Petar Sučić,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Matías Moreno,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,83,80,Pending
-Juan Jesus,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Juan Jesus,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Pending
-Hakan Çalhanoglu,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Piotr Zieliński,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Ridgeciano Haps,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,83,80,Pending
-Manuel Akanji,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Manuel Akanji,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Nicolò Barella,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Marcus Thuram,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Marcus Thuram,Score or assist,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Marcus Thuram,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Marcus Thuram,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Toma Bašić,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Josep Martínez,Saves 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Pending
-Venezia (team),Cards 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Alessandro Bastoni,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Pending
-Alessandro Bastoni,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-John Yeboah,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-John Yeboah,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-John Yeboah,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Inter (team),Over 1.5,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Inter (team),Over 2.5,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Inter (team),SOT 4+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Inter (team),Scores 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Inter (team),Win,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Kike Pérez,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Kike Pérez,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Kike Pérez,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Pending
-Gianluca Busio,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Gianluca Busio,Tackles 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Armel Bella-Kotchap,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Akor Adams,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Pending
-Akor Adams,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
-Akor Adams,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Pending
+Amir Rrahmani,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Hit
+Nicolò Cambiaghi,Fouled 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Strahinja Pavlović,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Koni De Winter,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Koni De Winter,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Eivind Helland,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,80,80,Miss
+Federico Bernardeschi,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Mike Maignan,Saves 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,100,Hit
+Matteo Darmian,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Christian Pulisic,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,80,80,Hit
+Tommaso Pobega,Shots 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Tommaso Pobega,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,86,100,Hit
+Nicolò Casale,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Nicolò Casale,Tackles 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Milan (team),Cards 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Milan (team),Over 1.5,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Milan (team),SOT 4+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,100,Miss
+Milan (team),Scores 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Juan Miranda,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,86,80,Miss
+Lewis Ferguson,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Lewis Ferguson,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Lewis Ferguson,Tackles 2+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Gonçalo Ramos,Fouls 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Parma (team),Over 1.5,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Miss
+El Bilal Touré,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Miss
+Maduka Okoye,Saves 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Edoardo Corvi,Saves 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Did not play
+Edoardo Corvi,Saves 3+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Did not play
+David Romero,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,100,Miss
+Mandela Keita,Fouled 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Mandela Keita,Fouled 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Mandela Keita,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Hit
+Lennon Miller,Fouls 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Lennon Miller,Fouls 2+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,83,80,Miss
+Matteo Palma,Fouled 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Matteo Palma,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Jesper Karlström,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Miss
+Hassane Kamara,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Mërgim Vojvoda,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Diego Carlos,Fouls 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Did not play
+Keinan Davis,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,80,Hit
+Enzo Ebosse,Tackles 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,86,80,Hit
+Nicolò Zaniolo,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Giorgi Chakvetadze,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,80,80,Miss
+Udinese (team),Cards 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,100,Hit
+Udinese (team),Over 1.5,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Jurgen Ekkelenkamp,Shots 1+,Parma v Udinese,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Filip Stanković,Saves 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Antoine Hainaut,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Antoine Hainaut,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Hit
+Redouane Halhal,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Hit
+Redouane Halhal,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Hit
+Francesco Pio Esposito,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Francesco Pio Esposito,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Francesco Pio Esposito,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Petar Sučić,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Hit
+Petar Sučić,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Hit
+Matías Moreno,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,83,80,Miss
+Juan Jesus,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Juan Jesus,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,80,80,Hit
+Hakan Çalhanoglu,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Piotr Zieliński,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Ridgeciano Haps,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,83,80,Miss
+Manuel Akanji,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Miss
+Manuel Akanji,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Miss
+Nicolò Barella,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Hit
+Marcus Thuram,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Hit
+Marcus Thuram,Score or assist,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Miss
+Marcus Thuram,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Marcus Thuram,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Toma Bašić,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Josep Martínez,Saves 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,100,Did not play
+Venezia (team),Cards 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Miss
+Alessandro Bastoni,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,86,80,Hit
+Alessandro Bastoni,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+John Yeboah,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Hit
+John Yeboah,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+John Yeboah,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Inter (team),Over 1.5,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Hit
+Inter (team),Over 2.5,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Miss
+Inter (team),SOT 4+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Inter (team),Scores 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Inter (team),Win,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Kike Pérez,Fouled 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Kike Pérez,Fouls 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Hit
+Kike Pérez,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,100,Hit
+Gianluca Busio,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Gianluca Busio,Tackles 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Miss
+Armel Bella-Kotchap,Tackles 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Did not play
+Akor Adams,SOT 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,88,80,Hit
+Akor Adams,Shots 1+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Hit
+Akor Adams,Shots 2+,Venezia v Inter,Wed 28 Oct · 17:30,Serie A,100,100,Hit
 Daniel Maldini,Fouled 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Miss
 Matias Soulé,Shots 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,80,Hit
 Adam Obert,Tackles 1+,Roma v Cagliari,Tue 27 Oct · 19:45,Serie A,88,100,Hit
