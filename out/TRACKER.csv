@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 28 Oct 2026 06:57 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 29 Oct 2026 06:49 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,2376,1748,74,90
 Tackles 1+,487,380,78,90
@@ -31,6 +31,101 @@ SOT 2+,2,2,100,86
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
+Alieu Njie,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,86,80,Pending
+Alieu Njie,Fouled 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,86,100,Pending
+Nikola Krstović,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
+Éderson,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
+Marco Carnesecchi,Saves 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Pending
+Marco Carnesecchi,Saves 3+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Pending
+Lazar Samardžić,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
+Jonathan Rowe,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,83,80,Pending
+Jonathan Rowe,Fouled 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Pending
+Jonathan Rowe,Fouled 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,83,80,Pending
+David de Gea,Saves 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Pending
+Nicolò Fagioli,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
+Radu Drăgușin,Fouls 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Pending
+Cher Ndour,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Pending
+Franco Mastantuono,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Pending
+Franco Mastantuono,Shots 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
+Franco Mastantuono,Fouled 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
+Viery,Fouls 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,86,80,Pending
+Atalanta (team),Scores 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Pending
+Atalanta (team),Over 1.5,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
+Fiorentina (team),Over 1.5,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Pending
+Fiorentina (team),Over 2.5,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Pending
+Fiorentina (team),Cards 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
+Nacho,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),88,100,Pending
+Julian Weigl,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
+Julián Quiñones,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Julián Quiñones,Shots 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Julián Quiñones,SOT 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
+Julián Quiñones,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,100,Pending
+Mateo Retegui,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,100,Pending
+Mateo Retegui,SOT 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Pending
+Gaston Álvarez,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Jehad Thakri,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
+Jehad Thakri,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Musab Al Juwayr,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Musab Al Juwayr,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Pending
+Christopher Bonsu Baah,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,80,Pending
+Christopher Bonsu Baah,Fouled 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
+Mohammed Abu Al Shamat,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
+Mohammed Abu Al Shamat,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Mohammed Abu Al Shamat,Tackles 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Pending
+Sadio Mané,Fouled 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
+Sadio Mané,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
+Joao Félix,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Joao Félix,Shots 2+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Joao Félix,SOT 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Pending
+Joao Félix,Fouls 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Pending
+Abdullah Al Khaibari,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
+Samú,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
+Samú,Fouls 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
+Abdulaziz Al Elewai,Fouled 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),83,80,Pending
+Cristiano Ronaldo,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Cristiano Ronaldo,Shots 2+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Abdulelah Al Amri,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),88,80,Pending
+Tijjani Reijnders,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Tijjani Reijnders,Shots 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Pending
+Al Qadsiah (team),Scores 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,100,Pending
+Al Qadsiah (team),Over 1.5,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
+Al Qadsiah (team),Corners 4+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
+Al Qadsiah (team),SOT 4+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
+Al Nassr FC (team),Win,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
+Al Nassr FC (team),Scores 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Al Nassr FC (team),Over 1.5,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
+Al Nassr FC (team),Corners 4+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
+Giacomo Calò,Fouled 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
+Patrizio Masini,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
+Anthony Oyono,Fouled 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
+Anthony Oyono,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
+Antonio Raimondo,Shots 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Antonio Raimondo,Fouls 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Lorenzo Palmisani,Saves 2+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Lorenzo Palmisani,Saves 3+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Pending
+Giorgio Cittadini,Fouls 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Giorgio Cittadini,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Giorgi Kvernadze,Shots 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Giorgi Kvernadze,Shots 2+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Giorgi Kvernadze,Fouled 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Pending
+Giorgi Kvernadze,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
+Gabriele Bracaglia,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Pending
+Gabriele Calvani,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Gabriele Calvani,Tackles 2+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,86,100,Pending
+Willem Geubbels,Shots 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,80,80,Pending
+Willem Geubbels,Shots 2+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,80,80,Pending
+Willem Geubbels,Fouls 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,80,80,Pending
+Jamil Siebert,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Pending
+Danilo Veiga,Fouls 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
+Danilo Veiga,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
+Oumar Ngom,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
+Farès Ghedjemis,Shots 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,100,100,Pending
+Farès Ghedjemis,Shots 2+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,83,80,Pending
+Frosinone (team),Over 1.5,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Pending
+Frosinone (team),Corners 4+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Pending
+Frosinone (team),Match corners 9+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Pending
+Lecce (team),Over 1.5,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Pending
+Lecce (team),Cards 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Pending
 Miguel Navarro,Fouled 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,84,100,Pending
 Miguel Navarro,Fouls 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,80,80,Pending
 Morgan Whittaker,Shots 1+,San Jose Earthquakes v Colorado Rapids,Thu 29 Oct · 02:30,MLS,86,80,Pending
@@ -1436,98 +1531,3 @@ Adam Wharton,Tackles 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Pr
 Matias Fernandez-Pardo,Fouls 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,80,80,Did not play
 Anan Khalaili,Fouls 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,80,Hit
 Anan Khalaili,Tackles 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Anan Khalaili,Tackles 2+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Jaydee Canvot,Tackles 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Walter Benítez,Saves 2+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Daichi Kamada,Fouled 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Yoane Wissa,Fouls 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,100,Miss
-Yoane Wissa,Shots 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Harvey Barnes,Fouled 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Harvey Barnes,Shots 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Joseph Willock,Shots 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Joseph Willock,Tackles 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,100,Hit
-Chris Richards,Tackles 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Crystal Palace (team),Cards 1+,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Crystal Palace (team),Over 1.5,Crystal Palace v Newcastle United,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Keane Lewis-Potter,Fouls 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Keane Lewis-Potter,Shots 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Keane Lewis-Potter,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Konstantinos Tzolakis,Saves 2+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Konstantinos Tzolakis,Saves 3+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Kevin Schade,Fouled 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Kevin Schade,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Jaidon Anthony,Shots 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Mamadou Sangaré,Fouls 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Mamadou Sangaré,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Mohamed Belloumi,Fouls 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Mohamed Belloumi,Shots 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Mohamed Belloumi,Shots 2+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,100,Hit
-Mohamed Belloumi,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Igor Thiago,Shots 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Matt Crooks,Booked,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,80,80,Did not play
-Matt Crooks,Fouls 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,80,80,Did not play
-Matt Crooks,Fouls 2+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,80,80,Did not play
-Matt Crooks,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Did not play
-Matt Crooks,Tackles 2+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Did not play
-John Egan,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Semi Ajayi,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,100,Hit
-Oli McBurnie,Fouled 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Oli McBurnie,Fouls 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Caoimhín Kelleher,Saves 2+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,100,Miss
-Regan Slater,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Hull City (team),Cards 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Hull City (team),Cards 2+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Ryan Giles,Tackles 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Brentford (team),Cards 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Brentford (team),Over 1.5,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Brentford (team),Scores 1+,Hull City v Brentford,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Brighton & Hove Albion (team),Cards 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Brighton & Hove Albion (team),Cards 2+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Brighton & Hove Albion (team),Corners 4+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Brighton & Hove Albion (team),Corners 5+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Brighton & Hove Albion (team),Over 1.5,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Brighton & Hove Albion (team),SOT 4+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Brighton & Hove Albion (team),Scores 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Florian Wirtz,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Florian Wirtz,Shots 2+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Yasin Ayari,Fouled 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,83,80,Hit
-Yasin Ayari,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Yasin Ayari,Shots 2+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Miloš Kerkez,Fouled 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Miloš Kerkez,Tackles 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Bradley Barcola,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,80,80,Hit
-Diego Gómez,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Diego Gómez,Tackles 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Luka Vušković,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Luka Vušković,Shots 2+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Luka Vušković,Tackles 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,100,Hit
-Jérémy Jacquet,Fouls 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,100,Hit
-Jérémy Jacquet,Tackles 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Charalampos Kostoulas,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Chema Andrés,Fouls 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Chema Andrés,Fouls 2+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Pascal Groß,Fouls 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Pascal Groß,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,100,Miss
-Olivier Boscagli,Fouled 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Miss
-Alexander Isak,SOT 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Alexander Isak,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Alexander Isak,Shots 2+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Ferdi Kadıoğlu,Fouled 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,83,80,Miss
-Cody Gakpo,Shots 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,80,80,Hit
-Alexis Mac Allister,Tackles 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Liverpool (team),Cards 1+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Liverpool (team),Cards 2+,Liverpool v Brighton & Hove Albion,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Manchester United (team),Cards 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Manchester United (team),Over 1.5,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Evanilson,Fouled 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,100,100,Hit
-Evanilson,Fouls 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Adrien Truffert,Fouls 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,100,Hit
-Adrien Truffert,Tackles 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Adrien Truffert,Tackles 2+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Senne Lammens,Saves 2+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Miss
-Rayan,Shots 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Rayan,Tackles 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,100,Hit
-Adam Smith,Fouls 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Bruno Fernandes,Shots 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,100,100,Did not play
-Youri Tielemans,Fouled 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,80,Hit
-Diogo Dalot,Tackles 1+,Manchester United v AFC Bournemouth,Sun 25 Oct · 14:00,Premier League,86,100,Hit
