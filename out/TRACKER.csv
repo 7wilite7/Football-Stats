@@ -1,30 +1,30 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 29 Oct 2026 07:01 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2763,2029,73,90
-Tackles 1+,568,438,77,90
-Shots 1+,496,393,79,91
-Fouled 1+,317,224,71,90
-Fouls 1+,290,183,63,88
-Cards 1+,156,136,87,92
-Over 1.5,128,107,84,89
-Scores 1+,118,93,79,90
-Shots 2+,115,84,73,90
+All picks,2817,2072,74,90
+Tackles 1+,578,446,77,90
+Shots 1+,506,401,79,91
+Fouled 1+,323,229,71,90
+Fouls 1+,294,187,64,88
+Cards 1+,159,139,87,92
+Over 1.5,129,108,84,90
+Scores 1+,121,96,79,90
+Shots 2+,117,85,73,90
 Saves 2+,93,65,70,91
-SOT 1+,71,54,76,87
-Tackles 2+,62,31,50,88
-SOT 4+,60,42,70,91
-Corners 4+,43,30,70,91
-Match corners 9+,33,21,64,90
+SOT 1+,72,55,76,87
+Tackles 2+,63,32,51,88
+SOT 4+,63,45,71,91
+Corners 4+,46,33,72,91
+Match corners 9+,35,22,63,90
 Over 2.5,30,19,63,87
+Fouled 2+,26,12,46,88
 Cards 2+,26,12,46,88
-Fouled 2+,25,12,48,89
 Saves 3+,24,17,71,90
-Corners 5+,21,12,57,89
+Corners 5+,23,13,57,90
 BTTS,21,12,57,89
 Score or assist,17,12,71,85
+Match corners 10+,13,7,54,88
+Win,12,8,67,90
 Fouls 2+,12,5,42,89
-Match corners 10+,12,7,58,88
-Win,11,8,73,90
 Match cards 4+,7,7,100,88
 Goal 1+,5,3,60,86
 SOT 2+,2,2,100,86
@@ -436,47 +436,47 @@ Aarón Herrera,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,86,100,
 Joshua Sargent,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,88,80,Hit
 Brandon Servania,Tackles 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,87,80,Hit
 Tai Baribo,Shots 1+,Toronto FC v DC United,Wed 28 Oct · 23:30,MLS,96,100,Did not play
-Joshua McPake,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Joshua McPake,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Joshua McPake,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Emmanuel Fernandez,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Pending
-Emmanuel Fernandez,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Tuur Rommens,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Kevin Kelsy,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",83,80,Pending
-Djeidi Gassama,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Djeidi Gassama,Fouled 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Djeidi Gassama,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Cláudio Braga,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Cláudio Braga,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Cláudio Braga,Shots 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Badredine Bouanani,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Ryan Don Naderi,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Ryan Don Naderi,SOT 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Ryan Don Naderi,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Jordi Altena,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Jordi Altena,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Laurent Mendy,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Min-Su Kim,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Min-Su Kim,Shots 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
-Calvin Miller,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Pending
-James Penrice,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-James Penrice,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Dujon Sterling,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Pending
-Rangers (team),Cards 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,100,Pending
-Rangers (team),Corners 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),Corners 5+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Rangers (team),Match corners 10+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Rangers (team),Match corners 9+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),SOT 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Rangers (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Malachi Fagan-Walcott,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Malachi Fagan-Walcott,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Daniel Neil,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Heart of Midlothian (team),Cards 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Pending
-Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Heart of Midlothian (team),SOT 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Joshua McPake,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Joshua McPake,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Joshua McPake,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Emmanuel Fernandez,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Hit
+Emmanuel Fernandez,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Hit
+Tuur Rommens,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Kevin Kelsy,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",83,80,Hit
+Djeidi Gassama,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Miss
+Djeidi Gassama,Fouled 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Miss
+Djeidi Gassama,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Miss
+Cláudio Braga,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Hit
+Cláudio Braga,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Hit
+Cláudio Braga,Shots 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Hit
+Badredine Bouanani,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,80,Miss
+Ryan Don Naderi,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Ryan Don Naderi,SOT 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Hit
+Ryan Don Naderi,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Hit
+Jordi Altena,Fouled 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Hit
+Jordi Altena,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Laurent Mendy,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Min-Su Kim,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Min-Su Kim,Shots 2+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Miss
+Calvin Miller,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Hit
+James Penrice,Shots 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,100,Miss
+James Penrice,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Miss
+Dujon Sterling,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,80,Hit
+Rangers (team),Cards 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,100,Hit
+Rangers (team),Corners 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Rangers (team),Corners 5+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Miss
+Rangers (team),Match corners 10+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Miss
+Rangers (team),Match corners 9+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Miss
+Rangers (team),SOT 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Rangers (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Malachi Fagan-Walcott,Fouls 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Malachi Fagan-Walcott,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Daniel Neil,Tackles 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Heart of Midlothian (team),Cards 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",80,100,Hit
+Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Hit
+Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Heart of Midlothian (team),SOT 4+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Hit
+Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Rangers,Wed 28 Oct · 20:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
 Junior Messias,Fouled 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Miss
 Junior Messias,Shots 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,100,Miss
 Junior Messias,Tackles 1+,Genoa v Juventus,Wed 28 Oct · 19:45,Serie A,88,80,Miss
@@ -534,19 +534,19 @@ Scott McTominay,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Hit
 Andrea Colpani,Shots 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,80,80,Hit
 Napoli (team),Match corners 9+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,100,100,Miss
 Napoli (team),Scores 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,88,80,Hit
-Callum McGregor,Tackles 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",89,80,Pending
-Mika Baur,Tackles 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Mika Baur,Tackles 2+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",88,100,Pending
-Alex Oxlade-Chamberlain,Shots 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Benjamin Nygren,Fouled 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Benjamin Nygren,Shots 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",80,80,Pending
-Celtic (team),Cards 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,100,Pending
-Celtic (team),Corners 4+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Celtic (team),Corners 5+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Celtic (team),Match corners 9+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Celtic (team),SOT 4+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Celtic (team),Scores 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Celtic (team),Win,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Callum McGregor,Tackles 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",89,80,Hit
+Mika Baur,Tackles 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Mika Baur,Tackles 2+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",88,100,Hit
+Alex Oxlade-Chamberlain,Shots 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Benjamin Nygren,Fouled 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",80,80,Hit
+Benjamin Nygren,Shots 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",80,80,Hit
+Celtic (team),Cards 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,100,Hit
+Celtic (team),Corners 4+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Celtic (team),Corners 5+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Celtic (team),Match corners 9+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Hit
+Celtic (team),SOT 4+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Hit
+Celtic (team),Scores 1+,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Hit
+Celtic (team),Win,Celtic v Dundee United,Wed 28 Oct · 19:45,"Scotland (Rangers, Celtic, Hearts)",90,80,Miss
 Amir Rrahmani,Tackles 1+,Monza v Napoli,Wed 28 Oct · 19:45,Serie A,86,80,Hit
 Nicolò Cambiaghi,Fouled 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,88,80,Hit
 Strahinja Pavlović,Tackles 1+,Milan v Bologna,Wed 28 Oct · 17:30,Serie A,100,100,Hit
