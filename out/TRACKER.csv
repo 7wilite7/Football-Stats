@@ -1,19 +1,19 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 30 Oct 2026 06:58 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 30 Oct 2026 06:59 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2863,2109,74,90
-Tackles 1+,586,452,77,90
-Shots 1+,514,408,79,91
-Fouled 1+,329,234,71,90
-Fouls 1+,298,189,63,88
+All picks,2897,2137,74,90
+Tackles 1+,592,458,77,90
+Shots 1+,520,413,79,91
+Fouled 1+,331,236,71,90
+Fouls 1+,303,191,63,88
 Cards 1+,161,141,88,92
-Over 1.5,133,112,84,90
-Scores 1+,122,97,80,90
-Shots 2+,120,88,73,90
+Over 1.5,135,114,84,90
+Scores 1+,124,99,80,90
+Shots 2+,124,92,74,90
 Saves 2+,96,68,71,91
-SOT 1+,72,55,76,87
-Tackles 2+,64,32,50,88
-SOT 4+,63,45,71,91
-Corners 4+,47,34,72,91
+SOT 1+,74,56,76,87
+Tackles 2+,65,32,49,88
+SOT 4+,64,46,72,91
+Corners 4+,49,36,73,91
 Match corners 9+,36,23,64,90
 Over 2.5,31,20,65,87
 Fouled 2+,27,12,44,88
@@ -22,8 +22,8 @@ Saves 3+,26,18,69,90
 Corners 5+,23,13,57,90
 BTTS,21,12,57,89
 Score or assist,17,12,71,85
+Win,13,9,69,89
 Match corners 10+,13,7,54,88
-Win,12,8,67,90
 Fouls 2+,12,5,42,89
 Match cards 4+,7,7,100,88
 Goal 1+,5,3,60,86
@@ -302,47 +302,47 @@ Fiorentina (team),Over 1.5,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100
 Fiorentina (team),Over 2.5,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Hit
 Nicolò Fagioli,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Miss
 Éderson,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Miss
-Al Nassr FC (team),Corners 4+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
-Al Nassr FC (team),Over 1.5,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
-Al Nassr FC (team),Scores 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Al Nassr FC (team),Win,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Samú,Fouls 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
-Samú,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
-Sadio Mané,Fouled 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
-Sadio Mané,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Cristiano Ronaldo,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Cristiano Ronaldo,Shots 2+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Joao Félix,Fouls 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Pending
-Joao Félix,SOT 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Pending
-Joao Félix,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Joao Félix,Shots 2+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Abdullah Al Khaibari,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Abdulelah Al Amri,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),88,80,Pending
-Al Qadsiah (team),Corners 4+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
-Al Qadsiah (team),Over 1.5,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
-Al Qadsiah (team),SOT 4+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
-Al Qadsiah (team),Scores 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,100,Pending
-Gaston Álvarez,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Jehad Thakri,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Jehad Thakri,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Musab Al Juwayr,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Pending
-Musab Al Juwayr,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Abdulaziz Al Elewai,Fouled 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),83,80,Pending
-Christopher Bonsu Baah,Fouled 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
-Christopher Bonsu Baah,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,80,Pending
-Mohammed Abu Al Shamat,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Pending
-Mohammed Abu Al Shamat,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Mohammed Abu Al Shamat,Tackles 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Pending
-Nacho,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),88,100,Pending
-Julian Weigl,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
-Julián Quiñones,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,100,Pending
-Julián Quiñones,SOT 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
-Julián Quiñones,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Julián Quiñones,Shots 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Tijjani Reijnders,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Tijjani Reijnders,Shots 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Pending
-Mateo Retegui,SOT 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Pending
-Mateo Retegui,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,100,Pending
+Al Nassr FC (team),Corners 4+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Hit
+Al Nassr FC (team),Over 1.5,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Hit
+Al Nassr FC (team),Scores 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Al Nassr FC (team),Win,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Hit
+Samú,Fouls 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,100,Did not play
+Samú,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,100,Did not play
+Sadio Mané,Fouled 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,80,Hit
+Sadio Mané,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Hit
+Cristiano Ronaldo,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Cristiano Ronaldo,Shots 2+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Joao Félix,Fouls 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Hit
+Joao Félix,SOT 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Miss
+Joao Félix,Shots 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Joao Félix,Shots 2+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Abdullah Al Khaibari,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Hit
+Abdulelah Al Amri,Tackles 1+,Al Nassr FC v Al Kholood,Thu 29 Oct · 18:00,Saudi Pro League (top 5),88,80,Did not play
+Al Qadsiah (team),Corners 4+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Hit
+Al Qadsiah (team),Over 1.5,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Hit
+Al Qadsiah (team),SOT 4+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Hit
+Al Qadsiah (team),Scores 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,100,Hit
+Gaston Álvarez,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Jehad Thakri,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,80,Miss
+Jehad Thakri,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Musab Al Juwayr,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Hit
+Musab Al Juwayr,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Abdulaziz Al Elewai,Fouled 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),83,80,Did not play
+Christopher Bonsu Baah,Fouled 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Hit
+Christopher Bonsu Baah,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,80,Miss
+Mohammed Abu Al Shamat,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,80,Miss
+Mohammed Abu Al Shamat,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Mohammed Abu Al Shamat,Tackles 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Miss
+Nacho,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),88,100,Did not play
+Julian Weigl,Tackles 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,100,Hit
+Julián Quiñones,Fouls 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),80,100,Miss
+Julián Quiñones,SOT 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),90,100,Hit
+Julián Quiñones,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Julián Quiñones,Shots 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Tijjani Reijnders,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Tijjani Reijnders,Shots 2+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),89,80,Hit
+Mateo Retegui,SOT 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),82,100,Did not play
+Mateo Retegui,Shots 1+,Al Riyadh v Al Qadsiah,Thu 29 Oct · 18:00,Saudi Pro League (top 5),91,100,Did not play
 Jamil Siebert,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,100,Hit
 Patrizio Masini,Tackles 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Did not play
 Anthony Oyono,Fouled 1+,Frosinone v Lecce,Thu 29 Oct · 17:30,Serie A,88,80,Hit
