@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 30 Oct 2026 06:49 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 30 Oct 2026 06:50 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,2817,2072,74,90
 Tackles 1+,578,446,77,90
@@ -31,254 +31,254 @@ SOT 2+,2,2,100,86
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
-Geny Catamo,Shots 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
+Maxi Araújo,Fouled 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
+Maxi Araújo,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
 Geny Catamo,Fouled 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
+Geny Catamo,Shots 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
 Sergi Altimira,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
 Sergi Altimira,Tackles 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Sergi Altimira,Tackles 2+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Iván Fresneda,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
 Issa Doumbia,Tackles 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
 Flávio Gonçalves,Shots 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Maxi Araújo,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Maxi Araújo,Fouled 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-Sporting CP (team),Scores 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Sporting CP (team),Over 1.5,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Sporting CP (team),Cards 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Florian Thauvin,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,80,Pending
-Michał Skóras,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
-Michał Skóras,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
+Sporting CP (team),Over 1.5,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Sporting CP (team),Scores 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Saud Abdulhamid,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
+Hákon Arnar Haraldsson,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
+Dilane Bakwa,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
+Dilane Bakwa,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
+Nathan Ngoy,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
 Yacine Titraoui,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
 Yacine Titraoui,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,100,Pending
+Başar Önal,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
 Robin Risser,Saves 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,80,Pending
 Franjo Ivanović,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
 Franjo Ivanović,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Souleymane Sagnan,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Souleymane Sagnan,Tackles 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Romain Perraud,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Berke Özer,Saves 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
-Hákon Arnar Haraldsson,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Nathan Ngoy,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
-Başar Önal,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
 Ethan Mbappé,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Benjamin André,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
 Benjamin André,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
+Benjamin André,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
 Benjamin André,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
 Benjamin André,Tackles 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Dilane Bakwa,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Dilane Bakwa,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
+Kyllian Antonio,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
+Souleymane Sagnan,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
+Souleymane Sagnan,Tackles 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
+Maxima Goffi,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
+Florian Thauvin,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,80,Pending
 Ruben Aguilar,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
 Ruben Aguilar,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,100,Pending
-Kyllian Antonio,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Maxima Goffi,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Lens (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
+Romain Perraud,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
+Berke Özer,Saves 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
 Lens (team),BTTS,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
+Lens (team),Cards 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
+Lens (team),Corners 4+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
 Lens (team),Over 1.5,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
 Lens (team),Over 2.5,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Lens (team),Corners 4+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Lens (team),Cards 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Lille (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
+Lens (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
 Lille (team),Cards 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Gerard Moreno,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,89,100,Pending
-Ayoze Pérez,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,100,Pending
-Ayoze Pérez,Fouled 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
-Santi Comesaña,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,89,80,Pending
-Tajon Buchanan,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,88,80,Pending
-Tajon Buchanan,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,88,80,Pending
+Lille (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
+Michał Skóras,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
+Michał Skóras,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
+Issa Kaboré,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Pending
+Thomas Cannon,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Pending
+Callum Doyle,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Pending
+Jacques Ekomié,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
+Kieffer Moore,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
+Kieffer Moore,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
+Kalvin Phillips,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,89,100,Pending
+Hamza Choudhury,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
+Tahith Chong,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
+Callum O'Hare,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,91,80,Pending
+Callum O'Hare,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,80,Pending
+Oliver Rathbone,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,90,100,Pending
+Sheffield United (team),Cards 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
+Michael Cooper,Saves 2+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,80,Pending
+Liam Kitching,Fouls 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,88,100,Pending
+Liam Kitching,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,88,80,Pending
+Sam McCallum,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,90,80,Pending
+Sam McCallum,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Pending
+Wrexham (team),Cards 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
+Wrexham (team),Over 1.5,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
+Femi Seriki,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
+Villarreal (team),Cards 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
+Villarreal (team),Corners 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Villarreal (team),Corners 5+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Villarreal (team),Match cards 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Villarreal (team),SOT 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
 Tajon Buchanan,Fouled 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,88,100,Pending
+Tajon Buchanan,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,88,80,Pending
+Tajon Buchanan,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,88,80,Pending
+Sergi Cardona,Fouled 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
+Sergi Cardona,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,83,80,Pending
 Georges Mikautadze,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
+Tyrhys Dolan,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,88,80,Pending
+Ángel Fortuno,Saves 2+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
+Ángel Fortuno,Saves 3+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
+Bryan Zaragoza,Fouled 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,86,100,Pending
+Roberto Fernández,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Roberto Fernández,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
+Roberto Fernández,Shots 2+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
+Quilindschy Hartman,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Quilindschy Hartman,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Javi Hernández,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Pau Navarro,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Roger Hinojo,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,89,80,Pending
+Gerard Moreno,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,89,100,Pending
+Ayoze Pérez,Fouled 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
+Ayoze Pérez,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,100,Pending
+Santi Comesaña,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,89,80,Pending
 Pol Lozano,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,83,80,Pending
 Pol Lozano,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,83,80,Pending
 Edu Expósito,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
-Tyrhys Dolan,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,88,80,Pending
-Roberto Fernández,Shots 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
-Roberto Fernández,Shots 2+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
-Roberto Fernández,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Javi Hernández,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Roger Hinojo,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,89,80,Pending
-Vanja Drkušić,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Sergi Cardona,Fouled 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
-Sergi Cardona,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,83,80,Pending
-Bryan Zaragoza,Fouled 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,86,100,Pending
-Quilindschy Hartman,Fouls 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Quilindschy Hartman,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Pau Navarro,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Ángel Fortuno,Saves 2+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
-Ángel Fortuno,Saves 3+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
-Villarreal (team),Corners 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Villarreal (team),Corners 5+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Villarreal (team),Cards 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
-Villarreal (team),Match cards 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
-Villarreal (team),SOT 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
-Espanyol (team),Scores 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
-Espanyol (team),Over 1.5,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
 Espanyol (team),Cards 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
 Espanyol (team),Cards 2+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Pending
 Espanyol (team),Match cards 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,100,Pending
-Tahith Chong,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
-Callum O'Hare,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,80,Pending
-Callum O'Hare,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,91,80,Pending
-Michael Cooper,Saves 2+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,80,Pending
-Sam McCallum,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,90,80,Pending
-Sam McCallum,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Pending
-Femi Seriki,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
-Thomas Cannon,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Pending
-Kieffer Moore,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
-Kieffer Moore,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
-Oliver Rathbone,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,90,100,Pending
-Callum Doyle,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Pending
-Issa Kaboré,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Pending
-Jacques Ekomié,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
-Kalvin Phillips,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,89,100,Pending
-Hamza Choudhury,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
-Liam Kitching,Fouls 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,88,100,Pending
-Liam Kitching,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,88,80,Pending
-Sheffield United (team),Cards 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
-Wrexham (team),Over 1.5,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
-Wrexham (team),Cards 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
-Łukasz Poręba,Fouls 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
+Espanyol (team),Over 1.5,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
+Espanyol (team),Scores 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Pending
+Vanja Drkušić,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Pending
+Kaishu Sano,Fouled 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
+Kaishu Sano,Fouled 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
 Lukas Petkov,Fouled 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
 Lukas Petkov,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
 Lasse Günther,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,100,Pending
 Nicolas Kristof,Saves 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Phillipp Mwene,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Phillipp Mwene,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Sheraldo Becker,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Nadiem Amiri,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Phillip Tietz,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Phillip Tietz,Shots 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Phillip Tietz,SOT 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Anthony Caci,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Kaishu Sano,Fouled 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Kaishu Sano,Fouled 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
 Fabio Gruber,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Pending
 Alexander Schwolow,Saves 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Pending
 Alexander Schwolow,Saves 3+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Pending
+Phillipp Mwene,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
+Phillipp Mwene,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
+Sheraldo Becker,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
 Stefan Posch,Fouls 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
+Nadiem Amiri,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
+Phillip Tietz,SOT 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
+Phillip Tietz,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
+Phillip Tietz,Shots 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
+Anthony Caci,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
 Elversberg (team),Cards 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Mainz 05 (team),Scores 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,100,Pending
-Mainz 05 (team),Corners 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
+Łukasz Poręba,Fouls 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
 Mainz 05 (team),Cards 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
+Mainz 05 (team),Corners 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
 Mainz 05 (team),SOT 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Yéhvann Diouf,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Mohamed Abdelmonem,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Xavier Mandza,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Mainz 05 (team),Scores 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,100,Pending
+Willian Pacho,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
+Amir Richardson,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
+Amir Richardson,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Amir Richardson,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
+Désiré Doué,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Désiré Doué,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+João Neves,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
+João Neves,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
+Junior Mwanga,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
+Simon Ebonog,Fouled 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Simon Ebonog,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Simon Ebonog,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
+Simon Ebonog,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Lucas Digne,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Djibril Ouziad,Fouled 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
+Djibril Ouziad,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
 Mbwana Samatta,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
 Mbwana Samatta,Shots 2+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Amir Richardson,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Amir Richardson,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Amir Richardson,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Junior Mwanga,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Simon Ebonog,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Simon Ebonog,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Simon Ebonog,Fouled 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Simon Ebonog,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Fabián Ruiz,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
+Ferrán Torres,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
+Le Havre (team),Cards 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Le Havre (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Le Havre (team),Match corners 9+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Le Havre (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Paris Saint-Germain (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Paris Saint-Germain (team),Over 1.5,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Paris Saint-Germain (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Paris Saint-Germain (team),Scores 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Anthony Rouault,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Anthony Rouault,Tackles 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,80,80,Pending
+Issa Soumaré,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
+Niels Nkounkou,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Mohamed Amoura,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Mohamed Amoura,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
+Mohamed Abdelmonem,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
+Elye Wahi,SOT 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
+Elye Wahi,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
+Mahamadou Nagida,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
+Xavier Mandza,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
 Brice Samba,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
 Brice Samba,Saves 3+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,100,Pending
 Adrien Thomasson,Fouls 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
 Adrien Thomasson,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
 Valentin Rongier,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Fabián Ruiz,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
 Sebastian Szymański,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
-Ferrán Torres,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Issa Soumaré,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
-Willian Pacho,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
-Désiré Doué,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Désiré Doué,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-João Neves,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-João Neves,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Mahamadou Nagida,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Lucas Digne,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Djibril Ouziad,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Djibril Ouziad,Fouled 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Elye Wahi,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Elye Wahi,SOT 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
+Yéhvann Diouf,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
 Mahdi Camara,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Niels Nkounkou,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Mohamed Amoura,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Mohamed Amoura,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
-Anthony Rouault,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Anthony Rouault,Tackles 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,80,80,Pending
 Nice (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Le Havre (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Le Havre (team),Match corners 9+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Le Havre (team),Cards 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Le Havre (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Rennes (team),Scores 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Rennes (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
 Rennes (team),Over 1.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
 Rennes (team),Over 2.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Rennes (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
 Rennes (team),SOT 4+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Paris Saint-Germain (team),Scores 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Paris Saint-Germain (team),Over 1.5,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Paris Saint-Germain (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Paris Saint-Germain (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Ivan Toney,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Ivan Toney,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Ivan Toney,SOT 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
-Ivan Toney,SOT 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
-Trincão,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
-Trincão,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Galeno,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Pending
-Eduard Spertsyan,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
-Eduard Spertsyan,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
+Rennes (team),Scores 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Artem Bondarenko,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Saad Yaslam,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),88,80,Pending
 Rayan Hamed,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
 Zakaria Hawsawi,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
 Matheus Gonçalves,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Valentin Atangana Edoa,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
 Valentin Atangana Edoa,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
 Valentin Atangana Edoa,Fouls 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Valentin Atangana Edoa,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
 Saeed Baattia,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,100,Pending
 Saeed Baattia,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Pending
-Saad Yaslam,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),88,80,Pending
-Artem Bondarenko,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Al Ahli (team),Scores 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
+Al Ahli (team),Corners 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
 Al Ahli (team),Over 1.5,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
 Al Ahli (team),Over 2.5,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
-Al Ahli (team),Corners 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
 Al Ahli (team),SOT 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,100,Pending
-Roland Sallai,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Roland Sallai,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Al Ahli (team),Scores 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
+Ivan Toney,SOT 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
+Ivan Toney,SOT 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
+Ivan Toney,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Ivan Toney,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
+Trincão,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
+Trincão,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
+Galeno,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Pending
+Eduard Spertsyan,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
+Eduard Spertsyan,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
 Roland Sallai,Fouled 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Roland Sallai,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Roland Sallai,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Lucas Torreira,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Lucas Torreira,Tackles 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Victor Osimhen,SOT 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Victor Osimhen,SOT 2+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Victor Osimhen,Score or assist,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Victor Osimhen,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Victor Osimhen,Shots 2+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Victor Osimhen,SOT 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Victor Osimhen,SOT 2+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Yunus Akgün,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Yunus Akgün,Fouled 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Barış Alper Yılmaz,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Barış Alper Yılmaz,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Yunus Akgün,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Rafael Leão,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Pending
-Galatasaray (team),Scores 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Galatasaray (team),Cards 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
 Galatasaray (team),Corners 4+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
 Galatasaray (team),Corners 5+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
-Galatasaray (team),Cards 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
 Galatasaray (team),SOT 4+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Steven Bergwijn,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Steven Bergwijn,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,80,Pending
-Houssem Aouar,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,100,Pending
-Youssef En-Nesyri,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Pending
-Dion Lopy,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,100,Pending
+Galatasaray (team),Scores 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Barış Alper Yılmaz,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Barış Alper Yılmaz,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Dion Lopy,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Pending
+Dion Lopy,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,100,Pending
 Dion Lopy,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Pending
 Faris Abdi,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
 Faris Abdi,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
 Faris Abdi,Tackles 2+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Pending
+Richard Ríos,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
+Richard Ríos,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
+Richard Ríos,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
+Richard Ríos,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
 Jan-Carlo Šimić,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
 Jan-Carlo Šimić,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-George Ilenikhena,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
 George Ilenikhena,SOT 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Pending
-Richard Ríos,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
-Richard Ríos,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Richard Ríos,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Richard Ríos,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
-Al Ittihad (team),Scores 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Pending
-Al Ittihad (team),Over 1.5,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Pending
+George Ilenikhena,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
+Steven Bergwijn,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,80,Pending
+Steven Bergwijn,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
+Houssem Aouar,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,100,Pending
+Youssef En-Nesyri,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Pending
 Al Ittihad (team),Cards 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
+Al Ittihad (team),Over 1.5,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Pending
 Al Ittihad (team),SOT 4+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Pending
+Al Ittihad (team),Scores 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Pending
 Marco Carnesecchi,Saves 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Pending
 Marco Carnesecchi,Saves 3+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Pending
 Lazar Samardžić,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Pending
