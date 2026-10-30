@@ -1,4 +1,4 @@
-"Games kicking off in the next 24 hours (from 30 Oct 2026 06:52 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
+"Games kicking off in the next 24 hours (from 30 Oct 2026 06:53 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
 Kick-off (UK),Competition,Match,Pick,Team,Market,Season %,Last 5 %,When starting %,Games,Opponent context,Note
 Fri 30 Oct · 12:30,Saudi Pro League (top 5),Abha v Al Ittihad,Al Ittihad (team),Al Ittihad,Cards 1+,100,100,,10,Abha: 12.8 fouls won/game,
 Fri 30 Oct · 12:30,Saudi Pro League (top 5),Abha v Al Ittihad,Faris Abdi,Al Ittihad,Tackles 1+,100,100,100,10,,
@@ -143,6 +143,27 @@ Fri 30 Oct · 19:30,Bundesliga,Elversberg v Mainz 05,Sheraldo Becker,Mainz 05,Sh
 Fri 30 Oct · 19:30,Bundesliga,Elversberg v Mainz 05,Alexander Schwolow,Mainz 05,Saves 2+,80,80,,5,Elversberg: 4.1 shots on target/game,Small sample (5 games)
 Fri 30 Oct · 19:30,Bundesliga,Elversberg v Mainz 05,Alexander Schwolow,Mainz 05,Saves 3+,80,80,,5,Elversberg: 4.1 shots on target/game,Small sample (5 games)
 Fri 30 Oct · 19:30,Bundesliga,Elversberg v Mainz 05,Fabio Gruber,Mainz 05,Tackles 1+,80,80,80,5,,Small sample (5 games)
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Femi Seriki,Sheffield United,Fouled 1+,100,100,100,3,Wrexham: 10.6 fouls committed/game,Small sample (3 games)
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Hamza Choudhury,Sheffield United,Tackles 1+,100,100,100,8,,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Jacques Ekomié,Wrexham,Fouled 1+,100,100,100,10,Sheffield United: 11.2 fouls committed/game,Transferred (from Angers)
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Kieffer Moore,Wrexham,Shots 1+,92,100,100,12,Sheffield United: 15.4 shots conceded/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Kieffer Moore,Wrexham,Fouled 1+,92,100,90,12,Sheffield United: 11.2 fouls committed/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Wrexham (team),Wrexham,Over 1.5,92,100,,12,Sheffield United: 1.25 goals conceded/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Callum O'Hare,Wrexham,Fouled 1+,91,80,90,11,Sheffield United: 11.2 fouls committed/game,Transferred (from Sheffield United)
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Oliver Rathbone,Wrexham,Tackles 1+,90,100,100,10,,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Sam McCallum,Sheffield United,Fouled 1+,90,80,88,10,Wrexham: 10.6 fouls committed/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Kalvin Phillips,Sheffield United,Tackles 1+,89,100,100,9,,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Liam Kitching,Sheffield United,Fouls 1+,88,100,88,8,Wrexham: 11.1 fouls won/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Liam Kitching,Sheffield United,Tackles 1+,88,80,88,8,,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Sheffield United (team),Sheffield United,Cards 1+,83,100,,12,Wrexham: 11.1 fouls won/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Tahith Chong,Sheffield United,Tackles 1+,83,100,100,6,,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Wrexham (team),Wrexham,Cards 1+,83,100,,12,Sheffield United: 13.1 fouls won/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Michael Cooper,Sheffield United,Saves 2+,83,80,,12,Wrexham: 3.4 shots on target/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Callum Doyle,Wrexham,Tackles 1+,82,100,82,11,,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Thomas Cannon,Sheffield United,Shots 1+,82,100,86,11,Wrexham: 11.9 shots conceded/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Callum O'Hare,Wrexham,Shots 1+,82,80,80,11,Sheffield United: 15.4 shots conceded/game,Transferred (from Sheffield United)
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Issa Kaboré,Wrexham,Fouled 1+,80,80,100,10,Sheffield United: 11.2 fouls committed/game,
+Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Sam McCallum,Sheffield United,Tackles 1+,80,80,75,10,,
 Fri 30 Oct · 20:00,La Liga,Villarreal v Espanyol,Ayoze Pérez,Villarreal,Fouled 1+,100,100,100,10,Espanyol: 16.2 fouls committed/game,
 Fri 30 Oct · 20:00,La Liga,Villarreal v Espanyol,Espanyol (team),Espanyol,Cards 1+,100,100,,10,Villarreal: 12.3 fouls won/game,
 Fri 30 Oct · 20:00,La Liga,Villarreal v Espanyol,Espanyol (team),Espanyol,Cards 2+,100,100,,10,Villarreal: 12.3 fouls won/game,
@@ -173,27 +194,6 @@ Fri 30 Oct · 20:00,La Liga,Villarreal v Espanyol,Sergi Cardona,Villarreal,Tackl
 Fri 30 Oct · 20:00,La Liga,Villarreal v Espanyol,Javi Hernández,Espanyol,Fouls 1+,80,80,80,10,Villarreal: 12.3 fouls won/game,
 Fri 30 Oct · 20:00,La Liga,Villarreal v Espanyol,Pau Navarro,Villarreal,Tackles 1+,80,80,100,5,,Small sample (5 games)
 Fri 30 Oct · 20:00,La Liga,Villarreal v Espanyol,Quilindschy Hartman,Espanyol,Fouls 1+,80,80,100,5,Villarreal: 12.3 fouls won/game,Small sample (5 games)
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Femi Seriki,Sheffield United,Fouled 1+,100,100,100,3,Wrexham: 10.6 fouls committed/game,Small sample (3 games)
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Hamza Choudhury,Sheffield United,Tackles 1+,100,100,100,8,,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Jacques Ekomié,Wrexham,Fouled 1+,100,100,100,10,Sheffield United: 11.2 fouls committed/game,Transferred (from Angers)
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Kieffer Moore,Wrexham,Shots 1+,92,100,100,12,Sheffield United: 15.4 shots conceded/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Kieffer Moore,Wrexham,Fouled 1+,92,100,90,12,Sheffield United: 11.2 fouls committed/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Wrexham (team),Wrexham,Over 1.5,92,100,,12,Sheffield United: 1.25 goals conceded/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Callum O'Hare,Wrexham,Fouled 1+,91,80,90,11,Sheffield United: 11.2 fouls committed/game,Transferred (from Sheffield United)
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Oliver Rathbone,Wrexham,Tackles 1+,90,100,100,10,,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Sam McCallum,Sheffield United,Fouled 1+,90,80,88,10,Wrexham: 10.6 fouls committed/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Kalvin Phillips,Sheffield United,Tackles 1+,89,100,100,9,,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Liam Kitching,Sheffield United,Fouls 1+,88,100,88,8,Wrexham: 11.1 fouls won/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Liam Kitching,Sheffield United,Tackles 1+,88,80,88,8,,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Sheffield United (team),Sheffield United,Cards 1+,83,100,,12,Wrexham: 11.1 fouls won/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Tahith Chong,Sheffield United,Tackles 1+,83,100,100,6,,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Wrexham (team),Wrexham,Cards 1+,83,100,,12,Sheffield United: 13.1 fouls won/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Michael Cooper,Sheffield United,Saves 2+,83,80,,12,Wrexham: 3.4 shots on target/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Callum Doyle,Wrexham,Tackles 1+,82,100,82,11,,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Thomas Cannon,Sheffield United,Shots 1+,82,100,86,11,Wrexham: 11.9 shots conceded/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Callum O'Hare,Wrexham,Shots 1+,82,80,80,11,Sheffield United: 15.4 shots conceded/game,Transferred (from Sheffield United)
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Issa Kaboré,Wrexham,Fouled 1+,80,80,100,10,Sheffield United: 11.2 fouls committed/game,
-Fri 30 Oct · 20:00,Championship,Sheffield United v Wrexham,Sam McCallum,Sheffield United,Tackles 1+,80,80,75,10,,
 Fri 30 Oct · 20:05,Ligue 1,Lille v Lens,Başar Önal,Lille,Fouled 1+,100,100,100,4,Lens: 12.2 fouls committed/game,Small sample (4 games)
 Fri 30 Oct · 20:05,Ligue 1,Lille v Lens,Ethan Mbappé,Lille,Shots 1+,100,100,100,7,Lens: 10.5 shots conceded/game,
 Fri 30 Oct · 20:05,Ligue 1,Lille v Lens,Lens (team),Lens,Corners 4+,100,100,,8,Lille: 5.0 corners conceded/game,
