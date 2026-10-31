@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:38 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:39 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,3108,2280,73,90
 Tackles 1+,631,486,77,90
@@ -371,6 +371,7 @@ Le Mans (team),Over 1.5,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pen
 Le Mans (team),Scores 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
 Lucas Buadés,Fouled 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
 Jérémy Le Douaron,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Pending
+Harold Voyer,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Pending
 Jonathan Sirois,Saves 2+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,91,80,Pending
 Calvin Harris,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,84,80,Pending
 André Luiz,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,91,100,Pending
@@ -1530,4 +1531,3 @@ Paris Saint-Germain (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct 
 Paris Saint-Germain (team),Over 1.5,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
 Paris Saint-Germain (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
 Paris Saint-Germain (team),Scores 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Anthony Rouault,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit

@@ -42014,6 +42014,21 @@
 "utc": "2026-10-31T19:45:00Z",
 "who": "Dermane Karim"
 },
+"5802981|1311670|Tackles 1+ %": {
+"fixture": "5802981",
+"games": 6,
+"key": "Tackles 1+ %",
+"l5": 80,
+"league": "Ligue 1",
+"market": "Tackles 1+",
+"match": "Troyes v Le Mans",
+"pid": 1311670,
+"result": "",
+"season": 83,
+"tid": null,
+"utc": "2026-10-31T19:45:00.000Z",
+"who": "Harold Voyer"
+},
 "5802981|1330942|Tackles 1+ %": {
 "fixture": "5802981",
 "games": 7,
