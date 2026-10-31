@@ -473,26 +473,43 @@ def main():
     by_match = defaultdict(list)
     for p in sel:
         by_match[(p["fixture"]["utc"], p["league"], p["fixture"]["id"])].append(p)
+    def pick_row(p):
+        fx = p["fixture"]
+        note = "; ".join(x for x in (p["status"], f"Small sample ({p['games']} games)" if p["games"] < SMALL else "") if x)
+        return [uk_time(fx["utc"]), p["league"], f"{fx['home']['name']} v {fx['away']['name']}", p["who"], p["team"],
+                p["market"], p["season"], p["l5"], p["starts"] if p.get("pid") is not None else "–", p["games"], opp_note(p), note]
+
+    def section(ps, cap):
+        """Kick-off order, best picks first within each match, no repeats, at most `cap` per match."""
+        rows = []
+        for key in sorted(by_match):
+            seen, n = set(), 0
+            for p in sorted([p for p in ps if (p["fixture"]["utc"], p["league"], p["fixture"]["id"]) == key],
+                            key=lambda p: (-p["season"], -p["l5"], p["who"])):
+                k = (p["who"], p["market"])
+                if k in seen or n >= cap: continue
+                seen.add(k); n += 1; rows.append(pick_row(p))
+        return rows
+
+    full = lambda p: p["season"] == 100 and p["l5"] == 100
+    players = [p for p in sel if p.get("pid") is not None]
+    teams = [p for p in sel if p.get("pid") is None]
+    # Section title rows leave column A empty so the sheet's colour rules skip them
+    sections = [("PLAYER PICKS: 100% this season AND last 5", section([p for p in players if full(p)], 99)),
+                ("PLAYER PICKS: 80-99%", section([p for p in players if not full(p)], PICKS_PER_MATCH)),
+                ("TEAM PICKS: 100% this season AND last 5", section([p for p in teams if full(p)], 99)),
+                ("TEAM PICKS: 80-99%", section([p for p in teams if not full(p)], PICKS_PER_MATCH))]
     out_rows = []
-    for key in sorted(by_match):
-        ps = by_match[key]
-        # one row per pick, best first; avoid listing the same match twice from both teams' sides
-        seen, uniq = set(), []
-        for p in sorted(ps, key=lambda p: (-p["season"], -p["l5"], p["who"])):
-            k = (p["who"], p["market"])
-            if k in seen: continue
-            seen.add(k); uniq.append(p)
-        for p in uniq[:PICKS_PER_MATCH]:
-            fx = p["fixture"]
-            note = "; ".join(x for x in (p["status"], f"Small sample ({p['games']} games)" if p["games"] < SMALL else "") if x)
-            out_rows.append([uk_time(fx["utc"]), p["league"], f"{fx['home']['name']} v {fx['away']['name']}", p["who"], p["team"],
-                             p["market"], p["season"], p["l5"], p["starts"], p["games"], opp_note(p), note])
+    for title, rows in sections:
+        out_rows += [[]] if out_rows else []
+        out_rows.append(["", f"{title}  ({len(rows)})"])
+        out_rows += rows or [["", "None in the next 24 hours"]]
     with open(os.path.join(OUT, "TODAY.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow([f"Games kicking off in the next 24 hours (from {stamp}): markets hitting {PICK_MIN}%+ this season AND in the last 5 games. "
-                    f"Injured, doubtful and suspended players left out. Up to {PICKS_PER_MATCH} per match."])
+                    f"Injured, doubtful and suspended players left out. 80-99% sections show up to {PICKS_PER_MATCH} per match."])
         w.writerow(TODAY_COLS)
-        w.writerows(out_rows if out_rows else [["No games with 80%+ markets in the next 24 hours"]])
+        w.writerows(out_rows)
     with open(os.path.join(OUT, "ALL_players.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(PLAYER_COLS + ["League", "Search name"])
@@ -503,7 +520,7 @@ def main():
         w.writerow([f"Updated {stamp}"])
         w.writerow(["League", "Matches loaded", "Latest match", "Teams", "Players", "Injured/doubtful", "Suspended", "Transferred"])
         w.writerows(summary)
-    print("\n".join(str(s) for s in summary)); print("today picks", len(out_rows))
+    print("\n".join(str(s) for s in summary)); print("today rows", len(out_rows))
 
 
 if __name__ == "__main__":
