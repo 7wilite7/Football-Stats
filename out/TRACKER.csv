@@ -1,26 +1,26 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:48 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2951,2171,74,90
-Tackles 1+,601,465,77,90
-Shots 1+,530,417,79,91
-Fouled 1+,337,240,71,90
-Fouls 1+,310,195,63,88
-Cards 1+,165,144,87,92
-Over 1.5,136,114,84,90
-Scores 1+,126,101,80,90
-Shots 2+,126,92,73,90
-Saves 2+,98,69,70,91
-SOT 1+,75,57,76,87
-SOT 4+,66,47,71,91
-Tackles 2+,65,32,49,88
-Corners 4+,51,38,75,91
-Match corners 9+,36,23,64,90
-Over 2.5,31,20,65,87
+All picks,3026,2222,73,90
+Tackles 1+,618,476,77,90
+Shots 1+,541,426,79,91
+Fouled 1+,348,248,71,90
+Fouls 1+,317,199,63,88
+Cards 1+,170,147,86,92
+Over 1.5,139,116,83,90
+Scores 1+,130,104,80,90
+Shots 2+,127,93,73,90
+Saves 2+,101,72,71,91
+SOT 1+,76,58,76,87
+SOT 4+,69,50,72,91
+Tackles 2+,67,33,49,88
+Corners 4+,54,39,72,91
+Match corners 9+,37,23,62,90
+Over 2.5,33,21,64,87
 Fouled 2+,28,12,43,88
 Cards 2+,27,13,48,89
 Saves 3+,27,19,70,91
 Corners 5+,24,14,58,90
-BTTS,21,12,57,89
+BTTS,22,12,55,88
 Score or assist,17,12,71,85
 Win,13,9,69,89
 Match corners 10+,13,7,54,88
@@ -1274,41 +1274,41 @@ Flávio Gonçalves,Shots 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portu
 Sporting CP (team),Cards 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Sporting CP (team),Over 1.5,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Sporting CP (team),Scores 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Saud Abdulhamid,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Hákon Arnar Haraldsson,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Dilane Bakwa,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Dilane Bakwa,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Nathan Ngoy,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
-Yacine Titraoui,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Yacine Titraoui,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,100,Pending
-Başar Önal,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Robin Risser,Saves 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,80,Pending
-Franjo Ivanović,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Franjo Ivanović,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Ethan Mbappé,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Benjamin André,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Benjamin André,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Benjamin André,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Benjamin André,Tackles 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Kyllian Antonio,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Pending
-Souleymane Sagnan,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Souleymane Sagnan,Tackles 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Maxima Goffi,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Florian Thauvin,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,80,Pending
-Ruben Aguilar,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
-Ruben Aguilar,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,100,Pending
-Romain Perraud,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Berke Özer,Saves 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
-Lens (team),BTTS,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Lens (team),Cards 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Lens (team),Corners 4+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Lens (team),Over 1.5,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Lens (team),Over 2.5,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Lens (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Lille (team),Cards 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Pending
-Lille (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Pending
-Michał Skóras,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
-Michał Skóras,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Pending
+Saud Abdulhamid,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Hit
+Hákon Arnar Haraldsson,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Hit
+Dilane Bakwa,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Hit
+Dilane Bakwa,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Miss
+Nathan Ngoy,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Miss
+Yacine Titraoui,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Miss
+Yacine Titraoui,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,100,Miss
+Başar Önal,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Did not play
+Robin Risser,Saves 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,80,Hit
+Franjo Ivanović,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Miss
+Franjo Ivanović,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Miss
+Ethan Mbappé,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Hit
+Benjamin André,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Hit
+Benjamin André,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Hit
+Benjamin André,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Miss
+Benjamin André,Tackles 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Miss
+Kyllian Antonio,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Hit
+Souleymane Sagnan,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Did not play
+Souleymane Sagnan,Tackles 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Did not play
+Maxima Goffi,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Hit
+Florian Thauvin,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,80,Hit
+Ruben Aguilar,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Hit
+Ruben Aguilar,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,100,Hit
+Romain Perraud,Tackles 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Miss
+Berke Özer,Saves 2+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Hit
+Lens (team),BTTS,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Miss
+Lens (team),Cards 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Hit
+Lens (team),Corners 4+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Miss
+Lens (team),Over 1.5,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Miss
+Lens (team),Over 2.5,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Miss
+Lens (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Miss
+Lille (team),Cards 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Miss
+Lille (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Hit
+Michał Skóras,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Did not play
+Michał Skóras,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Did not play
 Issa Kaboré,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Pending
 Thomas Cannon,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Pending
 Callum Doyle,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Pending
@@ -1390,59 +1390,59 @@ Mainz 05 (team),Cards 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86
 Mainz 05 (team),Corners 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Hit
 Mainz 05 (team),SOT 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Miss
 Mainz 05 (team),Scores 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,100,Hit
-Willian Pacho,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
-Amir Richardson,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Amir Richardson,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Amir Richardson,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Désiré Doué,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Désiré Doué,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-João Neves,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-João Neves,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Junior Mwanga,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Simon Ebonog,Fouled 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Simon Ebonog,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Simon Ebonog,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Simon Ebonog,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Lucas Digne,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Djibril Ouziad,Fouled 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Djibril Ouziad,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Mbwana Samatta,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Mbwana Samatta,Shots 2+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Fabián Ruiz,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Ferrán Torres,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Le Havre (team),Cards 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Le Havre (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Le Havre (team),Match corners 9+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Le Havre (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Paris Saint-Germain (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Paris Saint-Germain (team),Over 1.5,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Paris Saint-Germain (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Paris Saint-Germain (team),Scores 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Anthony Rouault,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Anthony Rouault,Tackles 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,80,80,Pending
-Issa Soumaré,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
-Niels Nkounkou,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Mohamed Amoura,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Mohamed Amoura,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
-Mohamed Abdelmonem,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Elye Wahi,SOT 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Elye Wahi,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Mahamadou Nagida,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Xavier Mandza,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Brice Samba,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Brice Samba,Saves 3+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,100,Pending
-Adrien Thomasson,Fouls 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Adrien Thomasson,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Valentin Rongier,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Sebastian Szymański,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
-Yéhvann Diouf,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Mahdi Camara,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Pending
-Nice (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Rennes (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
-Rennes (team),Over 1.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Rennes (team),Over 2.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
-Rennes (team),SOT 4+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
-Rennes (team),Scores 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Pending
+Willian Pacho,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,83,80,Did not play
+Amir Richardson,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
+Amir Richardson,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Amir Richardson,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
+Désiré Doué,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Did not play
+Désiré Doué,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Did not play
+João Neves,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Did not play
+João Neves,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Did not play
+Junior Mwanga,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Hit
+Simon Ebonog,Fouled 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
+Simon Ebonog,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Miss
+Simon Ebonog,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Miss
+Simon Ebonog,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Lucas Digne,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Miss
+Djibril Ouziad,Fouled 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Hit
+Djibril Ouziad,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Hit
+Mbwana Samatta,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Mbwana Samatta,Shots 2+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
+Fabián Ruiz,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,86,80,Did not play
+Ferrán Torres,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
+Le Havre (team),Cards 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Miss
+Le Havre (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
+Le Havre (team),Match corners 9+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Miss
+Le Havre (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
+Paris Saint-Germain (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Miss
+Paris Saint-Germain (team),Over 1.5,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
+Paris Saint-Germain (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Paris Saint-Germain (team),Scores 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Anthony Rouault,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Anthony Rouault,Tackles 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,80,80,Hit
+Issa Soumaré,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Hit
+Niels Nkounkou,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Mohamed Amoura,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Mohamed Amoura,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Hit
+Mohamed Abdelmonem,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
+Elye Wahi,SOT 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Hit
+Elye Wahi,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Mahamadou Nagida,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
+Xavier Mandza,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Brice Samba,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Did not play
+Brice Samba,Saves 3+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,100,Did not play
+Adrien Thomasson,Fouls 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Miss
+Adrien Thomasson,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Miss
+Valentin Rongier,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Sebastian Szymański,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Hit
+Yéhvann Diouf,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
+Mahdi Camara,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Miss
+Nice (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Rennes (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
+Rennes (team),Over 1.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
+Rennes (team),Over 2.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
+Rennes (team),SOT 4+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
+Rennes (team),Scores 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
 Artem Bondarenko,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
 Saad Yaslam,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),88,80,Pending
 Rayan Hamed,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
