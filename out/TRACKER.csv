@@ -1,18 +1,18 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 16:46 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 16:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3135,2302,73,90
-Tackles 1+,639,493,77,90
-Shots 1+,564,445,79,91
-Fouled 1+,366,258,70,90
+All picks,3157,2316,73,90
+Tackles 1+,642,495,77,90
+Shots 1+,570,450,79,91
+Fouled 1+,367,259,71,90
 Fouls 1+,326,204,63,88
-Cards 1+,176,153,87,92
-Over 1.5,145,121,83,90
-Scores 1+,134,108,81,90
-Shots 2+,131,95,73,90
-Saves 2+,102,72,71,91
-SOT 1+,79,60,76,87
-SOT 4+,73,53,73,91
-Tackles 2+,69,34,49,88
+Cards 1+,178,153,86,92
+Over 1.5,146,122,84,90
+Scores 1+,135,109,81,90
+Shots 2+,132,95,72,90
+Saves 2+,103,73,71,91
+SOT 1+,81,60,74,87
+SOT 4+,74,54,73,91
+Tackles 2+,70,35,50,88
 Corners 4+,56,40,71,91
 Match corners 9+,37,23,62,90
 Over 2.5,34,22,65,87
@@ -21,8 +21,8 @@ Cards 2+,27,13,48,89
 Saves 3+,27,19,70,91
 Corners 5+,25,15,60,90
 BTTS,22,12,55,88
-Score or assist,18,13,72,85
-Win,13,9,69,89
+Score or assist,19,13,68,85
+Win,14,10,71,89
 Fouls 2+,13,5,38,88
 Match corners 10+,13,7,54,88
 Match cards 4+,10,10,100,88
@@ -31,274 +31,274 @@ SOT 2+,3,3,100,86
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
-Kai Havertz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
-Ben White,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,80,Pending
-Myles Lewis-Skelly,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,80,Pending
-Myles Lewis-Skelly,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Alexander Isak,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Alexander Isak,Shots 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Alexander Isak,SOT 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Cody Gakpo,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,80,Pending
-Alexis Mac Allister,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Ryan Gravenberch,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,100,Pending
 Florian Wirtz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Miloš Kerkez,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Miloš Kerkez,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
+Bradley Barcola,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,100,Pending
+Myles Lewis-Skelly,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
+Myles Lewis-Skelly,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,80,Pending
 Jérémy Jacquet,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,100,Pending
 Jérémy Jacquet,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
+Alexander Isak,SOT 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
+Alexander Isak,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
+Alexander Isak,Shots 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Ezri Konsa,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,100,Pending
-Bradley Barcola,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,100,Pending
-Arsenal (team),Win,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
-Arsenal (team),Scores 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
+Kai Havertz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
+Ben White,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,80,Pending
+Cody Gakpo,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,80,Pending
+Alexis Mac Allister,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
+Ryan Gravenberch,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,100,Pending
 Arsenal (team),Cards 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Jonathan Burkardt,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Arsenal (team),Scores 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
+Arsenal (team),Win,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
+David Møller Wolfe,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,100,Pending
 Raphael Onyedika,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
 Raphael Onyedika,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
 Noah Atubolu,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
 Noah Atubolu,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Can Uzun,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Pending
 Can Uzun,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Pending
+Can Uzun,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Pending
 Elias Baum,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Younes Ebnoutalib,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
 Younes Ebnoutalib,SOT 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Keita Kosugi,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Keita Kosugi,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Daniel Heuer Fernandes,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Daniel Heuer Fernandes,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Albert Sambi Lokonga,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-David Møller Wolfe,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,100,Pending
-Shafiq Nandja,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Shafiq Nandja,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Ritsu Doan,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Pending
-Ritsu Doan,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Younes Ebnoutalib,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
 Noël Aséko,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,80,80,Pending
 Noël Aséko,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,80,80,Pending
+Keita Kosugi,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Keita Kosugi,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Shafiq Nandja,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Shafiq Nandja,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Daniel Heuer Fernandes,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
+Daniel Heuer Fernandes,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
+Ritsu Doan,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Pending
+Ritsu Doan,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
 Miro Muheim,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Albert Sambi Lokonga,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Jonathan Burkardt,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
+Hamburger SV (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
 Eintracht Frankfurt (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
 Eintracht Frankfurt (team),Cards 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,100,Pending
-Hamburger SV (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Corentin Tolisso,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Corentin Tolisso,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
+Jim Allevinah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Jim Allevinah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Mads Bidstrup,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,86,100,Pending
+Amine Sbaï,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Ernest Nuamah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Ernest Nuamah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
+Ernest Nuamah,Shots 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
+Yassin Belkhdim,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Julien Duranville,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
 Zachary Athekame,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Maxime Lopez,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Pierre Lees-Melou,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lassine Sinayoko,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Ilan Kebbal,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Ilan Kebbal,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Mamadou Mbow,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,80,80,Pending
-Pablo Pagis,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Pablo Pagis,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Joseph Kalulu,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
 Anthony Lopes,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Anthony Lopes,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Corentin Tolisso,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Corentin Tolisso,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
 Jordan Lefort,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,86,80,Pending
 Branco van den Boomen,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Jim Allevinah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Jim Allevinah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Amine Sbaï,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Yassin Belkhdim,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lukás Hrádecky,Saves 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Haris Belkebla,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Dominik Greif,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Dominik Greif,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
+Angers (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Angers (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Lyon (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
+Lyon (team),Match corners 10+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Lyon (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Lyon (team),Over 1.5,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Samir Chergui,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Samir Chergui,Fouls 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,80,80,Pending
+Mamadou Mbow,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,80,80,Pending
 Vanderson,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Vanderson,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
 Vanderson,Tackles 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
+Pablo Pagis,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Pablo Pagis,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
 Paris Brunner,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
 Paris Brunner,Shots 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
-Lamine Camara,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Lamine Camara,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Lamine Camara,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Lamine Camara,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
 Mamadou Coulibaly,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Joseph Kalulu,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Dominik Greif,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Dominik Greif,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
-Ernest Nuamah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
-Ernest Nuamah,Shots 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
-Ernest Nuamah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
 Hamari Traoré,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,83,100,Pending
-Samir Chergui,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Samir Chergui,Fouls 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,80,80,Pending
-Jordan Teze,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Haris Belkebla,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Lyon (team),Over 1.5,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lyon (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lyon (team),Match corners 10+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lyon (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
+Maxime Lopez,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
 Paris FC (team),Cards 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Angers (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Angers (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Monaco (team),Scores 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Pierre Lees-Melou,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Lukás Hrádecky,Saves 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Jordan Teze,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Lassine Sinayoko,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Monaco (team),Cards 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Leandro Trossard,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Monaco (team),Scores 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
+Ilan Kebbal,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
+Ilan Kebbal,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
+Beşiktaş (team),Cards 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
+Beşiktaş (team),Corners 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Beşiktaş (team),Corners 5+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Beşiktaş (team),Match corners 9+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Beşiktaş (team),SOT 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Emmanuel Agbadou,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Leandro Trossard,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Leandro Trossard,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Dušan Vlahović,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Dušan Vlahović,SOT 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Dušan Vlahović,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Dušan Vlahović,Shots 2+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Salih Özcan,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Salih Özcan,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
 Tiago Djaló,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
 Tiago Djaló,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Emmanuel Agbadou,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Dušan Vlahović,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,Shots 2+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,SOT 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
 Emirhan Topçu,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Beşiktaş (team),Corners 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Beşiktaş (team),Corners 5+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Beşiktaş (team),Match corners 9+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Beşiktaş (team),Cards 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
-Beşiktaş (team),SOT 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Sergio Canales,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Manu,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Iñigo Vicente,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Iñigo Vicente,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Álvaro Mantilla,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Facundo González,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Gustavo Puerta,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Gustavo Puerta,Fouls 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Gustavo Puerta,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Yassir Zabiri,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
-Kylian Mbappé,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Kylian Mbappé,Shots 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Kylian Mbappé,SOT 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Federico Valverde,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Marc Cucurella,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
 Jude Bellingham,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
 Jude Bellingham,Fouled 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
 Jude Bellingham,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Álvaro Mantilla,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
+Facundo González,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
 Arda Güler,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Iván Martin,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,88,80,Pending
 Jeanuël Belocian,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,83,80,Pending
-Racing Santander (team),Over 1.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Racing Santander (team),Over 2.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Racing Santander (team),Match corners 9+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Racing Santander (team),Match corners 10+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Gustavo Puerta,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
+Gustavo Puerta,Fouls 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
+Gustavo Puerta,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
+Sergio Canales,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Yassir Zabiri,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
+Kylian Mbappé,SOT 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Kylian Mbappé,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
+Kylian Mbappé,Shots 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Federico Valverde,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
+Manu,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
+Real Madrid (team),Cards 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
+Real Madrid (team),Match cards 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
+Real Madrid (team),Over 1.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
+Real Madrid (team),Over 2.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
+Real Madrid (team),SOT 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Real Madrid (team),Scores 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
+Real Madrid (team),Win,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
 Racing Santander (team),Cards 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
 Racing Santander (team),Cards 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
 Racing Santander (team),Match cards 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Real Madrid (team),Win,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Real Madrid (team),Scores 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Real Madrid (team),Over 1.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Real Madrid (team),Over 2.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Real Madrid (team),Cards 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
-Real Madrid (team),Match cards 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
-Real Madrid (team),SOT 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Marvin Schwäbe,Saves 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-Alessio Castro-Montes,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,80,80,Pending
-Alessio Castro-Montes,Tackles 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,80,80,Pending
-Gideon Mensah,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Linton Maina,Fouled 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-Tom Krauß,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
+Racing Santander (team),Match corners 10+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Racing Santander (team),Match corners 9+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Racing Santander (team),Over 1.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
+Racing Santander (team),Over 2.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
+Marc Cucurella,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
+Iñigo Vicente,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
+Iñigo Vicente,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
+Iván Martin,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,88,80,Pending
 Ísak Jóhannesson,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
+Marin Ljubičić,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
+Tom Rothe,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
+Mikey Moore,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
 Jahmai Simpson-Pusey,Fouled 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Pending
 Saïd El Mala,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
 Saïd El Mala,Shots 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
 Saïd El Mala,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
+Frederik Rønnow,Saves 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Rani Khedira,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Rani Khedira,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Janik Haberer,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
+Marvin Schwäbe,Saves 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
 Josip Juranović,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
+Alessio Castro-Montes,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,80,80,Pending
+Alessio Castro-Montes,Tackles 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,80,80,Pending
+Gideon Mensah,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Michel Aebischer,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-András Schäfer,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Pending
-Marin Ljubičić,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Tom Rothe,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Mikey Moore,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
-Frederik Rønnow,Saves 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Sebastian Sebulonsen,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-1. FC Köln (team),Corners 4+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-1. FC Köln (team),Corners 5+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-1. FC Köln (team),Match corners 9+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-1. FC Köln (team),Match corners 10+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-1. FC Köln (team),Cards 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Pending
 Union Berlin (team),Cards 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Union Berlin (team),Cards 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Union Berlin (team),Match cards 4+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-Elia Caprile,Saves 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Adam Obert,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Juan Rodríguez,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Alessandro Romano,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Alessandro Romano,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Paul Mendy,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Giacomo Calò,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
+András Schäfer,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Pending
+1. FC Köln (team),Cards 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Pending
+1. FC Köln (team),Corners 4+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
+1. FC Köln (team),Corners 5+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
+1. FC Köln (team),Match corners 10+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
+1. FC Köln (team),Match corners 9+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
+Linton Maina,Fouled 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
+Sebastian Sebulonsen,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
+Tom Krauß,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
 Patrizio Masini,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,80,Pending
 Anthony Oyono,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
 Anthony Oyono,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Antonio Raimondo,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
 Antonio Raimondo,Fouls 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Antonio Raimondo,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
 Lorenzo Palmisani,Saves 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
 Lorenzo Palmisani,Saves 3+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
 Giorgio Cittadini,Fouls 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
 Giorgio Cittadini,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Giorgi Kvernadze,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
 Giorgi Kvernadze,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
 Giorgi Kvernadze,Shots 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Giorgi Kvernadze,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
 Giorgi Kvernadze,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
 Gabriele Bracaglia,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,100,Pending
 Gabriele Calvani,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,80,Pending
-Giovanni Simeone,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Giovanni Simeone,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Ché Adams,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Ché Adams,SOT 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,86,80,Pending
+Farès Ghedjemis,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Farès Ghedjemis,Shots 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,86,80,Pending
 Pietro Comuzzo,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Mattia Zaccagni,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Mattia Zaccagni,Shots 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Davide Frattesi,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Nuno Tavares,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Kenneth Taylor,Fouled 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Giovanni Simeone,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
+Giovanni Simeone,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Ché Adams,SOT 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,86,80,Pending
+Ché Adams,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Eray Cömert,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Giacomo Calò,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
+Torino (team),Over 1.5,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Torino (team),Scores 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Frosinone (team),Corners 4+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Frosinone (team),Match corners 9+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Frosinone (team),Over 1.5,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
 Matteo Cancellieri,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Adam Obert,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
 Romano Floriani,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
 Romano Floriani,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
 Oliver Provstgaard,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,88,80,Pending
-Eray Cömert,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
 Reda Belahyane,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,88,80,Pending
-Farès Ghedjemis,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Farès Ghedjemis,Shots 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,86,80,Pending
+Juan Rodríguez,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Alessandro Romano,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
+Alessandro Romano,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Paul Mendy,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
 Yerry Mina,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Frosinone (team),Over 1.5,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Frosinone (team),Corners 4+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Frosinone (team),Match corners 9+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Torino (team),Scores 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Torino (team),Over 1.5,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Lazio (team),Win,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Lazio (team),Scores 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Mattia Zaccagni,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
+Mattia Zaccagni,Shots 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
+Davide Frattesi,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
 Lazio (team),Cards 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Filip Jörgensen,Saves 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Pape Demba Diop,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
-Pape Demba Diop,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Pape Demba Diop,Tackles 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Gessime Yassine,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Gessime Yassine,Fouled 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Gessime Yassine,Fouled 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Gessime Yassine,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Genesis Antwi,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Diogo Sousa,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,80,Pending
-Danny Namaso,Shots 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Danny Namaso,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Danny Namaso,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Kévin Danois,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Kévin Danois,Fouled 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Kévin Danois,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
-Mamadou Diop,Saves 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Mamadou Diop,Saves 3+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Clément Akpa,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Christ Makosso,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Jeyland Mitchell,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,100,Pending
-Jeyland Mitchell,Tackles 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,100,Pending
-Fredrik Oppegård,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,100,Pending
+Lazio (team),Scores 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Lazio (team),Win,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Nuno Tavares,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Elia Caprile,Saves 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
+Kenneth Taylor,Fouled 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Cameron Archer,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
 Cameron Archer,Goal 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
+Cameron Archer,SOT 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
 Cameron Archer,Score or assist,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
 Cameron Archer,Shots 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
 Cameron Archer,Shots 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Cameron Archer,SOT 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Cameron Archer,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
+Filip Jörgensen,Saves 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
+Fredrik Oppegård,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,100,Pending
+Kévin Danois,Fouled 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Kévin Danois,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Kévin Danois,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
+Jeyland Mitchell,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,100,Pending
+Jeyland Mitchell,Tackles 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,100,Pending
+Mamadou Diop,Saves 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
+Mamadou Diop,Saves 3+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
+Clément Akpa,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Pape Demba Diop,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
+Pape Demba Diop,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Pape Demba Diop,Tackles 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Christ Makosso,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
+Gessime Yassine,Fouled 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Gessime Yassine,Fouled 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Gessime Yassine,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Gessime Yassine,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
+Genesis Antwi,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Diogo Sousa,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,80,Pending
+Danny Namaso,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Danny Namaso,Shots 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
+Danny Namaso,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Auxerre (team),BTTS,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Auxerre (team),Cards 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Auxerre (team),Corners 4+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Auxerre (team),Match corners 10+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Auxerre (team),Match corners 9+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Auxerre (team),Over 1.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Auxerre (team),SOT 4+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
+Auxerre (team),Scores 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
+Strasbourg (team),Cards 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
 Strasbourg (team),Over 1.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
 Strasbourg (team),Over 2.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Strasbourg (team),Cards 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Auxerre (team),Scores 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Auxerre (team),BTTS,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Over 1.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Corners 4+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Match corners 9+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Match corners 10+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Cards 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),SOT 4+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
 Sondre Ørjasæter,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
 Aske Adelgaard,Fouls 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),86,80,Pending
 Aske Adelgaard,Tackles 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),86,80,Pending
@@ -1529,5 +1529,5 @@ Lewis Ferguson,Fouls 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pend
 Lewis Ferguson,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Pending
 Lewis Ferguson,Tackles 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Pending
 Andrea Colpani,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,83,100,Pending
-Manuel Sánchez,Tackles 1+,Levante v Atlético Madrid,Sat 31 Oct · 13:00,La Liga,100,100,Pending
-Manuel Sánchez,Tackles 2+,Levante v Atlético Madrid,Sat 31 Oct · 13:00,La Liga,80,80,Pending
+Manuel Sánchez,Tackles 1+,Levante v Atlético Madrid,Sat 31 Oct · 13:00,La Liga,100,100,Did not play
+Manuel Sánchez,Tackles 2+,Levante v Atlético Madrid,Sat 31 Oct · 13:00,La Liga,80,80,Did not play
