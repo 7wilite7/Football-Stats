@@ -12,6 +12,7 @@ S = requests.Session(); S.headers.update(UA)
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 LOG = []
+PROBLEMS = []   # anything here makes the run fail, so GitHub emails the owner
 
 
 def log(*a):
@@ -289,12 +290,15 @@ def run(keys):
         if keys and lg["key"] not in keys: continue
         t0 = time.time(); log("=====", lg["key"])
         table = league_table(lg)
-        if not table: log("WARN no table", lg["key"])
+        if not table:
+            log("WARN no table", lg["key"]); PROBLEMS.append(f"{lg['key']}: league table came back empty")
         scope = scope_teams(lg, table)
         fixtures = league_fixtures(lg)
         log("fixtures", len(fixtures), "table", len(table), "scope", None if scope is None else list(scope.values()))
+        if not fixtures:
+            PROBLEMS.append(f"{lg['key']}: fixture list came back empty")
         mdir = os.path.join(DATA, "matches", lg["key"])
-        new = 0
+        new = failed = 0
         for f in fixtures:
             st = f.get("status") or {}
             if not st.get("finished") or st.get("cancelled"): continue
@@ -303,17 +307,19 @@ def run(keys):
             p = os.path.join(mdir, f"{f['id']}.json")
             if os.path.exists(p): continue
             pp = page_props(get(f"https://www.fotmob.com/match/{f['id']}"))
-            if not pp: log("WARN match page failed", f["pageUrl"]); continue
+            if not pp: log("WARN match page failed", f["pageUrl"]); failed += 1; continue
             try:
                 m = extract_match(pp, lg["key"])
             except Exception as e:
-                log("WARN extract failed", f["pageUrl"], repr(e)); continue
+                log("WARN extract failed", f["pageUrl"], repr(e)); failed += 1; continue
             if m["id"] != int(f["id"]):
-                log("WARN wrong match returned", f["id"], m["id"]); continue
+                log("WARN wrong match returned", f["id"], m["id"]); failed += 1; continue
             if not m["players"]:
                 log("WARN no player stats yet", f["pageUrl"]); continue
             m["espn"] = espn_supplement(m, lg["espn"])
             jsave(p, m); new += 1
+        if failed >= 3 and failed >= 0.3 * (new + failed):
+            PROBLEMS.append(f"{lg['key']}: {failed} of {new + failed} new match pages could not be read")
         # retry ESPN for earlier misses (max 3 tries)
         for fn in os.listdir(mdir) if os.path.isdir(mdir) else []:
             p = os.path.join(mdir, fn); m = jload(p)
@@ -321,6 +327,12 @@ def run(keys):
                 r = espn_supplement(m, lg["espn"])
                 if r.get("miss"): r["miss"] = m["espn"]["miss"] + 1
                 m["espn"] = r; jsave(p, m)
+        if not table or not fixtures:
+            # keep yesterday's table, fixtures and injury list rather than overwrite them with nothing
+            log("KEEPING previous table/fixtures/availability for", lg["key"])
+            status[lg["key"]] = {"new_matches": new, "problem": True, "at": dt.datetime.utcnow().isoformat(timespec="minutes") + "Z"}
+            jsave(os.path.join(DATA, "status.json"), status)
+            continue
         # availability: next fixture per scope team + squad pages
         avail, raw_un = {}, []
         teams_needed = set(scope) if scope is not None else {t["id"] for t in table}
@@ -356,6 +368,9 @@ def run(keys):
         jsave(os.path.join(DATA, "status.json"), status)
     os.makedirs(os.path.join(DATA, "logs"), exist_ok=True)
     with open(os.path.join(DATA, "logs", ("_".join(keys) or "all") + ".txt"), "w") as f: f.write("\n".join(LOG[-3000:]))
+    if PROBLEMS:
+        print("PROBLEMS:\n" + "\n".join(PROBLEMS))
+        sys.exit(1)
 
 
 if __name__ == "__main__":
