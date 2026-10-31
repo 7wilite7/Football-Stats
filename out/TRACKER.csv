@@ -1,32 +1,32 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 16:48 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 16:49 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3179,2333,73,90
-Tackles 1+,648,500,77,90
-Shots 1+,574,453,79,91
-Fouled 1+,368,260,71,90
-Fouls 1+,328,205,62,88
-Cards 1+,178,153,86,92
-Over 1.5,147,123,84,90
-Scores 1+,136,110,81,90
-Shots 2+,133,95,71,90
-Saves 2+,104,74,71,91
-SOT 1+,82,61,74,87
-SOT 4+,74,54,73,91
-Tackles 2+,71,35,49,88
-Corners 4+,56,40,71,91
-Match corners 9+,37,23,62,90
-Over 2.5,35,23,66,87
-Fouled 2+,28,12,43,88
-Saves 3+,28,20,71,91
-Cards 2+,27,13,48,89
-Corners 5+,25,15,60,90
-BTTS,23,13,57,89
-Score or assist,19,13,68,85
+All picks,3361,2464,73,90
+Tackles 1+,680,524,77,90
+Shots 1+,602,475,79,91
+Fouled 1+,385,270,70,90
+Fouls 1+,347,220,63,88
+Cards 1+,186,159,85,92
+Over 1.5,154,129,84,90
+Scores 1+,142,115,81,91
+Shots 2+,141,103,73,90
+Saves 2+,109,76,70,91
+SOT 1+,88,67,76,88
+SOT 4+,81,59,73,91
+Tackles 2+,77,39,51,88
+Corners 4+,59,41,69,91
+Match corners 9+,42,28,67,90
+Over 2.5,42,26,62,88
+Saves 3+,31,21,68,91
+Fouled 2+,30,12,40,88
+Cards 2+,28,14,50,89
+Corners 5+,27,15,56,90
+BTTS,26,14,54,89
+Score or assist,22,15,68,85
 Win,14,10,71,89
+Match corners 10+,14,8,57,88
 Fouls 2+,13,5,38,88
-Match corners 10+,13,7,54,88
-Match cards 4+,10,10,100,88
-Goal 1+,5,3,60,86
+Match cards 4+,11,11,100,87
+Goal 1+,7,5,71,86
 SOT 2+,3,3,100,86
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
@@ -1314,196 +1314,196 @@ Manchester City (team),Win,Manchester City v Brighton & Hove Albion,Sat 31 Oct �
 Jérémy Doku,Shots 1+,Manchester City v Brighton & Hove Albion,Sat 31 Oct · 15:00,Premier League,100,100,Pending
 Matheus Nunes,Tackles 1+,Manchester City v Brighton & Hove Albion,Sat 31 Oct · 15:00,Premier League,80,80,Pending
 Iliman Ndiaye,Fouled 1+,Manchester City v Brighton & Hove Albion,Sat 31 Oct · 15:00,Premier League,88,100,Pending
-Yuito Suzuki,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,83,80,Pending
-Fabian Rieder,Score or assist,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Fabian Rieder,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Igor Matanović,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Igor Matanović,SOT 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Igor Matanović,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Igor Matanović,Shots 2+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Yannik Engelhardt,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Philipp Treu,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Jordy Makengo,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Derry Scherhant,Fouls 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Derry Scherhant,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Derry Scherhant,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Arijon Ibrahimović,SOT 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Arijon Ibrahimović,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Arijon Ibrahimović,Shots 2+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Hennes Behrens,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Hennes Behrens,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Michael Gregoritsch,SOT 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Michael Gregoritsch,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Matthias Ginter,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Maximilian Eggestein,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Maximilian Eggestein,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Freiburg (team),Cards 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Freiburg (team),Corners 4+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Freiburg (team),Over 1.5,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Freiburg (team),Over 2.5,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Freiburg (team),SOT 4+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Freiburg (team),Scores 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Augsburg (team),BTTS,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Augsburg (team),Cards 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Augsburg (team),Over 1.5,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Augsburg (team),Over 2.5,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Augsburg (team),SOT 4+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Augsburg (team),Scores 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Jan-Niklas Beste,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Finn Dahmen,Saves 2+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Finn Dahmen,Saves 3+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-VfB Stuttgart (team),Corners 4+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-VfB Stuttgart (team),Corners 5+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-VfB Stuttgart (team),Match corners 10+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-VfB Stuttgart (team),Match corners 9+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-VfB Stuttgart (team),SOT 4+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Ramon Hendriks,Fouled 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Equi Fernández,Fouled 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Equi Fernández,Tackles 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Bilal El Khannouss,Tackles 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Dženan Pejčinović,Shots 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Ibrahim Maza,Fouls 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Ibrahim Maza,Shots 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Ibrahim Maza,Shots 2+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Dennis Seimen,Saves 2+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Patrik Schick,Goal 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Patrik Schick,SOT 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Patrik Schick,Score or assist,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Patrik Schick,Shots 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Patrik Schick,Shots 2+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Atakan Karazor,Fouls 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Edmond Tapsoba,Tackles 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Facundo Medina,Fouls 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Bayer Leverkusen (team),Cards 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Bayer Leverkusen (team),Over 1.5,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Bayer Leverkusen (team),Over 2.5,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Bayer Leverkusen (team),SOT 4+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Bayer Leverkusen (team),Scores 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Ermedin Demirović,Fouled 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Ermedin Demirović,Fouls 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Ermedin Demirović,SOT 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Ermedin Demirović,Shots 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Stefano Marino,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Zento Uno,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Hugo Bolin,Fouled 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Hugo Bolin,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Santiago Castañeda,Fouled 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Santiago Castañeda,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Santiago Castañeda,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Laurin Ulrich,Fouled 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Lukas Ullrich,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Lukas Ullrich,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,83,80,Pending
-Lukas Ullrich,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,83,80,Pending
-Lukas Ullrich,Tackles 2+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,83,80,Pending
-Tjark Scheller,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Laurin Curda,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Jano ter Horst,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Ko Itakura,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Florian Neuhaus,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Moritz Nicolas,Saves 2+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Moritz Nicolas,Saves 3+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Raphael Obermair,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Raphael Obermair,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Paderborn (team),Cards 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Paderborn (team),Match corners 9+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Philipp Sander,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Philipp Sander,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Marvin Pieringer,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Joseph Scally,Fouled 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Joseph Scally,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Joseph Scally,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Borussia Mönchengladbach (team),Cards 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Borussia Mönchengladbach (team),Cards 2+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Borussia Mönchengladbach (team),Match cards 4+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Borussia Mönchengladbach (team),Match corners 9+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Borussia Mönchengladbach (team),Over 1.5,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Borussia Mönchengladbach (team),Over 2.5,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Schalke 04 (team),Cards 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Junior Dina Ebimbe,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Junior Dina Ebimbe,Tackles 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Satoshi Tanaka,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Satoshi Tanaka,Fouls 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Satoshi Tanaka,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,80,Pending
-Antonio Nusa,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Neil El Aynaoui,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Ezechiel Banzuzi,Fouls 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Ezechiel Banzuzi,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Ezechiel Banzuzi,Tackles 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Rômulo,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Rômulo,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Brajan Gruda,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Brajan Gruda,Fouled 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Brajan Gruda,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Brajan Gruda,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Tidiam Gomis,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Tidiam Gomis,Shots 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-RB Leipzig (team),Match corners 9+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-RB Leipzig (team),Over 1.5,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-RB Leipzig (team),Over 2.5,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-RB Leipzig (team),SOT 4+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-RB Leipzig (team),Scores 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Willi Orbán,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Loris Karius,Saves 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Loris Karius,Saves 3+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Kenan Karaman,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Nikola Katić,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Timo Becker,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Timo Becker,Tackles 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Hasan Kuruçay,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Hasan Kuruçay,Tackles 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Chukwubuike Adamu,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Ridle Baku,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Maarten Vandevoordt,Saves 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Maarten Vandevoordt,Saves 3+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Marco Grüll,Fouled 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Marco Grüll,Fouled 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Marco Grüll,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Marco Grüll,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Youri Regeer,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Youri Regeer,Tackles 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Fisnik Asllani,Fouled 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Fisnik Asllani,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Fisnik Asllani,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Fisnik Asllani,Shots 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Bambasé Conté,Fouled 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Arthur,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,80,Pending
-Mats Rots,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Mats Rots,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Leon Avdullahu,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Niclas Füllkrug,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Niclas Füllkrug,Goal 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Niclas Füllkrug,SOT 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Niclas Füllkrug,Score or assist,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Niclas Füllkrug,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Niclas Füllkrug,Shots 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Vladimír Coufal,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Koki Machida,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Koki Machida,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Pending
-Amos Pieper,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Marco Friedl,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Hoffenheim (team),BTTS,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Hoffenheim (team),Cards 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Corners 4+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Corners 5+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Match corners 9+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Hoffenheim (team),Over 1.5,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),Over 2.5,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Hoffenheim (team),SOT 4+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Hoffenheim (team),Scores 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Ozan Kabak,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Ludovit Reis,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Werder Bremen (team),BTTS,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Werder Bremen (team),Cards 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Werder Bremen (team),Over 1.5,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Werder Bremen (team),Over 2.5,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Werder Bremen (team),SOT 4+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Werder Bremen (team),Scores 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Pending
-Wouter Burger,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Wouter Burger,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Adam Hložek,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Adam Hložek,Shots 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
-Karl Hein,Saves 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
-Christopher Nkunku,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
+Yuito Suzuki,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,83,80,Hit
+Fabian Rieder,Score or assist,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Fabian Rieder,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Igor Matanović,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Igor Matanović,SOT 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Igor Matanović,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Igor Matanović,Shots 2+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Yannik Engelhardt,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,83,100,Hit
+Philipp Treu,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Did not play
+Jordy Makengo,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Derry Scherhant,Fouls 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Derry Scherhant,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Derry Scherhant,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Arijon Ibrahimović,SOT 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Arijon Ibrahimović,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Arijon Ibrahimović,Shots 2+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,80,80,Hit
+Hennes Behrens,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Hennes Behrens,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Michael Gregoritsch,SOT 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Michael Gregoritsch,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Matthias Ginter,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Maximilian Eggestein,Shots 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Maximilian Eggestein,Tackles 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Freiburg (team),Cards 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Freiburg (team),Corners 4+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Freiburg (team),Over 1.5,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Freiburg (team),Over 2.5,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Freiburg (team),SOT 4+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Freiburg (team),Scores 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Augsburg (team),BTTS,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Augsburg (team),Cards 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Augsburg (team),Over 1.5,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Augsburg (team),Over 2.5,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Augsburg (team),SOT 4+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Augsburg (team),Scores 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Jan-Niklas Beste,Fouled 1+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,100,Miss
+Finn Dahmen,Saves 2+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Finn Dahmen,Saves 3+,Augsburg v Freiburg,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+VfB Stuttgart (team),Corners 4+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,100,Miss
+VfB Stuttgart (team),Corners 5+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,100,Miss
+VfB Stuttgart (team),Match corners 10+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+VfB Stuttgart (team),Match corners 9+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+VfB Stuttgart (team),SOT 4+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Ramon Hendriks,Fouled 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Equi Fernández,Fouled 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Equi Fernández,Tackles 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Bilal El Khannouss,Tackles 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Dženan Pejčinović,Shots 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Ibrahim Maza,Fouls 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Ibrahim Maza,Shots 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Ibrahim Maza,Shots 2+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Dennis Seimen,Saves 2+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Patrik Schick,Goal 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Patrik Schick,SOT 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Patrik Schick,Score or assist,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Patrik Schick,Shots 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Patrik Schick,Shots 2+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Atakan Karazor,Fouls 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Edmond Tapsoba,Tackles 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Facundo Medina,Fouls 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Bayer Leverkusen (team),Cards 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Bayer Leverkusen (team),Over 1.5,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Bayer Leverkusen (team),Over 2.5,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Bayer Leverkusen (team),SOT 4+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Bayer Leverkusen (team),Scores 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Ermedin Demirović,Fouled 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Ermedin Demirović,Fouls 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Ermedin Demirović,SOT 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Ermedin Demirović,Shots 1+,Bayer Leverkusen v VfB Stuttgart,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Stefano Marino,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Zento Uno,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Hugo Bolin,Fouled 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Did not play
+Hugo Bolin,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Did not play
+Santiago Castañeda,Fouled 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Miss
+Santiago Castañeda,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Santiago Castañeda,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Laurin Ulrich,Fouled 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Lukas Ullrich,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Lukas Ullrich,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,83,80,Hit
+Lukas Ullrich,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,83,80,Miss
+Lukas Ullrich,Tackles 2+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,83,80,Miss
+Tjark Scheller,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Laurin Curda,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Jano ter Horst,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Ko Itakura,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Florian Neuhaus,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Moritz Nicolas,Saves 2+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Did not play
+Moritz Nicolas,Saves 3+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Did not play
+Raphael Obermair,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Miss
+Raphael Obermair,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Paderborn (team),Cards 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Paderborn (team),Match corners 9+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Philipp Sander,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Philipp Sander,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Marvin Pieringer,Fouls 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Joseph Scally,Fouled 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Miss
+Joseph Scally,Shots 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Joseph Scally,Tackles 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Borussia Mönchengladbach (team),Cards 1+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Borussia Mönchengladbach (team),Cards 2+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Borussia Mönchengladbach (team),Match cards 4+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Borussia Mönchengladbach (team),Match corners 9+,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Borussia Mönchengladbach (team),Over 1.5,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Borussia Mönchengladbach (team),Over 2.5,Borussia Mönchengladbach v Paderborn,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Schalke 04 (team),Cards 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Junior Dina Ebimbe,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Miss
+Junior Dina Ebimbe,Tackles 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Miss
+Satoshi Tanaka,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Satoshi Tanaka,Fouls 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Hit
+Satoshi Tanaka,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,80,Miss
+Antonio Nusa,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Neil El Aynaoui,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Hit
+Ezechiel Banzuzi,Fouls 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Ezechiel Banzuzi,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Ezechiel Banzuzi,Tackles 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Rômulo,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Rômulo,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Brajan Gruda,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Brajan Gruda,Fouled 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Miss
+Brajan Gruda,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Hit
+Brajan Gruda,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Miss
+Tidiam Gomis,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Tidiam Gomis,Shots 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+RB Leipzig (team),Match corners 9+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+RB Leipzig (team),Over 1.5,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+RB Leipzig (team),Over 2.5,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+RB Leipzig (team),SOT 4+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+RB Leipzig (team),Scores 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Willi Orbán,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Loris Karius,Saves 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Loris Karius,Saves 3+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Kenan Karaman,Shots 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Miss
+Nikola Katić,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Timo Becker,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Timo Becker,Tackles 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Hasan Kuruçay,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Hasan Kuruçay,Tackles 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Chukwubuike Adamu,Tackles 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Hit
+Ridle Baku,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,80,80,Hit
+Maarten Vandevoordt,Saves 2+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Maarten Vandevoordt,Saves 3+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Marco Grüll,Fouled 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Marco Grüll,Fouled 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Miss
+Marco Grüll,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Marco Grüll,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Youri Regeer,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Youri Regeer,Tackles 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Fisnik Asllani,Fouled 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Hit
+Fisnik Asllani,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Hit
+Fisnik Asllani,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Fisnik Asllani,Shots 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Hit
+Bambasé Conté,Fouled 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Did not play
+Arthur,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,80,Hit
+Mats Rots,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,100,Miss
+Mats Rots,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,100,Hit
+Leon Avdullahu,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Niclas Füllkrug,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Niclas Füllkrug,Goal 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Niclas Füllkrug,SOT 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Niclas Füllkrug,Score or assist,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Niclas Füllkrug,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Niclas Füllkrug,Shots 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Vladimír Coufal,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Did not play
+Koki Machida,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Miss
+Koki Machida,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,80,80,Miss
+Amos Pieper,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Marco Friedl,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Hoffenheim (team),BTTS,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Hoffenheim (team),Cards 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Hoffenheim (team),Corners 4+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Hoffenheim (team),Corners 5+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Hoffenheim (team),Match corners 9+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Hoffenheim (team),Over 1.5,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Hoffenheim (team),Over 2.5,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Hoffenheim (team),SOT 4+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Hoffenheim (team),Scores 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Ozan Kabak,Fouls 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Ludovit Reis,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Werder Bremen (team),BTTS,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Miss
+Werder Bremen (team),Cards 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Werder Bremen (team),Over 1.5,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Werder Bremen (team),Over 2.5,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Miss
+Werder Bremen (team),SOT 4+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Hit
+Werder Bremen (team),Scores 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,100,100,Hit
+Wouter Burger,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,100,Hit
+Wouter Burger,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,83,100,Hit
+Adam Hložek,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Adam Hložek,Shots 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Hit
+Karl Hein,Saves 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Miss
+Christopher Nkunku,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Did not play
 Nicolò Cambiaghi,Fouled 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Hit
 Noel Törnqvist,Saves 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
 Noel Törnqvist,Saves 3+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
