@@ -65744,6 +65744,21 @@
 "utc": "2026-10-31T14:30:00Z",
 "who": "Kenan Karaman"
 },
+"5881212|704523|Fouled 1+ %": {
+"fixture": "5881212",
+"games": 6,
+"key": "Fouled 1+ %",
+"l5": 100,
+"league": "Bundesliga",
+"market": "Fouled 1+",
+"match": "Schalke 04 v RB Leipzig",
+"pid": 704523,
+"result": "",
+"season": 83,
+"tid": null,
+"utc": "2026-10-31T14:30:00.000Z",
+"who": "Christopher Nkunku"
+},
 "5881212|725655|Tackles 1+ %": {
 "fixture": "5881212",
 "games": 7,

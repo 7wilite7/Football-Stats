@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:37 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:38 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,3108,2280,73,90
 Tackles 1+,631,486,77,90
@@ -1231,6 +1231,7 @@ Wouter Burger,Tackles 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesli
 Adam Hložek,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
 Adam Hložek,Shots 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
 Karl Hein,Saves 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
+Christopher Nkunku,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
 Nicolò Cambiaghi,Fouled 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Pending
 Noel Törnqvist,Saves 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
 Noel Törnqvist,Saves 3+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
@@ -1530,4 +1531,3 @@ Paris Saint-Germain (team),Over 1.5,Le Havre v Paris Saint-Germain,Fri 30 Oct ·
 Paris Saint-Germain (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
 Paris Saint-Germain (team),Scores 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
 Anthony Rouault,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Anthony Rouault,Tackles 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,80,80,Hit
