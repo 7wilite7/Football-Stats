@@ -1,26 +1,26 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 16:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 16:48 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3157,2316,73,90
-Tackles 1+,642,495,77,90
-Shots 1+,570,450,79,91
-Fouled 1+,367,259,71,90
-Fouls 1+,326,204,63,88
+All picks,3179,2333,73,90
+Tackles 1+,648,500,77,90
+Shots 1+,574,453,79,91
+Fouled 1+,368,260,71,90
+Fouls 1+,328,205,62,88
 Cards 1+,178,153,86,92
-Over 1.5,146,122,84,90
-Scores 1+,135,109,81,90
-Shots 2+,132,95,72,90
-Saves 2+,103,73,71,91
-SOT 1+,81,60,74,87
+Over 1.5,147,123,84,90
+Scores 1+,136,110,81,90
+Shots 2+,133,95,71,90
+Saves 2+,104,74,71,91
+SOT 1+,82,61,74,87
 SOT 4+,74,54,73,91
-Tackles 2+,70,35,50,88
+Tackles 2+,71,35,49,88
 Corners 4+,56,40,71,91
 Match corners 9+,37,23,62,90
-Over 2.5,34,22,65,87
+Over 2.5,35,23,66,87
 Fouled 2+,28,12,43,88
+Saves 3+,28,20,71,91
 Cards 2+,27,13,48,89
-Saves 3+,27,19,70,91
 Corners 5+,25,15,60,90
-BTTS,22,12,55,88
+BTTS,23,13,57,89
 Score or assist,19,13,68,85
 Win,14,10,71,89
 Fouls 2+,13,5,38,88
@@ -1504,30 +1504,30 @@ Adam Hložek,Shots 1+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,
 Adam Hložek,Shots 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,80,Pending
 Karl Hein,Saves 2+,Werder Bremen v Hoffenheim,Sat 31 Oct · 14:30,Bundesliga,86,100,Pending
 Christopher Nkunku,Fouled 1+,Schalke 04 v RB Leipzig,Sat 31 Oct · 14:30,Bundesliga,83,100,Pending
-Nicolò Cambiaghi,Fouled 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Pending
-Noel Törnqvist,Saves 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Noel Törnqvist,Saves 3+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Jay Robinson,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,86,80,Pending
-Ebenezer Akinsanmiro,Fouled 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Saba Goglichidze,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Lorenzo Lucchesi,Fouls 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,80,Pending
-Gustavo Varela,SOT 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,80,Pending
-Gustavo Varela,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Gustavo Varela,Shots 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,80,Pending
-Eddy Kouadio,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,100,Pending
-Monza (team),BTTS,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Pending
-Monza (team),Over 1.5,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Monza (team),Over 2.5,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,100,Pending
-Monza (team),Scores 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Dany Mota,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,83,80,Pending
-Tommaso Pobega,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Tommaso Pobega,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,100,Pending
-Samuele Birindelli,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Samuele Birindelli,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Pending
-Michael Folorunsho,Fouled 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,86,80,Pending
-Lewis Ferguson,Fouls 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Pending
-Lewis Ferguson,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Pending
-Lewis Ferguson,Tackles 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Pending
-Andrea Colpani,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,83,100,Pending
+Nicolò Cambiaghi,Fouled 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Hit
+Noel Törnqvist,Saves 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
+Noel Törnqvist,Saves 3+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
+Jay Robinson,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,86,80,Miss
+Ebenezer Akinsanmiro,Fouled 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Did not play
+Saba Goglichidze,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
+Lorenzo Lucchesi,Fouls 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,80,Hit
+Gustavo Varela,SOT 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,80,Hit
+Gustavo Varela,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
+Gustavo Varela,Shots 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,80,Miss
+Eddy Kouadio,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,100,Hit
+Monza (team),BTTS,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Hit
+Monza (team),Over 1.5,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
+Monza (team),Over 2.5,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,100,Hit
+Monza (team),Scores 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
+Dany Mota,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,83,80,Miss
+Tommaso Pobega,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
+Tommaso Pobega,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,88,100,Hit
+Samuele Birindelli,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Hit
+Samuele Birindelli,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Hit
+Michael Folorunsho,Fouled 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,86,80,Did not play
+Lewis Ferguson,Fouls 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,100,100,Miss
+Lewis Ferguson,Tackles 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Hit
+Lewis Ferguson,Tackles 2+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,89,80,Miss
+Andrea Colpani,Shots 1+,Bologna v Monza,Sat 31 Oct · 14:00,Serie A,83,100,Did not play
 Manuel Sánchez,Tackles 1+,Levante v Atlético Madrid,Sat 31 Oct · 13:00,La Liga,100,100,Did not play
 Manuel Sánchez,Tackles 2+,Levante v Atlético Madrid,Sat 31 Oct · 13:00,La Liga,80,80,Did not play
