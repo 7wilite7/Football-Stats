@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:35 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:36 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,3108,2280,73,90
 Tackles 1+,631,486,77,90
@@ -31,117 +31,117 @@ SOT 2+,3,3,100,86
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
-Robin Pröpper,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
-Robin Pröpper,Fouled 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,80,Pending
-Wout Weghorst,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
-Wout Weghorst,Shots 2+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
-Wout Weghorst,Fouls 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,80,Pending
 Sondre Ørjasæter,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
 Aske Adelgaard,Fouls 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),86,80,Pending
 Aske Adelgaard,Tackles 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),86,80,Pending
+Robin Pröpper,Fouled 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,80,Pending
+Robin Pröpper,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
+Wout Weghorst,Fouls 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,80,Pending
+Wout Weghorst,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
+Wout Weghorst,Shots 2+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
 Joël Drommel,Saves 2+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
-FC Twente (team),Scores 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
-FC Twente (team),Over 1.5,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,100,Pending
+FC Twente (team),Cards 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,80,Pending
 FC Twente (team),Corners 4+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
 FC Twente (team),Corners 5+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
 FC Twente (team),Match corners 9+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
-FC Twente (team),Cards 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,80,Pending
+FC Twente (team),Over 1.5,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,100,Pending
 FC Twente (team),SOT 4+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
-Kiko,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,80,Pending
-David Soria,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Martín Satriano,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Pending
-Martín Satriano,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Pending
-Martín Satriano,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-Ramón Terrats,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Pending
-Ramón Terrats,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Pending
-Andrés García,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Odysseas Vlachodimos,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-Gabriel Suazo,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Lucien Agoumé,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Lucien Agoumé,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Lucien Agoumé,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-Juan Iglesias,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Juan Iglesias,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Juan Iglesias,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-Peque Fernández,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Peque Fernández,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Arouna Sangante,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Kike Salas,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Nemanja Gudelj,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,88,100,Pending
-Youssouf Fofana,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,86,80,Pending
-Lucas Stassin,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Iván Azon,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Pending
-Félix Correia,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Pending
-Getafe (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Getafe (team),Cards 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-Getafe (team),Match cards 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Sevilla (team),Scores 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Sevilla (team),Over 1.5,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Sevilla (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Sevilla (team),SOT 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+FC Twente (team),Scores 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
 Callum McGregor,Tackles 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Benjamin Nygren,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Pending
-Benjamin Nygren,Fouled 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Pending
-Alex Oxlade-Chamberlain,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Mika Baur,Tackles 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Mika Baur,Tackles 2+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Celtic (team),Scores 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
+Alex Oxlade-Chamberlain,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Benjamin Nygren,Fouled 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Pending
+Benjamin Nygren,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Pending
+Celtic (team),Cards 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,100,Pending
 Celtic (team),Corners 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Celtic (team),Corners 5+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
 Celtic (team),Match corners 9+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
-Celtic (team),Cards 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,100,Pending
 Celtic (team),SOT 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
+Celtic (team),Scores 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
+Juan Iglesias,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Juan Iglesias,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Juan Iglesias,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Peque Fernández,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Peque Fernández,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Martín Satriano,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Martín Satriano,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Pending
+Martín Satriano,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Pending
+Ramón Terrats,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Pending
+Ramón Terrats,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Pending
+Iván Azon,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Pending
+Arouna Sangante,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Kike Salas,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Lucas Stassin,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Andrés García,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Kiko,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,80,Pending
+Nemanja Gudelj,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,88,100,Pending
+Odysseas Vlachodimos,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+David Soria,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Gabriel Suazo,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Sevilla (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Sevilla (team),Over 1.5,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Sevilla (team),SOT 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Sevilla (team),Scores 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Getafe (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Getafe (team),Cards 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Getafe (team),Match cards 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Félix Correia,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Pending
+Youssouf Fofana,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,86,80,Pending
+Lucien Agoumé,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Lucien Agoumé,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Lucien Agoumé,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Ernest Muçi,SOT 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Ernest Muçi,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Ernest Muçi,Shots 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Ernest Muçi,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
+Chibuike Nwaiwu,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Wagner Pina,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Wagner Pina,Fouls 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Wagner Pina,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
 Mohamed Salah,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Fabinho,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 André Onana,Saves 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 André Onana,Saves 3+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Melih Kabasakal,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Pending
-Chibuike Nwaiwu,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Wagner Pina,Fouls 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Wagner Pina,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Wagner Pina,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Ernest Muçi,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Ernest Muçi,Shots 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Ernest Muçi,SOT 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Ernest Muçi,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Fabinho,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Trabzonspor (team),Scores 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Trabzonspor (team),Over 1.5,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Trabzonspor (team),Corners 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Trabzonspor (team),Cards 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
+Trabzonspor (team),Corners 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Trabzonspor (team),Over 1.5,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Trabzonspor (team),SOT 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Anastasios Douvikas,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Anastasios Douvikas,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Trabzonspor (team),Scores 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Como (team),Corners 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Como (team),Corners 5+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Como (team),Match corners 9+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Como (team),Over 1.5,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Como (team),SOT 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
 Lucas Da Cunha,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Nico Paz,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Nico Paz,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Nico Paz,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Pending
-Nico Paz,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Pending
-Álex Valle,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-Toma Bašić,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-John Yeboah,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-John Yeboah,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-John Yeboah,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Kike Pérez,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Kike Pérez,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Kike Pérez,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Gianluca Busio,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Gianluca Busio,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,80,80,Pending
-Armel Bella-Kotchap,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Akor Adams,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Akor Adams,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Akor Adams,SOT 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
 Filip Stanković,Saves 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
 Antoine Hainaut,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
 Antoine Hainaut,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
 Redouane Halhal,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
 Redouane Halhal,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
+Nico Paz,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Nico Paz,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Nico Paz,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Pending
+Nico Paz,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Pending
+Álex Valle,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
 Juan Jesus,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
 Juan Jesus,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-Como (team),Over 1.5,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Como (team),Corners 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Como (team),Corners 5+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Como (team),Match corners 9+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Como (team),SOT 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Toma Bašić,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
+John Yeboah,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+John Yeboah,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+John Yeboah,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Anastasios Douvikas,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Anastasios Douvikas,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Kike Pérez,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Kike Pérez,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Kike Pérez,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Gianluca Busio,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Gianluca Busio,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,80,80,Pending
+Armel Bella-Kotchap,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Akor Adams,SOT 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Akor Adams,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Akor Adams,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
 Miguel Navarro,Fouled 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,85,100,Pending
 Miguel Navarro,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,80,Pending
 Morgan Whittaker,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,88,80,Pending
