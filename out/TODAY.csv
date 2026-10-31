@@ -1,4 +1,4 @@
-"Games kicking off in the next 24 hours (from 31 Oct 2026 06:45 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
+"Games kicking off in the next 24 hours (from 31 Oct 2026 06:46 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
 Kick-off (UK),Competition,Match,Pick,Team,Market,Season %,Last 5 %,When starting %,Games,Opponent context,Note
 Sat 31 Oct · 12:30,Premier League,Chelsea v Manchester United,Amad Diallo,Manchester United,Shots 1+,100,100,100,3,Chelsea: 12.8 shots conceded/game,Small sample (3 games)
 Sat 31 Oct · 12:30,Premier League,Chelsea v Manchester United,Ayden Heaven,Manchester United,Fouled 1+,100,100,100,3,Chelsea: 9.9 fouls committed/game,Small sample (3 games)
@@ -138,7 +138,6 @@ Sat 31 Oct · 14:00,Serie A,Bologna v Monza,Gustavo Varela,Monza,Shots 2+,88,80,
 Sat 31 Oct · 14:00,Serie A,Bologna v Monza,Gustavo Varela,Monza,SOT 1+,88,80,88,8,Bologna: 3.8 SOT conceded/game,
 Sat 31 Oct · 14:00,Serie A,Bologna v Monza,Lorenzo Lucchesi,Monza,Fouls 1+,88,80,88,8,Bologna: 14.1 fouls won/game,
 Sat 31 Oct · 14:00,Serie A,Bologna v Monza,Jay Robinson,Monza,Tackles 1+,86,80,83,7,,
-Sat 31 Oct · 14:00,Serie A,Bologna v Monza,Michael Folorunsho,Monza,Fouled 1+,86,80,100,7,Bologna: 13.1 fouls committed/game,
 Sat 31 Oct · 14:00,Serie A,Bologna v Monza,Andrea Colpani,Monza,Shots 1+,83,100,67,6,Bologna: 11.9 shots conceded/game,
 Sat 31 Oct · 14:00,Serie A,Bologna v Monza,Dany Mota,Monza,Shots 1+,83,80,100,6,Bologna: 11.9 shots conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Arijon Ibrahimović,Augsburg,Shots 1+,100,100,100,5,Freiburg: 10.3 shots conceded/game,Small sample (5 games)
@@ -656,6 +655,27 @@ Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Fenerbahçe v Göz
 Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Fenerbahçe v Göztepe,Mason Greenwood,Fenerbahçe,Shots 2+,89,80,88,9,Göztepe: 15.8 shots conceded/game,
 Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Fenerbahçe v Göztepe,N'Golo Kanté,Fenerbahçe,Tackles 1+,89,80,88,9,,
 Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Fenerbahçe v Göztepe,Kerem Aktürkoglu,Fenerbahçe,Shots 1+,88,100,100,8,Göztepe: 15.8 shots conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Bryan Cristante,Roma,Tackles 1+,100,100,100,7,,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Donyell Malen,Roma,Shots 1+,100,100,100,8,Udinese: 15.8 shots conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Donyell Malen,Roma,Shots 2+,100,100,100,8,Udinese: 15.8 shots conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Jurgen Ekkelenkamp,Udinese,Shots 1+,100,100,100,9,Roma: 12.0 shots conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Marten de Roon,Roma,Tackles 1+,100,100,100,6,,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Matteo Palma,Udinese,Fouled 1+,100,100,100,4,Roma: 11.4 fouls committed/game,Small sample (4 games)
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Matteo Palma,Udinese,Tackles 1+,100,100,100,4,,Small sample (4 games)
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Nicolò Zaniolo,Udinese,Shots 1+,100,100,100,4,Roma: 12.0 shots conceded/game,Small sample (4 games)
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Udinese (team),Udinese,Cards 1+,89,100,,9,Roma: 8.2 fouls won/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Maduka Okoye,Udinese,Saves 2+,89,80,,9,Roma: 6.0 shots on target/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Matias Soulé,Roma,Shots 1+,89,80,100,9,Udinese: 15.8 shots conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Roma (team),Roma,Scores 1+,89,80,,9,Udinese: 2.0 goals conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Roma (team),Roma,Over 1.5,89,80,,9,Udinese: 2.0 goals conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Roma (team),Roma,SOT 4+,89,80,,9,Udinese: 6.1 SOT conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Enzo Ebosse,Udinese,Tackles 1+,88,100,83,8,,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Keinan Davis,Udinese,Shots 1+,88,100,86,8,Roma: 12.0 shots conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Donyell Malen,Roma,SOT 1+,88,80,86,8,Udinese: 6.1 SOT conceded/game,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Wesley,Roma,Tackles 1+,88,80,100,8,,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Leonardo Balerdi,Roma,Tackles 1+,83,80,100,6,,
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Christian Kabasele,Udinese,Fouls 1+,80,80,75,5,Roma: 8.2 fouls won/game,Small sample (5 games)
+Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Christian Kabasele,Udinese,Fouled 1+,80,80,100,5,Roma: 11.4 fouls committed/game,Small sample (5 games)
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Allan Saint-Maximin,Charlotte FC,Shots 1+,100,100,100,13,Orlando City: 17.2 shots conceded/game,
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Antoine Griezmann,Orlando City,Shots 1+,100,100,100,16,Charlotte FC: 17.1 shots conceded/game,
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Antoine Griezmann,Orlando City,Shots 2+,100,100,100,16,Charlotte FC: 17.1 shots conceded/game,
@@ -683,27 +703,6 @@ Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Martín Ojeda,Orlando City,S
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Orlando City (team),Orlando City,Match corners 9+,81,100,,32,Charlotte FC: 6.2 corners conceded/game,
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Joran Gerbet,Orlando City,Fouled 1+,80,80,71,10,Charlotte FC: 10.0 fouls committed/game,
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Vinícius Nogueira,Orlando City,Tackles 1+,80,80,75,5,,Small sample (5 games)
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Bryan Cristante,Roma,Tackles 1+,100,100,100,7,,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Donyell Malen,Roma,Shots 1+,100,100,100,8,Udinese: 15.8 shots conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Donyell Malen,Roma,Shots 2+,100,100,100,8,Udinese: 15.8 shots conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Jurgen Ekkelenkamp,Udinese,Shots 1+,100,100,100,9,Roma: 12.0 shots conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Marten de Roon,Roma,Tackles 1+,100,100,100,6,,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Matteo Palma,Udinese,Fouled 1+,100,100,100,4,Roma: 11.4 fouls committed/game,Small sample (4 games)
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Matteo Palma,Udinese,Tackles 1+,100,100,100,4,,Small sample (4 games)
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Nicolò Zaniolo,Udinese,Shots 1+,100,100,100,4,Roma: 12.0 shots conceded/game,Small sample (4 games)
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Udinese (team),Udinese,Cards 1+,89,100,,9,Roma: 8.2 fouls won/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Maduka Okoye,Udinese,Saves 2+,89,80,,9,Roma: 6.0 shots on target/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Matias Soulé,Roma,Shots 1+,89,80,100,9,Udinese: 15.8 shots conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Roma (team),Roma,Scores 1+,89,80,,9,Udinese: 2.0 goals conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Roma (team),Roma,Over 1.5,89,80,,9,Udinese: 2.0 goals conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Roma (team),Roma,SOT 4+,89,80,,9,Udinese: 6.1 SOT conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Enzo Ebosse,Udinese,Tackles 1+,88,100,83,8,,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Keinan Davis,Udinese,Shots 1+,88,100,86,8,Roma: 12.0 shots conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Donyell Malen,Roma,SOT 1+,88,80,86,8,Udinese: 6.1 SOT conceded/game,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Wesley,Roma,Tackles 1+,88,80,100,8,,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Leonardo Balerdi,Roma,Tackles 1+,83,80,100,6,,
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Christian Kabasele,Udinese,Fouls 1+,80,80,75,5,Roma: 8.2 fouls won/game,Small sample (5 games)
-Sat 31 Oct · 17:00,Serie A,Udinese v Roma,Christian Kabasele,Udinese,Fouled 1+,80,80,100,5,Roma: 11.4 fouls committed/game,Small sample (5 games)
 Sat 31 Oct · 17:30,La Liga,Real Betis v Málaga,Adam Aznou,Málaga,Fouls 1+,100,100,100,3,Real Betis: 11.4 fouls won/game,Small sample (3 games)
 Sat 31 Oct · 17:30,La Liga,Real Betis v Málaga,Adam Aznou,Málaga,Tackles 1+,100,100,100,3,,Small sample (3 games)
 Sat 31 Oct · 17:30,La Liga,Real Betis v Málaga,Adam Aznou,Málaga,Tackles 2+,100,100,100,3,,Small sample (3 games)
@@ -934,6 +933,33 @@ Sat 31 Oct · 19:00,MLS,St. Louis City v San Diego FC,Jaziel Orozco,St. Louis Ci
 Sat 31 Oct · 19:00,MLS,St. Louis City v San Diego FC,San Diego FC (team),San Diego FC,Over 1.5,81,100,,32,St. Louis City: 1.47 goals conceded/game,
 Sat 31 Oct · 19:00,MLS,St. Louis City v San Diego FC,Marcel Hartel,St. Louis City,SOT 1+,81,80,80,16,San Diego FC: 5.7 SOT conceded/game,
 Sat 31 Oct · 19:00,MLS,St. Louis City v San Diego FC,Sergio Córdova,St. Louis City,Fouled 1+,80,100,100,10,San Diego FC: 10.8 fouls committed/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Inter (team),Inter,Scores 1+,100,100,,9,Milan: 1.22 goals conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Marcus Thuram,Inter,Shots 1+,100,100,100,8,Milan: 9.8 shots conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Marcus Thuram,Inter,Shots 2+,100,100,100,8,Milan: 9.8 shots conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Milan (team),Milan,Scores 1+,100,100,,9,Inter: 1.11 goals conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Milan (team),Milan,Over 1.5,100,100,,9,Inter: 1.11 goals conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Piotr Zieliński,Inter,Shots 1+,100,100,100,8,Milan: 9.8 shots conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Strahinja Pavlović,Milan,Tackles 1+,100,100,100,9,,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Inter (team),Inter,Over 1.5,89,100,,9,Milan: 1.22 goals conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Mike Maignan,Milan,Saves 2+,89,100,,9,Inter: 7.1 shots on target/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Gonçalo Ramos,Milan,Fouls 1+,89,80,89,9,Inter: 9.4 fouls won/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Inter (team),Inter,Win,89,80,,9,Milan: 1.22 goals conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Inter (team),Inter,SOT 4+,89,80,,9,Milan: 3.9 SOT conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Koni De Winter,Milan,Fouls 1+,89,80,88,9,Inter: 9.4 fouls won/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Koni De Winter,Milan,Tackles 1+,89,80,88,9,,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Alessandro Bastoni,Inter,Fouls 1+,88,100,88,8,Milan: 12.3 fouls won/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Marcus Thuram,Inter,SOT 1+,88,100,100,8,Milan: 3.9 SOT conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Petar Sučić,Inter,Fouled 1+,88,100,80,8,Milan: 9.8 fouls committed/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Petar Sučić,Inter,Tackles 1+,88,100,80,8,,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Alessandro Bastoni,Inter,Tackles 1+,88,80,88,8,,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Nicolò Barella,Inter,Shots 1+,88,80,86,8,Milan: 9.8 shots conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Josep Martínez,Inter,Saves 2+,86,100,,7,Milan: 4.8 shots on target/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Adrien Rabiot,Milan,Shots 1+,86,80,80,7,Inter: 10.7 shots conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Alphadjo Cissè,Milan,Shots 1+,86,80,100,7,Inter: 10.7 shots conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Hakan Çalhanoglu,Inter,Tackles 1+,86,80,100,7,,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Mario Gila,Milan,Tackles 1+,86,80,86,7,,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Christian Pulisic,Milan,Shots 1+,83,80,75,6,Inter: 10.7 shots conceded/game,
+Sat 31 Oct · 19:45,Serie A,Milan v Inter,Diego Moreira,Milan,Shots 1+,80,80,67,5,Inter: 10.7 shots conceded/game,Small sample (5 games)
 Sat 31 Oct · 19:45,Ligue 1,Troyes v Le Mans,Alexandre Lauray,Le Mans,Fouls 1+,100,100,100,7,Troyes: 13.6 fouls won/game,
 Sat 31 Oct · 19:45,Ligue 1,Troyes v Le Mans,Djibril Sidibé,Le Mans,Fouls 1+,100,100,100,5,Troyes: 13.6 fouls won/game,Small sample (5 games)
 Sat 31 Oct · 19:45,Ligue 1,Troyes v Le Mans,Le Mans (team),Le Mans,Over 1.5,100,100,,8,Troyes: 2.0 goals conceded/game,
@@ -964,33 +990,6 @@ Sat 31 Oct · 19:45,Ligue 1,Troyes v Le Mans,Jean Vercruysse,Le Mans,Fouls 1+,86
 Sat 31 Oct · 19:45,Ligue 1,Troyes v Le Mans,Lucas Maronnier,Troyes,Tackles 1+,86,80,83,7,,
 Sat 31 Oct · 19:45,Ligue 1,Troyes v Le Mans,Jérémy Le Douaron,Troyes,Fouls 1+,83,80,67,6,Le Mans: 10.5 fouls won/game,
 Sat 31 Oct · 19:45,Ligue 1,Troyes v Le Mans,Nicolas Kocik,Le Mans,Saves 2+,83,80,,6,Troyes: 2.8 shots on target/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Inter (team),Inter,Scores 1+,100,100,,9,Milan: 1.22 goals conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Marcus Thuram,Inter,Shots 1+,100,100,100,8,Milan: 9.8 shots conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Marcus Thuram,Inter,Shots 2+,100,100,100,8,Milan: 9.8 shots conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Milan (team),Milan,Scores 1+,100,100,,9,Inter: 1.11 goals conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Milan (team),Milan,Over 1.5,100,100,,9,Inter: 1.11 goals conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Piotr Zieliński,Inter,Shots 1+,100,100,100,8,Milan: 9.8 shots conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Strahinja Pavlović,Milan,Tackles 1+,100,100,100,9,,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Inter (team),Inter,Over 1.5,89,100,,9,Milan: 1.22 goals conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Mike Maignan,Milan,Saves 2+,89,100,,9,Inter: 7.1 shots on target/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Gonçalo Ramos,Milan,Fouls 1+,89,80,89,9,Inter: 9.4 fouls won/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Inter (team),Inter,Win,89,80,,9,Milan: 1.22 goals conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Inter (team),Inter,SOT 4+,89,80,,9,Milan: 3.9 SOT conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Koni De Winter,Milan,Fouls 1+,89,80,88,9,Inter: 9.4 fouls won/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Koni De Winter,Milan,Tackles 1+,89,80,88,9,,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Alessandro Bastoni,Inter,Fouls 1+,88,100,88,8,Milan: 12.3 fouls won/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Marcus Thuram,Inter,SOT 1+,88,100,100,8,Milan: 3.9 SOT conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Petar Sučić,Inter,Fouled 1+,88,100,80,8,Milan: 9.8 fouls committed/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Petar Sučić,Inter,Tackles 1+,88,100,80,8,,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Alessandro Bastoni,Inter,Tackles 1+,88,80,88,8,,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Nicolò Barella,Inter,Shots 1+,88,80,86,8,Milan: 9.8 shots conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Josep Martínez,Inter,Saves 2+,86,100,,7,Milan: 4.8 shots on target/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Adrien Rabiot,Milan,Shots 1+,86,80,80,7,Inter: 10.7 shots conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Alphadjo Cissè,Milan,Shots 1+,86,80,100,7,Inter: 10.7 shots conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Hakan Çalhanoglu,Inter,Tackles 1+,86,80,100,7,,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Mario Gila,Milan,Tackles 1+,86,80,86,7,,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Christian Pulisic,Milan,Shots 1+,83,80,75,6,Inter: 10.7 shots conceded/game,
-Sat 31 Oct · 19:45,Serie A,Milan v Inter,Diego Moreira,Milan,Shots 1+,80,80,67,5,Inter: 10.7 shots conceded/game,Small sample (5 games)
 Sat 31 Oct · 20:00,La Liga,Barcelona v Deportivo Alavés,Barcelona (team),Barcelona,Scores 1+,100,100,,10,Deportivo Alavés: 1.1 goals conceded/game,
 Sat 31 Oct · 20:00,La Liga,Barcelona v Deportivo Alavés,Barcelona (team),Barcelona,Over 1.5,100,100,,10,Deportivo Alavés: 1.1 goals conceded/game,
 Sat 31 Oct · 20:00,La Liga,Barcelona v Deportivo Alavés,Barcelona (team),Barcelona,SOT 4+,100,100,,10,Deportivo Alavés: 4.2 SOT conceded/game,
