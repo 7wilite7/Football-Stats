@@ -1,18 +1,18 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:54 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3077,2255,73,90
-Tackles 1+,628,483,77,90
-Shots 1+,551,433,79,91
-Fouled 1+,358,255,71,90
-Fouls 1+,321,201,63,88
-Cards 1+,173,150,87,92
-Over 1.5,142,118,83,89
-Scores 1+,132,106,80,90
+All picks,3090,2267,73,90
+Tackles 1+,630,485,77,90
+Shots 1+,553,435,79,91
+Fouled 1+,360,256,71,90
+Fouls 1+,324,204,63,88
+Cards 1+,174,151,87,92
+Over 1.5,143,119,83,90
+Scores 1+,133,107,80,90
 Shots 2+,128,94,73,90
 Saves 2+,102,72,71,91
 SOT 1+,77,58,75,87
 SOT 4+,71,51,72,91
-Tackles 2+,68,33,49,88
+Tackles 2+,69,34,49,88
 Corners 4+,55,39,71,91
 Match corners 9+,37,23,62,90
 Over 2.5,34,22,65,87
@@ -1261,19 +1261,19 @@ Bryan Mbeumo,Fouled 1+,Chelsea v Manchester United,Sat 31 Oct · 12:30,Premier L
 Bryan Mbeumo,SOT 1+,Chelsea v Manchester United,Sat 31 Oct · 12:30,Premier League,100,100,Pending
 Bryan Mbeumo,Shots 1+,Chelsea v Manchester United,Sat 31 Oct · 12:30,Premier League,100,100,Pending
 Bryan Mbeumo,Shots 2+,Chelsea v Manchester United,Sat 31 Oct · 12:30,Premier League,100,100,Pending
-Maxi Araújo,Fouled 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-Maxi Araújo,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Geny Catamo,Fouled 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
-Geny Catamo,Shots 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
-Sergi Altimira,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
-Sergi Altimira,Tackles 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Sergi Altimira,Tackles 2+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Iván Fresneda,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
-Issa Doumbia,Tackles 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
-Flávio Gonçalves,Shots 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,80,Pending
-Sporting CP (team),Cards 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Sporting CP (team),Over 1.5,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Sporting CP (team),Scores 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Maxi Araújo,Fouled 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,100,Miss
+Maxi Araújo,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Geny Catamo,Fouled 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Hit
+Geny Catamo,Shots 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Hit
+Sergi Altimira,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Hit
+Sergi Altimira,Tackles 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Sergi Altimira,Tackles 2+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Iván Fresneda,Fouls 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Hit
+Issa Doumbia,Tackles 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Hit
+Flávio Gonçalves,Shots 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",88,80,Hit
+Sporting CP (team),Cards 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Sporting CP (team),Over 1.5,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Sporting CP (team),Scores 1+,Casa Pia AC v Sporting CP,Fri 30 Oct · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
 Saud Abdulhamid,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Hit
 Hákon Arnar Haraldsson,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Hit
 Dilane Bakwa,Shots 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,83,80,Hit
