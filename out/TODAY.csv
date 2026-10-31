@@ -1,4 +1,4 @@
-"Games kicking off in the next 24 hours (from 31 Oct 2026 06:46 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
+"Games kicking off in the next 24 hours (from 31 Oct 2026 06:47 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. Up to 30 per match."
 Kick-off (UK),Competition,Match,Pick,Team,Market,Season %,Last 5 %,When starting %,Games,Opponent context,Note
 Sat 31 Oct · 12:30,Premier League,Chelsea v Manchester United,Amad Diallo,Manchester United,Shots 1+,100,100,100,3,Chelsea: 12.8 shots conceded/game,Small sample (3 games)
 Sat 31 Oct · 12:30,Premier League,Chelsea v Manchester United,Ayden Heaven,Manchester United,Fouled 1+,100,100,100,3,Chelsea: 9.9 fouls committed/game,Small sample (3 games)
@@ -156,7 +156,6 @@ Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Igor Matanović,Freiburg,Shot
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Igor Matanović,Freiburg,Fouled 1+,100,100,100,7,Augsburg: 9.9 fouls committed/game,
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Jordy Makengo,Freiburg,Fouled 1+,100,100,100,7,Augsburg: 9.9 fouls committed/game,
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Maximilian Eggestein,Freiburg,Shots 1+,100,100,100,7,Augsburg: 19.7 shots conceded/game,
-Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Philipp Treu,Freiburg,Tackles 1+,100,100,100,7,,
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Augsburg (team),Augsburg,BTTS,86,100,,7,Freiburg: 1.29 goals conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Freiburg (team),Freiburg,Over 1.5,86,100,,7,Augsburg: 1.86 goals conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Freiburg (team),Freiburg,Over 2.5,86,100,,7,Augsburg: 1.86 goals conceded/game,
@@ -170,6 +169,7 @@ Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Finn Dahmen,Augsburg,Saves 2+
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Finn Dahmen,Augsburg,Saves 3+,86,80,,7,Freiburg: 5.1 shots on target/game,
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Freiburg (team),Freiburg,Corners 4+,86,80,,7,Augsburg: 6.0 corners conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Freiburg (team),Freiburg,SOT 4+,86,80,,7,Augsburg: 6.9 SOT conceded/game,
+Sat 31 Oct · 14:30,Bundesliga,Augsburg v Freiburg,Igor Matanović,Freiburg,SOT 1+,86,80,83,7,Augsburg: 6.9 SOT conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Bayer Leverkusen v VfB Stuttgart,Atakan Karazor,VfB Stuttgart,Fouls 1+,100,100,100,3,Bayer Leverkusen: 10.6 fouls won/game,Small sample (3 games)
 Sat 31 Oct · 14:30,Bundesliga,Bayer Leverkusen v VfB Stuttgart,Bayer Leverkusen (team),Bayer Leverkusen,Over 1.5,100,100,,7,VfB Stuttgart: 1.86 goals conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Bayer Leverkusen v VfB Stuttgart,Bilal El Khannouss,VfB Stuttgart,Tackles 1+,100,100,100,7,,
@@ -223,13 +223,13 @@ Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Raphael Obe
 Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Santiago Castañeda,Paderborn,Shots 1+,86,100,86,7,Borussia Mönchengladbach: 17.6 shots conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Santiago Castañeda,Paderborn,Fouled 1+,86,100,86,7,Borussia Mönchengladbach: 14.7 fouls committed/game,
 Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Borussia Mönchengladbach (team),Borussia Mönchengladbach,Match corners 9+,86,80,,7,Paderborn: 5.7 corners conceded/game,
-Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Hugo Bolin,Borussia Mönchengladbach,Shots 1+,86,80,86,7,Paderborn: 16.9 shots conceded/game,
-Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Hugo Bolin,Borussia Mönchengladbach,Fouled 1+,86,80,86,7,Paderborn: 10.7 fouls committed/game,
 Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Joseph Scally,Borussia Mönchengladbach,Shots 1+,86,80,83,7,Paderborn: 16.9 shots conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Laurin Curda,Paderborn,Tackles 1+,86,80,86,7,,
 Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Paderborn (team),Paderborn,Match corners 9+,86,80,,7,Borussia Mönchengladbach: 5.6 corners conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Paderborn (team),Paderborn,Cards 1+,86,80,,7,Borussia Mönchengladbach: 10.0 fouls won/game,
 Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Philipp Sander,Borussia Mönchengladbach,Tackles 1+,86,80,86,7,,
+Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Raphael Obermair,Paderborn,Tackles 1+,86,80,86,7,,
+Sat 31 Oct · 14:30,Bundesliga,Borussia Mönchengladbach v Paderborn,Stefano Marino,Paderborn,Shots 1+,86,80,83,7,Borussia Mönchengladbach: 17.6 shots conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Schalke 04 v RB Leipzig,Antonio Nusa,RB Leipzig,Shots 1+,100,100,100,7,Schalke 04: 14.9 shots conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Schalke 04 v RB Leipzig,Brajan Gruda,RB Leipzig,Fouled 1+,100,100,100,5,Schalke 04: 9.7 fouls committed/game,Small sample (5 games)
 Sat 31 Oct · 14:30,Bundesliga,Schalke 04 v RB Leipzig,Ezechiel Banzuzi,RB Leipzig,Fouls 1+,100,100,100,7,Schalke 04: 11.0 fouls won/game,
@@ -271,7 +271,6 @@ Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Marco Grüll,Werder Br
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Marco Grüll,Werder Bremen,Fouls 1+,100,100,100,7,Hoffenheim: 9.6 fouls won/game,
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Niclas Füllkrug,Werder Bremen,Shots 1+,100,100,100,7,Hoffenheim: 13.0 shots conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Niclas Füllkrug,Werder Bremen,SOT 1+,100,100,100,7,Hoffenheim: 4.0 SOT conceded/game,
-Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Vladimír Coufal,Hoffenheim,Tackles 1+,100,100,100,7,,
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Werder Bremen (team),Werder Bremen,Scores 1+,100,100,,7,Hoffenheim: 2.0 goals conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Werder Bremen (team),Werder Bremen,BTTS,100,100,,7,Hoffenheim: 2.0 goals conceded/game,
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Werder Bremen (team),Werder Bremen,Over 1.5,100,100,,7,Hoffenheim: 2.0 goals conceded/game,
@@ -290,6 +289,7 @@ Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Adam Hložek,Hoffenhei
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Amos Pieper,Werder Bremen,Tackles 1+,86,80,86,7,,
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Bambasé Conté,Hoffenheim,Fouled 1+,86,80,100,7,Werder Bremen: 11.0 fouls committed/game,
 Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Hoffenheim (team),Hoffenheim,BTTS,86,80,,7,Werder Bremen: 2.0 goals conceded/game,
+Sat 31 Oct · 14:30,Bundesliga,Werder Bremen v Hoffenheim,Hoffenheim (team),Hoffenheim,Match corners 9+,86,80,,7,Werder Bremen: 5.9 corners conceded/game,
 Sat 31 Oct · 15:00,Premier League,AFC Bournemouth v Leeds United,AFC Bournemouth (team),AFC Bournemouth,Cards 1+,100,100,,8,Leeds United: 11.6 fouls won/game,
 Sat 31 Oct · 15:00,Premier League,AFC Bournemouth v Leeds United,Ao Tanaka,Leeds United,Tackles 1+,100,100,100,7,,
 Sat 31 Oct · 15:00,Premier League,AFC Bournemouth v Leeds United,Dominic Calvert-Lewin,Leeds United,Fouls 1+,100,100,100,8,AFC Bournemouth: 12.1 fouls won/game,
@@ -703,6 +703,36 @@ Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Martín Ojeda,Orlando City,S
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Orlando City (team),Orlando City,Match corners 9+,81,100,,32,Charlotte FC: 6.2 corners conceded/game,
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Joran Gerbet,Orlando City,Fouled 1+,80,80,71,10,Charlotte FC: 10.0 fouls committed/game,
 Sat 31 Oct · 17:00,MLS,Charlotte FC v Orlando City,Vinícius Nogueira,Orlando City,Tackles 1+,80,80,75,5,,Small sample (5 games)
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Corners 4+,100,100,,7,Borussia Dortmund: 4.1 corners conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Corners 5+,100,100,,7,Borussia Dortmund: 4.1 corners conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Match corners 9+,100,100,,7,Borussia Dortmund: 4.1 corners conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Match corners 10+,100,100,,7,Borussia Dortmund: 4.1 corners conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,SOT 4+,100,100,,7,Borussia Dortmund: 3.0 SOT conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Harry Kane,Bayern München,Shots 1+,100,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Harry Kane,Bayern München,Shots 2+,100,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Ismael Saibari,Bayern München,Shots 1+,100,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Konrad Laimer,Bayern München,Fouls 1+,100,100,100,4,Borussia Dortmund: 11.9 fouls won/game,Small sample (4 games)
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Konrad Laimer,Bayern München,Tackles 1+,100,100,100,4,,Small sample (4 games)
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Michael Olise,Bayern München,Shots 1+,100,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Michael Olise,Bayern München,SOT 1+,100,100,100,7,Borussia Dortmund: 3.0 SOT conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Michael Olise,Bayern München,Fouled 1+,100,100,100,7,Borussia Dortmund: 10.7 fouls committed/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Min-Jae Kim,Bayern München,Fouls 1+,100,100,100,4,Borussia Dortmund: 11.9 fouls won/game,Small sample (4 games)
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Serhou Guirassy,Borussia Dortmund,Shots 1+,100,100,100,7,Bayern München: 9.0 shots conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Serhou Guirassy,Borussia Dortmund,Shots 2+,100,100,100,7,Bayern München: 9.0 shots conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Serhou Guirassy,Borussia Dortmund,Fouled 1+,100,100,100,7,Bayern München: 10.6 fouls committed/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Scores 1+,86,100,,7,Borussia Dortmund: 0.57 goals conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Over 1.5,86,100,,7,Borussia Dortmund: 0.57 goals conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Over 2.5,86,100,,7,Borussia Dortmund: 0.57 goals conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Dayot Upamecano,Bayern München,Fouls 1+,86,100,86,7,Borussia Dortmund: 11.9 fouls won/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Felix Nmecha,Borussia Dortmund,Tackles 1+,86,100,83,7,,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Harry Kane,Bayern München,SOT 1+,86,100,83,7,Borussia Dortmund: 3.0 SOT conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Michael Olise,Bayern München,Shots 2+,86,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Waldemar Anton,Borussia Dortmund,Tackles 1+,86,100,86,7,,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Borussia Dortmund (team),Borussia Dortmund,Scores 1+,86,80,,7,Bayern München: 0.86 goals conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Borussia Dortmund (team),Borussia Dortmund,Cards 1+,86,80,,7,Bayern München: 9.3 fouls won/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Daniel Svensson,Borussia Dortmund,Tackles 1+,86,80,86,7,,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Dayot Upamecano,Bayern München,Shots 1+,86,80,86,7,Borussia Dortmund: 11.1 shots conceded/game,
+Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Dayot Upamecano,Bayern München,Tackles 1+,86,80,86,7,,
 Sat 31 Oct · 17:30,La Liga,Real Betis v Málaga,Adam Aznou,Málaga,Fouls 1+,100,100,100,3,Real Betis: 11.4 fouls won/game,Small sample (3 games)
 Sat 31 Oct · 17:30,La Liga,Real Betis v Málaga,Adam Aznou,Málaga,Tackles 1+,100,100,100,3,,Small sample (3 games)
 Sat 31 Oct · 17:30,La Liga,Real Betis v Málaga,Adam Aznou,Málaga,Tackles 2+,100,100,100,3,,Small sample (3 games)
@@ -763,36 +793,6 @@ Sat 31 Oct · 17:30,Premier League,Tottenham Hotspur v Crystal Palace,Omar Marmo
 Sat 31 Oct · 17:30,Premier League,Tottenham Hotspur v Crystal Palace,Omar Marmoush,Tottenham Hotspur,Fouled 1+,86,80,100,7,Crystal Palace: 10.2 fouls committed/game,
 Sat 31 Oct · 17:30,Premier League,Tottenham Hotspur v Crystal Palace,Mathys Tel,Tottenham Hotspur,Shots 1+,83,80,75,6,Crystal Palace: 16.9 shots conceded/game,
 Sat 31 Oct · 17:30,Premier League,Tottenham Hotspur v Crystal Palace,Quinten Timber,Crystal Palace,Shots 1+,80,80,80,5,Tottenham Hotspur: 13.4 shots conceded/game,Transferred (from Marseille); Small sample (5 games)
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Corners 4+,100,100,,7,Borussia Dortmund: 4.1 corners conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Corners 5+,100,100,,7,Borussia Dortmund: 4.1 corners conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Match corners 9+,100,100,,7,Borussia Dortmund: 4.1 corners conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Match corners 10+,100,100,,7,Borussia Dortmund: 4.1 corners conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,SOT 4+,100,100,,7,Borussia Dortmund: 3.0 SOT conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Harry Kane,Bayern München,Shots 1+,100,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Harry Kane,Bayern München,Shots 2+,100,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Ismael Saibari,Bayern München,Shots 1+,100,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Konrad Laimer,Bayern München,Fouls 1+,100,100,100,4,Borussia Dortmund: 11.9 fouls won/game,Small sample (4 games)
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Konrad Laimer,Bayern München,Tackles 1+,100,100,100,4,,Small sample (4 games)
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Michael Olise,Bayern München,Shots 1+,100,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Michael Olise,Bayern München,SOT 1+,100,100,100,7,Borussia Dortmund: 3.0 SOT conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Michael Olise,Bayern München,Fouled 1+,100,100,100,7,Borussia Dortmund: 10.7 fouls committed/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Min-Jae Kim,Bayern München,Fouls 1+,100,100,100,4,Borussia Dortmund: 11.9 fouls won/game,Small sample (4 games)
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Serhou Guirassy,Borussia Dortmund,Shots 1+,100,100,100,7,Bayern München: 9.0 shots conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Serhou Guirassy,Borussia Dortmund,Shots 2+,100,100,100,7,Bayern München: 9.0 shots conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Serhou Guirassy,Borussia Dortmund,Fouled 1+,100,100,100,7,Bayern München: 10.6 fouls committed/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Scores 1+,86,100,,7,Borussia Dortmund: 0.57 goals conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Over 1.5,86,100,,7,Borussia Dortmund: 0.57 goals conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Bayern München (team),Bayern München,Over 2.5,86,100,,7,Borussia Dortmund: 0.57 goals conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Dayot Upamecano,Bayern München,Fouls 1+,86,100,86,7,Borussia Dortmund: 11.9 fouls won/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Felix Nmecha,Borussia Dortmund,Tackles 1+,86,100,83,7,,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Harry Kane,Bayern München,SOT 1+,86,100,83,7,Borussia Dortmund: 3.0 SOT conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Michael Olise,Bayern München,Shots 2+,86,100,100,7,Borussia Dortmund: 11.1 shots conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Waldemar Anton,Borussia Dortmund,Tackles 1+,86,100,86,7,,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Borussia Dortmund (team),Borussia Dortmund,Scores 1+,86,80,,7,Bayern München: 0.86 goals conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Borussia Dortmund (team),Borussia Dortmund,Cards 1+,86,80,,7,Bayern München: 9.3 fouls won/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Daniel Svensson,Borussia Dortmund,Tackles 1+,86,80,86,7,,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Dayot Upamecano,Bayern München,Shots 1+,86,80,86,7,Borussia Dortmund: 11.1 shots conceded/game,
-Sat 31 Oct · 17:30,Bundesliga,Bayern München v Borussia Dortmund,Dayot Upamecano,Bayern München,Tackles 1+,86,80,86,7,,
 Sat 31 Oct · 17:45,Eredivisie (top 5),PSV Eindhoven v Willem II,Mauro Júnior,PSV Eindhoven,Tackles 1+,100,100,100,10,,
 Sat 31 Oct · 17:45,Eredivisie (top 5),PSV Eindhoven v Willem II,PSV Eindhoven (team),PSV Eindhoven,Scores 1+,100,100,,10,Willem II: 3.2 goals conceded/game,
 Sat 31 Oct · 17:45,Eredivisie (top 5),PSV Eindhoven v Willem II,PSV Eindhoven (team),PSV Eindhoven,Over 1.5,100,100,,10,Willem II: 3.2 goals conceded/game,

@@ -1,22 +1,22 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:46 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:47 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,2930,2158,74,90
-Tackles 1+,597,462,77,90
-Shots 1+,526,415,79,91
-Fouled 1+,335,238,71,90
-Fouls 1+,308,193,63,88
-Cards 1+,163,143,88,92
+All picks,2951,2171,74,90
+Tackles 1+,601,465,77,90
+Shots 1+,530,417,79,91
+Fouled 1+,337,240,71,90
+Fouls 1+,310,195,63,88
+Cards 1+,165,144,87,92
 Over 1.5,136,114,84,90
-Scores 1+,125,100,80,90
-Shots 2+,125,92,74,90
-Saves 2+,97,69,71,91
-SOT 1+,74,56,76,87
+Scores 1+,126,101,80,90
+Shots 2+,126,92,73,90
+Saves 2+,98,69,70,91
+SOT 1+,75,57,76,87
+SOT 4+,66,47,71,91
 Tackles 2+,65,32,49,88
-SOT 4+,65,47,72,91
-Corners 4+,50,37,74,91
+Corners 4+,51,38,75,91
 Match corners 9+,36,23,64,90
 Over 2.5,31,20,65,87
-Fouled 2+,27,12,44,88
+Fouled 2+,28,12,43,88
 Cards 2+,27,13,48,89
 Saves 3+,27,19,70,91
 Corners 5+,24,14,58,90
@@ -1366,30 +1366,30 @@ Espanyol (team),Match cards 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga
 Espanyol (team),Over 1.5,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Miss
 Espanyol (team),Scores 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,90,80,Hit
 Vanja Drkušić,Tackles 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Hit
-Kaishu Sano,Fouled 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Kaishu Sano,Fouled 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Lukas Petkov,Fouled 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Lukas Petkov,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Lasse Günther,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,100,Pending
-Nicolas Kristof,Saves 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Fabio Gruber,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Pending
-Alexander Schwolow,Saves 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Pending
-Alexander Schwolow,Saves 3+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Pending
-Phillipp Mwene,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Phillipp Mwene,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Sheraldo Becker,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Stefan Posch,Fouls 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Nadiem Amiri,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Phillip Tietz,SOT 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Phillip Tietz,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Phillip Tietz,Shots 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Anthony Caci,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Elversberg (team),Cards 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Łukasz Poręba,Fouls 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Mainz 05 (team),Cards 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Mainz 05 (team),Corners 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Pending
-Mainz 05 (team),SOT 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Pending
-Mainz 05 (team),Scores 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,100,Pending
+Kaishu Sano,Fouled 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Hit
+Kaishu Sano,Fouled 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Miss
+Lukas Petkov,Fouled 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Hit
+Lukas Petkov,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Hit
+Lasse Günther,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,100,Hit
+Nicolas Kristof,Saves 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Miss
+Fabio Gruber,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Did not play
+Alexander Schwolow,Saves 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Did not play
+Alexander Schwolow,Saves 3+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,80,80,Did not play
+Phillipp Mwene,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Miss
+Phillipp Mwene,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Miss
+Sheraldo Becker,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Hit
+Stefan Posch,Fouls 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Hit
+Nadiem Amiri,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Miss
+Phillip Tietz,SOT 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Hit
+Phillip Tietz,Shots 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Hit
+Phillip Tietz,Shots 2+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Miss
+Anthony Caci,Tackles 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Hit
+Elversberg (team),Cards 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Miss
+Łukasz Poręba,Fouls 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Hit
+Mainz 05 (team),Cards 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Hit
+Mainz 05 (team),Corners 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,80,Hit
+Mainz 05 (team),SOT 4+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,100,100,Miss
+Mainz 05 (team),Scores 1+,Elversberg v Mainz 05,Fri 30 Oct · 19:30,Bundesliga,86,100,Hit
 Willian Pacho,Tackles 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,83,80,Pending
 Amir Richardson,Fouls 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,100,Pending
 Amir Richardson,Shots 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Pending
