@@ -1,21 +1,21 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:54 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3043,2234,73,90
-Tackles 1+,624,481,77,90
-Shots 1+,543,428,79,91
-Fouled 1+,352,250,71,90
-Fouls 1+,318,200,63,88
-Cards 1+,172,149,87,92
-Over 1.5,140,116,83,90
-Scores 1+,130,104,80,90
-Shots 2+,127,93,73,90
+All picks,3077,2255,73,90
+Tackles 1+,628,483,77,90
+Shots 1+,551,433,79,91
+Fouled 1+,358,255,71,90
+Fouls 1+,321,201,63,88
+Cards 1+,173,150,87,92
+Over 1.5,142,118,83,89
+Scores 1+,132,106,80,90
+Shots 2+,128,94,73,90
 Saves 2+,102,72,71,91
-SOT 1+,76,58,76,87
-SOT 4+,69,50,72,91
-Tackles 2+,67,33,49,88
-Corners 4+,54,39,72,91
+SOT 1+,77,58,75,87
+SOT 4+,71,51,72,91
+Tackles 2+,68,33,49,88
+Corners 4+,55,39,71,91
 Match corners 9+,37,23,62,90
-Over 2.5,33,21,64,87
+Over 2.5,34,22,65,87
 Fouled 2+,28,12,43,88
 Cards 2+,27,13,48,89
 Saves 3+,27,19,70,91
@@ -23,8 +23,8 @@ Corners 5+,24,14,58,90
 BTTS,22,12,55,88
 Score or assist,17,12,71,85
 Win,13,9,69,89
+Fouls 2+,13,5,38,88
 Match corners 10+,13,7,54,88
-Fouls 2+,12,5,42,89
 Match cards 4+,9,9,100,88
 Goal 1+,5,3,60,86
 SOT 2+,2,2,100,86
@@ -1443,30 +1443,30 @@ Rennes (team),Over 1.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
 Rennes (team),Over 2.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
 Rennes (team),SOT 4+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
 Rennes (team),Scores 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
-Artem Bondarenko,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Saad Yaslam,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),88,80,Pending
-Rayan Hamed,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Zakaria Hawsawi,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Matheus Gonçalves,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Valentin Atangana Edoa,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
-Valentin Atangana Edoa,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Valentin Atangana Edoa,Fouls 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Saeed Baattia,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,100,Pending
-Saeed Baattia,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Pending
-Al Ahli (team),Corners 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Al Ahli (team),Over 1.5,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
-Al Ahli (team),Over 2.5,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
-Al Ahli (team),SOT 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,100,Pending
-Al Ahli (team),Scores 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
-Ivan Toney,SOT 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
-Ivan Toney,SOT 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Pending
-Ivan Toney,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Ivan Toney,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
-Trincão,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Pending
-Trincão,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Galeno,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Pending
-Eduard Spertsyan,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Pending
-Eduard Spertsyan,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Pending
+Artem Bondarenko,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Saad Yaslam,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),88,80,Hit
+Rayan Hamed,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Miss
+Zakaria Hawsawi,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Did not play
+Matheus Gonçalves,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Miss
+Valentin Atangana Edoa,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Hit
+Valentin Atangana Edoa,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
+Valentin Atangana Edoa,Fouls 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Miss
+Saeed Baattia,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,100,Hit
+Saeed Baattia,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Hit
+Al Ahli (team),Corners 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Miss
+Al Ahli (team),Over 1.5,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Hit
+Al Ahli (team),Over 2.5,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Hit
+Al Ahli (team),SOT 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,100,Hit
+Al Ahli (team),Scores 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Hit
+Ivan Toney,SOT 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Did not play
+Ivan Toney,SOT 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Did not play
+Ivan Toney,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Did not play
+Ivan Toney,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Did not play
+Trincão,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Hit
+Trincão,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Hit
+Galeno,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Hit
+Eduard Spertsyan,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Did not play
+Eduard Spertsyan,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Did not play
 Roland Sallai,Fouled 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Roland Sallai,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Roland Sallai,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
@@ -1487,28 +1487,28 @@ Galatasaray (team),SOT 4+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (G
 Galatasaray (team),Scores 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Barış Alper Yılmaz,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Barış Alper Yılmaz,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Dion Lopy,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Pending
-Dion Lopy,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,100,Pending
-Dion Lopy,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Pending
-Faris Abdi,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
-Faris Abdi,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Faris Abdi,Tackles 2+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Pending
-Richard Ríos,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Richard Ríos,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Richard Ríos,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
-Richard Ríos,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
-Jan-Carlo Šimić,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Pending
-Jan-Carlo Šimić,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-George Ilenikhena,SOT 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Pending
-George Ilenikhena,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Steven Bergwijn,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,80,Pending
-Steven Bergwijn,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Houssem Aouar,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,100,Pending
-Youssef En-Nesyri,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Pending
-Al Ittihad (team),Cards 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Pending
-Al Ittihad (team),Over 1.5,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Pending
-Al Ittihad (team),SOT 4+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Pending
-Al Ittihad (team),Scores 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Pending
+Dion Lopy,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Did not play
+Dion Lopy,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,100,Did not play
+Dion Lopy,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Did not play
+Faris Abdi,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Miss
+Faris Abdi,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Hit
+Faris Abdi,Tackles 2+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Miss
+Richard Ríos,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Miss
+Richard Ríos,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Miss
+Richard Ríos,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Miss
+Richard Ríos,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Miss
+Jan-Carlo Šimić,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Did not play
+Jan-Carlo Šimić,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Did not play
+George Ilenikhena,SOT 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Miss
+George Ilenikhena,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Hit
+Steven Bergwijn,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,80,Hit
+Steven Bergwijn,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Miss
+Houssem Aouar,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,100,Hit
+Youssef En-Nesyri,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Hit
+Al Ittihad (team),Cards 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Hit
+Al Ittihad (team),Over 1.5,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Hit
+Al Ittihad (team),SOT 4+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Miss
+Al Ittihad (team),Scores 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Hit
 Marco Carnesecchi,Saves 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Hit
 Marco Carnesecchi,Saves 3+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Miss
 Lazar Samardžić,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Did not play
