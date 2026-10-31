@@ -1,15 +1,15 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:48 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:49 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3026,2222,73,90
-Tackles 1+,618,476,77,90
-Shots 1+,541,426,79,91
-Fouled 1+,348,248,71,90
-Fouls 1+,317,199,63,88
-Cards 1+,170,147,86,92
-Over 1.5,139,116,83,90
+All picks,3043,2234,73,90
+Tackles 1+,624,481,77,90
+Shots 1+,543,428,79,91
+Fouled 1+,352,250,71,90
+Fouls 1+,318,200,63,88
+Cards 1+,172,149,87,92
+Over 1.5,140,116,83,90
 Scores 1+,130,104,80,90
 Shots 2+,127,93,73,90
-Saves 2+,101,72,71,91
+Saves 2+,102,72,71,91
 SOT 1+,76,58,76,87
 SOT 4+,69,50,72,91
 Tackles 2+,67,33,49,88
@@ -1309,27 +1309,27 @@ Lille (team),Cards 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,88,100,Miss
 Lille (team),Scores 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,100,100,Hit
 Michał Skóras,Fouled 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Did not play
 Michał Skóras,Fouls 1+,Lille v Lens,Fri 30 Oct · 20:05,Ligue 1,86,80,Did not play
-Issa Kaboré,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Pending
-Thomas Cannon,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Pending
-Callum Doyle,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Pending
-Jacques Ekomié,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
-Kieffer Moore,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
-Kieffer Moore,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
-Kalvin Phillips,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,89,100,Pending
-Hamza Choudhury,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
-Tahith Chong,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
-Callum O'Hare,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,91,80,Pending
-Callum O'Hare,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,80,Pending
-Oliver Rathbone,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,90,100,Pending
-Sheffield United (team),Cards 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
-Michael Cooper,Saves 2+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,80,Pending
-Liam Kitching,Fouls 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,88,100,Pending
-Liam Kitching,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,88,80,Pending
-Sam McCallum,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,90,80,Pending
-Sam McCallum,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Pending
-Wrexham (team),Cards 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Pending
-Wrexham (team),Over 1.5,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Pending
-Femi Seriki,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Pending
+Issa Kaboré,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Hit
+Thomas Cannon,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Hit
+Callum Doyle,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,100,Hit
+Jacques Ekomié,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Miss
+Kieffer Moore,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Hit
+Kieffer Moore,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Hit
+Kalvin Phillips,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,89,100,Hit
+Hamza Choudhury,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Hit
+Tahith Chong,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Miss
+Callum O'Hare,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,91,80,Did not play
+Callum O'Hare,Shots 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,82,80,Did not play
+Oliver Rathbone,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,90,100,Hit
+Sheffield United (team),Cards 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Hit
+Michael Cooper,Saves 2+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,80,Miss
+Liam Kitching,Fouls 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,88,100,Hit
+Liam Kitching,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,88,80,Hit
+Sam McCallum,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,90,80,Did not play
+Sam McCallum,Tackles 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,80,80,Did not play
+Wrexham (team),Cards 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,83,100,Hit
+Wrexham (team),Over 1.5,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,92,100,Miss
+Femi Seriki,Fouled 1+,Sheffield United v Wrexham,Fri 30 Oct · 20:00,Championship,100,100,Miss
 Villarreal (team),Cards 1+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,100,100,Hit
 Villarreal (team),Corners 4+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Hit
 Villarreal (team),Corners 5+,Villarreal v Espanyol,Fri 30 Oct · 20:00,La Liga,80,80,Hit
