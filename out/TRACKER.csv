@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 06:55 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:35 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,3108,2280,73,90
 Tackles 1+,631,486,77,90
@@ -31,6 +31,117 @@ SOT 2+,3,3,100,86
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
+Robin Pröpper,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
+Robin Pröpper,Fouled 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,80,Pending
+Wout Weghorst,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
+Wout Weghorst,Shots 2+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
+Wout Weghorst,Fouls 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,80,Pending
+Sondre Ørjasæter,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
+Aske Adelgaard,Fouls 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),86,80,Pending
+Aske Adelgaard,Tackles 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),86,80,Pending
+Joël Drommel,Saves 2+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
+FC Twente (team),Scores 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
+FC Twente (team),Over 1.5,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,100,Pending
+FC Twente (team),Corners 4+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
+FC Twente (team),Corners 5+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
+FC Twente (team),Match corners 9+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Pending
+FC Twente (team),Cards 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,80,Pending
+FC Twente (team),SOT 4+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Pending
+Kiko,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,80,Pending
+David Soria,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Martín Satriano,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Pending
+Martín Satriano,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Pending
+Martín Satriano,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Ramón Terrats,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Pending
+Ramón Terrats,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Pending
+Andrés García,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Odysseas Vlachodimos,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Gabriel Suazo,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Lucien Agoumé,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Lucien Agoumé,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Lucien Agoumé,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Juan Iglesias,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Juan Iglesias,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Juan Iglesias,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Peque Fernández,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Peque Fernández,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Arouna Sangante,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Kike Salas,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Nemanja Gudelj,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,88,100,Pending
+Youssouf Fofana,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,86,80,Pending
+Lucas Stassin,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Iván Azon,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Pending
+Félix Correia,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Pending
+Getafe (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Getafe (team),Cards 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Getafe (team),Match cards 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Sevilla (team),Scores 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Sevilla (team),Over 1.5,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Sevilla (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
+Sevilla (team),SOT 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
+Callum McGregor,Tackles 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
+Benjamin Nygren,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Pending
+Benjamin Nygren,Fouled 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Pending
+Alex Oxlade-Chamberlain,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Mika Baur,Tackles 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Mika Baur,Tackles 2+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
+Celtic (team),Scores 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
+Celtic (team),Corners 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Celtic (team),Corners 5+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
+Celtic (team),Match corners 9+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
+Celtic (team),Cards 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,100,Pending
+Celtic (team),SOT 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
+Mohamed Salah,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+André Onana,Saves 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+André Onana,Saves 3+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Melih Kabasakal,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Pending
+Chibuike Nwaiwu,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Wagner Pina,Fouls 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Wagner Pina,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Wagner Pina,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
+Ernest Muçi,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Ernest Muçi,Shots 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Ernest Muçi,SOT 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
+Ernest Muçi,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
+Fabinho,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Trabzonspor (team),Scores 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Trabzonspor (team),Over 1.5,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Trabzonspor (team),Corners 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Trabzonspor (team),Cards 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
+Trabzonspor (team),SOT 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
+Anastasios Douvikas,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Anastasios Douvikas,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Lucas Da Cunha,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Nico Paz,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Nico Paz,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Nico Paz,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Pending
+Nico Paz,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Pending
+Álex Valle,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
+Toma Bašić,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
+John Yeboah,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+John Yeboah,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+John Yeboah,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Kike Pérez,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Kike Pérez,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Kike Pérez,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Gianluca Busio,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Gianluca Busio,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,80,80,Pending
+Armel Bella-Kotchap,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Akor Adams,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Akor Adams,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Akor Adams,SOT 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Filip Stanković,Saves 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Antoine Hainaut,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Antoine Hainaut,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Redouane Halhal,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
+Redouane Halhal,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
+Juan Jesus,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
+Juan Jesus,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
+Como (team),Over 1.5,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Como (team),Corners 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Como (team),Corners 5+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
+Como (team),Match corners 9+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
+Como (team),SOT 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
 Miguel Navarro,Fouled 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,85,100,Pending
 Miguel Navarro,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,80,Pending
 Morgan Whittaker,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,88,80,Pending
@@ -1420,114 +1531,3 @@ Paris Saint-Germain (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 1
 Paris Saint-Germain (team),Scores 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
 Anthony Rouault,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
 Anthony Rouault,Tackles 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,80,80,Hit
-Issa Soumaré,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Hit
-Niels Nkounkou,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Mohamed Amoura,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Mohamed Amoura,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Hit
-Mohamed Abdelmonem,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
-Elye Wahi,SOT 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Hit
-Elye Wahi,Shots 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Mahamadou Nagida,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
-Xavier Mandza,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Brice Samba,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Did not play
-Brice Samba,Saves 3+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,100,Did not play
-Adrien Thomasson,Fouls 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Miss
-Adrien Thomasson,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Miss
-Valentin Rongier,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Sebastian Szymański,Tackles 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,83,80,Hit
-Yéhvann Diouf,Saves 2+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
-Mahdi Camara,Fouled 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,86,80,Miss
-Nice (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Rennes (team),Cards 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Rennes (team),Over 1.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
-Rennes (team),Over 2.5,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
-Rennes (team),SOT 4+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,100,Hit
-Rennes (team),Scores 1+,Nice v Rennes,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
-Artem Bondarenko,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
-Saad Yaslam,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),88,80,Hit
-Rayan Hamed,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Miss
-Zakaria Hawsawi,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Did not play
-Matheus Gonçalves,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Miss
-Valentin Atangana Edoa,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Hit
-Valentin Atangana Edoa,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Hit
-Valentin Atangana Edoa,Fouls 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Miss
-Saeed Baattia,Fouled 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,100,Hit
-Saeed Baattia,Tackles 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Hit
-Al Ahli (team),Corners 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Miss
-Al Ahli (team),Over 1.5,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Hit
-Al Ahli (team),Over 2.5,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Hit
-Al Ahli (team),SOT 4+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,100,Hit
-Al Ahli (team),Scores 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Hit
-Ivan Toney,SOT 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Did not play
-Ivan Toney,SOT 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),89,100,Did not play
-Ivan Toney,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Did not play
-Ivan Toney,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),100,100,Did not play
-Trincão,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,80,Hit
-Trincão,Shots 2+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Hit
-Galeno,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),86,80,Hit
-Eduard Spertsyan,Fouls 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),80,80,Did not play
-Eduard Spertsyan,Shots 1+,Al Shabab v Al Ahli,Fri 30 Oct · 18:00,Saudi Pro League (top 5),90,100,Did not play
-Roland Sallai,Fouled 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
-Roland Sallai,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
-Roland Sallai,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
-Lucas Torreira,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
-Lucas Torreira,Tackles 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
-Victor Osimhen,SOT 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
-Victor Osimhen,SOT 2+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
-Victor Osimhen,Score or assist,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
-Victor Osimhen,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
-Victor Osimhen,Shots 2+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
-Yunus Akgün,Fouled 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
-Yunus Akgün,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
-Rafael Leão,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,80,Hit
-Galatasaray (team),Cards 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Hit
-Galatasaray (team),Corners 4+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Hit
-Galatasaray (team),Corners 5+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Hit
-Galatasaray (team),SOT 4+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
-Galatasaray (team),Scores 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
-Barış Alper Yılmaz,Fouls 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Did not play
-Barış Alper Yılmaz,Shots 1+,Konyaspor v Galatasaray,Fri 30 Oct · 17:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Did not play
-Dion Lopy,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Did not play
-Dion Lopy,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,100,Did not play
-Dion Lopy,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Did not play
-Faris Abdi,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Miss
-Faris Abdi,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Hit
-Faris Abdi,Tackles 2+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Miss
-Richard Ríos,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Miss
-Richard Ríos,Fouls 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Miss
-Richard Ríos,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Miss
-Richard Ríos,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Miss
-Jan-Carlo Šimić,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,80,Did not play
-Jan-Carlo Šimić,Tackles 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Did not play
-George Ilenikhena,SOT 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),88,80,Miss
-George Ilenikhena,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Hit
-Steven Bergwijn,Fouled 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,80,Hit
-Steven Bergwijn,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Miss
-Houssem Aouar,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),89,100,Hit
-Youssef En-Nesyri,Shots 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Hit
-Al Ittihad (team),Cards 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),100,100,Hit
-Al Ittihad (team),Over 1.5,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Hit
-Al Ittihad (team),SOT 4+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),80,100,Miss
-Al Ittihad (team),Scores 1+,Abha v Al Ittihad,Fri 30 Oct · 12:30,Saudi Pro League (top 5),90,100,Hit
-Marco Carnesecchi,Saves 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Hit
-Marco Carnesecchi,Saves 3+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Miss
-Lazar Samardžić,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Did not play
-Jonathan Rowe,Fouled 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Miss
-Jonathan Rowe,Fouled 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,83,80,Miss
-Jonathan Rowe,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,83,80,Hit
-Radu Drăgușin,Fouls 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Miss
-Cher Ndour,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Hit
-Viery,Fouls 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,86,80,Miss
-Alieu Njie,Fouled 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,86,100,Hit
-Alieu Njie,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,86,80,Hit
-Franco Mastantuono,Fouled 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Hit
-Franco Mastantuono,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Hit
-Franco Mastantuono,Shots 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Hit
-David de Gea,Saves 2+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Hit
-Nikola Krstović,Shots 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Hit
-Atalanta (team),Over 1.5,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Hit
-Atalanta (team),Scores 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Hit
-Fiorentina (team),Cards 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Hit
-Fiorentina (team),Over 1.5,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,100,100,Hit
-Fiorentina (team),Over 2.5,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,80,Hit
-Nicolò Fagioli,Tackles 1+,Fiorentina v Atalanta,Thu 29 Oct · 19:45,Serie A,88,100,Miss
