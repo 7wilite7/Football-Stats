@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:44 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 31 Oct 2026 13:45 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,3108,2280,73,90
 Tackles 1+,631,486,77,90
@@ -313,6 +313,9 @@ Ian Maatsen,Shots 1+,Aston Villa v Fulham,Sat 31 Oct · 20:00,Premier League,80,
 Ian Maatsen,Tackles 1+,Aston Villa v Fulham,Sat 31 Oct · 20:00,Premier League,100,100,Pending
 Fulham (team),Cards 1+,Aston Villa v Fulham,Sat 31 Oct · 20:00,Premier League,88,100,Pending
 Fulham (team),Corners 4+,Aston Villa v Fulham,Sat 31 Oct · 20:00,Premier League,88,80,Pending
+Steven Berghuis,Shots 1+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),100,100,Pending
+Steven Berghuis,Shots 2+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),83,80,Pending
+Steven Berghuis,SOT 1+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),83,80,Pending
 Strahinja Pavlović,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Pending
 Mario Gila,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Pending
 Koni De Winter,Fouls 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Pending
@@ -1528,6 +1531,3 @@ Le Havre (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Li
 Le Havre (team),Match corners 9+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Miss
 Le Havre (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
 Paris Saint-Germain (team),Corners 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Miss
-Paris Saint-Germain (team),Over 1.5,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,88,80,Hit
-Paris Saint-Germain (team),SOT 4+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
-Paris Saint-Germain (team),Scores 1+,Le Havre v Paris Saint-Germain,Fri 30 Oct · 18:00,Ligue 1,100,100,Hit
