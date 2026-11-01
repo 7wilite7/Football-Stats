@@ -1,31 +1,31 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 15:58 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 15:59 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4215,3102,74,90
-Tackles 1+,866,672,78,90
-Shots 1+,765,605,79,91
-Fouled 1+,472,326,69,90
-Fouls 1+,438,283,65,88
-Cards 1+,239,206,86,92
-Over 1.5,195,162,83,90
-Scores 1+,183,149,81,91
+All picks,4244,3127,74,90
+Tackles 1+,871,677,78,90
+Shots 1+,771,608,79,91
+Fouled 1+,475,329,69,90
+Fouls 1+,442,286,65,88
+Cards 1+,241,208,86,92
+Over 1.5,196,163,83,90
+Scores 1+,184,150,82,91
 Shots 2+,173,123,71,90
-Saves 2+,141,98,70,91
+Saves 2+,143,100,70,91
 SOT 1+,105,79,75,88
-SOT 4+,99,75,76,91
-Tackles 2+,95,53,56,88
+SOT 4+,100,76,76,90
+Tackles 2+,97,55,57,88
 Corners 4+,77,54,70,90
 Match corners 9+,51,32,63,89
 Over 2.5,46,28,61,87
 Saves 3+,39,26,67,90
 Fouled 2+,35,17,49,87
-Cards 2+,33,18,55,88
+Cards 2+,34,19,56,88
 Corners 5+,32,18,56,89
 BTTS,32,14,44,88
 Score or assist,26,17,65,85
 Win,19,13,68,89
 Match corners 10+,16,8,50,88
 Fouls 2+,15,6,40,88
-Match cards 4+,11,11,100,87
+Match cards 4+,12,12,100,88
 Goal 1+,8,5,62,86
 SOT 2+,3,3,100,86
 Booked,1,1,100,80
@@ -562,38 +562,38 @@ Celtic (team),Corners 5+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers
 Celtic (team),Match corners 9+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
 Celtic (team),SOT 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
 Celtic (team),Scores 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
-Juan Iglesias,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Juan Iglesias,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Juan Iglesias,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-Peque Fernández,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Peque Fernández,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Martín Satriano,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-Martín Satriano,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Pending
-Martín Satriano,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Pending
-Ramón Terrats,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Pending
-Ramón Terrats,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Pending
-Iván Azon,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Pending
-Arouna Sangante,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Kike Salas,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Lucas Stassin,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Andrés García,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Kiko,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,80,Pending
-Nemanja Gudelj,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,88,100,Pending
-Odysseas Vlachodimos,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-David Soria,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Gabriel Suazo,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Sevilla (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Sevilla (team),Over 1.5,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Sevilla (team),SOT 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Sevilla (team),Scores 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Getafe (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Getafe (team),Cards 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
-Getafe (team),Match cards 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Félix Correia,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Pending
-Youssouf Fofana,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,86,80,Pending
-Lucien Agoumé,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Pending
-Lucien Agoumé,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Pending
-Lucien Agoumé,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Pending
+Juan Iglesias,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
+Juan Iglesias,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
+Juan Iglesias,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Hit
+Peque Fernández,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Did not play
+Peque Fernández,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Did not play
+Martín Satriano,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Hit
+Martín Satriano,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Hit
+Martín Satriano,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,80,Hit
+Ramón Terrats,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Hit
+Ramón Terrats,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,89,80,Miss
+Iván Azon,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Miss
+Arouna Sangante,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Did not play
+Kike Salas,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
+Lucas Stassin,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
+Andrés García,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
+Kiko,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,80,Miss
+Nemanja Gudelj,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,88,100,Hit
+Odysseas Vlachodimos,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Hit
+David Soria,Saves 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
+Gabriel Suazo,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
+Sevilla (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
+Sevilla (team),Over 1.5,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
+Sevilla (team),SOT 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
+Sevilla (team),Scores 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
+Getafe (team),Cards 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
+Getafe (team),Cards 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Hit
+Getafe (team),Match cards 4+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
+Félix Correia,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,83,100,Hit
+Youssouf Fofana,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,86,80,Miss
+Lucien Agoumé,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
+Lucien Agoumé,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
+Lucien Agoumé,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Hit
 Ernest Muçi,SOT 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Ernest Muçi,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
 Ernest Muçi,Shots 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
