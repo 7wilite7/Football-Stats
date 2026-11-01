@@ -1,31 +1,31 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 17:33 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 17:34 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4430,3261,74,90
-Tackles 1+,909,702,77,90
-Shots 1+,796,627,79,91
-Fouled 1+,490,338,69,90
-Fouls 1+,461,301,65,88
-Cards 1+,249,213,86,92
+All picks,4456,3275,73,90
+Tackles 1+,915,706,77,90
+Shots 1+,800,630,79,91
+Fouled 1+,492,338,69,90
+Fouls 1+,463,301,65,88
+Cards 1+,251,215,86,92
 Over 1.5,205,171,83,90
 Scores 1+,191,155,81,91
-Shots 2+,184,131,71,90
-Saves 2+,149,104,70,91
+Shots 2+,185,132,71,90
+Saves 2+,151,104,69,91
 Shots on target 1+,110,82,75,88
 Shots on target 4+,106,81,76,91
-Tackles 2+,102,58,57,88
-Corners 4+,83,59,71,90
-Match corners 9+,57,36,63,89
+Tackles 2+,103,58,56,88
+Corners 4+,84,60,71,90
+Match corners 9+,58,36,62,89
 Over 2.5,49,31,63,87
 Saves 3+,41,28,68,90
 Fouled 2+,37,18,49,87
-Cards 2+,35,20,57,89
-Corners 5+,35,21,60,90
+Cards 2+,36,21,58,89
+Corners 5+,36,22,61,89
 BTTS,33,15,45,88
 Score or assist,27,18,67,85
 Win,21,15,71,89
-Match corners 10+,18,9,50,88
+Match corners 10+,19,9,47,88
 Fouls 2+,15,6,40,88
-Match cards 4+,14,12,86,88
+Match cards 4+,15,13,87,88
 Goal 1+,9,6,67,86
 Shots on target 2+,3,3,100,86
 Booked,1,1,100,80
@@ -475,36 +475,36 @@ Marc Cucurella,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La 
 Iñigo Vicente,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
 Iñigo Vicente,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Miss
 Iván Martin,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,88,80,Miss
-Ísak Jóhannesson,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Marin Ljubičić,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Tom Rothe,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Mikey Moore,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
-Jahmai Simpson-Pusey,Fouled 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Pending
-Saïd El Mala,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
-Saïd El Mala,Shots 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
-Saïd El Mala,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Pending
-Frederik Rønnow,Saves 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Rani Khedira,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Rani Khedira,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Janik Haberer,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-Marvin Schwäbe,Saves 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-Josip Juranović,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Alessio Castro-Montes,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,80,80,Pending
-Alessio Castro-Montes,Tackles 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,80,80,Pending
-Gideon Mensah,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Michel Aebischer,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Union Berlin (team),Cards 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Union Berlin (team),Cards 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Union Berlin (team),Match cards 4+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-András Schäfer,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Pending
-1. FC Köln (team),Cards 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Pending
-1. FC Köln (team),Corners 4+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-1. FC Köln (team),Corners 5+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-1. FC Köln (team),Match corners 10+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-1. FC Köln (team),Match corners 9+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-Linton Maina,Fouled 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-Sebastian Sebulonsen,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
-Tom Krauß,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
+Ísak Jóhannesson,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Miss
+Marin Ljubičić,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Did not play
+Tom Rothe,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Did not play
+Mikey Moore,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Hit
+Jahmai Simpson-Pusey,Fouled 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Miss
+Saïd El Mala,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Hit
+Saïd El Mala,Shots 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Hit
+Saïd El Mala,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,83,80,Miss
+Frederik Rønnow,Saves 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Miss
+Rani Khedira,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Miss
+Rani Khedira,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Hit
+Janik Haberer,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Hit
+Marvin Schwäbe,Saves 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Miss
+Josip Juranović,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Did not play
+Alessio Castro-Montes,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,80,80,Hit
+Alessio Castro-Montes,Tackles 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,80,80,Miss
+Gideon Mensah,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Did not play
+Michel Aebischer,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Hit
+Union Berlin (team),Cards 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Hit
+Union Berlin (team),Cards 2+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Hit
+Union Berlin (team),Match cards 4+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Hit
+András Schäfer,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Hit
+1. FC Köln (team),Cards 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,100,Hit
+1. FC Köln (team),Corners 4+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Hit
+1. FC Köln (team),Corners 5+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Hit
+1. FC Köln (team),Match corners 10+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Miss
+1. FC Köln (team),Match corners 9+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Miss
+Linton Maina,Fouled 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Miss
+Sebastian Sebulonsen,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Miss
+Tom Krauß,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Miss
 Patrizio Masini,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,80,Hit
 Anthony Oyono,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Did not play
 Anthony Oyono,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Did not play
