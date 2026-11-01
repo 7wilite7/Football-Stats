@@ -1,30 +1,30 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:53 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:54 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3743,2751,73,90
-Tackles 1+,774,598,77,90
-Shots 1+,665,524,79,91
-Fouled 1+,432,299,69,90
-Fouls 1+,395,255,65,88
-Cards 1+,209,181,87,92
-Over 1.5,165,139,84,90
-Scores 1+,154,126,82,91
-Shots 2+,153,110,72,90
+All picks,3783,2783,74,90
+Tackles 1+,783,607,78,90
+Shots 1+,673,531,79,91
+Fouled 1+,434,300,69,90
+Fouls 1+,399,258,65,88
+Cards 1+,210,182,87,92
+Over 1.5,166,140,84,90
+Scores 1+,156,128,82,91
+Shots 2+,156,112,72,90
 Saves 2+,125,87,70,91
-SOT 1+,94,71,76,88
-Tackles 2+,89,48,54,88
-SOT 4+,89,66,74,90
-Corners 4+,65,45,69,90
-Match corners 9+,43,29,67,90
-Over 2.5,43,27,63,88
+SOT 1+,97,72,74,88
+Tackles 2+,90,49,54,88
+SOT 4+,90,67,74,91
+Corners 4+,66,46,70,90
+Match corners 9+,44,29,66,90
+Over 2.5,44,28,64,88
 Saves 3+,37,25,68,91
 Fouled 2+,32,14,44,87
 Cards 2+,32,17,53,88
-Corners 5+,27,15,56,90
+Corners 5+,28,16,57,90
 BTTS,27,14,52,89
 Score or assist,24,16,67,85
 Win,17,11,65,89
 Fouls 2+,15,6,40,88
-Match corners 10+,14,8,57,88
+Match corners 10+,15,8,53,89
 Match cards 4+,11,11,100,87
 Goal 1+,8,5,62,86
 SOT 2+,3,3,100,86
@@ -1049,47 +1049,47 @@ Málaga (team),Match corners 9+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga
 Málaga (team),Over 1.5,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Hit
 Álvaro Vallés,Saves 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
 Álvaro Vallés,Saves 3+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Hit
-Nico Schlotterbeck,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,80,80,Pending
-Michael Olise,Fouled 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Michael Olise,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Michael Olise,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Michael Olise,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Pending
-Maximilian Beier,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Ismael Saibari,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Daniel Svensson,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Ethan Nwaneri,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,83,100,Pending
-Jobe Bellingham,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Nathaniel Brown,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Harry Kane,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Pending
-Harry Kane,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Harry Kane,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,Fouled 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Serhou Guirassy,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Serhou Guirassy,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Serhou Guirassy,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Joshua Kimmich,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,83,80,Pending
-Konrad Laimer,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Konrad Laimer,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Dayot Upamecano,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Pending
-Dayot Upamecano,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Dayot Upamecano,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Dayot Upamecano,Tackles 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Waldemar Anton,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Pending
-Joey Veerman,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,83,80,Pending
-Joey Veerman,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,83,100,Pending
-Min-Jae Kim,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Felix Nmecha,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Pending
-Borussia Dortmund (team),Cards 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Borussia Dortmund (team),Scores 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Pending
-Bayern München (team),Corners 4+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Bayern München (team),Corners 5+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Bayern München (team),Match corners 10+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Bayern München (team),Match corners 9+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Bayern München (team),Over 1.5,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Pending
-Bayern München (team),Over 2.5,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Pending
-Bayern München (team),SOT 4+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
-Bayern München (team),Scores 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Pending
+Nico Schlotterbeck,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,80,80,Hit
+Michael Olise,Fouled 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Miss
+Michael Olise,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Miss
+Michael Olise,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Michael Olise,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Hit
+Maximilian Beier,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Ismael Saibari,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Daniel Svensson,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Ethan Nwaneri,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,83,100,Did not play
+Jobe Bellingham,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Nathaniel Brown,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Harry Kane,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Miss
+Harry Kane,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Harry Kane,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Serhou Guirassy,Fouled 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Serhou Guirassy,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Miss
+Serhou Guirassy,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Serhou Guirassy,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Serhou Guirassy,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Miss
+Joshua Kimmich,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,83,80,Hit
+Konrad Laimer,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Konrad Laimer,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Dayot Upamecano,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Hit
+Dayot Upamecano,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Dayot Upamecano,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Dayot Upamecano,Tackles 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Waldemar Anton,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Hit
+Joey Veerman,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,83,80,Miss
+Joey Veerman,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,83,100,Hit
+Min-Jae Kim,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Felix Nmecha,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Hit
+Borussia Dortmund (team),Cards 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Borussia Dortmund (team),Scores 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,80,Hit
+Bayern München (team),Corners 4+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Bayern München (team),Corners 5+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Bayern München (team),Match corners 10+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Miss
+Bayern München (team),Match corners 9+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Miss
+Bayern München (team),Over 1.5,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Hit
+Bayern München (team),Over 2.5,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Hit
+Bayern München (team),SOT 4+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Hit
+Bayern München (team),Scores 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,86,100,Hit
 Yéremi Pino,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,88,100,Hit
 Yéremi Pino,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,88,80,Miss
 Mathys Tel,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,83,80,Hit
