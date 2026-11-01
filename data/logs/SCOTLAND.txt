@@ -1,4 +1,3 @@
 ===== SCOTLAND
 fixtures 198 table 12 scope ['Rangers', 'Celtic', 'Heart of Midlothian']
-WARN no player stats yet /matches/st-johnstone-vs-kilmarnock/2eov7t#5793967
-SCOTLAND {'new_matches': 1, 'cached': 67, 'run_seconds': 16, 'at': '2026-10-31T16:57Z'}
+SCOTLAND {'new_matches': 1, 'cached': 68, 'run_seconds': 13, 'at': '2026-11-01T07:02Z'}
