@@ -1,32 +1,32 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:13 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:15 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4364,3213,74,90
-Tackles 1+,898,695,77,90
-Shots 1+,791,623,79,91
-Fouled 1+,485,334,69,90
-Fouls 1+,452,293,65,88
-Cards 1+,245,211,86,92
-Over 1.5,201,167,83,90
-Scores 1+,189,153,81,91
-Shots 2+,182,129,71,90
-Saves 2+,148,104,70,91
-Shots on target 1+,108,80,74,88
-Shots on target 4+,104,80,77,91
-Tackles 2+,100,57,57,88
-Corners 4+,82,59,72,90
-Match corners 9+,55,35,64,89
-Over 2.5,46,28,61,87
+All picks,4401,3238,74,90
+Tackles 1+,904,699,77,90
+Shots 1+,793,624,79,91
+Fouled 1+,487,335,69,90
+Fouls 1+,460,300,65,88
+Cards 1+,247,212,86,92
+Over 1.5,203,169,83,90
+Scores 1+,190,154,81,91
+Shots 2+,183,130,71,90
+Saves 2+,149,104,70,91
+Shots on target 1+,109,81,74,88
+Shots on target 4+,105,80,76,91
+Tackles 2+,102,58,57,88
+Corners 4+,83,59,71,90
+Match corners 9+,56,35,62,89
+Over 2.5,47,29,62,87
 Saves 3+,41,28,68,90
+Fouled 2+,36,18,50,87
 Corners 5+,35,21,60,90
-Fouled 2+,35,17,49,87
 Cards 2+,34,19,56,88
-BTTS,32,14,44,88
-Score or assist,26,17,65,85
+BTTS,33,15,45,88
+Score or assist,27,18,67,85
 Win,20,14,70,89
-Match corners 10+,16,8,50,88
+Match corners 10+,17,8,47,88
 Fouls 2+,15,6,40,88
 Match cards 4+,12,12,100,88
-Goal 1+,8,5,62,86
+Goal 1+,9,6,67,86
 Shots on target 2+,3,3,100,86
 Booked,1,1,100,80
 
@@ -523,46 +523,46 @@ Lazio (team),Win,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Hit
 Nuno Tavares,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Hit
 Elia Caprile,Saves 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Hit
 Kenneth Taylor,Fouled 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Hit
-Cameron Archer,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Cameron Archer,Goal 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Cameron Archer,Shots on target 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Cameron Archer,Score or assist,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Cameron Archer,Shots 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Cameron Archer,Shots 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Filip Jörgensen,Saves 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Fredrik Oppegård,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,100,Pending
-Kévin Danois,Fouled 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Kévin Danois,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Kévin Danois,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
-Jeyland Mitchell,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,100,Pending
-Jeyland Mitchell,Tackles 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,100,Pending
-Mamadou Diop,Saves 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Mamadou Diop,Saves 3+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Clément Akpa,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Pape Demba Diop,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
-Pape Demba Diop,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Pape Demba Diop,Tackles 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Christ Makosso,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
-Gessime Yassine,Fouled 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Gessime Yassine,Fouled 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Gessime Yassine,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Gessime Yassine,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Genesis Antwi,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Diogo Sousa,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,80,Pending
-Danny Namaso,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Danny Namaso,Shots 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Danny Namaso,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),BTTS,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Cards 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Corners 4+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Match corners 10+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Match corners 9+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Over 1.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
-Auxerre (team),Shots on target 4+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Pending
-Auxerre (team),Scores 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Strasbourg (team),Cards 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Strasbourg (team),Over 1.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
-Strasbourg (team),Over 2.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Pending
+Cameron Archer,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Hit
+Cameron Archer,Goal 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Hit
+Cameron Archer,Shots on target 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Hit
+Cameron Archer,Score or assist,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Hit
+Cameron Archer,Shots 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Hit
+Cameron Archer,Shots 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Hit
+Filip Jörgensen,Saves 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Miss
+Fredrik Oppegård,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,100,Hit
+Kévin Danois,Fouled 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Miss
+Kévin Danois,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Kévin Danois,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Miss
+Jeyland Mitchell,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,100,Miss
+Jeyland Mitchell,Tackles 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,100,Miss
+Mamadou Diop,Saves 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Did not play
+Mamadou Diop,Saves 3+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Did not play
+Clément Akpa,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Pape Demba Diop,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Miss
+Pape Demba Diop,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Pape Demba Diop,Tackles 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Christ Makosso,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Hit
+Gessime Yassine,Fouled 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Gessime Yassine,Fouled 2+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Gessime Yassine,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Gessime Yassine,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Hit
+Genesis Antwi,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Did not play
+Diogo Sousa,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,86,80,Hit
+Danny Namaso,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Danny Namaso,Shots 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Miss
+Danny Namaso,Tackles 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Auxerre (team),BTTS,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Auxerre (team),Cards 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Auxerre (team),Corners 4+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Miss
+Auxerre (team),Match corners 10+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Miss
+Auxerre (team),Match corners 9+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Miss
+Auxerre (team),Over 1.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
+Auxerre (team),Shots on target 4+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,100,Miss
+Auxerre (team),Scores 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Hit
+Strasbourg (team),Cards 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Miss
+Strasbourg (team),Over 1.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Hit
+Strasbourg (team),Over 2.5,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,88,80,Hit
 Sondre Ørjasæter,Shots 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),100,100,Miss
 Aske Adelgaard,Fouls 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),86,80,Hit
 Aske Adelgaard,Tackles 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),86,80,Hit
