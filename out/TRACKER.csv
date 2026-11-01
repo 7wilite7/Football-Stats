@@ -1,19 +1,19 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 07:02 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4209,3097,74,90
-Tackles 1+,864,671,78,90
-Shots 1+,764,604,79,91
+All picks,4215,3102,74,90
+Tackles 1+,866,672,78,90
+Shots 1+,765,605,79,91
 Fouled 1+,472,326,69,90
 Fouls 1+,438,283,65,88
 Cards 1+,239,206,86,92
-Over 1.5,194,161,83,90
-Scores 1+,182,148,81,91
+Over 1.5,195,162,83,90
+Scores 1+,183,149,81,91
 Shots 2+,173,123,71,90
 Saves 2+,141,98,70,91
 SOT 1+,105,79,75,88
 SOT 4+,99,75,76,91
 Tackles 2+,95,53,56,88
-Corners 4+,76,53,70,90
+Corners 4+,77,54,70,90
 Match corners 9+,51,32,63,89
 Over 2.5,46,28,61,87
 Saves 3+,39,26,67,90
@@ -1171,14 +1171,14 @@ Roma (team),SOT 4+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
 Roma (team),Scores 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
 Jurgen Ekkelenkamp,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Miss
 Leonardo Balerdi,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,83,80,Did not play
-Kerem Aktürkoglu,Shots 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-N'Golo Kanté,Tackles 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Nélson Semedo,Tackles 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
-Fenerbahçe (team),Corners 4+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
-Fenerbahçe (team),Over 1.5,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Fenerbahçe (team),Scores 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Mason Greenwood,Shots 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Mason Greenwood,Shots 2+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Kerem Aktürkoglu,Shots 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+N'Golo Kanté,Tackles 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
+Nélson Semedo,Tackles 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Miss
+Fenerbahçe (team),Corners 4+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Hit
+Fenerbahçe (team),Over 1.5,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
+Fenerbahçe (team),Scores 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
+Mason Greenwood,Shots 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Did not play
+Mason Greenwood,Shots 2+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Did not play
 Feyenoord (team),Corners 4+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),80,100,Hit
 Feyenoord (team),Corners 5+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),80,100,Hit
 Feyenoord (team),Match corners 9+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),80,100,Miss
