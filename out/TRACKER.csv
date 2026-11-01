@@ -1,29 +1,29 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:51 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:52 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3614,2649,73,90
-Tackles 1+,747,575,77,90
-Shots 1+,640,503,79,91
-Fouled 1+,421,290,69,90
-Fouls 1+,384,248,65,88
-Cards 1+,203,175,86,92
-Over 1.5,159,133,84,90
-Shots 2+,149,107,72,90
-Scores 1+,148,120,81,91
-Saves 2+,117,82,70,91
-SOT 1+,89,68,76,88
-Tackles 2+,86,46,53,88
-SOT 4+,85,62,73,90
-Corners 4+,62,44,71,91
-Match corners 9+,42,28,67,90
-Over 2.5,42,26,62,88
-Saves 3+,34,23,68,91
+All picks,3697,2714,73,90
+Tackles 1+,764,590,77,90
+Shots 1+,653,514,79,91
+Fouled 1+,429,296,69,90
+Fouls 1+,391,253,65,88
+Cards 1+,208,180,87,92
+Over 1.5,162,136,84,90
+Scores 1+,151,123,81,91
+Shots 2+,151,109,72,90
+Saves 2+,122,85,70,91
+SOT 1+,92,69,75,88
+Tackles 2+,89,48,54,88
+SOT 4+,87,64,74,90
+Corners 4+,65,45,69,90
+Match corners 9+,43,29,67,90
+Over 2.5,43,27,63,88
+Saves 3+,37,25,68,91
 Fouled 2+,32,14,44,87
 Cards 2+,32,17,53,88
 Corners 5+,27,15,56,90
-BTTS,26,14,54,89
-Score or assist,23,15,65,85
-Win,15,10,67,89
-Fouls 2+,14,6,43,87
+BTTS,27,14,52,89
+Score or assist,24,16,67,85
+Win,16,11,69,89
+Fouls 2+,15,6,40,88
 Match corners 10+,14,8,57,88
 Match cards 4+,11,11,100,87
 Goal 1+,8,5,62,86
@@ -32,240 +32,240 @@ Booked,1,1,100,80
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
-Ronald Hernández,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,81,100,Pending
+Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,80,100,Pending
+Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,100,Pending
+Portland Timbers (team),Over 1.5,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Pending
 Ezequiel Ponce,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,88,80,Pending
-Mateusz Bogusz,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Pending
-Mateusz Bogusz,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,84,100,Pending
+Houston Dynamo FC (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,80,Pending
+Ronald Hernández,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,81,100,Pending
+Kristoffer Velde,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,97,100,Pending
 Kristoffer Velde,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,100,100,Pending
 Kristoffer Velde,Shots 2+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,87,80,Pending
-Kristoffer Velde,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,97,100,Pending
-Cole Bassett,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,96,100,Pending
-Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,80,100,Pending
 Lyle Foster,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,83,100,Pending
-Houston Dynamo FC (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,80,Pending
-Portland Timbers (team),Over 1.5,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Pending
-Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,100,Pending
-Kelvin Yeboah,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
-Kelvin Yeboah,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Pending
-Kelvin Yeboah,SOT 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Pending
+Mateusz Bogusz,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,84,100,Pending
+Mateusz Bogusz,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Pending
+Cole Bassett,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,96,100,Pending
+Leo Walta,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
 Anthony Markanich,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,87,80,Pending
 Anthony Markanich,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Pending
-Heung-Min Son,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
-Heung-Min Son,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,86,100,Pending
-Denis Bouanga,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
-Eddie Segura,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,84,80,Pending
-Evgen Cheberko,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Pending
 Cherrion Valerius,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
 Cherrion Valerius,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
 Cherrion Valerius,Tackles 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,80,80,Pending
-Leo Walta,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
-Minnesota United (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,80,Pending
 Minnesota United (team),Cards 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,91,80,Pending
+Minnesota United (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,80,Pending
+Heung-Min Son,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
+Heung-Min Son,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,86,100,Pending
+Denis Bouanga,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
+Evgen Cheberko,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Pending
+Eddie Segura,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,84,80,Pending
 Los Angeles FC (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,80,Pending
-Carles Gil,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,97,100,Pending
-Matt Turner,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,81,100,Pending
+Kelvin Yeboah,SOT 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Pending
+Kelvin Yeboah,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
+Kelvin Yeboah,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Pending
 Dor Turgeman,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,94,100,Pending
-Brooklyn Raines,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
-Brooklyn Raines,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
-Will Sands,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,84,80,Pending
-Rodrigo De Paul,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,100,Pending
-Germán Berterame,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,89,80,Pending
+Rocco Ríos Novo,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,100,100,Pending
+Matías Galarza,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,80,Pending
+Gonzalo Luján,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,100,Pending
 Micael,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
+Brooklyn Raines,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
+Brooklyn Raines,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
+Will Sands,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,84,80,Pending
+Peyton Miller,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,100,Pending
 Yannick Bright,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,88,80,Pending
 Yannick Bright,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
-Mamadou Fofana,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,80,Pending
-Gonzalo Luján,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,100,Pending
-Matías Galarza,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,80,Pending
-Rocco Ríos Novo,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,100,100,Pending
-Peyton Miller,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,100,Pending
-New England Revolution (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,81,80,Pending
+Rodrigo De Paul,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,100,Pending
+Carles Gil,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,97,100,Pending
 New England Revolution (team),Cards 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,84,100,Pending
-Inter Miami CF (team),Scores 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,91,80,Pending
-Inter Miami CF (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,94,100,Pending
+New England Revolution (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,81,80,Pending
+Matt Turner,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,81,100,Pending
+Germán Berterame,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,89,80,Pending
+Mamadou Fofana,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,80,Pending
 Inter Miami CF (team),Cards 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,97,80,Pending
-Miguel Almirón,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Miguel Almirón,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,100,Pending
-Juan Berrocal,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Tomás Jacob,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,89,80,Pending
-Emil Forsberg,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,86,100,Pending
+Inter Miami CF (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,94,100,Pending
+Inter Miami CF (team),Scores 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,91,80,Pending
 Cade Cowell,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,87,100,Pending
+Patrick Yazbek,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,100,Pending
+Elias Saad,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,87,80,Pending
+Matthew Corcoran,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,86,100,Pending
 Julian Hall,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,100,Pending
+Mohammed Sofo,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,80,100,Pending
 Adri Mehmeti,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,83,100,Pending
-Dániel Sallói,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,88,100,Pending
-Raheem Edwards,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,85,80,Pending
-Raheem Edwards,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
-Richie Laryea,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
-Richie Laryea,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,80,Pending
-José Cifuentes,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,90,80,Pending
+Emil Forsberg,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,86,100,Pending
 Hany Mukhtar,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,100,100,Pending
 Hany Mukhtar,Shots 2+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,100,Pending
 Jeisson Palacios,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
-Sam Surridge,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
+Red Bull New York (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,94,80,Pending
+Red Bull New York (team),Over 1.5,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,100,Pending
 Sam Surridge,SOT 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
-Patrick Yazbek,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,100,Pending
-Matthew Corcoran,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,86,100,Pending
-Joshua Sargent,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,88,80,Pending
-Mohammed Sofo,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,80,100,Pending
+Sam Surridge,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
+Nashville SC (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,80,Pending
+Nashville SC (team),Scores 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
+José Cifuentes,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,90,80,Pending
 Matheus Pereira,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,100,Pending
+Tomás Jacob,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,89,80,Pending
+Mauricio Amaro,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
+Miguel Almirón,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,100,Pending
+Miguel Almirón,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
 Júnior Alonso,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,81,80,Pending
-Niklas Dorsch,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
-Niklas Dorsch,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Niklas Dorsch,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,100,Pending
-Elias Saad,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,87,80,Pending
+Breel Embolo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
 Breel Embolo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
 Breel Embolo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,80,Pending
-Breel Embolo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Mauricio Amaro,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
+Toronto FC (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,80,Pending
+Toronto FC (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,91,100,Pending
+Toronto FC (team),Scores 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,100,Pending
+Dániel Sallói,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,88,100,Pending
+Raheem Edwards,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,85,80,Pending
+Raheem Edwards,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
+Niklas Dorsch,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
+Niklas Dorsch,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
+Niklas Dorsch,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,100,Pending
+Richie Laryea,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
+Richie Laryea,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,80,Pending
+Atlanta United (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
+Atlanta United (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,100,Pending
+Joshua Sargent,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,88,80,Pending
+Juan Berrocal,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
+Giuliano Galoppo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,100,Pending
 Giuliano Galoppo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
 Giuliano Galoppo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,100,Pending
-Giuliano Galoppo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,100,Pending
 Giuliano Galoppo,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,80,Pending
-Atlanta United (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,100,Pending
-Atlanta United (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Red Bull New York (team),Over 1.5,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,100,Pending
-Red Bull New York (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,94,80,Pending
-Toronto FC (team),Scores 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,100,Pending
-Toronto FC (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,91,100,Pending
-Toronto FC (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,80,Pending
-Nashville SC (team),Scores 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
-Nashville SC (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,80,Pending
-Brian White,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,97,80,Pending
-Brian White,Shots 2+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,87,80,Pending
 Mathías Laborda,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,81,80,Pending
-Sebastian Berhalter,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
-Sebastian Berhalter,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
 Sebastian Berhalter,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
+Sebastian Berhalter,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
+Sebastian Berhalter,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
 Sebastian Berhalter,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,80,Pending
-Édier Ocampo,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,86,100,Pending
+Seattle Sounders FC (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,84,80,Pending
 Édier Ocampo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,82,100,Pending
+Édier Ocampo,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,86,100,Pending
 Jeevan Badwal,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,91,100,Pending
-Dejan Joveljić,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
-Dejan Joveljić,SOT 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,83,100,Pending
+Kee-Hee Kim,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,86,80,Pending
+Vancouver Whitecaps (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,91,80,Pending
+Ryan Gauld,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,83,80,Pending
 Albert Rusnák,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,90,80,Pending
 Cristian Roldan,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,92,80,Pending
+Dejan Joveljić,SOT 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,83,100,Pending
+Dejan Joveljić,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
 Nouhou Tolo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,81,100,Pending
-Kee-Hee Kim,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,86,80,Pending
-Ryan Gauld,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,83,80,Pending
-Vancouver Whitecaps (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,91,80,Pending
-Seattle Sounders FC (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,84,80,Pending
-Alex Remiro,Saves 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,80,Pending
-Mikel Oyarzabal,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
-Sergio Gómez,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
-Luka Sučić,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,80,Pending
+Brian White,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,97,80,Pending
+Brian White,Shots 2+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,87,80,Pending
+Robert Navarro,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Pending
+Nico Williams,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
 Beñat Turrientes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
 Beñat Turrientes,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
 Beñat Turrientes,Tackles 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
 Jon Aramburu,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,88,80,Pending
 Jon Aramburu,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,88,100,Pending
-Oihan Sancet,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Oihan Sancet,Shots 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Oihan Sancet,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,83,80,Pending
-Nico Williams,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
 Beñat Gerenabarrena,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Pending
 Beñat Gerenabarrena,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Pending
+Mamadou Sarr,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
+Mamadou Sarr,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
+Mamadou Sarr,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
 Hugo Rincón,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
 Gonçalo Guedes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Robert Navarro,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Pending
-Mamadou Sarr,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
-Mamadou Sarr,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Mamadou Sarr,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Real Sociedad (team),Over 1.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
-Real Sociedad (team),Over 2.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
+Alex Remiro,Saves 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,80,Pending
+Mikel Oyarzabal,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
+Athletic Club (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,100,Pending
+Sergio Gómez,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
+Real Sociedad (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
+Real Sociedad (team),Cards 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
 Real Sociedad (team),Corners 4+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
 Real Sociedad (team),Corners 5+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
 Real Sociedad (team),Match corners 9+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
-Real Sociedad (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Real Sociedad (team),Cards 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
-Athletic Club (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,100,Pending
-Amir Rrahmani,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,88,80,Pending
-Frank Anguissa,Fouled 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,83,80,Pending
-Noa Lang,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,86,100,Pending
-Noa Lang,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
-Scott McTominay,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
-Scott McTominay,SOT 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,83,80,Pending
+Real Sociedad (team),Over 1.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
+Real Sociedad (team),Over 2.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
+Oihan Sancet,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,83,80,Pending
+Oihan Sancet,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
+Oihan Sancet,Shots 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
+Luka Sučić,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,80,Pending
 Rasmus Højlund,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,100,Pending
 Rafa Marín,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
-Douglas Luiz,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
-Douglas Luiz,Fouled 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,100,Pending
-Randal Kolo Muani,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
-Randal Kolo Muani,Fouls 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
-Gleison Bremer,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
 Vanja Milinković-Savić,Saves 2+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
-Napoli (team),Scores 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
+Amir Rrahmani,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,88,80,Pending
+Frank Anguissa,Fouled 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,83,80,Pending
+Douglas Luiz,Fouled 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,100,Pending
+Douglas Luiz,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
+Randal Kolo Muani,Fouls 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
+Randal Kolo Muani,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
+Noa Lang,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,86,100,Pending
+Noa Lang,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
+Scott McTominay,SOT 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,83,80,Pending
+Scott McTominay,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
+Gleison Bremer,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
 Napoli (team),Match corners 9+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
-Juventus (team),Over 1.5,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,100,Pending
+Napoli (team),Scores 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
 Juventus (team),Corners 4+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Pending
-Pierre-Emile Højbjerg,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,80,Pending
+Juventus (team),Over 1.5,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,100,Pending
+Casper Tengstedt,SOT 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
+Casper Tengstedt,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
+Casper Tengstedt,Shots 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
+Igor Paixão,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,80,Pending
+Tochukwu Nnadi,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
+Thomas Jørgensen,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
+Niko Sigur,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
+Julián Vignolo,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
+Rafik Messali,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
+Ilyas Azizi,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
+Ilyas Azizi,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
+Seny Koumbassa,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
 Pierre-Emile Højbjerg,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
+Pierre-Emile Højbjerg,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,80,Pending
+Rasmus Nicolaisen,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
+Rasmus Nicolaisen,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
 Jeffrey De Lange,Saves 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
 Amine Harit,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
 Amine Harit,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
-Timothy Weah,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,100,Pending
-Timothy Weah,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,80,Pending
-Igor Paixão,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,80,Pending
-Tochukwu Nnadi,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Rasmus Nicolaisen,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Rasmus Nicolaisen,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Cristian Cásseres,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
 Cristian Cásseres,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
+Cristian Cásseres,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
 Cristian Cásseres,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
 Cristian Cásseres,Tackles 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Mark McKenzie,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
-Mark McKenzie,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
-Thomas Jørgensen,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Julián Vignolo,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Rafik Messali,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Ilyas Azizi,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
-Ilyas Azizi,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
-Seny Koumbassa,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Casper Tengstedt,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Casper Tengstedt,Shots 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Casper Tengstedt,SOT 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
-Niko Sigur,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
 Marseille (team),Over 1.5,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
+Timothy Weah,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,80,Pending
+Timothy Weah,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,100,Pending
+Mark McKenzie,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
+Mark McKenzie,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
 Toulouse (team),Cards 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
-Matías Dituro,Saves 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Tete Morente,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
-Gonzalo Villar,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Gonzalo Villar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
+Valencia (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
+Valencia (team),Cards 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
+Elche (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
+Elche (team),Match cards 4+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
 David Affengruber,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
 Germán Valera,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
 Fer Niño,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
 Víctor Chust,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
 Federico Redondo,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
+César Tárrega,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
 Buba Sangaré,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,89,100,Pending
+Ryunosuke Sato,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
 Ali Houary,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
+Thomas Lemar,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
+Thomas Lemar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,100,Pending
 Guido Rodríguez,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
 Guido Rodríguez,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
 Guido Rodríguez,Tackles 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,100,Pending
+Matías Dituro,Saves 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
 Pepelu,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Arnaut Danjuma,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
 Arnaut Danjuma,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-César Tárrega,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
-Ryunosuke Sato,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
-Thomas Lemar,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
-Thomas Lemar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,100,Pending
-Elche (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
-Elche (team),Match cards 4+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
-Valencia (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
-Valencia (team),Cards 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
+Arnaut Danjuma,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
+Tete Morente,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
+Gonzalo Villar,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
+Gonzalo Villar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
+Genoa (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
+Lorenzo Colombo,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,86,80,Pending
+Jamil Siebert,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
+Tommaso Baldanzi,Shots 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,83,80,Pending
+Danilo Veiga,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
+Danilo Veiga,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
+Oumar Ngom,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
+Alessandro Marcandalli,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
+Samuel Wiafe,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,100,100,Pending
 Djibril Sow,Fouled 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,80,80,Pending
 Djibril Sow,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,80,80,Pending
 Leo Østigard,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,100,100,Pending
 Johan Vásquez,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,88,80,Pending
 Morten Frendrup,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
-Lorenzo Colombo,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,86,80,Pending
-Tommaso Baldanzi,Shots 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,83,80,Pending
-Alessandro Marcandalli,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
-Jamil Siebert,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
-Danilo Veiga,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
-Danilo Veiga,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
-Oumar Ngom,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
 Milutin Osmajić,Shots 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,88,80,Pending
-Samuel Wiafe,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,100,100,Pending
-Genoa (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
-Lecce (team),Over 1.5,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
 Lecce (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
+Lecce (team),Over 1.5,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
 Florian Wirtz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Miloš Kerkez,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Miloš Kerkez,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
@@ -754,35 +754,35 @@ Ajax (team),Over 2.5,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),80
 Ajax (team),SOT 4+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),100,100,Pending
 Ajax (team),Scores 1+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),100,100,Pending
 Peer Koopmeiners,Tackles 1+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),90,80,Pending
-Pablo Ibánez,Fouled 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,100,Pending
-Pablo Ibánez,Fouls 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,80,80,Pending
-Fermín López,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Pending
-Lamine Yamal,Fouled 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,100,Pending
-Lamine Yamal,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Pending
-Lamine Yamal,Shots 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Pending
-Pau Cubarsí,Tackles 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,86,80,Pending
-Ángel Pérez,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Pending
-Jonny Otto,Tackles 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,88,80,Pending
-Antonio Sivera,Saves 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,80,Pending
-Lucas Boyé,Fouls 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Pending
-Lucas Boyé,Fouls 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,100,Pending
-Lucas Boyé,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Pending
-Rodri,Tackles 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,100,Pending
-Raphinha,SOT 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Pending
-Raphinha,Score or assist,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Pending
-Raphinha,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Pending
-Raphinha,Shots 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Pending
-Nahuel Tenaglia,Fouled 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,100,Pending
-Nahuel Tenaglia,Tackles 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Pending
-Nahuel Tenaglia,Tackles 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,80,80,Pending
-Barcelona (team),Corners 4+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,80,80,Pending
-Barcelona (team),Over 1.5,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Pending
-Barcelona (team),Over 2.5,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,100,Pending
-Barcelona (team),SOT 4+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Pending
-Barcelona (team),Scores 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Pending
-Barcelona (team),Win,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,80,Pending
-Anthony Gordon,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Pending
-Deportivo Alavés (team),Cards 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,80,Pending
+Pablo Ibánez,Fouled 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,100,Hit
+Pablo Ibánez,Fouls 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,80,80,Hit
+Fermín López,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Hit
+Lamine Yamal,Fouled 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,100,Hit
+Lamine Yamal,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Hit
+Lamine Yamal,Shots 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Hit
+Pau Cubarsí,Tackles 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,86,80,Hit
+Ángel Pérez,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Hit
+Jonny Otto,Tackles 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,88,80,Hit
+Antonio Sivera,Saves 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,80,Miss
+Lucas Boyé,Fouls 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Hit
+Lucas Boyé,Fouls 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,100,Miss
+Lucas Boyé,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Hit
+Rodri,Tackles 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,100,Hit
+Raphinha,SOT 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Hit
+Raphinha,Score or assist,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Hit
+Raphinha,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Hit
+Raphinha,Shots 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Hit
+Nahuel Tenaglia,Fouled 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,100,Miss
+Nahuel Tenaglia,Tackles 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Miss
+Nahuel Tenaglia,Tackles 2+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,80,80,Miss
+Barcelona (team),Corners 4+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,80,80,Miss
+Barcelona (team),Over 1.5,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Hit
+Barcelona (team),Over 2.5,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,100,Hit
+Barcelona (team),SOT 4+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Hit
+Barcelona (team),Scores 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,100,100,Hit
+Barcelona (team),Win,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,80,Hit
+Anthony Gordon,Shots 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,89,80,Hit
+Deportivo Alavés (team),Cards 1+,Barcelona v Deportivo Alavés,Sat 31 Oct · 20:00,La Liga,90,80,Hit
 Steven Berghuis,SOT 1+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),83,80,Pending
 Steven Berghuis,Shots 1+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),100,100,Pending
 Steven Berghuis,Shots 2+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),83,80,Pending
@@ -1018,37 +1018,37 @@ PSV Eindhoven (team),SOT 4+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Erediv
 PSV Eindhoven (team),Scores 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),100,100,Pending
 Mauro Júnior,Tackles 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),100,100,Pending
 Lutsharel Geertruida,Shots 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),83,80,Pending
-David Larrubia,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Pending
-David Larrubia,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Abdessamad Ezzalzouli,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,86,100,Pending
-Abdessamad Ezzalzouli,SOT 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,86,100,Pending
-Abdessamad Ezzalzouli,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,86,100,Pending
-Valentín Gómez,Fouls 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Pending
-Valentín Gómez,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Pending
-Adrián Niño,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Adam Aznou,Fouls 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Adam Aznou,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Adam Aznou,Tackles 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Ángel Ortiz,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Chupe,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Pending
-Rafita,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,100,Pending
-Rafita,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,100,Pending
-Marc Bartra,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,83,80,Pending
-Alfonso Herrero,Saves 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Alfonso Herrero,Saves 3+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Pending
-Marc Roca,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Fran García,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,88,100,Pending
-Fran García,Tackles 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,88,100,Pending
-Real Betis (team),Cards 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,100,Pending
-Real Betis (team),Corners 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Pending
-Real Betis (team),SOT 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Pending
-Real Betis (team),Scores 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Pending
-Málaga (team),Cards 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Málaga (team),Corners 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Pending
-Málaga (team),Match corners 9+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,100,Pending
-Málaga (team),Over 1.5,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Pending
-Álvaro Vallés,Saves 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Pending
-Álvaro Vallés,Saves 3+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Pending
+David Larrubia,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Miss
+David Larrubia,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Abdessamad Ezzalzouli,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,86,100,Hit
+Abdessamad Ezzalzouli,SOT 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,86,100,Miss
+Abdessamad Ezzalzouli,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,86,100,Hit
+Valentín Gómez,Fouls 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Did not play
+Valentín Gómez,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Did not play
+Adrián Niño,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Adam Aznou,Fouls 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Adam Aznou,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Adam Aznou,Tackles 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Ángel Ortiz,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Chupe,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Hit
+Rafita,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,100,Hit
+Rafita,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,100,Hit
+Marc Bartra,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,83,80,Hit
+Alfonso Herrero,Saves 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Alfonso Herrero,Saves 3+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Hit
+Marc Roca,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Fran García,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,88,100,Hit
+Fran García,Tackles 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,88,100,Hit
+Real Betis (team),Cards 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,100,Hit
+Real Betis (team),Corners 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Hit
+Real Betis (team),SOT 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Hit
+Real Betis (team),Scores 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Hit
+Málaga (team),Cards 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Málaga (team),Corners 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Miss
+Málaga (team),Match corners 9+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,100,Hit
+Málaga (team),Over 1.5,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,80,80,Hit
+Álvaro Vallés,Saves 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,100,100,Hit
+Álvaro Vallés,Saves 3+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,90,80,Hit
 Nico Schlotterbeck,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,80,80,Pending
 Michael Olise,Fouled 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
 Michael Olise,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,100,100,Pending
@@ -1199,34 +1199,34 @@ Ayase Ueda,Fouled 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie 
 Ayase Ueda,SOT 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),100,100,Pending
 Ayase Ueda,Shots 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),100,100,Pending
 Ayase Ueda,Shots 2+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),100,100,Pending
-Sebastián Cáceres,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Ferrán Jutglà,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,100,Pending
-Ilaix Moriba,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,100,Pending
-Hugo González,SOT 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Pending
-Hugo González,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Pending
-Yoel Lago,Fouled 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,100,Pending
-Florian Lejeune,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,80,Pending
-Florian Lejeune,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,100,Pending
-Florian Lejeune,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,80,Pending
-Marcos Alonso,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,88,80,Pending
-Álvaro Garcia,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,100,Pending
-Unai López,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Emil Audero,Saves 2+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Emil Audero,Saves 3+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Pending
-Aleix Febas,Fouled 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Aleix Febas,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Pending
-Aleix Febas,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Ionuț Radu,Saves 2+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Pending
-Rayo Vallecano (team),BTTS,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,80,Pending
-Rayo Vallecano (team),Cards 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Rayo Vallecano (team),Over 1.5,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Rayo Vallecano (team),Scores 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,80,Pending
-Randy Nteka,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Randy Nteka,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Pending
-Adrià Pedrosa,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,86,80,Pending
-Adrià Pedrosa,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,86,80,Pending
-Sergio Camello,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,100,Pending
-Celta Vigo (team),Cards 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,90,100,Pending
+Sebastián Cáceres,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Miss
+Ferrán Jutglà,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,100,Miss
+Ilaix Moriba,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,100,Hit
+Hugo González,SOT 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Miss
+Hugo González,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Hit
+Yoel Lago,Fouled 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,100,Hit
+Florian Lejeune,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,80,Hit
+Florian Lejeune,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,100,Miss
+Florian Lejeune,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,80,Hit
+Marcos Alonso,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,88,80,Did not play
+Álvaro Garcia,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,100,Miss
+Unai López,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Hit
+Emil Audero,Saves 2+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Miss
+Emil Audero,Saves 3+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Miss
+Aleix Febas,Fouled 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Hit
+Aleix Febas,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Hit
+Aleix Febas,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Hit
+Ionuț Radu,Saves 2+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,80,80,Hit
+Rayo Vallecano (team),BTTS,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,80,Miss
+Rayo Vallecano (team),Cards 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Hit
+Rayo Vallecano (team),Over 1.5,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Hit
+Rayo Vallecano (team),Scores 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,80,Hit
+Randy Nteka,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Did not play
+Randy Nteka,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,100,100,Did not play
+Adrià Pedrosa,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,86,80,Miss
+Adrià Pedrosa,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,86,80,Hit
+Sergio Camello,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,100,Hit
+Celta Vigo (team),Cards 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,90,100,Hit
 Jason Knight,Fouls 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,92,100,Pending
 Luke McNally,Tackles 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,100,100,Pending
 Dominic Ballard,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,92,100,Pending
