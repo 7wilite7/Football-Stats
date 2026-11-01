@@ -1,18 +1,18 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:52 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:53 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3697,2714,73,90
-Tackles 1+,764,590,77,90
-Shots 1+,653,514,79,91
-Fouled 1+,429,296,69,90
-Fouls 1+,391,253,65,88
-Cards 1+,208,180,87,92
-Over 1.5,162,136,84,90
-Scores 1+,151,123,81,91
-Shots 2+,151,109,72,90
-Saves 2+,122,85,70,91
-SOT 1+,92,69,75,88
+All picks,3743,2751,73,90
+Tackles 1+,774,598,77,90
+Shots 1+,665,524,79,91
+Fouled 1+,432,299,69,90
+Fouls 1+,395,255,65,88
+Cards 1+,209,181,87,92
+Over 1.5,165,139,84,90
+Scores 1+,154,126,82,91
+Shots 2+,153,110,72,90
+Saves 2+,125,87,70,91
+SOT 1+,94,71,76,88
 Tackles 2+,89,48,54,88
-SOT 4+,87,64,74,90
+SOT 4+,89,66,74,90
 Corners 4+,65,45,69,90
 Match corners 9+,43,29,67,90
 Over 2.5,43,27,63,88
@@ -22,7 +22,7 @@ Cards 2+,32,17,53,88
 Corners 5+,27,15,56,90
 BTTS,27,14,52,89
 Score or assist,24,16,67,85
-Win,16,11,69,89
+Win,17,11,65,89
 Fouls 2+,15,6,40,88
 Match corners 10+,14,8,57,88
 Match cards 4+,11,11,100,87
@@ -819,33 +819,33 @@ Ian Maatsen,Shots 1+,Aston Villa v Fulham,Sat 31 Oct · 20:00,Premier League,80,
 Ian Maatsen,Tackles 1+,Aston Villa v Fulham,Sat 31 Oct · 20:00,Premier League,100,100,Hit
 Fulham (team),Cards 1+,Aston Villa v Fulham,Sat 31 Oct · 20:00,Premier League,88,100,Hit
 Fulham (team),Corners 4+,Aston Villa v Fulham,Sat 31 Oct · 20:00,Premier League,88,80,Hit
-Strahinja Pavlović,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Pending
-Mario Gila,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Pending
-Koni De Winter,Fouls 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Pending
-Koni De Winter,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Pending
-Diego Moreira,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,80,80,Pending
-Petar Sučić,Fouled 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,100,Pending
-Petar Sučić,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,100,Pending
-Alphadjo Cissè,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Pending
-Hakan Çalhanoglu,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Pending
-Adrien Rabiot,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Pending
-Piotr Zieliński,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Pending
-Mike Maignan,Saves 2+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,100,Pending
-Nicolò Barella,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,80,Pending
-Marcus Thuram,SOT 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,100,Pending
-Marcus Thuram,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Pending
-Marcus Thuram,Shots 2+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Pending
-Christian Pulisic,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,83,80,Pending
-Josep Martínez,Saves 2+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,100,Pending
-Alessandro Bastoni,Fouls 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,100,Pending
-Alessandro Bastoni,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,80,Pending
-Milan (team),Over 1.5,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Pending
-Milan (team),Scores 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Pending
-Inter (team),Over 1.5,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,100,Pending
-Inter (team),SOT 4+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Pending
-Inter (team),Scores 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Pending
-Inter (team),Win,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Pending
-Gonçalo Ramos,Fouls 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Pending
+Strahinja Pavlović,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Hit
+Mario Gila,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Miss
+Koni De Winter,Fouls 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Hit
+Koni De Winter,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Hit
+Diego Moreira,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,80,80,Hit
+Petar Sučić,Fouled 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,100,Hit
+Petar Sučić,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,100,Hit
+Alphadjo Cissè,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Hit
+Hakan Çalhanoglu,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Hit
+Adrien Rabiot,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,80,Hit
+Piotr Zieliński,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Hit
+Mike Maignan,Saves 2+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,100,Hit
+Nicolò Barella,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,80,Hit
+Marcus Thuram,SOT 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,100,Hit
+Marcus Thuram,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Hit
+Marcus Thuram,Shots 2+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Miss
+Christian Pulisic,Shots 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,83,80,Hit
+Josep Martínez,Saves 2+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,86,100,Miss
+Alessandro Bastoni,Fouls 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,100,Miss
+Alessandro Bastoni,Tackles 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,88,80,Hit
+Milan (team),Over 1.5,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Hit
+Milan (team),Scores 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Hit
+Inter (team),Over 1.5,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,100,Hit
+Inter (team),SOT 4+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Hit
+Inter (team),Scores 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Hit
+Inter (team),Win,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Miss
+Gonçalo Ramos,Fouls 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Miss
 Troyes (team),Corners 4+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
 Troyes (team),Corners 5+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
 Paolo Gozzi,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
@@ -1150,27 +1150,27 @@ Kristijan Kahlina,Saves 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,9
 Kristijan Kahlina,Saves 3+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,84,80,Pending
 Pep Biel,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,88,80,Pending
 Iván Angulo,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Pending
-Maduka Okoye,Saves 2+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Pending
-Matias Soulé,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Pending
-Wesley,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,80,Pending
-Christian Kabasele,Fouled 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,80,80,Pending
-Christian Kabasele,Fouls 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,80,80,Pending
-Matteo Palma,Fouled 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Pending
-Matteo Palma,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Pending
-Marten de Roon,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Pending
-Bryan Cristante,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Pending
-Donyell Malen,SOT 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,80,Pending
-Donyell Malen,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Pending
-Donyell Malen,Shots 2+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Pending
-Keinan Davis,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,100,Pending
-Enzo Ebosse,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,100,Pending
-Nicolò Zaniolo,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Pending
-Udinese (team),Cards 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,100,Pending
-Roma (team),Over 1.5,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Pending
-Roma (team),SOT 4+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Pending
-Roma (team),Scores 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Pending
-Jurgen Ekkelenkamp,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Pending
-Leonardo Balerdi,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,83,80,Pending
+Maduka Okoye,Saves 2+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
+Matias Soulé,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
+Wesley,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,80,Hit
+Christian Kabasele,Fouled 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,80,80,Hit
+Christian Kabasele,Fouls 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,80,80,Hit
+Matteo Palma,Fouled 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Hit
+Matteo Palma,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Hit
+Marten de Roon,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Miss
+Bryan Cristante,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Hit
+Donyell Malen,SOT 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,80,Hit
+Donyell Malen,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Hit
+Donyell Malen,Shots 2+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Hit
+Keinan Davis,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,100,Miss
+Enzo Ebosse,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,100,Did not play
+Nicolò Zaniolo,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Hit
+Udinese (team),Cards 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,100,Hit
+Roma (team),Over 1.5,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
+Roma (team),SOT 4+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
+Roma (team),Scores 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
+Jurgen Ekkelenkamp,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,100,100,Miss
+Leonardo Balerdi,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,83,80,Did not play
 Kerem Aktürkoglu,Shots 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
 N'Golo Kanté,Tackles 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Nélson Semedo,Tackles 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
