@@ -1,28 +1,28 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:11 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:13 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4322,3182,74,90
-Tackles 1+,886,686,77,90
-Shots 1+,784,618,79,91
-Fouled 1+,481,331,69,90
-Fouls 1+,448,290,65,88
-Cards 1+,244,210,86,92
-Over 1.5,199,165,83,90
-Scores 1+,187,152,81,91
-Shots 2+,179,128,72,90
-Saves 2+,146,102,70,91
-Shots on target 1+,107,80,75,88
+All picks,4364,3213,74,90
+Tackles 1+,898,695,77,90
+Shots 1+,791,623,79,91
+Fouled 1+,485,334,69,90
+Fouls 1+,452,293,65,88
+Cards 1+,245,211,86,92
+Over 1.5,201,167,83,90
+Scores 1+,189,153,81,91
+Shots 2+,182,129,71,90
+Saves 2+,148,104,70,91
+Shots on target 1+,108,80,74,88
 Shots on target 4+,104,80,77,91
 Tackles 2+,100,57,57,88
-Corners 4+,81,58,72,90
-Match corners 9+,54,34,63,89
+Corners 4+,82,59,72,90
+Match corners 9+,55,35,64,89
 Over 2.5,46,28,61,87
-Saves 3+,40,27,68,90
+Saves 3+,41,28,68,90
 Corners 5+,35,21,60,90
 Fouled 2+,35,17,49,87
 Cards 2+,34,19,56,88
 BTTS,32,14,44,88
 Score or assist,26,17,65,85
-Win,19,13,68,89
+Win,20,14,70,89
 Match corners 10+,16,8,50,88
 Fouls 2+,15,6,40,88
 Match cards 4+,12,12,100,88
@@ -474,55 +474,55 @@ András Schäfer,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bunde
 Linton Maina,Fouled 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
 Sebastian Sebulonsen,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Tom Krauß,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,86,80,Pending
-Patrizio Masini,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,80,Pending
-Anthony Oyono,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Anthony Oyono,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Antonio Raimondo,Fouls 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Antonio Raimondo,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Lorenzo Palmisani,Saves 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Lorenzo Palmisani,Saves 3+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Giorgio Cittadini,Fouls 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Giorgio Cittadini,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Giorgi Kvernadze,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Giorgi Kvernadze,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Giorgi Kvernadze,Shots 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Giorgi Kvernadze,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Gabriele Bracaglia,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,100,Pending
-Gabriele Calvani,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,80,Pending
-Farès Ghedjemis,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Farès Ghedjemis,Shots 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,86,80,Pending
-Pietro Comuzzo,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Giovanni Simeone,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Giovanni Simeone,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Ché Adams,Shots on target 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,86,80,Pending
-Ché Adams,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Eray Cömert,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Giacomo Calò,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Torino (team),Over 1.5,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Torino (team),Scores 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Frosinone (team),Corners 4+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Frosinone (team),Match corners 9+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Frosinone (team),Over 1.5,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Matteo Cancellieri,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Adam Obert,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Romano Floriani,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Romano Floriani,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Oliver Provstgaard,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,88,80,Pending
-Reda Belahyane,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,88,80,Pending
-Juan Rodríguez,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Alessandro Romano,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Alessandro Romano,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Paul Mendy,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Yerry Mina,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Mattia Zaccagni,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Mattia Zaccagni,Shots 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Davide Frattesi,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Lazio (team),Cards 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Pending
-Lazio (team),Scores 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Lazio (team),Win,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Nuno Tavares,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
-Elia Caprile,Saves 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Pending
-Kenneth Taylor,Fouled 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Pending
+Patrizio Masini,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,80,Hit
+Anthony Oyono,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Did not play
+Anthony Oyono,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Did not play
+Antonio Raimondo,Fouls 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Miss
+Antonio Raimondo,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Lorenzo Palmisani,Saves 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Lorenzo Palmisani,Saves 3+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Hit
+Giorgio Cittadini,Fouls 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Did not play
+Giorgio Cittadini,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Did not play
+Giorgi Kvernadze,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Hit
+Giorgi Kvernadze,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Miss
+Giorgi Kvernadze,Shots 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Miss
+Giorgi Kvernadze,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Miss
+Gabriele Bracaglia,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,100,Hit
+Gabriele Calvani,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,88,80,Hit
+Farès Ghedjemis,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Farès Ghedjemis,Shots 2+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,86,80,Hit
+Pietro Comuzzo,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Giovanni Simeone,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Miss
+Giovanni Simeone,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Miss
+Ché Adams,Shots on target 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,86,80,Miss
+Ché Adams,Shots 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Eray Cömert,Tackles 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Did not play
+Giacomo Calò,Fouled 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,80,Hit
+Torino (team),Over 1.5,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Torino (team),Scores 1+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Miss
+Frosinone (team),Corners 4+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Hit
+Frosinone (team),Match corners 9+,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Hit
+Frosinone (team),Over 1.5,Frosinone v Torino,Sun 01 Nov · 14:00,Serie A,89,100,Hit
+Matteo Cancellieri,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Did not play
+Adam Obert,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Hit
+Romano Floriani,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Hit
+Romano Floriani,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Oliver Provstgaard,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,88,80,Hit
+Reda Belahyane,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,88,80,Hit
+Juan Rodríguez,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Alessandro Romano,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Hit
+Alessandro Romano,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Miss
+Paul Mendy,Fouls 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Yerry Mina,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Did not play
+Mattia Zaccagni,Shots 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Hit
+Mattia Zaccagni,Shots 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Miss
+Davide Frattesi,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Miss
+Lazio (team),Cards 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,80,Hit
+Lazio (team),Scores 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Lazio (team),Win,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Hit
+Nuno Tavares,Tackles 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Hit
+Elia Caprile,Saves 2+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,100,100,Hit
+Kenneth Taylor,Fouled 1+,Lazio v Cagliari,Sun 01 Nov · 14:00,Serie A,89,100,Hit
 Cameron Archer,Fouls 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
 Cameron Archer,Goal 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,83,80,Pending
 Cameron Archer,Shots on target 1+,Strasbourg v Auxerre,Sun 01 Nov · 14:00,Ligue 1,100,100,Pending
