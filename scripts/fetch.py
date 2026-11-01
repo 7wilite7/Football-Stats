@@ -252,6 +252,9 @@ def team_slug(name):
     return re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode().lower()).strip("-")
 
 
+SQUADS = {}   # team id -> player ids currently in the squad (to spot players who have left)
+
+
 def squad_injuries(team_id, team_name):
     pp = page_props(get(f"https://www.fotmob.com/teams/{team_id}/squad/{team_slug(team_name)}"))
     out = {}
@@ -260,6 +263,7 @@ def squad_injuries(team_id, team_name):
     groups = ((t.get("squad") or {}).get("squad")) or []
     for g in groups:
         for mbr in g.get("members", []):
+            if mbr.get("id") is not None: SQUADS.setdefault(team_id, set()).add(int(mbr["id"]))
             if mbr.get("injured") or mbr.get("injury"):
                 inj = mbr.get("injury") or {}
                 out[int(mbr["id"])] = {"name": mbr.get("name"), "type": "injury", "ret": inj.get("expectedReturn")}
@@ -350,7 +354,8 @@ def run(keys):
             for pid, v in squad_injuries(tid, names.get(tid, str(tid))).items():
                 avail.setdefault(pid, v)
         jsave(os.path.join(DATA, "availability", f"{lg['key']}.json"),
-              {"updated": dt.datetime.utcnow().isoformat(timespec="minutes") + "Z", "players": {str(k): v for k, v in avail.items()}})
+              {"updated": dt.datetime.utcnow().isoformat(timespec="minutes") + "Z", "players": {str(k): v for k, v in avail.items()},
+               "squads": {str(t): sorted(SQUADS[t]) for t in teams_needed if len(SQUADS.get(t, ())) >= 15}})
         jsave(os.path.join(DATA, "debug", f"unavailable_{lg['key']}.json"), raw_un[:50])
         jsave(os.path.join(DATA, "tables", f"{lg['key']}.json"), table)
         upcoming = []
