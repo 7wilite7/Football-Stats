@@ -49,3 +49,14 @@ jobs:
             for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
           done
           if [ -n "$FAILED" ]; then echo "::error::Leagues that failed to update:$FAILED (sheet keeps their previous numbers)"; exit 1; fi
+      - name: Tell healthchecks.io the update finished
+        if: success() && env.SKIP != '1' && github.event_name != 'push'
+        env: {HC: "${{ secrets.HC_PING_URL }}"}
+        run: |
+          if [ -z "$HC" ]; then echo "::warning::HC_PING_URL secret not found"; exit 0; fi
+          curl -fsS -m 10 --retry 5 "$HC" && echo "Pinged healthchecks.io (success)"
+      - name: Tell healthchecks.io the update failed
+        if: failure() && env.SKIP != '1' && github.event_name != 'push'
+        env: {HC: "${{ secrets.HC_PING_URL }}"}
+        run: |
+          [ -n "$HC" ] && curl -fsS -m 10 --retry 5 "$HC/fail" && echo "Pinged healthchecks.io (failure)" || true
