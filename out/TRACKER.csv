@@ -1,68 +1,68 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 17:31 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 17:32 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4401,3238,74,90
-Tackles 1+,904,699,77,90
-Shots 1+,793,624,79,91
-Fouled 1+,487,335,69,90
-Fouls 1+,460,300,65,88
-Cards 1+,247,212,86,92
-Over 1.5,203,169,83,90
-Scores 1+,190,154,81,91
-Shots 2+,183,130,71,90
+All picks,4430,3261,74,90
+Tackles 1+,909,702,77,90
+Shots 1+,796,627,79,91
+Fouled 1+,490,338,69,90
+Fouls 1+,461,301,65,88
+Cards 1+,249,213,86,92
+Over 1.5,205,171,83,90
+Scores 1+,191,155,81,91
+Shots 2+,184,131,71,90
 Saves 2+,149,104,70,91
-Shots on target 1+,109,81,74,88
-Shots on target 4+,105,80,76,91
+Shots on target 1+,110,82,75,88
+Shots on target 4+,106,81,76,91
 Tackles 2+,102,58,57,88
 Corners 4+,83,59,71,90
-Match corners 9+,56,35,62,89
-Over 2.5,47,29,62,87
+Match corners 9+,57,36,63,89
+Over 2.5,49,31,63,87
 Saves 3+,41,28,68,90
-Fouled 2+,36,18,50,87
+Fouled 2+,37,18,49,87
+Cards 2+,35,20,57,89
 Corners 5+,35,21,60,90
-Cards 2+,34,19,56,88
 BTTS,33,15,45,88
 Score or assist,27,18,67,85
-Win,20,14,70,89
-Match corners 10+,17,8,47,88
+Win,21,15,71,89
+Match corners 10+,18,9,50,88
 Fouls 2+,15,6,40,88
-Match cards 4+,12,12,100,88
+Match cards 4+,14,12,86,88
 Goal 1+,9,6,67,86
 Shots on target 2+,3,3,100,86
 Booked,1,1,100,80
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
-Alieu Njie,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
-Alieu Njie,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,100,Pending
-Arijanet Murić,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
-Arijanet Murić,Saves 3+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
-Armand Laurienté,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
-Vasilije Adžić,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,86,80,Pending
-Vasilije Adžić,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,86,80,Pending
-Darryl Bakola,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
-David de Gea,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
-Nicolò Fagioli,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
-João Mário,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,80,80,Pending
-Cher Ndour,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
-Cher Ndour,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
-Álex Jiménez,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,75,80,Pending
-Álex Jiménez,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,75,80,Pending
-Franco Mastantuono,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
-Franco Mastantuono,Shots 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
-Franco Mastantuono,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
-Domenico Berardi,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
-Domenico Berardi,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
-Jay Idzes,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
-Duje Ćaleta-Car,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,67,80,Pending
 Sebastiano Esposito,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,83,80,Pending
 Ignace Van Der Brempt,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
-Sassuolo (team),Scores 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,80,Pending
+Cher Ndour,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
+Cher Ndour,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Vasilije Adžić,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,86,80,Pending
+Vasilije Adžić,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,86,80,Pending
+Álex Jiménez,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,75,80,Pending
+Álex Jiménez,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,75,80,Pending
+Alieu Njie,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,100,Pending
+Alieu Njie,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
+Franco Mastantuono,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Franco Mastantuono,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Franco Mastantuono,Shots 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Darryl Bakola,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
+David de Gea,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Domenico Berardi,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
+Domenico Berardi,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Duje Ćaleta-Car,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,67,80,Pending
+Arijanet Murić,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Arijanet Murić,Saves 3+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
 Sassuolo (team),BTTS,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,80,Pending
-Sassuolo (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
 Sassuolo (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Sassuolo (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Sassuolo (team),Scores 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,80,Pending
+Fiorentina (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
 Fiorentina (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
 Fiorentina (team),Over 2.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,80,Pending
-Fiorentina (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Armand Laurienté,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Jay Idzes,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Nicolò Fagioli,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
+João Mário,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,80,80,Pending
 Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,80,100,Pending
 Agustin Resch,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,65,80,Pending
 Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,100,Pending
@@ -440,41 +440,41 @@ Salih Özcan,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Ga
 Tiago Djaló,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
 Tiago Djaló,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
 Emirhan Topçu,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Jude Bellingham,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Jude Bellingham,Fouled 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Jude Bellingham,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Álvaro Mantilla,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Facundo González,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Arda Güler,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Jeanuël Belocian,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,83,80,Pending
-Gustavo Puerta,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Gustavo Puerta,Fouls 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Gustavo Puerta,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Sergio Canales,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Yassir Zabiri,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
-Kylian Mbappé,Shots on target 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Kylian Mbappé,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Kylian Mbappé,Shots 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Federico Valverde,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Manu,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Real Madrid (team),Cards 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
-Real Madrid (team),Match cards 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
-Real Madrid (team),Over 1.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Real Madrid (team),Over 2.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Real Madrid (team),Shots on target 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Real Madrid (team),Scores 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Real Madrid (team),Win,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Racing Santander (team),Cards 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Racing Santander (team),Cards 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Pending
-Racing Santander (team),Match cards 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Racing Santander (team),Match corners 10+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Racing Santander (team),Match corners 9+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Racing Santander (team),Over 1.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Racing Santander (team),Over 2.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Pending
-Marc Cucurella,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Pending
-Iñigo Vicente,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Pending
-Iñigo Vicente,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Pending
-Iván Martin,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,88,80,Pending
+Jude Bellingham,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Hit
+Jude Bellingham,Fouled 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Miss
+Jude Bellingham,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
+Álvaro Mantilla,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Hit
+Facundo González,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Did not play
+Arda Güler,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Hit
+Jeanuël Belocian,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,83,80,Hit
+Gustavo Puerta,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Did not play
+Gustavo Puerta,Fouls 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Did not play
+Gustavo Puerta,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Did not play
+Sergio Canales,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
+Yassir Zabiri,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Hit
+Kylian Mbappé,Shots on target 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
+Kylian Mbappé,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Hit
+Kylian Mbappé,Shots 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
+Federico Valverde,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Did not play
+Manu,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Did not play
+Real Madrid (team),Cards 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Miss
+Real Madrid (team),Match cards 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Miss
+Real Madrid (team),Over 1.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Hit
+Real Madrid (team),Over 2.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Hit
+Real Madrid (team),Shots on target 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
+Real Madrid (team),Scores 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Hit
+Real Madrid (team),Win,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Hit
+Racing Santander (team),Cards 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Hit
+Racing Santander (team),Cards 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,100,100,Hit
+Racing Santander (team),Match cards 4+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Miss
+Racing Santander (team),Match corners 10+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
+Racing Santander (team),Match corners 9+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
+Racing Santander (team),Over 1.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Hit
+Racing Santander (team),Over 2.5,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,80,Hit
+Marc Cucurella,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,80,100,Hit
+Iñigo Vicente,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
+Iñigo Vicente,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Miss
+Iván Martin,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,88,80,Miss
 Ísak Jóhannesson,Shots 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Marin Ljubičić,Fouls 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
 Tom Rothe,Tackles 1+,Union Berlin v 1. FC Köln,Sun 01 Nov · 14:30,Bundesliga,100,100,Pending
