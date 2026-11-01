@@ -1,620 +1,205 @@
-"Games kicking off in the next 24 hours (from 01 Nov 2026 07:02 UK time): markets hitting 80%+ this season AND in the last 5 games. Injured, doubtful and suspended players left out. 80-99% sections show up to 30 per match."
+"Games kicking off in the next 24 hours (from 01 Nov 2026 15:58 UK time). Injured, doubtful and suspended players left out. Short list: every 100% pick plus the strongest few per match. Every pick is on the All picks tab."
 Kick-off (UK),Competition,Match,Pick,Team,Market,Season %,Last 5 %,When starting %,Games,Opponent context,Note
-,PLAYER PICKS: 100% this season AND last 5  (139)
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Akor Adams,Venezia,Shots 1+,100,100,100,9,Como: 13.4 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Akor Adams,Venezia,Shots 2+,100,100,100,9,Como: 13.4 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Anastasios Douvikas,Como,Shots 1+,100,100,100,9,Venezia: 16.2 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Armel Bella-Kotchap,Venezia,Tackles 1+,100,100,100,3,,Small sample (3 games)
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Gianluca Busio,Venezia,Tackles 1+,100,100,100,5,,Small sample (5 games)
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,John Yeboah,Venezia,Shots 1+,100,100,100,9,Como: 13.4 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Nico Paz,Como,Shots 1+,100,100,100,8,Venezia: 16.2 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Nico Paz,Como,Shots 2+,100,100,100,8,Venezia: 16.2 shots conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Andrés García,Getafe,Tackles 1+,100,100,100,9,,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Arouna Sangante,Sevilla,Fouls 1+,100,100,100,4,Getafe: 12.6 fouls won/game,Small sample (4 games)
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Juan Iglesias,Sevilla,Tackles 1+,100,100,100,10,,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Kike Salas,Sevilla,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Lucien Agoumé,Sevilla,Tackles 1+,100,100,100,10,,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Peque Fernández,Sevilla,Fouls 1+,100,100,100,4,Getafe: 12.6 fouls won/game,Small sample (4 games)
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Peque Fernández,Sevilla,Fouled 1+,100,100,100,4,Getafe: 14.1 fouls committed/game,Small sample (4 games)
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Alex Oxlade-Chamberlain,Celtic,Shots 1+,100,100,100,4,Falkirk: 15.5 shots conceded/game,Small sample (4 games)
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Mika Baur,Celtic,Tackles 1+,100,100,100,9,,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,André Onana,Trabzonspor,Saves 2+,100,100,,9,Gaziantep FK: 3.7 shots on target/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Chibuike Nwaiwu,Trabzonspor,Fouled 1+,100,100,100,9,Gaziantep FK: 12.2 fouls committed/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Fabinho,Trabzonspor,Tackles 1+,100,100,100,7,,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Mohamed Salah,Trabzonspor,Shots 1+,100,100,100,9,Gaziantep FK: 13.7 shots conceded/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Wagner Pina,Trabzonspor,Fouled 1+,100,100,100,8,Gaziantep FK: 12.2 fouls committed/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Joël Drommel,FC Twente,Saves 2+,100,100,,4,Excelsior: 3.8 shots on target/game,Small sample (4 games)
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Sondre Ørjasæter,FC Twente,Shots 1+,100,100,100,9,Excelsior: 14.8 shots conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Wout Weghorst,FC Twente,Shots 1+,100,100,100,10,Excelsior: 14.8 shots conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Cameron Archer,Auxerre,Shots 1+,100,100,100,6,Strasbourg: 16.4 shots conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Cameron Archer,Auxerre,Shots 2+,100,100,100,6,Strasbourg: 16.4 shots conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Cameron Archer,Auxerre,SOT 1+,100,100,100,6,Strasbourg: 6.1 SOT conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Danny Namaso,Auxerre,Shots 1+,100,100,100,8,Strasbourg: 16.4 shots conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Filip Jörgensen,Strasbourg,Saves 2+,100,100,,8,Auxerre: 5.1 shots on target/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Gessime Yassine,Strasbourg,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Antonio Raimondo,Frosinone,Shots 1+,100,100,100,9,Torino: 15.8 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Antonio Raimondo,Frosinone,Fouls 1+,100,100,100,9,Torino: 10.7 fouls won/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Ché Adams,Torino,Shots 1+,100,100,100,7,Frosinone: 19.3 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Eray Cömert,Torino,Tackles 1+,100,100,100,4,,Small sample (4 games)
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Farès Ghedjemis,Frosinone,Shots 1+,100,100,100,7,Torino: 15.8 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giorgi Kvernadze,Frosinone,Shots 1+,100,100,100,9,Torino: 15.8 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giorgi Kvernadze,Frosinone,Shots 2+,100,100,100,9,Torino: 15.8 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giorgio Cittadini,Frosinone,Fouls 1+,100,100,100,8,Torino: 10.7 fouls won/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giorgio Cittadini,Frosinone,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Lorenzo Palmisani,Frosinone,Saves 2+,100,100,,9,Torino: 3.8 shots on target/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Pietro Comuzzo,Torino,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Elia Caprile,Cagliari,Saves 2+,100,100,,9,Lazio: 4.7 shots on target/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Juan Rodríguez,Cagliari,Tackles 1+,100,100,100,9,,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Matteo Cancellieri,Lazio,Shots 1+,100,100,100,6,Cagliari: 18.7 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Paul Mendy,Cagliari,Fouls 1+,100,100,100,9,Lazio: 11.2 fouls won/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Romano Floriani,Lazio,Tackles 1+,100,100,100,9,,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Yerry Mina,Cagliari,Tackles 1+,100,100,100,4,,Small sample (4 games)
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Frederik Rønnow,Union Berlin,Saves 2+,100,100,,6,1. FC Köln: 5.0 shots on target/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Gideon Mensah,1. FC Köln,Fouls 1+,100,100,100,4,Union Berlin: 10.7 fouls won/game,Small sample (4 games)
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Josip Juranović,Union Berlin,Shots 1+,100,100,100,3,1. FC Köln: 14.7 shots conceded/game,Small sample (3 games)
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Marin Ljubičić,Union Berlin,Fouls 1+,100,100,100,3,1. FC Köln: 11.4 fouls won/game,Small sample (3 games)
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Michel Aebischer,Union Berlin,Tackles 1+,100,100,100,7,,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Rani Khedira,Union Berlin,Fouls 1+,100,100,100,7,1. FC Köln: 11.4 fouls won/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Rani Khedira,Union Berlin,Tackles 1+,100,100,100,7,,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Sebastian Sebulonsen,1. FC Köln,Tackles 1+,100,100,100,4,,Small sample (4 games)
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Tom Rothe,Union Berlin,Tackles 1+,100,100,100,7,,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Ísak Jóhannesson,1. FC Köln,Shots 1+,100,100,100,7,Union Berlin: 17.0 shots conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Gustavo Puerta,Racing Santander,Fouls 1+,100,100,100,3,Real Madrid: 14.2 fouls won/game,Small sample (3 games)
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Gustavo Puerta,Racing Santander,Fouls 2+,100,100,100,3,Real Madrid: 14.2 fouls won/game,Small sample (3 games)
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Gustavo Puerta,Racing Santander,Tackles 1+,100,100,100,3,,Small sample (3 games)
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Kylian Mbappé,Real Madrid,Shots 1+,100,100,100,10,Racing Santander: 15.8 shots conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Álvaro Mantilla,Racing Santander,Tackles 1+,100,100,100,9,,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Dušan Vlahović,Beşiktaş,Shots 1+,100,100,100,7,Kasımpaşa: 14.4 shots conceded/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Dušan Vlahović,Beşiktaş,Shots 2+,100,100,100,7,Kasımpaşa: 14.4 shots conceded/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Dušan Vlahović,Beşiktaş,SOT 1+,100,100,100,7,Kasımpaşa: 4.6 SOT conceded/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Leandro Trossard,Beşiktaş,Fouled 1+,100,100,100,8,Kasımpaşa: 15.3 fouls committed/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Salih Özcan,Beşiktaş,Fouled 1+,100,100,100,9,Kasımpaşa: 15.3 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Corentin Tolisso,Lyon,Fouled 1+,100,100,100,8,Angers: 11.1 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Dominik Greif,Lyon,Saves 2+,100,100,,6,Angers: 3.2 shots on target/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Ernest Nuamah,Lyon,Fouled 1+,100,100,100,6,Angers: 11.1 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Haris Belkebla,Angers,Fouls 1+,100,100,100,3,Lyon: 13.4 fouls won/game,Small sample (3 games)
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Joseph Kalulu,Angers,Tackles 1+,100,100,100,7,,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Julien Duranville,Lyon,Fouled 1+,100,100,100,3,Angers: 11.1 fouls committed/game,Small sample (3 games)
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Zachary Athekame,Lyon,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Ilan Kebbal,Paris FC,Shots 1+,100,100,100,8,Monaco: 12.0 shots conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Jordan Teze,Monaco,Tackles 1+,100,100,100,3,,Small sample (3 games)
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Lamine Camara,Monaco,Fouled 1+,100,100,100,8,Paris FC: 14.0 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Lamine Camara,Monaco,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Mamadou Coulibaly,Monaco,Tackles 1+,100,100,100,4,,Small sample (4 games)
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Pablo Pagis,Paris FC,Fouls 1+,100,100,100,8,Monaco: 11.4 fouls won/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Paris Brunner,Monaco,Shots 1+,100,100,100,6,Paris FC: 9.6 shots conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Samir Chergui,Paris FC,Fouls 1+,100,100,100,5,Monaco: 11.4 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Albert Sambi Lokonga,Hamburger SV,Fouls 1+,100,100,100,5,Eintracht Frankfurt: 12.3 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Elias Baum,Eintracht Frankfurt,Tackles 1+,100,100,100,7,,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Jonathan Burkardt,Eintracht Frankfurt,Shots 1+,100,100,100,7,Hamburger SV: 18.7 shots conceded/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Keita Kosugi,Eintracht Frankfurt,Fouled 1+,100,100,100,6,Hamburger SV: 14.4 fouls committed/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Keita Kosugi,Eintracht Frankfurt,Tackles 1+,100,100,100,6,,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Miro Muheim,Hamburger SV,Tackles 1+,100,100,100,3,,Small sample (3 games)
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Noah Atubolu,Eintracht Frankfurt,Saves 2+,100,100,,7,Hamburger SV: 3.3 shots on target/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Noah Atubolu,Eintracht Frankfurt,Saves 3+,100,100,,7,Hamburger SV: 3.3 shots on target/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Ritsu Doan,Eintracht Frankfurt,Tackles 1+,100,100,100,6,,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Shafiq Nandja,Hamburger SV,Fouls 1+,100,100,100,3,Eintracht Frankfurt: 12.3 fouls won/game,Small sample (3 games)
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Shafiq Nandja,Hamburger SV,Tackles 1+,100,100,100,3,,Small sample (3 games)
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Alexander Isak,Liverpool,Shots 1+,100,100,100,7,Arsenal: 10.8 shots conceded/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Alexander Isak,Liverpool,Shots 2+,100,100,100,7,Arsenal: 10.8 shots conceded/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Alexander Isak,Liverpool,SOT 1+,100,100,100,7,Arsenal: 3.0 SOT conceded/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Alexis Mac Allister,Liverpool,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Florian Wirtz,Liverpool,Shots 1+,100,100,100,8,Arsenal: 10.8 shots conceded/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Jérémy Jacquet,Liverpool,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Miloš Kerkez,Liverpool,Fouled 1+,100,100,100,8,Arsenal: 10.2 fouls committed/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Miloš Kerkez,Liverpool,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Myles Lewis-Skelly,Arsenal,Fouled 1+,100,100,100,6,Liverpool: 13.8 fouls committed/game,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Leo Østigard,Genoa,Tackles 1+,100,100,100,9,,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Samuel Wiafe,Genoa,Fouls 1+,100,100,100,4,Lecce: 9.7 fouls won/game,Small sample (4 games)
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Ali Houary,Elche,Shots 1+,100,100,100,3,Valencia: 15.5 shots conceded/game,Small sample (3 games)
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,David Affengruber,Elche,Shots 1+,100,100,100,3,Valencia: 15.5 shots conceded/game,Small sample (3 games)
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Guido Rodríguez,Valencia,Tackles 1+,100,100,100,7,,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Casper Tengstedt,Toulouse,Shots 1+,100,100,100,6,Marseille: 16.6 shots conceded/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Casper Tengstedt,Toulouse,Shots 2+,100,100,100,6,Marseille: 16.6 shots conceded/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Cristian Cásseres,Toulouse,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Cristian Cásseres,Toulouse,Tackles 2+,100,100,100,8,,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Julián Vignolo,Toulouse,Fouled 1+,100,100,100,4,Marseille: 11.2 fouls committed/game,Small sample (4 games)
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Thomas Jørgensen,Toulouse,Shots 1+,100,100,100,8,Marseille: 16.6 shots conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Gleison Bremer,Juventus,Tackles 1+,100,100,100,9,,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Noa Lang,Napoli,Tackles 1+,100,100,100,7,,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Rafa Marín,Napoli,Tackles 1+,100,100,100,8,,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Scott McTominay,Napoli,Shots 1+,100,100,100,6,Juventus: 9.1 shots conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Vanja Milinković-Savić,Napoli,Saves 2+,100,100,,3,Juventus: 5.2 shots on target/game,Small sample (3 games)
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Gonçalo Guedes,Real Sociedad,Shots 1+,100,100,100,9,Athletic Club: 10.2 shots conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Hugo Rincón,Athletic Club,Fouled 1+,100,100,100,5,Real Sociedad: 12.4 fouls committed/game,Small sample (5 games)
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Mamadou Sarr,Real Sociedad,Fouled 1+,100,100,100,5,Athletic Club: 11.7 fouls committed/game,Small sample (5 games)
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Mamadou Sarr,Real Sociedad,Tackles 1+,100,100,100,5,,Small sample (5 games)
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Nico Williams,Athletic Club,Shots 1+,100,100,100,8,Real Sociedad: 15.5 shots conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Oihan Sancet,Athletic Club,Shots 1+,100,100,100,6,Real Sociedad: 15.5 shots conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Oihan Sancet,Athletic Club,Shots 2+,100,100,100,6,Real Sociedad: 15.5 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Hany Mukhtar,Nashville SC,Shots 1+,100,100,100,32,Red Bull New York: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Breel Embolo,Atlanta United,Shots 1+,100,100,100,10,Toronto FC: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Breel Embolo,Atlanta United,Fouled 1+,100,100,100,10,Toronto FC: 11.1 fouls committed/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Giuliano Galoppo,Atlanta United,Shots 1+,100,100,100,7,Toronto FC: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Juan Berrocal,Atlanta United,Tackles 1+,100,100,100,9,,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Mauricio Amaro,Atlanta United,Tackles 1+,100,100,100,10,,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Miguel Almirón,Atlanta United,Shots 1+,100,100,100,25,Toronto FC: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Niklas Dorsch,Toronto FC,Fouled 1+,100,100,100,12,Atlanta United: 11.5 fouls committed/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Rocco Ríos Novo,Inter Miami CF,Saves 2+,100,100,,6,New England Revolution: 4.9 shots on target/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Cherrion Valerius,Minnesota United,Fouls 1+,100,100,100,5,Los Angeles FC: 11.0 fouls won/game,Small sample (5 games)
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Cherrion Valerius,Minnesota United,Tackles 1+,100,100,100,5,,Small sample (5 games)
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Leo Walta,Los Angeles FC,Shots 1+,100,100,100,4,Minnesota United: 12.3 shots conceded/game,Transferred (from Swansea City); Small sample (4 games)
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Kristoffer Velde,Portland Timbers,Shots 1+,100,100,100,31,Houston Dynamo FC: 12.8 shots conceded/game,
+,PLAYER PICKS: 100% this season AND last 5  (76)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Dušan Vlahović,Beşiktaş,Shots 1+,100,100,100,7,Kasımpaşa: 14.4 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Dušan Vlahović,Beşiktaş,Shots 2+,100,100,100,7,Kasımpaşa: 14.4 shots conceded/game,Tracker: this market hits 71% (173 picks)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Dušan Vlahović,Beşiktaş,SOT 1+,100,100,100,7,Kasımpaşa: 4.6 SOT conceded/game,Tracker: this market hits 75% (105 picks)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Leandro Trossard,Beşiktaş,Fouled 1+,100,100,100,8,Kasımpaşa: 15.3 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Salih Özcan,Beşiktaş,Fouled 1+,100,100,100,9,Kasımpaşa: 15.3 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Corentin Tolisso,Lyon,Fouled 1+,100,100,100,8,Angers: 11.1 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Dominik Greif,Lyon,Saves 2+,100,100,,6,Angers: 3.2 shots on target/game,Tracker: this market hits 70% (141 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Ernest Nuamah,Lyon,Fouled 1+,100,100,100,6,Angers: 11.1 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Haris Belkebla,Angers,Fouls 1+,100,100,100,3,Lyon: 13.4 fouls won/game,Small sample (3 games); Tracker: this market hits 65% (438 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Joseph Kalulu,Angers,Tackles 1+,100,100,100,7,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Julien Duranville,Lyon,Fouled 1+,100,100,100,3,Angers: 11.1 fouls committed/game,Small sample (3 games); Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Zachary Athekame,Lyon,Tackles 1+,100,100,100,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Ilan Kebbal,Paris FC,Shots 1+,100,100,100,8,Monaco: 12.0 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Jordan Teze,Monaco,Tackles 1+,100,100,100,3,,Small sample (3 games); Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Lamine Camara,Monaco,Fouled 1+,100,100,100,8,Paris FC: 14.0 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Lamine Camara,Monaco,Tackles 1+,100,100,100,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Mamadou Coulibaly,Monaco,Tackles 1+,100,100,100,4,,Small sample (4 games); Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Pablo Pagis,Paris FC,Fouls 1+,100,100,100,8,Monaco: 11.4 fouls won/game,Tracker: this market hits 65% (438 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Paris Brunner,Monaco,Shots 1+,100,100,100,6,Paris FC: 9.6 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Samir Chergui,Paris FC,Fouls 1+,100,100,100,5,Monaco: 11.4 fouls won/game,Small sample (5 games); Tracker: this market hits 65% (438 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Albert Sambi Lokonga,Hamburger SV,Fouls 1+,100,100,100,5,Eintracht Frankfurt: 12.3 fouls won/game,Small sample (5 games); Tracker: this market hits 65% (438 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Elias Baum,Eintracht Frankfurt,Tackles 1+,100,100,100,7,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Jonathan Burkardt,Eintracht Frankfurt,Shots 1+,100,100,100,7,Hamburger SV: 18.7 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Keita Kosugi,Eintracht Frankfurt,Fouled 1+,100,100,100,6,Hamburger SV: 14.4 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Keita Kosugi,Eintracht Frankfurt,Tackles 1+,100,100,100,6,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Miro Muheim,Hamburger SV,Tackles 1+,100,100,100,3,,Small sample (3 games); Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Noah Atubolu,Eintracht Frankfurt,Saves 2+,100,100,,7,Hamburger SV: 3.3 shots on target/game,Tracker: this market hits 70% (141 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Noah Atubolu,Eintracht Frankfurt,Saves 3+,100,100,,7,Hamburger SV: 3.3 shots on target/game,Tracker: this market hits 67% (39 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Ritsu Doan,Eintracht Frankfurt,Tackles 1+,100,100,100,6,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Shafiq Nandja,Hamburger SV,Fouls 1+,100,100,100,3,Eintracht Frankfurt: 12.3 fouls won/game,Small sample (3 games); Tracker: this market hits 65% (438 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Shafiq Nandja,Hamburger SV,Tackles 1+,100,100,100,3,,Small sample (3 games); Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Alexander Isak,Liverpool,Shots 1+,100,100,100,7,Arsenal: 10.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Alexander Isak,Liverpool,Shots 2+,100,100,100,7,Arsenal: 10.8 shots conceded/game,Tracker: this market hits 71% (173 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Alexander Isak,Liverpool,SOT 1+,100,100,100,7,Arsenal: 3.0 SOT conceded/game,Tracker: this market hits 75% (105 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Alexis Mac Allister,Liverpool,Tackles 1+,100,100,100,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Florian Wirtz,Liverpool,Shots 1+,100,100,100,8,Arsenal: 10.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Jérémy Jacquet,Liverpool,Tackles 1+,100,100,100,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Miloš Kerkez,Liverpool,Fouled 1+,100,100,100,8,Arsenal: 10.2 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Miloš Kerkez,Liverpool,Tackles 1+,100,100,100,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Myles Lewis-Skelly,Arsenal,Fouled 1+,100,100,100,6,Liverpool: 13.8 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Leo Østigard,Genoa,Tackles 1+,100,100,100,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Samuel Wiafe,Genoa,Fouls 1+,100,100,100,4,Lecce: 9.7 fouls won/game,Small sample (4 games); Tracker: this market hits 65% (438 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Ali Houary,Elche,Shots 1+,100,100,100,3,Valencia: 15.5 shots conceded/game,Small sample (3 games); Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,David Affengruber,Elche,Shots 1+,100,100,100,3,Valencia: 15.5 shots conceded/game,Small sample (3 games); Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Guido Rodríguez,Valencia,Tackles 1+,100,100,100,7,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Casper Tengstedt,Toulouse,Shots 1+,100,100,100,6,Marseille: 16.6 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Casper Tengstedt,Toulouse,Shots 2+,100,100,100,6,Marseille: 16.6 shots conceded/game,Tracker: this market hits 71% (173 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Cristian Cásseres,Toulouse,Tackles 1+,100,100,100,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Cristian Cásseres,Toulouse,Tackles 2+,100,100,100,8,,Tracker: this market hits 56% (95 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Julián Vignolo,Toulouse,Fouled 1+,100,100,100,4,Marseille: 11.2 fouls committed/game,Small sample (4 games); Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Thomas Jørgensen,Toulouse,Shots 1+,100,100,100,8,Marseille: 16.6 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Gleison Bremer,Juventus,Tackles 1+,100,100,100,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Noa Lang,Napoli,Tackles 1+,100,100,100,7,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Rafa Marín,Napoli,Tackles 1+,100,100,100,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Scott McTominay,Napoli,Shots 1+,100,100,100,6,Juventus: 9.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Vanja Milinković-Savić,Napoli,Saves 2+,100,100,,3,Juventus: 5.2 shots on target/game,Small sample (3 games); Tracker: this market hits 70% (141 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Gonçalo Guedes,Real Sociedad,Shots 1+,100,100,100,9,Athletic Club: 10.2 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Hugo Rincón,Athletic Club,Fouled 1+,100,100,100,5,Real Sociedad: 12.4 fouls committed/game,Small sample (5 games); Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Mamadou Sarr,Real Sociedad,Fouled 1+,100,100,100,5,Athletic Club: 11.7 fouls committed/game,Small sample (5 games); Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Mamadou Sarr,Real Sociedad,Tackles 1+,100,100,100,5,,Small sample (5 games); Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Nico Williams,Athletic Club,Shots 1+,100,100,100,8,Real Sociedad: 15.5 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Oihan Sancet,Athletic Club,Shots 1+,100,100,100,6,Real Sociedad: 15.5 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Oihan Sancet,Athletic Club,Shots 2+,100,100,100,6,Real Sociedad: 15.5 shots conceded/game,Tracker: this market hits 71% (173 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Hany Mukhtar,Nashville SC,Shots 1+,100,100,100,32,Red Bull New York: 13.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Breel Embolo,Atlanta United,Shots 1+,100,100,100,10,Toronto FC: 13.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Breel Embolo,Atlanta United,Fouled 1+,100,100,100,10,Toronto FC: 11.1 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Giuliano Galoppo,Atlanta United,Shots 1+,100,100,100,7,Toronto FC: 13.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Juan Berrocal,Atlanta United,Tackles 1+,100,100,100,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Mauricio Amaro,Atlanta United,Tackles 1+,100,100,100,10,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Miguel Almirón,Atlanta United,Shots 1+,100,100,100,25,Toronto FC: 13.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Niklas Dorsch,Toronto FC,Fouled 1+,100,100,100,12,Atlanta United: 11.5 fouls committed/game,Tracker: this market hits 69% (472 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Rocco Ríos Novo,Inter Miami CF,Saves 2+,100,100,,6,New England Revolution: 4.9 shots on target/game,Tracker: this market hits 70% (141 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Cherrion Valerius,Minnesota United,Fouls 1+,100,100,100,5,Los Angeles FC: 11.0 fouls won/game,Small sample (5 games); Tracker: this market hits 65% (438 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Cherrion Valerius,Minnesota United,Tackles 1+,100,100,100,5,,Small sample (5 games); Tracker: this market hits 78% (866 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Leo Walta,Los Angeles FC,Shots 1+,100,100,100,4,Minnesota United: 12.3 shots conceded/game,Transferred (from Swansea City); Small sample (4 games); Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Kristoffer Velde,Portland Timbers,Shots 1+,100,100,100,31,Houston Dynamo FC: 12.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
 
-,PLAYER PICKS: 80-99%  (338)
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Anastasios Douvikas,Como,Shots 2+,89,100,100,9,Venezia: 16.2 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Antoine Hainaut,Venezia,Tackles 1+,89,100,89,9,,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,John Yeboah,Venezia,Fouled 1+,89,100,100,9,Como: 8.6 fouls committed/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Kike Pérez,Venezia,Fouls 1+,89,100,89,9,Como: 10.7 fouls won/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Kike Pérez,Venezia,Tackles 1+,89,100,89,9,,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Lucas Da Cunha,Como,Shots 1+,89,100,100,9,Venezia: 16.2 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Akor Adams,Venezia,SOT 1+,89,80,89,9,Como: 3.4 SOT conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Antoine Hainaut,Venezia,Shots 1+,89,80,89,9,Como: 13.4 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Filip Stanković,Venezia,Saves 2+,89,80,,9,Como: 6.6 shots on target/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,John Yeboah,Venezia,Shots 2+,89,80,100,9,Como: 13.4 shots conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Kike Pérez,Venezia,Fouled 1+,89,80,89,9,Como: 8.6 fouls committed/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Nico Paz,Como,Tackles 1+,88,80,88,8,,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Nico Paz,Como,Tackles 2+,88,80,88,8,,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Juan Jesus,Venezia,Fouls 1+,83,80,80,6,Como: 10.7 fouls won/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Juan Jesus,Venezia,Tackles 1+,83,80,80,6,,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Redouane Halhal,Venezia,Fouls 1+,83,80,80,6,Como: 10.7 fouls won/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Redouane Halhal,Venezia,Tackles 1+,83,80,80,6,,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Toma Bašić,Venezia,Tackles 1+,83,80,100,6,,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Álex Valle,Como,Tackles 1+,83,80,83,6,,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Gianluca Busio,Venezia,Tackles 2+,80,80,100,5,,Small sample (5 games)
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Juan Iglesias,Sevilla,Tackles 2+,90,100,90,10,,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Lucien Agoumé,Sevilla,Tackles 2+,90,100,90,10,,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Martín Satriano,Getafe,Fouled 1+,90,100,89,10,Sevilla: 14.3 fouls committed/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Odysseas Vlachodimos,Sevilla,Saves 2+,90,100,,10,Getafe: 2.5 shots on target/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Martín Satriano,Getafe,Shots 1+,90,80,100,10,Sevilla: 12.4 shots conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Martín Satriano,Getafe,Fouls 1+,90,80,89,10,Sevilla: 12.5 fouls won/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Ramón Terrats,Getafe,Shots 1+,89,80,89,9,Sevilla: 12.4 shots conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Ramón Terrats,Getafe,Fouled 1+,89,80,89,9,Sevilla: 14.3 fouls committed/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Nemanja Gudelj,Getafe,Fouls 1+,88,100,86,8,Sevilla: 12.5 fouls won/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Youssouf Fofana,Sevilla,Shots 1+,86,80,83,7,Getafe: 14.8 shots conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Félix Correia,Sevilla,Shots 1+,83,100,83,6,Getafe: 14.8 shots conceded/game,Transferred (from Lille)
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Iván Azon,Getafe,Shots 1+,83,100,100,6,Sevilla: 12.4 shots conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Kiko,Getafe,Fouls 1+,83,80,83,6,Sevilla: 12.5 fouls won/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,David Soria,Getafe,Saves 2+,80,80,,10,Sevilla: 4.6 shots on target/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Gabriel Suazo,Sevilla,Tackles 1+,80,80,80,10,,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Juan Iglesias,Sevilla,Fouled 1+,80,80,80,10,Getafe: 14.1 fouls committed/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Lucas Stassin,Sevilla,Shots 1+,80,80,100,5,Getafe: 14.8 shots conceded/game,Small sample (5 games)
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Lucien Agoumé,Sevilla,Fouls 1+,80,80,80,10,Getafe: 12.6 fouls won/game,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Callum McGregor,Celtic,Tackles 1+,90,80,90,10,,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Mika Baur,Celtic,Tackles 2+,89,100,100,9,,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Benjamin Nygren,Celtic,Shots 1+,82,80,80,11,Falkirk: 15.5 shots conceded/game,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Benjamin Nygren,Celtic,Fouled 1+,82,80,80,11,Falkirk: 14.5 fouls committed/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,André Onana,Trabzonspor,Saves 3+,89,80,,9,Gaziantep FK: 3.7 shots on target/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Ernest Muçi,Trabzonspor,Tackles 1+,88,100,88,8,,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Wagner Pina,Trabzonspor,Tackles 1+,88,100,100,8,,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Ernest Muçi,Trabzonspor,Shots 1+,88,80,88,8,Gaziantep FK: 13.7 shots conceded/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Ernest Muçi,Trabzonspor,Shots 2+,88,80,88,8,Gaziantep FK: 13.7 shots conceded/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Ernest Muçi,Trabzonspor,SOT 1+,88,80,88,8,Gaziantep FK: 4.0 SOT conceded/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Wagner Pina,Trabzonspor,Fouls 1+,88,80,86,8,Gaziantep FK: 15.7 fouls won/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Melih Kabasakal,Trabzonspor,Tackles 1+,86,100,100,7,,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Robin Pröpper,FC Twente,Shots 1+,90,100,89,10,Excelsior: 14.8 shots conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Wout Weghorst,FC Twente,Shots 2+,90,100,90,10,Excelsior: 14.8 shots conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Wout Weghorst,FC Twente,Fouls 1+,90,80,90,10,Excelsior: 7.9 fouls won/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Aske Adelgaard,FC Twente,Fouls 1+,86,80,86,7,Excelsior: 7.9 fouls won/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Aske Adelgaard,FC Twente,Tackles 1+,86,80,86,7,,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,Robin Pröpper,FC Twente,Fouled 1+,80,80,89,10,Excelsior: 11.7 fouls committed/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Kévin Danois,Auxerre,Tackles 1+,88,100,88,8,,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Pape Demba Diop,Strasbourg,Fouls 1+,88,100,100,8,Auxerre: 10.4 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Clément Akpa,Auxerre,Fouls 1+,88,80,88,8,Strasbourg: 8.6 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Danny Namaso,Auxerre,Fouls 1+,88,80,88,8,Strasbourg: 8.6 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Danny Namaso,Auxerre,Tackles 1+,88,80,88,8,,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Genesis Antwi,Strasbourg,Tackles 1+,88,80,88,8,,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Gessime Yassine,Strasbourg,Fouls 1+,88,80,88,8,Auxerre: 10.4 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Gessime Yassine,Strasbourg,Fouled 1+,88,80,88,8,Auxerre: 15.1 fouls committed/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Gessime Yassine,Strasbourg,Fouled 2+,88,80,88,8,Auxerre: 15.1 fouls committed/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Kévin Danois,Auxerre,Fouls 1+,88,80,88,8,Strasbourg: 8.6 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Kévin Danois,Auxerre,Fouled 1+,88,80,88,8,Strasbourg: 12.0 fouls committed/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Pape Demba Diop,Strasbourg,Tackles 1+,88,80,83,8,,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Pape Demba Diop,Strasbourg,Tackles 2+,88,80,83,8,,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Jeyland Mitchell,Strasbourg,Tackles 1+,86,100,86,7,,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Jeyland Mitchell,Strasbourg,Tackles 2+,86,100,86,7,,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Diogo Sousa,Strasbourg,Fouls 1+,86,80,86,7,Auxerre: 10.4 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Fredrik Oppegård,Auxerre,Fouls 1+,83,100,100,6,Strasbourg: 8.6 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Cameron Archer,Auxerre,Goal 1+,83,80,83,6,Strasbourg: 2.25 goals conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Cameron Archer,Auxerre,Score or assist,83,80,83,6,Strasbourg: 2.25 goals conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Cameron Archer,Auxerre,Fouls 1+,83,80,83,6,Strasbourg: 8.6 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Christ Makosso,Auxerre,Tackles 1+,83,80,83,6,,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Mamadou Diop,Auxerre,Saves 2+,83,80,,6,Strasbourg: 4.9 shots on target/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Mamadou Diop,Auxerre,Saves 3+,83,80,,6,Strasbourg: 4.9 shots on target/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Anthony Oyono,Frosinone,Tackles 1+,89,100,88,9,,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giorgi Kvernadze,Frosinone,Fouled 1+,89,100,89,9,Torino: 9.4 fouls committed/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giovanni Simeone,Torino,Shots 1+,89,100,100,9,Frosinone: 19.3 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Lorenzo Palmisani,Frosinone,Saves 3+,89,100,,9,Torino: 3.8 shots on target/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Anthony Oyono,Frosinone,Fouled 1+,89,80,88,9,Torino: 9.4 fouls committed/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giacomo Calò,Frosinone,Fouled 1+,89,80,89,9,Torino: 9.4 fouls committed/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giorgi Kvernadze,Frosinone,Tackles 1+,89,80,89,9,,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Giovanni Simeone,Torino,Fouled 1+,89,80,88,9,Frosinone: 15.0 fouls committed/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Gabriele Bracaglia,Frosinone,Tackles 1+,88,100,88,8,,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Gabriele Calvani,Frosinone,Tackles 1+,88,80,88,8,,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Patrizio Masini,Frosinone,Tackles 1+,88,80,86,8,,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Ché Adams,Torino,SOT 1+,86,80,83,7,Frosinone: 6.1 SOT conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Farès Ghedjemis,Frosinone,Shots 2+,86,80,83,7,Torino: 15.8 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Adam Obert,Cagliari,Tackles 1+,89,100,89,9,,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Alessandro Romano,Cagliari,Tackles 1+,89,100,89,9,,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Kenneth Taylor,Lazio,Fouled 1+,89,100,89,9,Cagliari: 11.8 fouls committed/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Nuno Tavares,Lazio,Tackles 1+,89,100,88,9,,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Alessandro Romano,Cagliari,Shots 1+,89,80,89,9,Lazio: 11.9 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Davide Frattesi,Lazio,Tackles 1+,89,80,88,9,,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Mattia Zaccagni,Lazio,Shots 1+,89,80,89,9,Cagliari: 18.7 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Mattia Zaccagni,Lazio,Shots 2+,89,80,89,9,Cagliari: 18.7 shots conceded/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Romano Floriani,Lazio,Fouls 1+,89,80,88,9,Cagliari: 9.1 fouls won/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Oliver Provstgaard,Lazio,Fouls 1+,88,80,88,8,Cagliari: 9.1 fouls won/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Reda Belahyane,Lazio,Tackles 1+,88,80,86,8,,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,András Schäfer,Union Berlin,Tackles 1+,86,100,100,7,,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Jahmai Simpson-Pusey,1. FC Köln,Fouled 1+,86,100,86,7,Union Berlin: 11.3 fouls committed/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Janik Haberer,Union Berlin,Shots 1+,86,80,100,7,1. FC Köln: 14.7 shots conceded/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Linton Maina,1. FC Köln,Fouled 1+,86,80,83,7,Union Berlin: 11.3 fouls committed/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Marvin Schwäbe,1. FC Köln,Saves 2+,86,80,,7,Union Berlin: 3.9 shots on target/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Tom Krauß,1. FC Köln,Fouls 1+,86,80,100,7,Union Berlin: 10.7 fouls won/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Mikey Moore,1. FC Köln,Shots 1+,83,80,100,6,Union Berlin: 17.0 shots conceded/game,Transferred (from Tottenham Hotspur)
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Saïd El Mala,1. FC Köln,Shots 1+,83,80,100,6,Union Berlin: 17.0 shots conceded/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Saïd El Mala,1. FC Köln,Shots 2+,83,80,100,6,Union Berlin: 17.0 shots conceded/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Saïd El Mala,1. FC Köln,Tackles 1+,83,80,80,6,,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Alessio Castro-Montes,1. FC Köln,Tackles 1+,80,80,100,5,,Small sample (5 games)
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Alessio Castro-Montes,1. FC Köln,Tackles 2+,80,80,100,5,,Small sample (5 games)
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Arda Güler,Real Madrid,Shots 1+,90,100,88,10,Racing Santander: 15.8 shots conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Iñigo Vicente,Racing Santander,Tackles 1+,90,100,89,10,,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Jude Bellingham,Real Madrid,Fouled 1+,90,100,89,10,Racing Santander: 13.4 fouls committed/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Jude Bellingham,Real Madrid,Fouled 2+,90,100,89,10,Racing Santander: 13.4 fouls committed/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Iñigo Vicente,Racing Santander,Fouled 1+,90,80,100,10,Real Madrid: 8.8 fouls committed/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Jude Bellingham,Real Madrid,Tackles 1+,90,80,100,10,,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Kylian Mbappé,Real Madrid,Shots 2+,90,80,90,10,Racing Santander: 15.8 shots conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Kylian Mbappé,Real Madrid,SOT 1+,90,80,90,10,Racing Santander: 6.1 SOT conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Sergio Canales,Racing Santander,Fouled 1+,90,80,100,10,Real Madrid: 8.8 fouls committed/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Iván Martin,Racing Santander,Tackles 1+,88,80,86,8,,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Jeanuël Belocian,Racing Santander,Fouls 1+,83,80,80,6,Real Madrid: 14.2 fouls won/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Marc Cucurella,Real Madrid,Tackles 1+,80,100,83,10,,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Yassir Zabiri,Racing Santander,Shots 1+,80,100,100,10,Real Madrid: 13.3 shots conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Facundo González,Racing Santander,Fouls 1+,80,80,100,5,Real Madrid: 14.2 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Manu,Racing Santander,Fouls 1+,80,80,100,5,Real Madrid: 14.2 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Salih Özcan,Beşiktaş,Tackles 1+,89,100,89,9,,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Emmanuel Agbadou,Beşiktaş,Tackles 1+,89,80,100,9,,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Leandro Trossard,Beşiktaş,Shots 1+,88,80,88,8,Kasımpaşa: 14.4 shots conceded/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Dušan Vlahović,Beşiktaş,Fouls 1+,86,80,83,7,Kasımpaşa: 13.3 fouls won/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Emirhan Topçu,Beşiktaş,Fouled 1+,86,80,100,7,Kasımpaşa: 15.3 fouls committed/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Tiago Djaló,Beşiktaş,Fouls 1+,80,80,100,5,Kasımpaşa: 13.3 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Tiago Djaló,Beşiktaş,Tackles 1+,80,80,75,5,,Small sample (5 games)
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Corentin Tolisso,Lyon,Tackles 1+,88,100,83,8,,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Amine Sbaï,Angers,Fouled 1+,88,80,88,8,Lyon: 11.4 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Anthony Lopes,Angers,Saves 2+,88,80,,8,Lyon: 4.9 shots on target/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Anthony Lopes,Angers,Saves 3+,88,80,,8,Lyon: 4.9 shots on target/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Branco van den Boomen,Angers,Tackles 1+,88,80,88,8,,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Jim Allevinah,Angers,Shots 1+,88,80,86,8,Lyon: 12.5 shots conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Jim Allevinah,Angers,Fouled 1+,88,80,86,8,Lyon: 11.4 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Yassin Belkhdim,Angers,Fouls 1+,88,80,88,8,Lyon: 13.4 fouls won/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Mads Bidstrup,Lyon,Tackles 1+,86,100,86,7,,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Jordan Lefort,Angers,Fouled 1+,86,80,86,7,Lyon: 11.4 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Dominik Greif,Lyon,Saves 3+,83,80,,6,Angers: 3.2 shots on target/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Ernest Nuamah,Lyon,Shots 1+,83,80,83,6,Angers: 16.4 shots conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Ernest Nuamah,Lyon,Shots 2+,83,80,83,6,Angers: 16.4 shots conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Ilan Kebbal,Paris FC,Fouled 1+,88,100,88,8,Monaco: 12.5 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Maxime Lopez,Paris FC,Tackles 1+,88,100,86,8,,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Vanderson,Monaco,Tackles 1+,88,100,88,8,,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Vanderson,Monaco,Tackles 2+,88,100,88,8,,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Lamine Camara,Monaco,Fouls 1+,88,80,88,8,Paris FC: 11.5 fouls won/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Lassine Sinayoko,Paris FC,Shots 1+,88,80,88,8,Monaco: 12.0 shots conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Lukás Hrádecky,Monaco,Saves 2+,88,80,,8,Paris FC: 4.5 shots on target/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Pablo Pagis,Paris FC,Fouled 1+,88,80,88,8,Monaco: 12.5 fouls committed/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Pierre Lees-Melou,Paris FC,Tackles 1+,88,80,88,8,,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Vanderson,Monaco,Fouls 1+,88,80,88,8,Paris FC: 11.5 fouls won/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Hamari Traoré,Paris FC,Tackles 1+,83,100,100,6,,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Paris Brunner,Monaco,Shots 2+,83,80,83,6,Paris FC: 9.6 shots conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Mamadou Mbow,Paris FC,Tackles 1+,80,80,100,5,,Small sample (5 games)
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Samir Chergui,Paris FC,Fouls 2+,80,80,80,5,Monaco: 11.4 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Daniel Heuer Fernandes,Hamburger SV,Saves 2+,86,80,,7,Eintracht Frankfurt: 5.4 shots on target/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Daniel Heuer Fernandes,Hamburger SV,Saves 3+,86,80,,7,Eintracht Frankfurt: 5.4 shots on target/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Raphael Onyedika,Eintracht Frankfurt,Fouls 1+,86,80,86,7,Hamburger SV: 12.7 fouls won/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Raphael Onyedika,Eintracht Frankfurt,Tackles 1+,86,80,86,7,,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Younes Ebnoutalib,Eintracht Frankfurt,Shots 1+,86,80,100,7,Hamburger SV: 18.7 shots conceded/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Younes Ebnoutalib,Eintracht Frankfurt,SOT 1+,86,80,100,7,Hamburger SV: 5.9 SOT conceded/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,David Møller Wolfe,Hamburger SV,Fouls 1+,83,100,83,6,Eintracht Frankfurt: 12.3 fouls won/game,Transferred (from Wolverhampton Wanderers)
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Can Uzun,Eintracht Frankfurt,Shots 1+,83,80,100,6,Hamburger SV: 18.7 shots conceded/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Can Uzun,Eintracht Frankfurt,Fouled 1+,83,80,100,6,Hamburger SV: 14.4 fouls committed/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Ritsu Doan,Eintracht Frankfurt,Shots 1+,83,80,83,6,Hamburger SV: 18.7 shots conceded/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Noël Aséko,Eintracht Frankfurt,Fouled 1+,80,80,75,5,Hamburger SV: 14.4 fouls committed/game,Small sample (5 games)
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Noël Aséko,Eintracht Frankfurt,Tackles 1+,80,80,100,5,,Small sample (5 games)
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Jérémy Jacquet,Liverpool,Fouls 1+,88,100,88,8,Arsenal: 15.5 fouls won/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Kai Havertz,Arsenal,Shots 1+,88,80,100,8,Liverpool: 12.5 shots conceded/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Ezri Konsa,Arsenal,Fouled 1+,86,100,100,7,Liverpool: 13.8 fouls committed/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Ryan Gravenberch,Liverpool,Fouls 1+,86,100,100,7,Arsenal: 15.5 fouls won/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Ben White,Arsenal,Tackles 1+,86,80,86,7,,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Bradley Barcola,Liverpool,Shots 1+,83,100,100,6,Arsenal: 10.8 shots conceded/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Cody Gakpo,Liverpool,Shots 1+,83,80,80,6,Arsenal: 10.8 shots conceded/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Myles Lewis-Skelly,Arsenal,Fouls 1+,83,80,83,6,Liverpool: 10.1 fouls won/game,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Jamil Siebert,Lecce,Tackles 1+,89,100,100,9,,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Alessandro Marcandalli,Genoa,Tackles 1+,89,80,100,9,,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Danilo Veiga,Lecce,Fouls 1+,89,80,89,9,Genoa: 11.2 fouls won/game,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Danilo Veiga,Lecce,Tackles 1+,89,80,89,9,,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Morten Frendrup,Genoa,Tackles 1+,89,80,100,9,,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Oumar Ngom,Lecce,Tackles 1+,89,80,100,9,,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Johan Vásquez,Genoa,Tackles 1+,88,80,88,8,,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Milutin Osmajić,Genoa,Shots 1+,88,80,86,8,Lecce: 15.6 shots conceded/game,Transferred (from Preston North End)
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Lorenzo Colombo,Genoa,Fouls 1+,86,80,100,7,Lecce: 9.7 fouls won/game,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Tommaso Baldanzi,Genoa,Shots 1+,83,80,83,6,Lecce: 15.6 shots conceded/game,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Djibril Sow,Genoa,Fouled 1+,80,80,100,5,Lecce: 13.1 fouls committed/game,Small sample (5 games)
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Djibril Sow,Genoa,Tackles 1+,80,80,100,5,,Small sample (5 games)
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Arnaut Danjuma,Valencia,Shots 1+,90,80,100,10,Elche: 15.1 shots conceded/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Arnaut Danjuma,Valencia,Fouled 1+,90,80,88,10,Elche: 13.2 fouls committed/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Gonzalo Villar,Elche,Fouled 1+,90,80,90,10,Valencia: 11.6 fouls committed/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Gonzalo Villar,Elche,Tackles 1+,90,80,90,10,,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Matías Dituro,Elche,Saves 2+,90,80,,10,Valencia: 2.9 shots on target/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Pepelu,Valencia,Tackles 1+,90,80,90,10,,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Buba Sangaré,Elche,Tackles 1+,89,100,89,9,,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Guido Rodríguez,Valencia,Tackles 2+,86,100,86,7,,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Thomas Lemar,Elche,Tackles 1+,86,100,100,7,,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,César Tárrega,Valencia,Fouls 1+,86,80,83,7,Elche: 13.5 fouls won/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Federico Redondo,Elche,Tackles 1+,86,80,83,7,,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Guido Rodríguez,Valencia,Fouls 1+,86,80,86,7,Elche: 13.5 fouls won/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Thomas Lemar,Elche,Fouls 1+,86,80,75,7,Valencia: 11.2 fouls won/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Fer Niño,Elche,Shots 1+,80,100,75,10,Valencia: 15.5 shots conceded/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Víctor Chust,Elche,Tackles 1+,80,100,80,10,,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Germán Valera,Elche,Fouled 1+,80,80,80,10,Valencia: 11.6 fouls committed/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Ryunosuke Sato,Valencia,Tackles 1+,80,80,75,5,,Small sample (5 games)
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Tete Morente,Elche,Fouls 1+,80,80,80,10,Valencia: 11.2 fouls won/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Amine Harit,Marseille,Tackles 1+,88,100,88,8,,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Cristian Cásseres,Toulouse,Fouls 1+,88,100,88,8,Marseille: 10.9 fouls won/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Mark McKenzie,Toulouse,Fouls 1+,88,100,88,8,Marseille: 10.9 fouls won/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Mark McKenzie,Toulouse,Fouled 1+,88,100,88,8,Marseille: 11.2 fouls committed/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Amine Harit,Marseille,Fouled 1+,88,80,88,8,Toulouse: 16.0 fouls committed/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Cristian Cásseres,Toulouse,Fouled 1+,88,80,88,8,Marseille: 11.2 fouls committed/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Jeffrey De Lange,Marseille,Saves 2+,88,80,,8,Toulouse: 4.4 shots on target/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Timothy Weah,Marseille,Shots 1+,86,100,86,7,Toulouse: 13.9 shots conceded/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Igor Paixão,Marseille,Shots 1+,86,80,86,7,Toulouse: 13.9 shots conceded/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Timothy Weah,Marseille,Fouls 1+,86,80,86,7,Toulouse: 13.1 fouls won/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Casper Tengstedt,Toulouse,SOT 1+,83,100,100,6,Marseille: 5.5 SOT conceded/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Ilyas Azizi,Toulouse,Shots 1+,83,100,100,6,Marseille: 16.6 shots conceded/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Ilyas Azizi,Toulouse,Fouls 1+,83,100,100,6,Marseille: 10.9 fouls won/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Pierre-Emile Højbjerg,Marseille,Fouls 1+,83,100,83,6,Toulouse: 13.1 fouls won/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Pierre-Emile Højbjerg,Marseille,Shots 1+,83,80,83,6,Toulouse: 13.9 shots conceded/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Niko Sigur,Toulouse,Fouls 1+,80,80,100,5,Marseille: 10.9 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Rasmus Nicolaisen,Toulouse,Fouls 1+,80,80,80,5,Marseille: 10.9 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Rasmus Nicolaisen,Toulouse,Fouled 1+,80,80,80,5,Marseille: 11.2 fouls committed/game,Small sample (5 games)
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Seny Koumbassa,Toulouse,Fouls 1+,80,80,100,5,Marseille: 10.9 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Tochukwu Nnadi,Marseille,Fouled 1+,80,80,100,5,Toulouse: 16.0 fouls committed/game,Small sample (5 games)
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Douglas Luiz,Juventus,Fouled 1+,89,100,89,9,Napoli: 8.2 fouls committed/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Rasmus Højlund,Napoli,Shots 1+,89,100,88,9,Juventus: 9.1 shots conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Douglas Luiz,Juventus,Shots 1+,89,80,89,9,Napoli: 16.1 shots conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Randal Kolo Muani,Juventus,Shots 1+,89,80,89,9,Napoli: 16.1 shots conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Randal Kolo Muani,Juventus,Fouls 1+,89,80,89,9,Napoli: 9.7 fouls won/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Amir Rrahmani,Napoli,Tackles 1+,88,80,88,8,,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Noa Lang,Napoli,Shots 1+,86,100,100,7,Juventus: 9.1 shots conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Frank Anguissa,Napoli,Fouled 1+,83,80,100,6,Juventus: 12.2 fouls committed/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Scott McTominay,Napoli,SOT 1+,83,80,80,6,Juventus: 2.8 SOT conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Sergio Gómez,Real Sociedad,Tackles 1+,90,80,89,10,,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Alex Remiro,Real Sociedad,Saves 2+,89,80,,9,Athletic Club: 4.1 shots on target/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Luka Sučić,Real Sociedad,Shots 1+,89,80,88,9,Athletic Club: 10.2 shots conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Jon Aramburu,Real Sociedad,Tackles 1+,88,100,86,8,,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Jon Aramburu,Real Sociedad,Fouls 1+,88,80,100,8,Athletic Club: 12.2 fouls won/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Beñat Gerenabarrena,Athletic Club,Fouled 1+,86,100,100,7,Real Sociedad: 12.4 fouls committed/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Beñat Gerenabarrena,Athletic Club,Tackles 1+,86,100,100,7,,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Robert Navarro,Athletic Club,Shots 1+,86,100,100,7,Real Sociedad: 15.5 shots conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Oihan Sancet,Athletic Club,Fouled 1+,83,80,83,6,Real Sociedad: 12.4 fouls committed/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Mikel Oyarzabal,Real Sociedad,Shots 1+,80,100,88,10,Athletic Club: 10.2 shots conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Beñat Turrientes,Real Sociedad,Shots 1+,80,80,100,5,Athletic Club: 10.2 shots conceded/game,Small sample (5 games)
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Beñat Turrientes,Real Sociedad,Tackles 1+,80,80,100,5,,Small sample (5 games)
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Beñat Turrientes,Real Sociedad,Tackles 2+,80,80,100,5,,Small sample (5 games)
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Mamadou Sarr,Real Sociedad,Fouls 1+,80,80,80,5,Athletic Club: 12.2 fouls won/game,Small sample (5 games)
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Brian White,Vancouver Whitecaps,Shots 1+,97,80,97,30,Seattle Sounders FC: 13.8 shots conceded/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Dejan Joveljić,Seattle Sounders FC,Shots 1+,93,100,93,29,Vancouver Whitecaps: 9.9 shots conceded/game,Transferred (from Sporting Kansas City)
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Sebastian Berhalter,Vancouver Whitecaps,Shots 1+,93,100,100,14,Seattle Sounders FC: 13.8 shots conceded/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Sebastian Berhalter,Vancouver Whitecaps,Fouls 1+,93,100,100,14,Seattle Sounders FC: 9.6 fouls won/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Sebastian Berhalter,Vancouver Whitecaps,Fouled 1+,93,100,92,14,Seattle Sounders FC: 10.4 fouls committed/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Sebastian Berhalter,Vancouver Whitecaps,Tackles 1+,93,80,92,14,,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Cristian Roldan,Seattle Sounders FC,Tackles 1+,92,80,90,24,,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Jeevan Badwal,Vancouver Whitecaps,Fouled 1+,91,100,94,22,Seattle Sounders FC: 10.4 fouls committed/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Albert Rusnák,Seattle Sounders FC,Shots 1+,90,80,96,31,Vancouver Whitecaps: 9.9 shots conceded/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Brian White,Vancouver Whitecaps,Shots 2+,87,80,86,30,Seattle Sounders FC: 13.8 shots conceded/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Édier Ocampo,Vancouver Whitecaps,Fouls 1+,86,100,85,28,Seattle Sounders FC: 9.6 fouls won/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Kee-Hee Kim,Seattle Sounders FC,Tackles 1+,86,80,100,7,,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Dejan Joveljić,Seattle Sounders FC,SOT 1+,83,100,83,29,Vancouver Whitecaps: 3.6 SOT conceded/game,Transferred (from Sporting Kansas City)
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Ryan Gauld,Vancouver Whitecaps,Shots 1+,83,80,92,18,Seattle Sounders FC: 13.8 shots conceded/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Édier Ocampo,Vancouver Whitecaps,Fouled 1+,82,100,85,28,Seattle Sounders FC: 10.4 fouls committed/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Nouhou Tolo,Seattle Sounders FC,Fouled 1+,81,100,84,32,Vancouver Whitecaps: 14.4 fouls committed/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Mathías Laborda,Vancouver Whitecaps,Tackles 1+,81,80,81,31,,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Cade Cowell,Red Bull New York,Shots 1+,87,100,86,30,Nashville SC: 10.8 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Elias Saad,Nashville SC,Shots 1+,87,80,80,15,Red Bull New York: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Emil Forsberg,Red Bull New York,Shots 1+,86,100,82,29,Nashville SC: 10.8 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Matthew Corcoran,Nashville SC,Tackles 1+,86,100,96,28,,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Julian Hall,Red Bull New York,Shots 1+,84,100,86,31,Nashville SC: 10.8 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Adri Mehmeti,Red Bull New York,Tackles 1+,83,100,83,30,,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Hany Mukhtar,Nashville SC,Shots 2+,81,100,86,32,Red Bull New York: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Patrick Yazbek,Nashville SC,Fouls 1+,81,100,94,21,Red Bull New York: 10.4 fouls won/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Jeisson Palacios,Nashville SC,Tackles 1+,81,80,80,26,,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Sam Surridge,Nashville SC,Shots 1+,81,80,86,26,Red Bull New York: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Sam Surridge,Nashville SC,SOT 1+,81,80,86,26,Red Bull New York: 5.3 SOT conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Mohammed Sofo,Red Bull New York,Fouls 1+,80,100,100,25,Nashville SC: 10.3 fouls won/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Niklas Dorsch,Toronto FC,Tackles 1+,92,100,92,12,,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Niklas Dorsch,Toronto FC,Fouls 1+,92,80,92,12,Atlanta United: 10.2 fouls won/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Raheem Edwards,Toronto FC,Tackles 1+,92,80,100,13,,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Richie Laryea,Toronto FC,Fouled 1+,92,80,92,25,Atlanta United: 11.5 fouls committed/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,José Cifuentes,Toronto FC,Tackles 1+,90,80,90,10,,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Tomás Jacob,Atlanta United,Tackles 1+,89,80,89,28,,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Dániel Sallói,Toronto FC,Shots 1+,88,100,86,32,Atlanta United: 12.0 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Joshua Sargent,Toronto FC,Shots 1+,88,80,87,25,Atlanta United: 12.0 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Giuliano Galoppo,Atlanta United,Shots 2+,86,100,86,7,Toronto FC: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Giuliano Galoppo,Atlanta United,Fouled 1+,86,100,86,7,Toronto FC: 11.1 fouls committed/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Giuliano Galoppo,Atlanta United,Tackles 1+,86,80,86,7,,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Raheem Edwards,Toronto FC,Fouls 1+,85,80,89,13,Atlanta United: 10.2 fouls won/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Júnior Alonso,Atlanta United,Tackles 1+,81,80,81,16,,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Matheus Pereira,Toronto FC,Fouled 1+,80,100,90,15,Atlanta United: 11.5 fouls committed/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Miguel Almirón,Atlanta United,Fouled 1+,80,100,79,25,Toronto FC: 11.1 fouls committed/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Breel Embolo,Atlanta United,Shots 2+,80,80,80,10,Toronto FC: 13.1 shots conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Richie Laryea,Toronto FC,Tackles 1+,80,80,80,25,,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Carles Gil,New England Revolution,Fouled 1+,97,100,97,32,Inter Miami CF: 12.9 fouls committed/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Dor Turgeman,New England Revolution,Shots 1+,94,100,94,31,Inter Miami CF: 13.3 shots conceded/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Peyton Miller,New England Revolution,Shots 1+,93,100,91,29,Inter Miami CF: 13.3 shots conceded/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Rodrigo De Paul,Inter Miami CF,Fouled 1+,93,100,93,27,New England Revolution: 9.6 fouls committed/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Mamadou Fofana,New England Revolution,Tackles 1+,93,80,96,28,,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Germán Berterame,Inter Miami CF,Shots 1+,89,80,88,28,New England Revolution: 13.9 shots conceded/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Yannick Bright,Inter Miami CF,Fouls 1+,88,80,91,24,New England Revolution: 12.5 fouls won/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Will Sands,New England Revolution,Fouled 1+,84,80,84,31,Inter Miami CF: 12.9 fouls committed/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Brooklyn Raines,New England Revolution,Fouls 1+,83,80,86,29,Inter Miami CF: 12.2 fouls won/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Brooklyn Raines,New England Revolution,Fouled 1+,83,80,86,29,Inter Miami CF: 12.9 fouls committed/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Micael,Inter Miami CF,Tackles 1+,83,80,83,23,,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Yannick Bright,Inter Miami CF,Tackles 1+,83,80,82,24,,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Gonzalo Luján,Inter Miami CF,Tackles 1+,82,100,83,22,,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Matías Galarza,Inter Miami CF,Fouls 1+,82,80,86,17,New England Revolution: 12.5 fouls won/game,Transferred (from Atlanta United FC)
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Matt Turner,New England Revolution,Saves 2+,81,100,,32,Inter Miami CF: 6.0 shots on target/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Denis Bouanga,Los Angeles FC,Shots 1+,97,100,97,30,Minnesota United: 12.3 shots conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Heung-Min Son,Los Angeles FC,Shots 1+,97,100,96,29,Minnesota United: 12.3 shots conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Kelvin Yeboah,Minnesota United,Shots 1+,97,100,100,31,Los Angeles FC: 13.0 shots conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Anthony Markanich,Minnesota United,Tackles 1+,90,100,90,31,,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Evgen Cheberko,Los Angeles FC,Tackles 1+,90,100,100,20,,Transferred (from Columbus Crew SC)
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Anthony Markanich,Minnesota United,Shots 1+,87,80,90,31,Los Angeles FC: 13.0 shots conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Heung-Min Son,Los Angeles FC,Shots 2+,86,100,93,29,Minnesota United: 12.3 shots conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Eddie Segura,Los Angeles FC,Tackles 1+,84,80,83,25,,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Kelvin Yeboah,Minnesota United,Shots 2+,81,100,89,31,Los Angeles FC: 13.0 shots conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Kelvin Yeboah,Minnesota United,SOT 1+,81,100,82,31,Los Angeles FC: 4.1 SOT conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Cherrion Valerius,Minnesota United,Tackles 2+,80,80,80,5,,Small sample (5 games)
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Kristoffer Velde,Portland Timbers,Fouled 1+,97,100,97,31,Houston Dynamo FC: 10.2 fouls committed/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Cole Bassett,Portland Timbers,Shots 1+,96,100,96,26,Houston Dynamo FC: 12.8 shots conceded/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Mateusz Bogusz,Houston Dynamo FC,Shots 1+,94,80,97,31,Portland Timbers: 14.8 shots conceded/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Ezequiel Ponce,Houston Dynamo FC,Shots 1+,88,80,100,17,Portland Timbers: 14.8 shots conceded/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Kristoffer Velde,Portland Timbers,Shots 2+,87,80,87,31,Houston Dynamo FC: 12.8 shots conceded/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Mateusz Bogusz,Houston Dynamo FC,Fouled 1+,84,100,87,31,Portland Timbers: 10.0 fouls committed/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Lyle Foster,Houston Dynamo FC,Fouls 1+,83,100,100,6,Portland Timbers: 13.3 fouls won/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Ronald Hernández,Portland Timbers,Tackles 1+,81,100,100,16,,Transferred (from Atlanta United FC)
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Kevin Kelsy,Portland Timbers,Shots 1+,80,100,87,20,Houston Dynamo FC: 12.8 shots conceded/game,
+,"PLAYER TOP PICKS: best 5 per match (80-99%, 6+ games, markets the tracker shows hitting 75%+)  (77)"
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Leandro Trossard,Beşiktaş,Shots 1+,88,80,88,8,Kasımpaşa: 14.4 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Salih Özcan,Beşiktaş,Tackles 1+,89,100,89,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Emmanuel Agbadou,Beşiktaş,Tackles 1+,89,80,100,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Jim Allevinah,Angers,Shots 1+,88,80,86,8,Lyon: 12.5 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Ernest Nuamah,Lyon,Shots 1+,83,80,83,6,Angers: 16.4 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Corentin Tolisso,Lyon,Tackles 1+,88,100,83,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Branco van den Boomen,Angers,Tackles 1+,88,80,88,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Mads Bidstrup,Lyon,Tackles 1+,86,100,86,7,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Lassine Sinayoko,Paris FC,Shots 1+,88,80,88,8,Monaco: 12.0 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Maxime Lopez,Paris FC,Tackles 1+,88,100,86,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Vanderson,Monaco,Tackles 1+,88,100,88,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Pierre Lees-Melou,Paris FC,Tackles 1+,88,80,88,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Hamari Traoré,Paris FC,Tackles 1+,83,100,100,6,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Younes Ebnoutalib,Eintracht Frankfurt,Shots 1+,86,80,100,7,Hamburger SV: 18.7 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Can Uzun,Eintracht Frankfurt,Shots 1+,83,80,100,6,Hamburger SV: 18.7 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Ritsu Doan,Eintracht Frankfurt,Shots 1+,83,80,83,6,Hamburger SV: 18.7 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Raphael Onyedika,Eintracht Frankfurt,Tackles 1+,86,80,86,7,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Younes Ebnoutalib,Eintracht Frankfurt,SOT 1+,86,80,100,7,Hamburger SV: 5.9 SOT conceded/game,Tracker: this market hits 75% (105 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Kai Havertz,Arsenal,Shots 1+,88,80,100,8,Liverpool: 12.5 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Bradley Barcola,Liverpool,Shots 1+,83,100,100,6,Arsenal: 10.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Cody Gakpo,Liverpool,Shots 1+,83,80,80,6,Arsenal: 10.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Ben White,Arsenal,Tackles 1+,86,80,86,7,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Milutin Osmajić,Genoa,Shots 1+,88,80,86,8,Lecce: 15.6 shots conceded/game,Transferred (from Preston North End); Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Tommaso Baldanzi,Genoa,Shots 1+,83,80,83,6,Lecce: 15.6 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Jamil Siebert,Lecce,Tackles 1+,89,100,100,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Alessandro Marcandalli,Genoa,Tackles 1+,89,80,100,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Danilo Veiga,Lecce,Tackles 1+,89,80,89,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Arnaut Danjuma,Valencia,Shots 1+,90,80,100,10,Elche: 15.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Fer Niño,Elche,Shots 1+,80,100,75,10,Valencia: 15.5 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Gonzalo Villar,Elche,Tackles 1+,90,80,90,10,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Pepelu,Valencia,Tackles 1+,90,80,90,10,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Buba Sangaré,Elche,Tackles 1+,89,100,89,9,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Timothy Weah,Marseille,Shots 1+,86,100,86,7,Toulouse: 13.9 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Igor Paixão,Marseille,Shots 1+,86,80,86,7,Toulouse: 13.9 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Ilyas Azizi,Toulouse,Shots 1+,83,100,100,6,Marseille: 16.6 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Pierre-Emile Højbjerg,Marseille,Shots 1+,83,80,83,6,Toulouse: 13.9 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Amine Harit,Marseille,Tackles 1+,88,100,88,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Rasmus Højlund,Napoli,Shots 1+,89,100,88,9,Juventus: 9.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Douglas Luiz,Juventus,Shots 1+,89,80,89,9,Napoli: 16.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Randal Kolo Muani,Juventus,Shots 1+,89,80,89,9,Napoli: 16.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Noa Lang,Napoli,Shots 1+,86,100,100,7,Juventus: 9.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Amir Rrahmani,Napoli,Tackles 1+,88,80,88,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Luka Sučić,Real Sociedad,Shots 1+,89,80,88,9,Athletic Club: 10.2 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Robert Navarro,Athletic Club,Shots 1+,86,100,100,7,Real Sociedad: 15.5 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Mikel Oyarzabal,Real Sociedad,Shots 1+,80,100,88,10,Athletic Club: 10.2 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Sergio Gómez,Real Sociedad,Tackles 1+,90,80,89,10,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Jon Aramburu,Real Sociedad,Tackles 1+,88,100,86,8,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Brian White,Vancouver Whitecaps,Shots 1+,97,80,97,30,Seattle Sounders FC: 13.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Dejan Joveljić,Seattle Sounders FC,Shots 1+,93,100,93,29,Vancouver Whitecaps: 9.9 shots conceded/game,Transferred (from Sporting Kansas City); Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Sebastian Berhalter,Vancouver Whitecaps,Shots 1+,93,100,100,14,Seattle Sounders FC: 13.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Albert Rusnák,Seattle Sounders FC,Shots 1+,90,80,96,31,Vancouver Whitecaps: 9.9 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Ryan Gauld,Vancouver Whitecaps,Shots 1+,83,80,92,18,Seattle Sounders FC: 13.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Cade Cowell,Red Bull New York,Shots 1+,87,100,86,30,Nashville SC: 10.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Elias Saad,Nashville SC,Shots 1+,87,80,80,15,Red Bull New York: 13.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Emil Forsberg,Red Bull New York,Shots 1+,86,100,82,29,Nashville SC: 10.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Julian Hall,Red Bull New York,Shots 1+,84,100,86,31,Nashville SC: 10.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Sam Surridge,Nashville SC,Shots 1+,81,80,86,26,Red Bull New York: 13.1 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Dániel Sallói,Toronto FC,Shots 1+,88,100,86,32,Atlanta United: 12.0 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Joshua Sargent,Toronto FC,Shots 1+,88,80,87,25,Atlanta United: 12.0 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Niklas Dorsch,Toronto FC,Tackles 1+,92,100,92,12,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Raheem Edwards,Toronto FC,Tackles 1+,92,80,100,13,,Tracker: this market hits 78% (866 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,José Cifuentes,Toronto FC,Tackles 1+,90,80,90,10,,Tracker: this market hits 78% (866 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Dor Turgeman,New England Revolution,Shots 1+,94,100,94,31,Inter Miami CF: 13.3 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Peyton Miller,New England Revolution,Shots 1+,93,100,91,29,Inter Miami CF: 13.3 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Germán Berterame,Inter Miami CF,Shots 1+,89,80,88,28,New England Revolution: 13.9 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Mamadou Fofana,New England Revolution,Tackles 1+,93,80,96,28,,Tracker: this market hits 78% (866 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Micael,Inter Miami CF,Tackles 1+,83,80,83,23,,Tracker: this market hits 78% (866 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Denis Bouanga,Los Angeles FC,Shots 1+,97,100,97,30,Minnesota United: 12.3 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Heung-Min Son,Los Angeles FC,Shots 1+,97,100,96,29,Minnesota United: 12.3 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Kelvin Yeboah,Minnesota United,Shots 1+,97,100,100,31,Los Angeles FC: 13.0 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Anthony Markanich,Minnesota United,Shots 1+,87,80,90,31,Los Angeles FC: 13.0 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Anthony Markanich,Minnesota United,Tackles 1+,90,100,90,31,,Tracker: this market hits 78% (866 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Cole Bassett,Portland Timbers,Shots 1+,96,100,96,26,Houston Dynamo FC: 12.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Mateusz Bogusz,Houston Dynamo FC,Shots 1+,94,80,97,31,Portland Timbers: 14.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Ezequiel Ponce,Houston Dynamo FC,Shots 1+,88,80,100,17,Portland Timbers: 14.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Kevin Kelsy,Portland Timbers,Shots 1+,80,100,87,20,Houston Dynamo FC: 12.8 shots conceded/game,Tracker: this market hits 79% (765 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Ronald Hernández,Portland Timbers,Tackles 1+,81,100,100,16,,Transferred (from Atlanta United FC); Tracker: this market hits 78% (866 picks)
 
-,TEAM PICKS: 100% this season AND last 5  (29)
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Como (team),Como,Corners 4+,100,100,–,9,Venezia: 4.9 corners conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Como (team),Como,SOT 4+,100,100,–,9,Venezia: 6.3 SOT conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Getafe (team),Getafe,Cards 1+,100,100,–,10,Sevilla: 12.5 fouls won/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Getafe (team),Getafe,Match cards 4+,100,100,–,10,Sevilla: 12.5 fouls won/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Sevilla (team),Sevilla,Scores 1+,100,100,–,10,Getafe: 1.5 goals conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Sevilla (team),Sevilla,Cards 1+,100,100,–,10,Getafe: 12.6 fouls won/game,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Celtic (team),Celtic,Corners 4+,100,100,–,11,Falkirk: 6.4 corners conceded/game,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Celtic (team),Celtic,Corners 5+,100,100,–,11,Falkirk: 6.4 corners conceded/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Trabzonspor (team),Trabzonspor,SOT 4+,100,100,–,9,Gaziantep FK: 4.0 SOT conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,FC Twente (team),FC Twente,Match corners 9+,100,100,–,10,Excelsior: 5.3 corners conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Auxerre (team),Auxerre,Scores 1+,100,100,–,8,Strasbourg: 2.25 goals conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Strasbourg (team),Strasbourg,Over 1.5,100,100,–,8,Auxerre: 2.25 goals conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Strasbourg (team),Strasbourg,Cards 1+,100,100,–,8,Auxerre: 10.4 fouls won/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Torino (team),Torino,Over 1.5,100,100,–,9,Frosinone: 1.56 goals conceded/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Lazio (team),Lazio,Scores 1+,100,100,–,9,Cagliari: 1.44 goals conceded/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Union Berlin (team),Union Berlin,Cards 1+,100,100,–,7,1. FC Köln: 11.4 fouls won/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Union Berlin (team),Union Berlin,Cards 2+,100,100,–,7,1. FC Köln: 11.4 fouls won/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Racing Santander (team),Racing Santander,Cards 1+,100,100,–,10,Real Madrid: 14.2 fouls won/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Racing Santander (team),Racing Santander,Cards 2+,100,100,–,10,Real Madrid: 14.2 fouls won/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Beşiktaş (team),Beşiktaş,Corners 4+,100,100,–,9,Kasımpaşa: 7.0 corners conceded/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Beşiktaş (team),Beşiktaş,SOT 4+,100,100,–,9,Kasımpaşa: 4.6 SOT conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Angers (team),Angers,Cards 1+,100,100,–,8,Lyon: 13.4 fouls won/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Monaco (team),Monaco,Cards 1+,100,100,–,8,Paris FC: 11.5 fouls won/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Eintracht Frankfurt (team),Eintracht Frankfurt,Cards 1+,100,100,–,7,Hamburger SV: 12.7 fouls won/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Arsenal (team),Arsenal,Cards 1+,100,100,–,8,Liverpool: 10.1 fouls won/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Elche (team),Elche,Cards 1+,100,100,–,10,Valencia: 11.2 fouls won/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Valencia (team),Valencia,Cards 1+,100,100,–,10,Elche: 13.5 fouls won/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Cards 1+,100,100,–,10,Athletic Club: 12.2 fouls won/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Atlanta United (team),Atlanta United,Cards 1+,100,100,–,32,Toronto FC: 13.0 fouls won/game,
+,TEAM PICKS: 100% this season AND last 5  (10)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Beşiktaş (team),Beşiktaş,Corners 4+,100,100,–,9,Kasımpaşa: 7.0 corners conceded/game,Tracker: this market hits 70% (77 picks)
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Beşiktaş (team),Beşiktaş,SOT 4+,100,100,–,9,Kasımpaşa: 4.6 SOT conceded/game,Tracker: this market hits 76% (99 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Angers (team),Angers,Cards 1+,100,100,–,8,Lyon: 13.4 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Monaco (team),Monaco,Cards 1+,100,100,–,8,Paris FC: 11.5 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Eintracht Frankfurt (team),Eintracht Frankfurt,Cards 1+,100,100,–,7,Hamburger SV: 12.7 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Arsenal (team),Arsenal,Cards 1+,100,100,–,8,Liverpool: 10.1 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Elche (team),Elche,Cards 1+,100,100,–,10,Valencia: 11.2 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Valencia (team),Valencia,Cards 1+,100,100,–,10,Elche: 13.5 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Cards 1+,100,100,–,10,Athletic Club: 12.2 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Atlanta United (team),Atlanta United,Cards 1+,100,100,–,32,Toronto FC: 13.0 fouls won/game,Tracker: this market hits 86% (239 picks)
 
-,TEAM PICKS: 80-99%  (105)
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Como (team),Como,Corners 5+,89,100,–,9,Venezia: 4.9 corners conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Como (team),Como,Over 1.5,89,80,–,9,Venezia: 2.11 goals conceded/game,
-Sun 01 Nov · 11:30,Serie A,Como v Venezia,Como (team),Como,Match corners 9+,89,80,–,9,Venezia: 4.9 corners conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Getafe (team),Getafe,Cards 2+,90,100,–,10,Sevilla: 12.5 fouls won/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Sevilla (team),Sevilla,Over 1.5,80,80,–,10,Getafe: 1.5 goals conceded/game,
-Sun 01 Nov · 13:00,La Liga,Getafe v Sevilla,Sevilla (team),Sevilla,SOT 4+,80,80,–,10,Getafe: 4.8 SOT conceded/game,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Celtic (team),Celtic,Cards 1+,91,100,–,11,Falkirk: 13.0 fouls won/game,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Celtic (team),Celtic,Scores 1+,91,80,–,11,Falkirk: 1.09 goals conceded/game,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Celtic (team),Celtic,Match corners 9+,91,80,–,11,Falkirk: 6.4 corners conceded/game,
-Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",Falkirk v Celtic,Celtic (team),Celtic,SOT 4+,91,80,–,11,Falkirk: 5.2 SOT conceded/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Trabzonspor (team),Trabzonspor,Cards 1+,89,100,–,9,Gaziantep FK: 15.7 fouls won/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Trabzonspor (team),Trabzonspor,Scores 1+,89,80,–,9,Gaziantep FK: 1.67 goals conceded/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Trabzonspor (team),Trabzonspor,Over 1.5,89,80,–,9,Gaziantep FK: 1.67 goals conceded/game,
-Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Trabzonspor v Gaziantep FK,Trabzonspor (team),Trabzonspor,Corners 4+,89,80,–,9,Gaziantep FK: 3.8 corners conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,FC Twente (team),FC Twente,Scores 1+,90,100,–,10,Excelsior: 1.9 goals conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,FC Twente (team),FC Twente,Corners 4+,90,100,–,10,Excelsior: 5.3 corners conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,FC Twente (team),FC Twente,Corners 5+,90,100,–,10,Excelsior: 5.3 corners conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,FC Twente (team),FC Twente,SOT 4+,90,100,–,10,Excelsior: 5.2 SOT conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,FC Twente (team),FC Twente,Over 1.5,80,100,–,10,Excelsior: 1.9 goals conceded/game,
-Sun 01 Nov · 13:30,Eredivisie (top 5),Excelsior v FC Twente,FC Twente (team),FC Twente,Cards 1+,80,80,–,10,Excelsior: 7.9 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Auxerre (team),Auxerre,SOT 4+,88,100,–,8,Strasbourg: 6.1 SOT conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Auxerre (team),Auxerre,BTTS,88,80,–,8,Strasbourg: 2.25 goals conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Auxerre (team),Auxerre,Over 1.5,88,80,–,8,Strasbourg: 2.25 goals conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Auxerre (team),Auxerre,Corners 4+,88,80,–,8,Strasbourg: 5.0 corners conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Auxerre (team),Auxerre,Match corners 9+,88,80,–,8,Strasbourg: 5.0 corners conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Auxerre (team),Auxerre,Match corners 10+,88,80,–,8,Strasbourg: 5.0 corners conceded/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Auxerre (team),Auxerre,Cards 1+,88,80,–,8,Strasbourg: 8.6 fouls won/game,
-Sun 01 Nov · 14:00,Ligue 1,Strasbourg v Auxerre,Strasbourg (team),Strasbourg,Over 2.5,88,80,–,8,Auxerre: 2.25 goals conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Frosinone (team),Frosinone,Over 1.5,89,100,–,9,Torino: 1.56 goals conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Frosinone (team),Frosinone,Corners 4+,89,100,–,9,Torino: 4.3 corners conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Frosinone (team),Frosinone,Match corners 9+,89,100,–,9,Torino: 4.3 corners conceded/game,
-Sun 01 Nov · 14:00,Serie A,Frosinone v Torino,Torino (team),Torino,Scores 1+,89,100,–,9,Frosinone: 1.56 goals conceded/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Lazio (team),Lazio,Win,89,100,–,9,Cagliari: 1.44 goals conceded/game,
-Sun 01 Nov · 14:00,Serie A,Lazio v Cagliari,Lazio (team),Lazio,Cards 1+,89,80,–,9,Cagliari: 9.1 fouls won/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,1. FC Köln (team),1. FC Köln,Cards 1+,86,100,–,7,Union Berlin: 10.7 fouls won/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,1. FC Köln (team),1. FC Köln,Corners 4+,86,80,–,7,Union Berlin: 5.7 corners conceded/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,1. FC Köln (team),1. FC Köln,Corners 5+,86,80,–,7,Union Berlin: 5.7 corners conceded/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,1. FC Köln (team),1. FC Köln,Match corners 9+,86,80,–,7,Union Berlin: 5.7 corners conceded/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,1. FC Köln (team),1. FC Köln,Match corners 10+,86,80,–,7,Union Berlin: 5.7 corners conceded/game,
-Sun 01 Nov · 14:30,Bundesliga,Union Berlin v 1. FC Köln,Union Berlin (team),Union Berlin,Match cards 4+,86,80,–,7,1. FC Köln: 11.4 fouls won/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Racing Santander (team),Racing Santander,Over 1.5,90,100,–,10,Real Madrid: 1.0 goals conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Racing Santander (team),Racing Santander,Match cards 4+,90,100,–,10,Real Madrid: 14.2 fouls won/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Real Madrid (team),Real Madrid,Scores 1+,90,100,–,10,Racing Santander: 2.6 goals conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Racing Santander (team),Racing Santander,Match corners 9+,90,80,–,10,Real Madrid: 4.0 corners conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Racing Santander (team),Racing Santander,Match corners 10+,90,80,–,10,Real Madrid: 4.0 corners conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Real Madrid (team),Real Madrid,SOT 4+,90,80,–,10,Racing Santander: 6.1 SOT conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Real Madrid (team),Real Madrid,Cards 1+,80,100,–,10,Racing Santander: 15.0 fouls won/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Real Madrid (team),Real Madrid,Match cards 4+,80,100,–,10,Racing Santander: 15.0 fouls won/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Racing Santander (team),Racing Santander,Over 2.5,80,80,–,10,Real Madrid: 1.0 goals conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Real Madrid (team),Real Madrid,Win,80,80,–,10,Racing Santander: 2.6 goals conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Real Madrid (team),Real Madrid,Over 1.5,80,80,–,10,Racing Santander: 2.6 goals conceded/game,
-Sun 01 Nov · 15:15,La Liga,Racing Santander v Real Madrid,Real Madrid (team),Real Madrid,Over 2.5,80,80,–,10,Racing Santander: 2.6 goals conceded/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Beşiktaş (team),Beşiktaş,Cards 1+,89,100,–,9,Kasımpaşa: 13.3 fouls won/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Beşiktaş (team),Beşiktaş,Corners 5+,89,80,–,9,Kasımpaşa: 7.0 corners conceded/game,
-Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Beşiktaş (team),Beşiktaş,Match corners 9+,89,80,–,9,Kasımpaşa: 7.0 corners conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Lyon (team),Lyon,Cards 1+,88,100,–,8,Angers: 12.5 fouls won/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Angers (team),Angers,Match corners 9+,88,80,–,8,Lyon: 6.4 corners conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Lyon (team),Lyon,Over 1.5,88,80,–,8,Angers: 1.88 goals conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Lyon (team),Lyon,Match corners 9+,88,80,–,8,Angers: 5.9 corners conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Lyon (team),Lyon,Match corners 10+,88,80,–,8,Angers: 5.9 corners conceded/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Paris FC (team),Paris FC,Cards 1+,88,100,–,8,Monaco: 11.4 fouls won/game,
-Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Monaco (team),Monaco,Scores 1+,88,80,–,8,Paris FC: 1.12 goals conceded/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Eintracht Frankfurt (team),Eintracht Frankfurt,Cards 2+,86,100,–,7,Hamburger SV: 12.7 fouls won/game,
-Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Hamburger SV (team),Hamburger SV,Cards 1+,86,80,–,7,Eintracht Frankfurt: 12.3 fouls won/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Arsenal (team),Arsenal,Win,88,80,–,8,Liverpool: 1.0 goals conceded/game,
-Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Arsenal (team),Arsenal,Scores 1+,88,80,–,8,Liverpool: 1.0 goals conceded/game,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Lecce (team),Lecce,Over 1.5,89,100,–,9,Genoa: 1.44 goals conceded/game,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Genoa (team),Genoa,Cards 1+,89,80,–,9,Lecce: 9.7 fouls won/game,
-Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Lecce (team),Lecce,Cards 1+,89,80,–,9,Genoa: 11.2 fouls won/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Elche (team),Elche,Match cards 4+,80,100,–,10,Valencia: 11.2 fouls won/game,
-Sun 01 Nov · 17:30,La Liga,Elche v Valencia,Valencia (team),Valencia,Cards 2+,80,100,–,10,Elche: 13.5 fouls won/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Marseille (team),Marseille,Over 1.5,88,80,–,8,Toulouse: 1.38 goals conceded/game,
-Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Toulouse (team),Toulouse,Cards 1+,88,80,–,8,Marseille: 10.9 fouls won/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Juventus (team),Juventus,Over 1.5,89,100,–,9,Napoli: 1.22 goals conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Juventus (team),Juventus,Corners 4+,89,80,–,9,Napoli: 4.8 corners conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Napoli (team),Napoli,Scores 1+,89,80,–,9,Juventus: 1.11 goals conceded/game,
-Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Napoli (team),Napoli,Match corners 9+,89,80,–,9,Juventus: 3.7 corners conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Corners 4+,90,80,–,10,Athletic Club: 4.2 corners conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Corners 5+,90,80,–,10,Athletic Club: 4.2 corners conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Match corners 9+,90,80,–,10,Athletic Club: 4.2 corners conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Cards 2+,90,80,–,10,Athletic Club: 12.2 fouls won/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Athletic Club (team),Athletic Club,Cards 1+,89,100,–,9,Real Sociedad: 10.1 fouls won/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Over 1.5,80,100,–,10,Athletic Club: 1.0 goals conceded/game,
-Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Over 2.5,80,100,–,10,Athletic Club: 1.0 goals conceded/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Vancouver Whitecaps (team),Vancouver Whitecaps,Cards 1+,91,80,–,32,Seattle Sounders FC: 9.6 fouls won/game,
-Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Seattle Sounders FC (team),Seattle Sounders FC,Cards 1+,84,80,–,32,Vancouver Whitecaps: 12.8 fouls won/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Red Bull New York (team),Red Bull New York,Cards 1+,94,80,–,32,Nashville SC: 10.3 fouls won/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Red Bull New York (team),Red Bull New York,Over 1.5,84,100,–,32,Nashville SC: 0.72 goals conceded/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Nashville SC (team),Nashville SC,Cards 1+,84,80,–,32,Red Bull New York: 10.4 fouls won/game,
-Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Nashville SC (team),Nashville SC,Scores 1+,81,80,–,32,Red Bull New York: 1.84 goals conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Toronto FC (team),Toronto FC,Over 1.5,91,100,–,32,Atlanta United: 1.75 goals conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Atlanta United (team),Atlanta United,Over 1.5,84,100,–,32,Toronto FC: 1.88 goals conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Toronto FC (team),Toronto FC,Scores 1+,84,100,–,32,Atlanta United: 1.75 goals conceded/game,
-Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Toronto FC (team),Toronto FC,Cards 1+,84,80,–,32,Atlanta United: 10.2 fouls won/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Inter Miami CF (team),Inter Miami CF,Cards 1+,97,80,–,32,New England Revolution: 12.5 fouls won/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Inter Miami CF (team),Inter Miami CF,Over 1.5,94,100,–,32,New England Revolution: 1.38 goals conceded/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Inter Miami CF (team),Inter Miami CF,Scores 1+,91,80,–,32,New England Revolution: 1.38 goals conceded/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,New England Revolution (team),New England Revolution,Cards 1+,84,100,–,32,Inter Miami CF: 12.2 fouls won/game,
-Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,New England Revolution (team),New England Revolution,Over 1.5,81,80,–,32,Inter Miami CF: 1.72 goals conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Minnesota United (team),Minnesota United,Cards 1+,91,80,–,32,Los Angeles FC: 11.0 fouls won/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Los Angeles FC (team),Los Angeles FC,Scores 1+,81,80,–,32,Minnesota United: 1.75 goals conceded/game,
-Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Minnesota United (team),Minnesota United,Scores 1+,81,80,–,32,Los Angeles FC: 1.09 goals conceded/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Portland Timbers (team),Portland Timbers,Over 1.5,94,80,–,32,Houston Dynamo FC: 1.22 goals conceded/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Portland Timbers (team),Portland Timbers,Cards 1+,91,100,–,32,Houston Dynamo FC: 13.3 fouls won/game,
-Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Houston Dynamo FC (team),Houston Dynamo FC,Cards 1+,91,80,–,32,Portland Timbers: 13.3 fouls won/game,
+,"TEAM TOP PICKS: best 3 per match (80-99%, 6+ games, markets the tracker shows hitting 75%+)  (33)"
+Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Beşiktaş,Beşiktaş (team),Beşiktaş,Cards 1+,89,100,–,9,Kasımpaşa: 13.3 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Lyon (team),Lyon,Cards 1+,88,100,–,8,Angers: 12.5 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 16:15,Ligue 1,Lyon v Angers,Lyon (team),Lyon,Over 1.5,88,80,–,8,Angers: 1.88 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Paris FC (team),Paris FC,Cards 1+,88,100,–,8,Monaco: 11.4 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 16:15,Ligue 1,Paris FC v Monaco,Monaco (team),Monaco,Scores 1+,88,80,–,8,Paris FC: 1.12 goals conceded/game,Tracker: this market hits 81% (183 picks)
+Sun 01 Nov · 16:30,Bundesliga,Eintracht Frankfurt v Hamburger SV,Hamburger SV (team),Hamburger SV,Cards 1+,86,80,–,7,Eintracht Frankfurt: 12.3 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 16:30,Premier League,Liverpool v Arsenal,Arsenal (team),Arsenal,Scores 1+,88,80,–,8,Liverpool: 1.0 goals conceded/game,Tracker: this market hits 81% (183 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Genoa (team),Genoa,Cards 1+,89,80,–,9,Lecce: 9.7 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Lecce (team),Lecce,Cards 1+,89,80,–,9,Genoa: 11.2 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 17:00,Serie A,Lecce v Genoa,Lecce (team),Lecce,Over 1.5,89,100,–,9,Genoa: 1.44 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Toulouse (team),Toulouse,Cards 1+,88,80,–,8,Marseille: 10.9 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 19:45,Ligue 1,Marseille v Toulouse,Marseille (team),Marseille,Over 1.5,88,80,–,8,Toulouse: 1.38 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Juventus (team),Juventus,Over 1.5,89,100,–,9,Napoli: 1.22 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Sun 01 Nov · 19:45,Serie A,Juventus v Napoli,Napoli (team),Napoli,Scores 1+,89,80,–,9,Juventus: 1.11 goals conceded/game,Tracker: this market hits 81% (183 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Athletic Club (team),Athletic Club,Cards 1+,89,100,–,9,Real Sociedad: 10.1 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 20:00,La Liga,Athletic Club v Real Sociedad,Real Sociedad (team),Real Sociedad,Over 1.5,80,100,–,10,Athletic Club: 1.0 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Vancouver Whitecaps (team),Vancouver Whitecaps,Cards 1+,91,80,–,32,Seattle Sounders FC: 9.6 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 20:30,MLS,Vancouver Whitecaps v Seattle Sounders FC,Seattle Sounders FC (team),Seattle Sounders FC,Cards 1+,84,80,–,32,Vancouver Whitecaps: 12.8 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Red Bull New York (team),Red Bull New York,Cards 1+,94,80,–,32,Nashville SC: 10.3 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Nashville SC (team),Nashville SC,Cards 1+,84,80,–,32,Red Bull New York: 10.4 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 21:30,MLS,Nashville SC v Red Bull New York,Red Bull New York (team),Red Bull New York,Over 1.5,84,100,–,32,Nashville SC: 0.72 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Toronto FC (team),Toronto FC,Cards 1+,84,80,–,32,Atlanta United: 10.2 fouls won/game,Tracker: this market hits 86% (239 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Toronto FC (team),Toronto FC,Over 1.5,91,100,–,32,Atlanta United: 1.75 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Sun 01 Nov · 21:30,MLS,Atlanta United v Toronto FC,Atlanta United (team),Atlanta United,Over 1.5,84,100,–,32,Toronto FC: 1.88 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Inter Miami CF (team),Inter Miami CF,Cards 1+,97,80,–,32,New England Revolution: 12.5 fouls won/game,Tracker: this market hits 86% (239 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,New England Revolution (team),New England Revolution,Cards 1+,84,100,–,32,Inter Miami CF: 12.2 fouls won/game,Tracker: this market hits 86% (239 picks)
+Mon 02 Nov · 00:00,MLS,New England Revolution v Inter Miami CF,Inter Miami CF (team),Inter Miami CF,Over 1.5,94,100,–,32,New England Revolution: 1.38 goals conceded/game,Tracker: this market hits 83% (195 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Minnesota United (team),Minnesota United,Cards 1+,91,80,–,32,Los Angeles FC: 11.0 fouls won/game,Tracker: this market hits 86% (239 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Los Angeles FC (team),Los Angeles FC,Scores 1+,81,80,–,32,Minnesota United: 1.75 goals conceded/game,Tracker: this market hits 81% (183 picks)
+Mon 02 Nov · 01:30,MLS,Los Angeles FC v Minnesota United,Minnesota United (team),Minnesota United,Scores 1+,81,80,–,32,Los Angeles FC: 1.09 goals conceded/game,Tracker: this market hits 81% (183 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Portland Timbers (team),Portland Timbers,Cards 1+,91,100,–,32,Houston Dynamo FC: 13.3 fouls won/game,Tracker: this market hits 86% (239 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Houston Dynamo FC (team),Houston Dynamo FC,Cards 1+,91,80,–,32,Portland Timbers: 13.3 fouls won/game,Tracker: this market hits 86% (239 picks)
+Mon 02 Nov · 02:45,MLS,Portland Timbers v Houston Dynamo FC,Portland Timbers (team),Portland Timbers,Over 1.5,94,80,–,32,Houston Dynamo FC: 1.22 goals conceded/game,Tracker: this market hits 83% (195 picks)
