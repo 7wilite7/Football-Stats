@@ -1,3 +1,3 @@
 ===== LALIGA
 fixtures 380 table 20 scope None
-LALIGA {'new_matches': 1, 'cached': 105, 'run_seconds': 51, 'at': '2026-11-01T15:59Z'}
+LALIGA {'new_matches': 0, 'cached': 105, 'run_seconds': 61, 'at': '2026-11-01T16:11Z'}

@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:10 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:11 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,4322,3182,74,90
 Tackles 1+,886,686,77,90
@@ -17,8 +17,8 @@ Corners 4+,81,58,72,90
 Match corners 9+,54,34,63,89
 Over 2.5,46,28,61,87
 Saves 3+,40,27,68,90
-Fouled 2+,35,17,49,87
 Corners 5+,35,21,60,90
+Fouled 2+,35,17,49,87
 Cards 2+,34,19,56,88
 BTTS,32,14,44,88
 Score or assist,26,17,65,85
@@ -33,6 +33,7 @@ Booked,1,1,100,80
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
 Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,80,100,Pending
+Agustin Resch,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,65,80,Pending
 Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,100,Pending
 Portland Timbers (team),Over 1.5,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Pending
 Ezequiel Ponce,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,88,80,Pending
@@ -41,15 +42,16 @@ Ronald Hernández,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 
 Kristoffer Velde,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,97,100,Pending
 Kristoffer Velde,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,100,100,Pending
 Kristoffer Velde,Shots 2+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,87,80,Pending
+Kristoffer Velde,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,77,100,Pending
 Lyle Foster,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,83,100,Pending
 Mateusz Bogusz,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,84,100,Pending
 Mateusz Bogusz,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Pending
 Cole Bassett,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,96,100,Pending
-Kristoffer Velde,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,77,100,Pending
-Agustin Resch,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,65,80,Pending
 Leo Walta,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
+Owen Gene,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,67,80,Pending
 Anthony Markanich,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,87,80,Pending
 Anthony Markanich,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Pending
+Jefferson Díaz,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,76,80,Pending
 Cherrion Valerius,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
 Cherrion Valerius,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
 Cherrion Valerius,Tackles 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,80,80,Pending
@@ -58,15 +60,13 @@ Minnesota United (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov �
 Heung-Min Son,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
 Heung-Min Son,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,86,100,Pending
 Denis Bouanga,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
+Evgen Cheberko,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,75,80,Pending
 Evgen Cheberko,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Pending
 Eddie Segura,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,84,80,Pending
 Los Angeles FC (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,80,Pending
 Kelvin Yeboah,Shots on target 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Pending
 Kelvin Yeboah,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
 Kelvin Yeboah,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Pending
-Evgen Cheberko,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,75,80,Pending
-Owen Gene,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,67,80,Pending
-Jefferson Díaz,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,76,80,Pending
 Dor Turgeman,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,94,100,Pending
 Rocco Ríos Novo,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,100,100,Pending
 Matías Galarza,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,80,Pending
@@ -135,9 +135,9 @@ Giuliano Galoppo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,10
 Giuliano Galoppo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,100,Pending
 Giuliano Galoppo,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,80,Pending
 Maxwell Woledzi,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,78,80,Pending
-Theodor Corbeanu,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,79,100,Pending
 Julián Bazán,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,76,100,Pending
 Julián Bazán,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,76,80,Pending
+Theodor Corbeanu,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,79,100,Pending
 Mathías Laborda,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,81,80,Pending
 Sebastian Berhalter,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
 Sebastian Berhalter,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
@@ -157,8 +157,8 @@ Dejan Joveljić,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov ·
 Nouhou Tolo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,81,100,Pending
 Brian White,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,97,80,Pending
 Brian White,Shots 2+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,87,80,Pending
-Cristian Roldan,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,75,80,Pending
 Ryan Gauld,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,78,80,Pending
+Cristian Roldan,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,75,80,Pending
 Robert Navarro,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Pending
 Nico Williams,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
 Beñat Turrientes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
@@ -238,8 +238,8 @@ Mark McKenzie,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,
 Mark McKenzie,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
 Toulouse (team),Cards 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
 Frank Anguissa,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,67,80,Pending
-Jacen Russell-Rowe,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Pending
 Jacen Russell-Rowe,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Pending
+Jacen Russell-Rowe,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Pending
 Valencia (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
 Valencia (team),Cards 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
 Elche (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
@@ -265,9 +265,9 @@ Arnaut Danjuma,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pendi
 Tete Morente,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
 Gonzalo Villar,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
 Gonzalo Villar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
+Roy Revivo,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,71,80,Pending
 Javi Morcillo,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,75,80,Pending
 Javi Morcillo,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,75,80,Pending
-Roy Revivo,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,71,80,Pending
 Genoa (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
 Lorenzo Colombo,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,86,80,Pending
 Jamil Siebert,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
@@ -285,9 +285,9 @@ Morten Frendrup,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pendi
 Milutin Osmajić,Shots 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,88,80,Pending
 Lecce (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
 Lecce (team),Over 1.5,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
+Tiago Gabriel,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,75,80,Pending
 Mikael Egill Ellertsson,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
 Mikael Egill Ellertsson,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,100,100,Pending
-Tiago Gabriel,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,75,80,Pending
 Florian Wirtz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Miloš Kerkez,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Miloš Kerkez,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
@@ -334,10 +334,10 @@ Jonathan Burkardt,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:3
 Hamburger SV (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
 Eintracht Frankfurt (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
 Eintracht Frankfurt (team),Cards 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,100,Pending
-Ronald Araujo,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,75,80,Pending
+Bradley Barcola,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,67,80,Pending
 Ezri Konsa,Fouled 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Pending
 Ezri Konsa,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Pending
-Bradley Barcola,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,67,80,Pending
+Ronald Araujo,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,75,80,Pending
 Martin Adeline,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,67,80,Pending
 Jim Allevinah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Jim Allevinah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
