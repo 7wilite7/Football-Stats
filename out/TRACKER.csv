@@ -1,22 +1,22 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:08 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4304,3169,74,90
-Tackles 1+,882,684,78,90
-Shots 1+,782,616,79,91
-Fouled 1+,479,330,69,90
-Fouls 1+,447,290,65,88
-Cards 1+,243,210,86,92
-Over 1.5,198,164,83,90
-Scores 1+,186,151,81,91
-Shots 2+,178,127,71,90
-Saves 2+,145,101,70,91
-SOT 1+,106,79,75,88
-SOT 4+,103,79,77,91
+All picks,4322,3182,74,90
+Tackles 1+,886,686,77,90
+Shots 1+,784,618,79,91
+Fouled 1+,481,331,69,90
+Fouls 1+,448,290,65,88
+Cards 1+,244,210,86,92
+Over 1.5,199,165,83,90
+Scores 1+,187,152,81,91
+Shots 2+,179,128,72,90
+Saves 2+,146,102,70,91
+SOT 1+,107,80,75,88
+SOT 4+,104,80,77,91
 Tackles 2+,100,57,57,88
-Corners 4+,80,57,71,90
+Corners 4+,81,58,72,90
 Match corners 9+,54,34,63,89
 Over 2.5,46,28,61,87
-Saves 3+,39,26,67,90
+Saves 3+,40,27,68,90
 Fouled 2+,35,17,49,87
 Corners 5+,35,21,60,90
 Cards 2+,34,19,56,88
@@ -596,24 +596,24 @@ Youssouf Fofana,Shots 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,86,80,Miss
 Lucien Agoumé,Fouls 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
 Lucien Agoumé,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
 Lucien Agoumé,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Hit
-Ernest Muçi,SOT 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Ernest Muçi,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Ernest Muçi,Shots 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Ernest Muçi,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Chibuike Nwaiwu,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Wagner Pina,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Wagner Pina,Fouls 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Wagner Pina,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Pending
-Mohamed Salah,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Fabinho,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-André Onana,Saves 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-André Onana,Saves 3+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Melih Kabasakal,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Pending
-Trabzonspor (team),Cards 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
-Trabzonspor (team),Corners 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Trabzonspor (team),Over 1.5,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Trabzonspor (team),SOT 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Trabzonspor (team),Scores 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
+Ernest Muçi,SOT 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Ernest Muçi,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Ernest Muçi,Shots 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Ernest Muçi,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Miss
+Chibuike Nwaiwu,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Wagner Pina,Fouled 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Wagner Pina,Fouls 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Miss
+Wagner Pina,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,100,Hit
+Mohamed Salah,Shots 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Fabinho,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+André Onana,Saves 2+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+André Onana,Saves 3+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
+Melih Kabasakal,Tackles 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,100,Hit
+Trabzonspor (team),Cards 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Miss
+Trabzonspor (team),Corners 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
+Trabzonspor (team),Over 1.5,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
+Trabzonspor (team),SOT 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Trabzonspor (team),Scores 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
 Como (team),Corners 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Hit
 Como (team),Corners 5+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Hit
 Como (team),Match corners 9+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Hit
