@@ -1,26 +1,26 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:54 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:55 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3783,2783,74,90
-Tackles 1+,783,607,78,90
-Shots 1+,673,531,79,91
-Fouled 1+,434,300,69,90
-Fouls 1+,399,258,65,88
-Cards 1+,210,182,87,92
-Over 1.5,166,140,84,90
-Scores 1+,156,128,82,91
-Shots 2+,156,112,72,90
-Saves 2+,125,87,70,91
+All picks,3813,2804,74,90
+Tackles 1+,792,615,78,90
+Shots 1+,676,532,79,91
+Fouled 1+,437,301,69,90
+Fouls 1+,403,262,65,88
+Cards 1+,211,183,87,92
+Over 1.5,167,141,84,90
+Scores 1+,157,128,82,91
+Shots 2+,157,112,71,90
+Saves 2+,126,88,70,91
 SOT 1+,97,72,74,88
-Tackles 2+,90,49,54,88
+Tackles 2+,92,51,55,88
 SOT 4+,90,67,74,91
-Corners 4+,66,46,70,90
+Corners 4+,67,47,70,90
 Match corners 9+,44,29,66,90
 Over 2.5,44,28,64,88
 Saves 3+,37,25,68,91
+Cards 2+,33,18,55,88
 Fouled 2+,32,14,44,87
-Cards 2+,32,17,53,88
-Corners 5+,28,16,57,90
-BTTS,27,14,52,89
+Corners 5+,29,16,55,90
+BTTS,28,14,50,89
 Score or assist,24,16,67,85
 Win,17,11,65,89
 Fouls 2+,15,6,40,88
@@ -846,38 +846,38 @@ Inter (team),SOT 4+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Hit
 Inter (team),Scores 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,100,100,Hit
 Inter (team),Win,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Miss
 Gonçalo Ramos,Fouls 1+,Milan v Inter,Sat 31 Oct · 19:45,Serie A,89,80,Miss
-Troyes (team),Corners 4+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Troyes (team),Corners 5+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Paolo Gozzi,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Alexandre Lauray,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Alexandre Lauray,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Pending
-Raúl Torrente,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Raúl Torrente,Tackles 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Jean Vercruysse,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,80,Pending
-Jean Vercruysse,Shots 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Pending
-Dermane Karim,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Pending
-Dermane Karim,Tackles 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Pending
-Lucas Maronnier,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,80,Pending
-Antoine Mille,Shots 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Antoine Mille,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Michel Diaz,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Lucas Bretelle,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Pending
-Merwan Ifnaou,Fouled 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,80,80,Pending
-Noa Boissé,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Djibril Sidibé,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Renaud Ripart,Fouled 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Adrien Monfray,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Nicolas Kocik,Saves 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Pending
-Louis Mafouta,Shots 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Louis Mafouta,Shots 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,100,Pending
-Le Mans (team),BTTS,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Le Mans (team),Cards 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Le Mans (team),Cards 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,100,Pending
-Le Mans (team),Over 1.5,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Le Mans (team),Scores 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Pending
-Lucas Buadés,Fouled 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Pending
-Jérémy Le Douaron,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Pending
-Harold Voyer,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Pending
+Troyes (team),Corners 4+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Hit
+Troyes (team),Corners 5+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Miss
+Paolo Gozzi,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Miss
+Alexandre Lauray,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Hit
+Alexandre Lauray,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Hit
+Raúl Torrente,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Hit
+Raúl Torrente,Tackles 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Hit
+Jean Vercruysse,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,80,Hit
+Jean Vercruysse,Shots 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Miss
+Dermane Karim,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Hit
+Dermane Karim,Tackles 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Hit
+Lucas Maronnier,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,80,Hit
+Antoine Mille,Shots 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Hit
+Antoine Mille,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Hit
+Michel Diaz,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Hit
+Lucas Bretelle,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,86,100,Hit
+Merwan Ifnaou,Fouled 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,80,80,Miss
+Noa Boissé,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Hit
+Djibril Sidibé,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Did not play
+Renaud Ripart,Fouled 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Miss
+Adrien Monfray,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Hit
+Nicolas Kocik,Saves 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Hit
+Louis Mafouta,Shots 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Miss
+Louis Mafouta,Shots 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,100,Miss
+Le Mans (team),BTTS,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Miss
+Le Mans (team),Cards 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Hit
+Le Mans (team),Cards 2+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,100,Hit
+Le Mans (team),Over 1.5,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Hit
+Le Mans (team),Scores 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Miss
+Lucas Buadés,Fouled 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Hit
+Jérémy Le Douaron,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Hit
+Harold Voyer,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Did not play
 Jonathan Sirois,Saves 2+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,91,80,Pending
 Calvin Harris,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,84,80,Pending
 André Luiz,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,91,100,Pending
