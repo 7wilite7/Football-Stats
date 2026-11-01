@@ -1,17 +1,17 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 07:02 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4200,3089,74,90
-Tackles 1+,863,670,78,90
-Shots 1+,762,602,79,91
+All picks,4209,3097,74,90
+Tackles 1+,864,671,78,90
+Shots 1+,764,604,79,91
 Fouled 1+,472,326,69,90
-Fouls 1+,436,282,65,88
+Fouls 1+,438,283,65,88
 Cards 1+,239,206,86,92
-Over 1.5,193,160,83,90
-Scores 1+,181,147,81,91
+Over 1.5,194,161,83,90
+Scores 1+,182,148,81,91
 Shots 2+,173,123,71,90
 Saves 2+,141,98,70,91
 SOT 1+,105,79,75,88
-SOT 4+,98,74,76,91
+SOT 4+,99,75,76,91
 Tackles 2+,95,53,56,88
 Corners 4+,76,53,70,90
 Match corners 9+,51,32,63,89
@@ -22,7 +22,7 @@ Cards 2+,33,18,55,88
 Corners 5+,32,18,56,89
 BTTS,32,14,44,88
 Score or assist,26,17,65,85
-Win,18,12,67,89
+Win,19,13,68,89
 Match corners 10+,16,8,50,88
 Fouls 2+,15,6,40,88
 Match cards 4+,11,11,100,87
@@ -710,16 +710,16 @@ Real Salt Lake (team),Cards 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct 
 Real Salt Lake (team),Over 1.5,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,94,100,Hit
 Real Salt Lake (team),Scores 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,100,Hit
 Ronaldo Vieira,Fouls 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,88,100,Hit
-Gabriel Veiga,Fouls 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
-Gabriel Veiga,Shots 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Alberto Costa,Fouls 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
-André Silva,Shots 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
-Pablo Rosario,Tackles 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
-Francisco Moura,Fouls 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-FC Porto (team),Over 1.5,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
-FC Porto (team),SOT 4+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
-FC Porto (team),Scores 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-FC Porto (team),Win,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gabriel Veiga,Fouls 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,80,Miss
+Gabriel Veiga,Shots 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+Alberto Costa,Fouls 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Hit
+André Silva,Shots 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,100,Hit
+Pablo Rosario,Tackles 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,80,Hit
+Francisco Moura,Fouls 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Did not play
+FC Porto (team),Over 1.5,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,80,Hit
+FC Porto (team),SOT 4+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,100,Hit
+FC Porto (team),Scores 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
+FC Porto (team),Win,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Hit
 AZ Alkmaar (team),Corners 4+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),80,80,Hit
 AZ Alkmaar (team),Corners 5+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),80,80,Hit
 AZ Alkmaar (team),Match corners 9+,Ajax v AZ Alkmaar,Sat 31 Oct · 20:00,Eredivisie (top 5),80,80,Hit
