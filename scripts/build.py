@@ -379,10 +379,17 @@ LEGEND = ["Key:", "100%", "90%+", "80%+", "70%+", "60%+", "50%+", "Under 50%", "
           "Transferred", "Under 6 games"]
 
 
+# league player tabs group some columns away, so the colour key sits only in columns that stay visible
+PLAYER_LEGEND_COLS = [8, 9, 13, 14, 15, 16, 17, 20, 21, 22, 29, 30]
+
+
 def title_row(text, legend_at, iso):
-    """Row 1 of every tab: title, colour key (cells are coloured in the sheet), and a machine-readable update time."""
-    r = [text] + [""] * (legend_at - 1) + (LEGEND if legend_at else [])
-    return r + [""] * (117 - len(r)) + [iso]
+    """Row 1 of every tab: title, colour key (cells are coloured in the sheet), and a machine-readable update time.
+    legend_at = first column of the key, or a list of columns, or 0 for no key."""
+    r = [text] + [""] * 116
+    cols = legend_at if isinstance(legend_at, list) else (list(range(legend_at, legend_at + len(LEGEND))) if legend_at else [])
+    for c, v in zip(cols, LEGEND): r[c] = v
+    return r + [iso]
 
 
 def fold(name):
@@ -554,7 +561,7 @@ def main():
             w.writerow(TEAM_COLS); w.writerows(blank_zeros(trows))
         with open(os.path.join(OUT, f"{lg['key']}_players.csv"), "w", newline="") as f:
             w = csv.writer(f)
-            w.writerow(title_row(f"{lg['name']} players · updated {short} · % = share of the games they played", 8, iso))
+            w.writerow(title_row(f"{lg['name']} players · updated {short} · % = share of the games they played", PLAYER_LEGEND_COLS, iso))
             w.writerow([nice(c) for c in PLAYER_COLS]); w.writerows(blank_zeros(prows))
         team_rows_all += [[lg["name"]] + r for r in blank_zeros(trows)]
         all_players += [r + [lg["name"], fold(r[0])] for r in blank_zeros(prows)]
