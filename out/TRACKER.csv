@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:23 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 17:31 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
 All picks,4401,3238,74,90
 Tackles 1+,904,699,77,90
@@ -32,6 +32,37 @@ Booked,1,1,100,80
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
+Alieu Njie,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
+Alieu Njie,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,100,Pending
+Arijanet Murić,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Arijanet Murić,Saves 3+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Armand Laurienté,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Vasilije Adžić,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,86,80,Pending
+Vasilije Adžić,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,86,80,Pending
+Darryl Bakola,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
+David de Gea,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Nicolò Fagioli,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
+João Mário,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,80,80,Pending
+Cher Ndour,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
+Cher Ndour,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Álex Jiménez,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,75,80,Pending
+Álex Jiménez,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,75,80,Pending
+Franco Mastantuono,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Franco Mastantuono,Shots 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Franco Mastantuono,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Domenico Berardi,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,88,80,Pending
+Domenico Berardi,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Jay Idzes,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Duje Ćaleta-Car,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,67,80,Pending
+Sebastiano Esposito,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,83,80,Pending
+Ignace Van Der Brempt,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Sassuolo (team),Scores 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,80,Pending
+Sassuolo (team),BTTS,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,80,Pending
+Sassuolo (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Sassuolo (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
+Fiorentina (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
+Fiorentina (team),Over 2.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,80,Pending
+Fiorentina (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,100,Pending
 Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,80,100,Pending
 Agustin Resch,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,65,80,Pending
 Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,100,Pending
@@ -1501,34 +1532,3 @@ Granit Xhaka,Fouled 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier Le
 Thomas Meunier,Shots 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,83,80,Miss
 Luke O'Nien,Tackles 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Hit
 Reinildo,Fouled 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Miss
-Reinildo,Tackles 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-Kevin Danso,Fouls 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,80,80,Did not play
-Brandon Thomas-Asante,Fouled 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,88,80,Miss
-Frank Onyeka,Tackles 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,86,80,Did not play
-Brian Brobbey,Fouled 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,83,100,Hit
-Brian Brobbey,Fouls 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Brian Brobbey,Shots 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,83,80,Hit
-Konstantinos Tzolakis,Saves 2+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,100,Miss
-Konstantinos Tzolakis,Saves 3+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,100,Miss
-Julio Enciso,Fouled 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Julio Enciso,Shots 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Julio Enciso,Shots 2+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Jacob Greaves,Fouled 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,80,80,Did not play
-Jacob Greaves,Tackles 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,80,80,Did not play
-Mohamed Belloumi,Fouls 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-Mohamed Belloumi,Shots 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Mohamed Belloumi,Shots 2+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,100,Miss
-Mohamed Belloumi,Tackles 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Abdul Fatawu,Tackles 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,86,80,Miss
-Emersonn,Fouled 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Matt Crooks,Booked,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,80,80,Hit
-Matt Crooks,Fouls 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,80,80,Hit
-Matt Crooks,Fouls 2+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,80,80,Hit
-Matt Crooks,Tackles 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,100,100,Miss
-Matt Crooks,Tackles 2+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,100,100,Miss
-John Egan,Tackles 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Semi Ajayi,Tackles 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-Oli McBurnie,Fouled 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Oli McBurnie,Fouls 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Exequiel Palacios,Tackles 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Florentino,Tackles 1+,Hull City v Ipswich Town,Sat 31 Oct · 15:00,Premier League,80,80,Hit
