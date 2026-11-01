@@ -1,25 +1,25 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:07 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:08 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4292,3160,74,90
-Tackles 1+,880,683,78,90
-Shots 1+,780,614,79,91
-Fouled 1+,478,330,69,90
+All picks,4304,3169,74,90
+Tackles 1+,882,684,78,90
+Shots 1+,782,616,79,91
+Fouled 1+,479,330,69,90
 Fouls 1+,447,290,65,88
-Cards 1+,242,209,86,92
+Cards 1+,243,210,86,92
 Over 1.5,198,164,83,90
-Scores 1+,185,151,82,91
+Scores 1+,186,151,81,91
 Shots 2+,178,127,71,90
 Saves 2+,145,101,70,91
 SOT 1+,106,79,75,88
-SOT 4+,102,78,76,91
-Tackles 2+,99,56,57,88
-Corners 4+,79,56,71,90
-Match corners 9+,53,33,62,89
+SOT 4+,103,79,77,91
+Tackles 2+,100,57,57,88
+Corners 4+,80,57,71,90
+Match corners 9+,54,34,63,89
 Over 2.5,46,28,61,87
 Saves 3+,39,26,67,90
 Fouled 2+,35,17,49,87
+Corners 5+,35,21,60,90
 Cards 2+,34,19,56,88
-Corners 5+,34,20,59,89
 BTTS,32,14,44,88
 Score or assist,26,17,65,85
 Win,19,13,68,89
@@ -552,18 +552,18 @@ FC Twente (team),Match corners 9+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Ered
 FC Twente (team),Over 1.5,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),80,100,Hit
 FC Twente (team),SOT 4+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Hit
 FC Twente (team),Scores 1+,Excelsior v FC Twente,Sun 01 Nov · 13:30,Eredivisie (top 5),90,100,Hit
-Callum McGregor,Tackles 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Pending
-Mika Baur,Tackles 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Mika Baur,Tackles 2+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Pending
-Alex Oxlade-Chamberlain,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Benjamin Nygren,Fouled 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Pending
-Benjamin Nygren,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Pending
-Celtic (team),Cards 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,100,Pending
-Celtic (team),Corners 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Celtic (team),Corners 5+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Pending
-Celtic (team),Match corners 9+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
-Celtic (team),SOT 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
-Celtic (team),Scores 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Pending
+Callum McGregor,Tackles 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",90,80,Miss
+Mika Baur,Tackles 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Mika Baur,Tackles 2+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",89,100,Hit
+Alex Oxlade-Chamberlain,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Benjamin Nygren,Fouled 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Miss
+Benjamin Nygren,Shots 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",82,80,Hit
+Celtic (team),Cards 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,100,Hit
+Celtic (team),Corners 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Celtic (team),Corners 5+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",100,100,Hit
+Celtic (team),Match corners 9+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Hit
+Celtic (team),SOT 4+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Hit
+Celtic (team),Scores 1+,Falkirk v Celtic,Sun 01 Nov · 13:00,"Scotland (Rangers, Celtic, Hearts)",91,80,Miss
 Juan Iglesias,Fouled 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,80,80,Hit
 Juan Iglesias,Tackles 1+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,100,100,Hit
 Juan Iglesias,Tackles 2+,Getafe v Sevilla,Sun 01 Nov · 13:00,La Liga,90,100,Hit
