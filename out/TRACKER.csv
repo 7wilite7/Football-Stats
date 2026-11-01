@@ -1,30 +1,30 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:55 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:56 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3813,2804,74,90
-Tackles 1+,792,615,78,90
-Shots 1+,676,532,79,91
-Fouled 1+,437,301,69,90
-Fouls 1+,403,262,65,88
-Cards 1+,211,183,87,92
-Over 1.5,167,141,84,90
-Scores 1+,157,128,82,91
-Shots 2+,157,112,71,90
-Saves 2+,126,88,70,91
-SOT 1+,97,72,74,88
-Tackles 2+,92,51,55,88
-SOT 4+,90,67,74,91
-Corners 4+,67,47,70,90
-Match corners 9+,44,29,66,90
+All picks,3965,2913,73,90
+Tackles 1+,821,639,78,90
+Shots 1+,711,560,79,91
+Fouled 1+,452,310,69,90
+Fouls 1+,418,271,65,88
+Cards 1+,222,193,87,92
+Over 1.5,173,146,84,90
+Scores 1+,165,133,81,91
+Shots 2+,163,116,71,90
+Saves 2+,132,92,70,91
+SOT 1+,98,73,74,88
+Tackles 2+,94,52,55,88
+SOT 4+,93,70,75,90
+Corners 4+,71,49,69,90
+Match corners 9+,48,31,65,90
 Over 2.5,44,28,64,88
-Saves 3+,37,25,68,91
+Saves 3+,38,25,66,91
+Fouled 2+,33,15,45,87
 Cards 2+,33,18,55,88
-Fouled 2+,32,14,44,87
-Corners 5+,29,16,55,90
-BTTS,28,14,50,89
-Score or assist,24,16,67,85
+Corners 5+,30,16,53,90
+BTTS,30,14,47,89
+Score or assist,25,17,68,85
 Win,17,11,65,89
+Match corners 10+,16,8,50,88
 Fouls 2+,15,6,40,88
-Match corners 10+,15,8,53,89
 Match cards 4+,11,11,100,87
 Goal 1+,8,5,62,86
 SOT 2+,3,3,100,86
@@ -1227,180 +1227,180 @@ Adrià Pedrosa,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,
 Adrià Pedrosa,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,86,80,Hit
 Sergio Camello,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,89,100,Hit
 Celta Vigo (team),Cards 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,90,100,Hit
-Jason Knight,Fouls 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Luke McNally,Tackles 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Dominic Ballard,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Kyliane Dong,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,80,100,Pending
-Josh Sheehan,Fouled 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Josh Sheehan,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Rob Dickie,Fouls 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,86,100,Pending
-Rob Dickie,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,86,100,Pending
-Scott Twine,Fouled 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,89,80,Pending
-John McAtee,Tackles 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Bolton Wanderers (team),SOT 4+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Gavin Bazunu,Saves 2+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,86,80,Pending
-Rúben Rodrigues,Fouled 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,89,80,Pending
-Adam Randell,Fouled 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,80,80,Pending
-Largie Ramazani,Shots 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Zak Swanson,Tackles 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,91,100,Pending
-Abu Kamara,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Rocco Shein,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,88,80,Pending
-Adrian Segečić,Shots 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Iyad Mohamed,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,86,80,Pending
-Marezi,Shots 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,80,80,Pending
-Jayden Meghoma,Tackles 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,86,100,Pending
-Josh Laurent,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,82,100,Pending
-Ebou Adams,Tackles 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Igor Julio,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,86,100,Pending
-Burnley (team),BTTS,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Burnley (team),Cards 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Burnley (team),Over 1.5,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Burnley (team),Scores 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Hjalmar Ekdal,Tackles 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Grégoire Coudert,Saves 2+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Grégoire Coudert,Saves 3+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,80,80,Pending
-Daniel Bielica,Saves 2+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Daniel Bielica,Saves 3+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Ivan Mesík,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,91,80,Pending
-Morgan Whittaker,Fouled 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Morgan Whittaker,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Morgan Whittaker,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Morgan Whittaker,Tackles 2+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Sebastian Berhalter,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Aidan Morris,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Aidan Morris,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Adilson Malanda,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Amario Cozier-Duberry,Score or assist,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,86,80,Pending
-Amario Cozier-Duberry,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Amario Cozier-Duberry,Shots 2+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,86,80,Pending
-Tyreece Campbell,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Will Lankshear,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Will Lankshear,Shots 2+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Tyler Bindon,Fouls 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Tyler Bindon,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,80,80,Pending
-Amari'i Bell,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,88,80,Pending
-Callum Brittain,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Conor Coventry,Fouls 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Conor Coventry,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Charlton Athletic (team),Cards 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Middlesbrough (team),BTTS,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Middlesbrough (team),Over 1.5,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Middlesbrough (team),SOT 4+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Middlesbrough (team),Scores 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Oliver Skipp,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Arthur Okonkwo,Saves 2+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,91,100,Pending
-Millwall (team),Cards 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Millwall (team),Scores 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Jacob Widell Zetterström,Saves 2+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,80,Pending
-Derby County (team),Cards 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Derby County (team),Match corners 9+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Derby County (team),Over 1.5,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Camiel Neghli,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Jenson Metcalfe,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Derek Mazou-Sacko,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,89,80,Pending
-Derek Mazou-Sacko,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,89,80,Pending
-Bobby Clark,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,100,Pending
-David Ozoh,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,100,Pending
-David Ozoh,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,100,100,Pending
-David Ozoh,Tackles 2+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,80,Pending
-Mohammed Fuseini,Fouled 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,86,80,Pending
-Zak Sturge,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Kyrell Lisbie,Fouled 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,100,Pending
-Alex Mowatt,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,89,80,Pending
-Alex Mowatt,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,89,80,Pending
-Sammie Szmodics,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Carlton Morris,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,80,Pending
-Ryan Hedges,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,82,100,Pending
-Joe Ward,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,80,100,Pending
-Lyndon Dykes,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Lyndon Dykes,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Queens Park Rangers (team),Cards 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Kwame Poku,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,80,80,Pending
-Harvey Vale,Tackles 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Léo Scienza,Fouled 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Caspar Jander,Fouled 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Caspar Jander,Tackles 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Rayan Kolli,Fouled 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Rayan Kolli,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Glen Kamara,Fouls 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Paul Smyth,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Southampton (team),Scores 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Finn Azaz,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Keven Schlotterbeck,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,90,100,Pending
-Daniel Peretz,Saves 2+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Nathan Wood,Tackles 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,86,80,Pending
-Swansea City (team),Cards 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Kristi Montgomery,Tackles 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Kristi Montgomery,Tackles 2+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,82,100,Pending
-Filip Lissah,Tackles 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Todd Cantwell,Fouled 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Oladapo Afolayan,Fouled 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Oladapo Afolayan,Fouls 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Oladapo Afolayan,Shots 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Adam Idah,Shots 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,91,80,Pending
-Blackburn Rovers (team),Cards 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Blackburn Rovers (team),Corners 4+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Blackburn Rovers (team),Match corners 10+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Blackburn Rovers (team),Match corners 9+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Blackburn Rovers (team),Over 1.5,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Blackburn Rovers (team),Scores 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Arne Engels,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Brayann Pereira,Fouled 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Brayann Pereira,Fouls 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,80,80,Pending
-Brayann Pereira,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,80,80,Pending
-Isaac Price,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Jimmy-Jay Morgan,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Mohamadou Kanté,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Conor Townsend,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Max O'Leary,Saves 2+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Jarrod Bowen,Fouled 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Jarrod Bowen,SOT 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Jarrod Bowen,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Jarrod Bowen,Shots 2+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Konstantinos Mavropanos,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Callum Styles,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Valentín Castellanos,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,82,80,Pending
-West Ham United (team),Cards 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Pending
-West Ham United (team),Corners 4+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Pending
-West Ham United (team),Over 1.5,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,80,Pending
-West Ham United (team),SOT 4+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Pending
-West Ham United (team),Scores 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Pending
-West Bromwich Albion (team),Cards 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Pending
-West Bromwich Albion (team),Match corners 9+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Ousmane Diakité,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Ousmane Diakité,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Hugo Bueno,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Joel Bagan,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Pending
-André,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,100,Pending
-Rafiki Saïd,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Rafiki Saïd,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Yousef Salech,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,89,100,Pending
-Jack Moylan,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Jack Moylan,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Jack Moylan,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Jack Moylan,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Joel Colwill,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Fer López,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Fer López,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,91,100,Pending
-Mateus Mané,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Kieran Trippier,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Perry Ng,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,82,80,Pending
-Perry Ng,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Nathan Trott,Saves 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Jean-Ricner Bellegarde,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Jean-Ricner Bellegarde,Fouled 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Jean-Ricner Bellegarde,Fouls 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Jean-Ricner Bellegarde,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Marshall Munetsi,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Cardiff City (team),Cards 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Cardiff City (team),Corners 4+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Pending
-Cardiff City (team),Over 1.5,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Cardiff City (team),Scores 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Wolverhampton Wanderers (team),Cards 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Wolverhampton Wanderers (team),Corners 4+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Pending
-Wolverhampton Wanderers (team),Corners 5+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Pending
-Wolverhampton Wanderers (team),Match corners 9+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Pending
-Wolverhampton Wanderers (team),Scores 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Pending
+Jason Knight,Fouls 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,92,100,Miss
+Luke McNally,Tackles 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,100,100,Miss
+Dominic Ballard,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Kyliane Dong,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,80,100,Hit
+Josh Sheehan,Fouled 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,92,80,Miss
+Josh Sheehan,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Rob Dickie,Fouls 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,86,100,Did not play
+Rob Dickie,Shots 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,86,100,Did not play
+Scott Twine,Fouled 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,89,80,Miss
+John McAtee,Tackles 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,83,80,Did not play
+Bolton Wanderers (team),SOT 4+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Gavin Bazunu,Saves 2+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,86,80,Did not play
+Rúben Rodrigues,Fouled 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,89,80,Miss
+Adam Randell,Fouled 1+,Bolton Wanderers v Bristol City,Sat 31 Oct · 15:00,Championship,80,80,Hit
+Largie Ramazani,Shots 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Zak Swanson,Tackles 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,91,100,Miss
+Abu Kamara,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Rocco Shein,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,88,80,Did not play
+Adrian Segečić,Shots 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Iyad Mohamed,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,86,80,Hit
+Marezi,Shots 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,80,80,Miss
+Jayden Meghoma,Tackles 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,86,100,Hit
+Josh Laurent,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,82,100,Miss
+Ebou Adams,Tackles 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Igor Julio,Fouls 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,86,100,Hit
+Burnley (team),BTTS,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,92,80,Miss
+Burnley (team),Cards 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Burnley (team),Over 1.5,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Miss
+Burnley (team),Scores 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Miss
+Hjalmar Ekdal,Tackles 1+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Grégoire Coudert,Saves 2+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Miss
+Grégoire Coudert,Saves 3+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,80,80,Miss
+Daniel Bielica,Saves 2+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Daniel Bielica,Saves 3+,Burnley v Portsmouth,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Ivan Mesík,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,91,80,Did not play
+Morgan Whittaker,Fouled 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Morgan Whittaker,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Morgan Whittaker,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Morgan Whittaker,Tackles 2+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Sebastian Berhalter,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Aidan Morris,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Aidan Morris,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Adilson Malanda,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,82,80,Miss
+Amario Cozier-Duberry,Score or assist,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,86,80,Hit
+Amario Cozier-Duberry,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Amario Cozier-Duberry,Shots 2+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,86,80,Hit
+Tyreece Campbell,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,92,80,Miss
+Will Lankshear,Shots 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Will Lankshear,Shots 2+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Tyler Bindon,Fouls 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Tyler Bindon,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,80,80,Hit
+Amari'i Bell,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,88,80,Hit
+Callum Brittain,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Conor Coventry,Fouls 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Conor Coventry,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Charlton Athletic (team),Cards 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Middlesbrough (team),BTTS,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,80,Miss
+Middlesbrough (team),Over 1.5,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Middlesbrough (team),SOT 4+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Middlesbrough (team),Scores 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Oliver Skipp,Tackles 1+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Arthur Okonkwo,Saves 2+,Middlesbrough v Charlton Athletic,Sat 31 Oct · 15:00,Championship,91,100,Hit
+Millwall (team),Cards 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Millwall (team),Scores 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Jacob Widell Zetterström,Saves 2+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,80,Hit
+Derby County (team),Cards 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Derby County (team),Match corners 9+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Derby County (team),Over 1.5,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Camiel Neghli,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Jenson Metcalfe,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Derek Mazou-Sacko,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,89,80,Hit
+Derek Mazou-Sacko,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,89,80,Hit
+Bobby Clark,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,92,100,Miss
+David Ozoh,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,100,Miss
+David Ozoh,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,100,100,Hit
+David Ozoh,Tackles 2+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,80,Miss
+Mohammed Fuseini,Fouled 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,86,80,Miss
+Zak Sturge,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,80,Miss
+Kyrell Lisbie,Fouled 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,100,Hit
+Alex Mowatt,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,89,80,Miss
+Alex Mowatt,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,89,80,Miss
+Sammie Szmodics,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Carlton Morris,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,88,80,Hit
+Ryan Hedges,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,82,100,Hit
+Joe Ward,Tackles 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,80,100,Did not play
+Lyndon Dykes,Fouls 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Lyndon Dykes,Shots 1+,Millwall v Derby County,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Queens Park Rangers (team),Cards 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Kwame Poku,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,80,80,Hit
+Harvey Vale,Tackles 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Léo Scienza,Fouled 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Caspar Jander,Fouled 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Caspar Jander,Tackles 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Rayan Kolli,Fouled 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Rayan Kolli,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Glen Kamara,Fouls 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Paul Smyth,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Southampton (team),Scores 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Finn Azaz,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Keven Schlotterbeck,Shots 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,90,100,Hit
+Daniel Peretz,Saves 2+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Nathan Wood,Tackles 1+,Southampton v Queens Park Rangers,Sat 31 Oct · 15:00,Championship,86,80,Did not play
+Swansea City (team),Cards 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,80,Miss
+Kristi Montgomery,Tackles 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Kristi Montgomery,Tackles 2+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,82,100,Hit
+Filip Lissah,Tackles 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Todd Cantwell,Fouled 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Oladapo Afolayan,Fouled 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Oladapo Afolayan,Fouls 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Oladapo Afolayan,Shots 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,80,Miss
+Adam Idah,Shots 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,91,80,Miss
+Blackburn Rovers (team),Cards 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Blackburn Rovers (team),Corners 4+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,100,Miss
+Blackburn Rovers (team),Match corners 10+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,100,Miss
+Blackburn Rovers (team),Match corners 9+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,100,Miss
+Blackburn Rovers (team),Over 1.5,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Blackburn Rovers (team),Scores 1+,Swansea City v Blackburn Rovers,Sat 31 Oct · 15:00,Championship,92,100,Miss
+Arne Engels,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Brayann Pereira,Fouled 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Miss
+Brayann Pereira,Fouls 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,80,80,Miss
+Brayann Pereira,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,80,80,Miss
+Isaac Price,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Jimmy-Jay Morgan,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Mohamadou Kanté,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Conor Townsend,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Max O'Leary,Saves 2+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Jarrod Bowen,Fouled 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Miss
+Jarrod Bowen,SOT 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Jarrod Bowen,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Jarrod Bowen,Shots 2+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Miss
+Konstantinos Mavropanos,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Did not play
+Callum Styles,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Valentín Castellanos,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,82,80,Hit
+West Ham United (team),Cards 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Hit
+West Ham United (team),Corners 4+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Hit
+West Ham United (team),Over 1.5,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,80,Hit
+West Ham United (team),SOT 4+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Hit
+West Ham United (team),Scores 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Hit
+West Bromwich Albion (team),Cards 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Hit
+West Bromwich Albion (team),Match corners 9+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Ousmane Diakité,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Ousmane Diakité,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Hugo Bueno,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Joel Bagan,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Hit
+André,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,100,Hit
+Rafiki Saïd,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Rafiki Saïd,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Yousef Salech,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,89,100,Hit
+Jack Moylan,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Jack Moylan,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Jack Moylan,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Miss
+Jack Moylan,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Miss
+Joel Colwill,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Fer López,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Fer López,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,91,100,Hit
+Mateus Mané,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Miss
+Kieran Trippier,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Perry Ng,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,82,80,Hit
+Perry Ng,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Nathan Trott,Saves 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Miss
+Jean-Ricner Bellegarde,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Jean-Ricner Bellegarde,Fouled 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Jean-Ricner Bellegarde,Fouls 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Hit
+Jean-Ricner Bellegarde,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Marshall Munetsi,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Cardiff City (team),Cards 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Cardiff City (team),Corners 4+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Hit
+Cardiff City (team),Over 1.5,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
+Cardiff City (team),Scores 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Miss
+Wolverhampton Wanderers (team),Cards 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
+Wolverhampton Wanderers (team),Corners 4+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Miss
+Wolverhampton Wanderers (team),Corners 5+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Miss
+Wolverhampton Wanderers (team),Match corners 9+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Miss
+Wolverhampton Wanderers (team),Scores 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Hit
 Evanilson,Fouled 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
 Evanilson,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,100,Hit
 Adrien Truffert,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,100,Miss
