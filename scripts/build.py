@@ -14,7 +14,9 @@ DATA, OUT = os.path.join(ROOT, "data"), os.path.join(ROOT, "out")
 UK = ZoneInfo("Europe/London")
 MIN_APPS = 3          # players need this many league appearances to be listed
 PICK_MIN = 80         # Today tab: season and last-5 hit rate both at least this
-PICKS_PER_MATCH = 30
+TOP_PLAYER_PER_MATCH = 5   # Today tab "top picks" per match (All picks tab has no limit)
+TOP_TEAM_PER_MATCH = 3
+PROVEN_MIN_PICKS, PROVEN_MIN_RATE = 20, 75   # a market is "proven" once the tracker has graded 20+ picks hitting 75%+
 
 
 def blank_zeros(rows):
@@ -473,19 +475,29 @@ def main():
     by_match = defaultdict(list)
     for p in sel:
         by_match[(p["fixture"]["utc"], p["league"], p["fixture"]["id"])].append(p)
+    # how each market has really done in the Pick tracker so far
+    graded = defaultdict(lambda: [0, 0])
+    for e in (jload(os.path.join(DATA, "picks", "log.json"), {}) or {}).values():
+        if e.get("result") in ("Hit", "Miss"):
+            graded[e["market"]][0] += 1; graded[e["market"]][1] += e["result"] == "Hit"
+    real = lambda p: (100 * graded[p["market"]][1] / graded[p["market"]][0]) if graded[p["market"]][0] else None
+    proven = lambda p: graded[p["market"]][0] >= PROVEN_MIN_PICKS and real(p) >= PROVEN_MIN_RATE
+
     def pick_row(p):
         fx = p["fixture"]
-        note = "; ".join(x for x in (p["status"], f"Small sample ({p['games']} games)" if p["games"] < SMALL else "") if x)
+        g = graded[p["market"]]
+        track = f"Tracker: this market hits {round(real(p))}% ({g[0]} picks)" if g[0] >= PROVEN_MIN_PICKS else ""
+        note = "; ".join(x for x in (p["status"], f"Small sample ({p['games']} games)" if p["games"] < SMALL else "", track) if x)
         return [uk_time(fx["utc"]), p["league"], f"{fx['home']['name']} v {fx['away']['name']}", p["who"], p["team"],
                 p["market"], p["season"], p["l5"], p["starts"] if p.get("pid") is not None else "–", p["games"], opp_note(p), note]
 
-    def section(ps, cap):
+    def section(ps, cap, top=False):
         """Kick-off order, best picks first within each match, no repeats, at most `cap` per match."""
         rows = []
         for key in sorted(by_match):
             seen, n = set(), 0
             for p in sorted([p for p in ps if (p["fixture"]["utc"], p["league"], p["fixture"]["id"]) == key],
-                            key=lambda p: (-p["season"], -p["l5"], p["who"])):
+                            key=lambda p: (-(real(p) or 0) if top else 0, -p["season"], -p["l5"], p["who"])):
                 k = (p["who"], p["market"])
                 if k in seen or n >= cap: continue
                 seen.add(k); n += 1; rows.append(pick_row(p))
@@ -494,22 +506,32 @@ def main():
     full = lambda p: p["season"] == 100 and p["l5"] == 100
     players = [p for p in sel if p.get("pid") is not None]
     teams = [p for p in sel if p.get("pid") is None]
-    # Section title rows leave column A empty so the sheet's colour rules skip them
-    sections = [("PLAYER PICKS: 100% this season AND last 5", section([p for p in players if full(p)], 99)),
-                ("PLAYER PICKS: 80-99%", section([p for p in players if not full(p)], PICKS_PER_MATCH)),
-                ("TEAM PICKS: 100% this season AND last 5", section([p for p in teams if full(p)], 99)),
-                ("TEAM PICKS: 80-99%", section([p for p in teams if not full(p)], PICKS_PER_MATCH))]
-    out_rows = []
-    for title, rows in sections:
-        out_rows += [[]] if out_rows else []
-        out_rows.append(["", f"{title}  ({len(rows)})"])
-        out_rows += rows or [["", "None in the next 24 hours"]]
-    with open(os.path.join(OUT, "TODAY.csv"), "w", newline="") as f:
-        w = csv.writer(f)
-        w.writerow([f"Games kicking off in the next 24 hours (from {stamp}): markets hitting {PICK_MIN}%+ this season AND in the last 5 games. "
-                    f"Injured, doubtful and suspended players left out. 80-99% sections show up to {PICKS_PER_MATCH} per match."])
-        w.writerow(TODAY_COLS)
-        w.writerows(out_rows)
+    good = lambda p: not full(p) and p["games"] >= SMALL and proven(p)
+    today = [("PLAYER PICKS: 100% this season AND last 5", section([p for p in players if full(p)], 999)),
+             (f"PLAYER TOP PICKS: best {TOP_PLAYER_PER_MATCH} per match (80-99%, {SMALL}+ games, markets the tracker shows hitting {PROVEN_MIN_RATE}%+)",
+              section([p for p in players if good(p)], TOP_PLAYER_PER_MATCH, top=True)),
+             ("TEAM PICKS: 100% this season AND last 5", section([p for p in teams if full(p)], 999)),
+             (f"TEAM TOP PICKS: best {TOP_TEAM_PER_MATCH} per match (80-99%, {SMALL}+ games, markets the tracker shows hitting {PROVEN_MIN_RATE}%+)",
+              section([p for p in teams if good(p)], TOP_TEAM_PER_MATCH, top=True))]
+    every = [("PLAYER PICKS: 100% this season AND last 5", today[0][1]),
+             ("PLAYER PICKS: 80-99% (every one)", section([p for p in players if not full(p)], 9999)),
+             ("TEAM PICKS: 100% this season AND last 5", today[2][1]),
+             ("TEAM PICKS: 80-99% (every one)", section([p for p in teams if not full(p)], 9999))]
+
+    def write_picks(fn, sections, intro):
+        rows = []
+        for title, rs in sections:
+            rows += [[]] if rows else []
+            rows.append(["", f"{title}  ({len(rs)})"])   # column A empty so the colour rules skip title rows
+            rows += rs or [["", "None in the next 24 hours"]]
+        with open(os.path.join(OUT, fn), "w", newline="") as f:
+            w = csv.writer(f)
+            w.writerow([intro]); w.writerow(TODAY_COLS); w.writerows(rows)
+        return rows
+
+    window = f"Games kicking off in the next 24 hours (from {stamp}). Injured, doubtful and suspended players left out."
+    out_rows = write_picks("TODAY.csv", today, f"{window} Short list: every 100% pick plus the strongest few per match. Every pick is on the All picks tab.")
+    write_picks("ALL_PICKS.csv", every, f"{window} Every market hitting {PICK_MIN}%+ this season AND in the last 5 games, no limit per match.")
     with open(os.path.join(OUT, "ALL_players.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(PLAYER_COLS + ["League", "Search name"])
