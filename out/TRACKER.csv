@@ -1,25 +1,25 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 15:59 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 16:00 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4244,3127,74,90
-Tackles 1+,871,677,78,90
-Shots 1+,771,608,79,91
-Fouled 1+,475,329,69,90
-Fouls 1+,442,286,65,88
+All picks,4276,3147,74,90
+Tackles 1+,879,682,78,90
+Shots 1+,777,612,79,91
+Fouled 1+,477,329,69,90
+Fouls 1+,445,288,65,88
 Cards 1+,241,208,86,92
-Over 1.5,196,163,83,90
+Over 1.5,197,163,83,90
 Scores 1+,184,150,82,91
-Shots 2+,173,123,71,90
-Saves 2+,143,100,70,91
-SOT 1+,105,79,75,88
-SOT 4+,100,76,76,90
-Tackles 2+,97,55,57,88
-Corners 4+,77,54,70,90
-Match corners 9+,51,32,63,89
+Shots 2+,177,126,71,90
+Saves 2+,144,101,70,91
+SOT 1+,106,79,75,88
+SOT 4+,101,77,76,91
+Tackles 2+,99,56,57,88
+Corners 4+,78,55,71,90
+Match corners 9+,52,33,63,89
 Over 2.5,46,28,61,87
 Saves 3+,39,26,67,90
 Fouled 2+,35,17,49,87
 Cards 2+,34,19,56,88
-Corners 5+,32,18,56,89
+Corners 5+,33,19,58,89
 BTTS,32,14,44,88
 Score or assist,26,17,65,85
 Win,19,13,68,89
@@ -266,6 +266,8 @@ Morten Frendrup,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pendi
 Milutin Osmajić,Shots 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,88,80,Pending
 Lecce (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
 Lecce (team),Over 1.5,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
+Mikael Egill Ellertsson,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
+Mikael Egill Ellertsson,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,100,100,Pending
 Florian Wirtz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Miloš Kerkez,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
 Miloš Kerkez,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
@@ -612,39 +614,39 @@ Trabzonspor (team),Corners 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Tu
 Trabzonspor (team),Over 1.5,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
 Trabzonspor (team),SOT 4+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Trabzonspor (team),Scores 1+,Trabzonspor v Gaziantep FK,Sun 01 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Como (team),Corners 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Como (team),Corners 5+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Como (team),Match corners 9+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Como (team),Over 1.5,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Como (team),SOT 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Lucas Da Cunha,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Filip Stanković,Saves 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Antoine Hainaut,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Antoine Hainaut,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Redouane Halhal,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-Redouane Halhal,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-Nico Paz,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Nico Paz,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Nico Paz,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Pending
-Nico Paz,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Pending
-Álex Valle,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-Juan Jesus,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-Juan Jesus,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-Toma Bašić,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Pending
-John Yeboah,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-John Yeboah,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-John Yeboah,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Anastasios Douvikas,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Anastasios Douvikas,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Kike Pérez,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Kike Pérez,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Kike Pérez,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Pending
-Gianluca Busio,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Gianluca Busio,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,80,80,Pending
-Armel Bella-Kotchap,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Akor Adams,SOT 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
-Akor Adams,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Akor Adams,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
+Como (team),Corners 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Hit
+Como (team),Corners 5+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Hit
+Como (team),Match corners 9+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Hit
+Como (team),Over 1.5,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Miss
+Como (team),SOT 4+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Hit
+Lucas Da Cunha,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Hit
+Filip Stanković,Saves 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Hit
+Antoine Hainaut,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Miss
+Antoine Hainaut,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Miss
+Redouane Halhal,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Hit
+Redouane Halhal,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Hit
+Nico Paz,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Hit
+Nico Paz,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Hit
+Nico Paz,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Miss
+Nico Paz,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,88,80,Miss
+Álex Valle,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Miss
+Juan Jesus,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Hit
+Juan Jesus,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Hit
+Toma Bašić,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,83,80,Hit
+John Yeboah,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Miss
+John Yeboah,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Hit
+John Yeboah,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Hit
+Anastasios Douvikas,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Hit
+Anastasios Douvikas,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Hit
+Kike Pérez,Fouled 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Miss
+Kike Pérez,Fouls 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Miss
+Kike Pérez,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,100,Hit
+Gianluca Busio,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Hit
+Gianluca Busio,Tackles 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,80,80,Hit
+Armel Bella-Kotchap,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Did not play
+Akor Adams,SOT 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Miss
+Akor Adams,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Miss
+Akor Adams,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Miss
 Miguel Navarro,Fouled 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,85,100,Hit
 Miguel Navarro,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,80,Hit
 Morgan Whittaker,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,88,80,Hit
@@ -1530,5 +1532,3 @@ Abdukodir Khusanov,Tackles 1+,Manchester City v Brighton & Hove Albion,Sat 31 Oc
 Abdukodir Khusanov,Tackles 2+,Manchester City v Brighton & Hove Albion,Sat 31 Oct · 15:00,Premier League,80,80,Hit
 Luka Vušković,Shots 1+,Manchester City v Brighton & Hove Albion,Sat 31 Oct · 15:00,Premier League,88,80,Miss
 Luka Vušković,Shots 2+,Manchester City v Brighton & Hove Albion,Sat 31 Oct · 15:00,Premier League,88,80,Miss
-Luka Vušković,Tackles 1+,Manchester City v Brighton & Hove Albion,Sat 31 Oct · 15:00,Premier League,88,100,Miss
-Charalampos Kostoulas,Shots 1+,Manchester City v Brighton & Hove Albion,Sat 31 Oct · 15:00,Premier League,100,100,Miss
