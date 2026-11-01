@@ -1,27 +1,27 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:56 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 06:58 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,3965,2913,73,90
-Tackles 1+,821,639,78,90
-Shots 1+,711,560,79,91
-Fouled 1+,452,310,69,90
-Fouls 1+,418,271,65,88
-Cards 1+,222,193,87,92
-Over 1.5,173,146,84,90
-Scores 1+,165,133,81,91
-Shots 2+,163,116,71,90
-Saves 2+,132,92,70,91
-SOT 1+,98,73,74,88
-Tackles 2+,94,52,55,88
+All picks,4109,3024,74,90
+Tackles 1+,845,656,78,90
+Shots 1+,738,583,79,91
+Fouled 1+,463,320,69,90
+Fouls 1+,432,280,65,88
+Cards 1+,236,204,86,92
+Over 1.5,188,157,84,90
+Scores 1+,177,143,81,90
+Shots 2+,169,121,72,90
+Saves 2+,141,98,70,91
+SOT 1+,102,77,75,88
+Tackles 2+,95,53,56,88
 SOT 4+,93,70,75,90
-Corners 4+,71,49,69,90
-Match corners 9+,48,31,65,90
-Over 2.5,44,28,64,88
-Saves 3+,38,25,66,91
-Fouled 2+,33,15,45,87
+Corners 4+,72,50,69,90
+Match corners 9+,49,31,63,89
+Over 2.5,45,28,62,87
+Saves 3+,39,26,67,90
+Fouled 2+,35,17,49,87
 Cards 2+,33,18,55,88
 Corners 5+,30,16,53,90
 BTTS,30,14,47,89
-Score or assist,25,17,68,85
+Score or assist,26,17,65,85
 Win,17,11,65,89
 Match corners 10+,16,8,50,88
 Fouls 2+,15,6,40,88
@@ -645,71 +645,71 @@ Armel Bella-Kotchap,Tackles 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,10
 Akor Adams,SOT 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,89,80,Pending
 Akor Adams,Shots 1+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
 Akor Adams,Shots 2+,Como v Venezia,Sun 01 Nov · 11:30,Serie A,100,100,Pending
-Miguel Navarro,Fouled 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,85,100,Pending
-Miguel Navarro,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,80,Pending
-Morgan Whittaker,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,88,80,Pending
-Morgan Whittaker,Shots 2+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,88,80,Pending
-Hamzat Ojediran,Tackles 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,83,80,Pending
-Mbekezeli Mbokazi,Tackles 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,83,100,Pending
-Philip Zinckernagel,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,90,100,Pending
-Philip Zinckernagel,Tackles 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,100,Pending
-Andreas Hanche-Olsen,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,80,80,Pending
-Chicago Fire FC (team),Cards 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,97,100,Pending
-Chicago Fire FC (team),Over 1.5,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,84,80,Pending
-Chicago Fire FC (team),Scores 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Pending
-Hugo Cuypers,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,82,100,Pending
-Hugo Cuypers,Goal 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Pending
-Hugo Cuypers,SOT 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Pending
-Hugo Cuypers,Score or assist,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Pending
-Hugo Cuypers,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,100,100,Pending
-Hugo Cuypers,Shots 2+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Pending
-Hugo Cuypers,Tackles 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Pending
-Colorado Rapids (team),Cards 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,94,100,Pending
-Maren Haile-Selassie,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,100,Pending
-Robert Lewandowski,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,94,100,Pending
-Joseph Rosales,Tackles 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,83,80,Pending
-Gabriel Pec,SOT 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,93,80,Pending
-Gabriel Pec,Shots 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,93,80,Pending
-Gabriel Pec,Shots 2+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,93,80,Pending
-Damian Las,Saves 2+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,100,100,Pending
-Austin FC (team),Over 1.5,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,88,100,Pending
-Austin FC (team),Scores 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,81,100,Pending
-Emiro Garcés,Tackles 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,80,80,Pending
-Brad Stuver,Saves 2+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,89,80,Pending
-LA Galaxy (team),Cards 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,94,100,Pending
-LA Galaxy (team),Over 1.5,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,91,100,Pending
-LA Galaxy (team),Scores 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,88,100,Pending
-João Klauss,Shots 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,93,100,Pending
-James Marcinkowski,Saves 2+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,88,80,Pending
-Joseph Paintsil,Fouled 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,83,80,Pending
-Myrto Uzuni,Shots 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,92,80,Pending
-Juan Sanabria,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,80,Pending
-Morgan Guilavogui,Shots 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,85,100,Pending
-Kobi Henry,Fouls 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,83,100,Pending
-Kobi Henry,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,83,80,Pending
-Luc De Fougerolles,Fouled 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,100,100,Pending
-Luc De Fougerolles,Fouled 2+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,80,80,Pending
-Luc De Fougerolles,Fouls 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,80,80,Pending
-Luc De Fougerolles,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,100,100,Pending
-Luc De Fougerolles,Tackles 2+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,80,80,Pending
-Zavier Gozo,Shots 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,94,100,Pending
-Zavier Gozo,Shots 2+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,80,Pending
-Zavier Gozo,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,88,100,Pending
-Beau Leroux,Fouled 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,84,100,Pending
-Beau Leroux,Shots 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,87,80,Pending
-Beau Leroux,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,80,Pending
-Luca Moisa,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,86,100,Pending
-Reid Roberts,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,82,80,Pending
-Sergi Solans,Shots 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,90,100,Pending
-Stijn Spierings,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,87,80,Pending
-Earl Edwards Jr.,Saves 2+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,100,100,Pending
-San Jose Earthquakes (team),Cards 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,91,80,Pending
-San Jose Earthquakes (team),Over 1.5,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,100,Pending
-San Jose Earthquakes (team),Scores 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,84,80,Pending
-Real Salt Lake (team),Cards 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,94,100,Pending
-Real Salt Lake (team),Over 1.5,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,94,100,Pending
-Real Salt Lake (team),Scores 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,100,Pending
-Ronaldo Vieira,Fouls 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,88,100,Pending
+Miguel Navarro,Fouled 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,85,100,Hit
+Miguel Navarro,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,80,Hit
+Morgan Whittaker,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,88,80,Hit
+Morgan Whittaker,Shots 2+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,88,80,Hit
+Hamzat Ojediran,Tackles 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,83,80,Hit
+Mbekezeli Mbokazi,Tackles 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,83,100,Hit
+Philip Zinckernagel,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,90,100,Hit
+Philip Zinckernagel,Tackles 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,100,Miss
+Andreas Hanche-Olsen,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,80,80,Did not play
+Chicago Fire FC (team),Cards 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,97,100,Hit
+Chicago Fire FC (team),Over 1.5,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,84,80,Hit
+Chicago Fire FC (team),Scores 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Hit
+Hugo Cuypers,Fouls 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,82,100,Did not play
+Hugo Cuypers,Goal 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Did not play
+Hugo Cuypers,SOT 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Did not play
+Hugo Cuypers,Score or assist,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Did not play
+Hugo Cuypers,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,100,100,Did not play
+Hugo Cuypers,Shots 2+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Did not play
+Hugo Cuypers,Tackles 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,91,80,Did not play
+Colorado Rapids (team),Cards 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,94,100,Hit
+Maren Haile-Selassie,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,81,100,Miss
+Robert Lewandowski,Shots 1+,Colorado Rapids v Chicago Fire FC,Sun 01 Nov · 01:30,MLS,94,100,Hit
+Joseph Rosales,Tackles 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,83,80,Miss
+Gabriel Pec,SOT 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,93,80,Did not play
+Gabriel Pec,Shots 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,93,80,Did not play
+Gabriel Pec,Shots 2+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,93,80,Did not play
+Damian Las,Saves 2+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,100,100,Hit
+Austin FC (team),Over 1.5,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,88,100,Hit
+Austin FC (team),Scores 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,81,100,Hit
+Emiro Garcés,Tackles 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,80,80,Hit
+Brad Stuver,Saves 2+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,89,80,Did not play
+LA Galaxy (team),Cards 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,94,100,Hit
+LA Galaxy (team),Over 1.5,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,91,100,Hit
+LA Galaxy (team),Scores 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,88,100,Hit
+João Klauss,Shots 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,93,100,Hit
+James Marcinkowski,Saves 2+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,88,80,Miss
+Joseph Paintsil,Fouled 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,83,80,Hit
+Myrto Uzuni,Shots 1+,LA Galaxy v Austin FC,Sat 31 Oct · 21:00,MLS,92,80,Did not play
+Juan Sanabria,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,80,Miss
+Morgan Guilavogui,Shots 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,85,100,Did not play
+Kobi Henry,Fouls 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,83,100,Did not play
+Kobi Henry,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,83,80,Did not play
+Luc De Fougerolles,Fouled 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,100,100,Hit
+Luc De Fougerolles,Fouled 2+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,80,80,Hit
+Luc De Fougerolles,Fouls 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,80,80,Hit
+Luc De Fougerolles,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,100,100,Hit
+Luc De Fougerolles,Tackles 2+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,80,80,Hit
+Zavier Gozo,Shots 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,94,100,Did not play
+Zavier Gozo,Shots 2+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,80,Did not play
+Zavier Gozo,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,88,100,Did not play
+Beau Leroux,Fouled 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,84,100,Miss
+Beau Leroux,Shots 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,87,80,Miss
+Beau Leroux,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,80,Miss
+Luca Moisa,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,86,100,Did not play
+Reid Roberts,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,82,80,Hit
+Sergi Solans,Shots 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,90,100,Hit
+Stijn Spierings,Tackles 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,87,80,Hit
+Earl Edwards Jr.,Saves 2+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,100,100,Hit
+San Jose Earthquakes (team),Cards 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,91,80,Hit
+San Jose Earthquakes (team),Over 1.5,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,100,Hit
+San Jose Earthquakes (team),Scores 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,84,80,Hit
+Real Salt Lake (team),Cards 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,94,100,Hit
+Real Salt Lake (team),Over 1.5,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,94,100,Hit
+Real Salt Lake (team),Scores 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,81,100,Hit
+Ronaldo Vieira,Fouls 1+,San Jose Earthquakes v Real Salt Lake,Sat 31 Oct · 21:00,MLS,88,100,Hit
 Gabriel Veiga,Fouls 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
 Gabriel Veiga,Shots 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Alberto Costa,Fouls 1+,FC Porto v Estoril,Sat 31 Oct · 20:30,"Portugal (Porto, Sporting, Benfica)",88,100,Pending
@@ -878,104 +878,104 @@ Le Mans (team),Scores 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,88,80,Miss
 Lucas Buadés,Fouled 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,100,100,Hit
 Jérémy Le Douaron,Fouls 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Hit
 Harold Voyer,Tackles 1+,Troyes v Le Mans,Sat 31 Oct · 19:45,Ligue 1,83,80,Did not play
-Jonathan Sirois,Saves 2+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,91,80,Pending
-Calvin Harris,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,84,80,Pending
-André Luiz,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,91,100,Pending
-Kaick Ferreira,Fouled 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,87,100,Pending
-FC Dallas (team),Cards 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,94,80,Pending
-Emir Karić,Tackles 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,89,80,Pending
-Shaq Moore,Tackles 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,87,80,Pending
-Sporting Kansas City (team),Over 1.5,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,97,100,Pending
-Sporting Kansas City (team),Over 2.5,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,81,100,Pending
-Petar Musa,SOT 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,89,80,Pending
-Petar Musa,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,100,100,Pending
-Petar Musa,Shots 2+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,86,80,Pending
-Lalas Abubakar,Fouls 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,80,80,Pending
-Stefan Cleveland,Saves 2+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,87,100,Pending
-Osaze Urhoghide,Tackles 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,85,100,Pending
-Rafael Navarro,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,91,80,Pending
-Rafael Navarro,Fouls 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,84,100,Pending
-Rafael Navarro,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,97,100,Pending
-Jaziel Orozco,Tackles 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,82,80,Pending
-St. Louis City (team),Cards 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,88,80,Pending
-St. Louis City (team),Over 1.5,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,88,80,Pending
-David Vazquez,Fouls 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,85,100,Pending
-Luca Bombino,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,100,100,Pending
-San Diego FC (team),Cards 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,84,80,Pending
-San Diego FC (team),Over 1.5,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,81,100,Pending
-San Diego FC (team),Scores 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,84,100,Pending
-Cédric Bakambu,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,80,Pending
-Cédric Bakambu,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,100,Pending
-Aníbal Godoy,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,83,80,Pending
-Marcus Ingvartsen,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,86,100,Pending
-Anders Dreyer,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,97,80,Pending
-Sergio Córdova,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,80,100,Pending
-Marcel Hartel,SOT 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,81,80,Pending
-Marcel Hartel,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,100,100,Pending
-Marcel Hartel,Shots 2+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,94,100,Pending
-Conrad Wallem,Fouls 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,80,Pending
-Christopher Durkin,Fouls 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,80,Pending
-Christopher Durkin,Tackles 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,100,Pending
-Carlo Holse,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,83,100,Pending
-Nathan Harriel,Fouled 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Pending
-Jovan Lukić,Fouls 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,80,100,Pending
-Jovan Lukić,Tackles 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,80,100,Pending
-Danley Jean Jacques,Fouls 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,83,80,Pending
-Bruno Damiani,Fouls 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,87,100,Pending
-Bruno Damiani,Shots 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,90,100,Pending
-Olwethu Makhanya,Tackles 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,92,100,Pending
-Francis Westfield,Fouled 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,93,100,Pending
-Neil Pierre,Tackles 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,94,100,Pending
-Kenji Mboma Dem,Shots 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Pending
-Philadelphia Union (team),Cards 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Pending
-Philadelphia Union (team),Corners 4+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,91,100,Pending
-Philadelphia Union (team),Over 1.5,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Pending
-Philadelphia Union (team),Scores 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Pending
-FC Cincinnati (team),Cards 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,91,80,Pending
-FC Cincinnati (team),Over 1.5,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,94,100,Pending
-FC Cincinnati (team),Scores 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,84,80,Pending
-Evander Ferreira,Shots 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,93,100,Pending
-Evander Ferreira,Shots 2+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,83,80,Pending
-Kévin Denkey,Shots 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,90,80,Pending
-Evan Louro,Saves 2+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,100,100,Pending
-Obinna Nwobodo,Tackles 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,85,80,Pending
-Santiago Rodríguez,Fouled 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,80,80,Pending
-Santiago Rodríguez,Fouls 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,80,80,Pending
-Santiago Rodríguez,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,90,100,Pending
-Anass Zaroury,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,100,100,Pending
-Patrick Schulte,Saves 2+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,80,Pending
-Peglow,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,90,100,Pending
-Gonzalo Tapia,Fouls 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,100,100,Pending
-Gonzalo Tapia,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,100,100,Pending
-Jackson Hopkins,Fouls 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,84,80,Pending
-Max Arfsten,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,80,Pending
-Max Arfsten,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,80,Pending
-Taha Habroune,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,87,100,Pending
-Columbus Crew (team),Cards 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,94,100,Pending
-Columbus Crew (team),Over 1.5,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,91,100,Pending
-Columbus Crew (team),Scores 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,100,Pending
-DC United (team),Cards 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,100,Pending
-Silvan Hefti,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,93,100,Pending
-Diego Rossi,Fouled 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,80,80,Pending
-Diego Rossi,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,93,80,Pending
-Diego Rossi,Shots 2+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,80,80,Pending
-Aarón Herrera,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,86,80,Pending
-Aarón Herrera,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,86,100,Pending
-Brandon Servania,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,87,100,Pending
-Matt Freese,Saves 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,87,80,Pending
-Gennadiy Synchuk,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,95,100,Pending
-Luighi,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,92,80,Pending
-CF Montréal (team),Cards 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,91,100,Pending
-CF Montréal (team),Over 1.5,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,84,100,Pending
-New York City FC (team),Over 1.5,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,88,100,Pending
-New York City FC (team),Scores 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,81,80,Pending
-Aiden O'Neill,Tackles 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,90,100,Pending
-Nicolás Fernández,Fouled 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,100,100,Pending
-Nicolás Fernández,Fouled 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,84,100,Pending
-Nicolás Fernández,Fouls 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,84,100,Pending
-Nicolás Fernández,SOT 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,81,80,Pending
-Nicolás Fernández,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,97,80,Pending
-Nicolás Fernández,Shots 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,81,80,Pending
+Jonathan Sirois,Saves 2+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,91,80,Hit
+Calvin Harris,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,84,80,Miss
+André Luiz,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,91,100,Hit
+Kaick Ferreira,Fouled 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,87,100,Hit
+FC Dallas (team),Cards 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,94,80,Hit
+Emir Karić,Tackles 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,89,80,Hit
+Shaq Moore,Tackles 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,87,80,Did not play
+Sporting Kansas City (team),Over 1.5,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,97,100,Hit
+Sporting Kansas City (team),Over 2.5,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,81,100,Miss
+Petar Musa,SOT 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,89,80,Hit
+Petar Musa,Shots 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,100,100,Hit
+Petar Musa,Shots 2+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,86,80,Miss
+Lalas Abubakar,Fouls 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,80,80,Hit
+Stefan Cleveland,Saves 2+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,87,100,Miss
+Osaze Urhoghide,Tackles 1+,Sporting Kansas City v FC Dallas,Sat 31 Oct · 19:00,MLS,85,100,Hit
+Rafael Navarro,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,91,80,Hit
+Rafael Navarro,Fouls 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,84,100,Hit
+Rafael Navarro,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,97,100,Hit
+Jaziel Orozco,Tackles 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,82,80,Did not play
+St. Louis City (team),Cards 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,88,80,Hit
+St. Louis City (team),Over 1.5,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,88,80,Miss
+David Vazquez,Fouls 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,85,100,Miss
+Luca Bombino,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,100,100,Did not play
+San Diego FC (team),Cards 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,84,80,Hit
+San Diego FC (team),Over 1.5,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,81,100,Miss
+San Diego FC (team),Scores 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,84,100,Hit
+Cédric Bakambu,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,80,Did not play
+Cédric Bakambu,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,100,Did not play
+Aníbal Godoy,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,83,80,Did not play
+Marcus Ingvartsen,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,86,100,Hit
+Anders Dreyer,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,97,80,Hit
+Sergio Córdova,Fouled 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,80,100,Did not play
+Marcel Hartel,SOT 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,81,80,Did not play
+Marcel Hartel,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,100,100,Did not play
+Marcel Hartel,Shots 2+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,94,100,Did not play
+Conrad Wallem,Fouls 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,80,Hit
+Christopher Durkin,Fouls 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,80,Hit
+Christopher Durkin,Tackles 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,89,100,Hit
+Carlo Holse,Shots 1+,St. Louis City v San Diego FC,Sat 31 Oct · 19:00,MLS,83,100,Hit
+Nathan Harriel,Fouled 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Hit
+Jovan Lukić,Fouls 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,80,100,Miss
+Jovan Lukić,Tackles 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,80,100,Hit
+Danley Jean Jacques,Fouls 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,83,80,Did not play
+Bruno Damiani,Fouls 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,87,100,Hit
+Bruno Damiani,Shots 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,90,100,Hit
+Olwethu Makhanya,Tackles 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,92,100,Did not play
+Francis Westfield,Fouled 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,93,100,Hit
+Neil Pierre,Tackles 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,94,100,Hit
+Kenji Mboma Dem,Shots 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Hit
+Philadelphia Union (team),Cards 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Miss
+Philadelphia Union (team),Corners 4+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,91,100,Hit
+Philadelphia Union (team),Over 1.5,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Miss
+Philadelphia Union (team),Scores 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,81,80,Miss
+FC Cincinnati (team),Cards 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,91,80,Miss
+FC Cincinnati (team),Over 1.5,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,94,100,Miss
+FC Cincinnati (team),Scores 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,84,80,Hit
+Evander Ferreira,Shots 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,93,100,Hit
+Evander Ferreira,Shots 2+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,83,80,Hit
+Kévin Denkey,Shots 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,90,80,Miss
+Evan Louro,Saves 2+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,100,100,Did not play
+Obinna Nwobodo,Tackles 1+,FC Cincinnati v Philadelphia Union,Sat 31 Oct · 18:00,MLS,85,80,Hit
+Santiago Rodríguez,Fouled 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,80,80,Hit
+Santiago Rodríguez,Fouls 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,80,80,Hit
+Santiago Rodríguez,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,90,100,Hit
+Anass Zaroury,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,100,100,Hit
+Patrick Schulte,Saves 2+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,80,Hit
+Peglow,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,90,100,Miss
+Gonzalo Tapia,Fouls 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,100,100,Miss
+Gonzalo Tapia,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,100,100,Hit
+Jackson Hopkins,Fouls 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,84,80,Did not play
+Max Arfsten,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,80,Did not play
+Max Arfsten,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,80,Did not play
+Taha Habroune,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,87,100,Hit
+Columbus Crew (team),Cards 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,94,100,Miss
+Columbus Crew (team),Over 1.5,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,91,100,Hit
+Columbus Crew (team),Scores 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,100,Hit
+DC United (team),Cards 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,88,100,Hit
+Silvan Hefti,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,93,100,Hit
+Diego Rossi,Fouled 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,80,80,Did not play
+Diego Rossi,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,93,80,Did not play
+Diego Rossi,Shots 2+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,80,80,Did not play
+Aarón Herrera,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,86,80,Did not play
+Aarón Herrera,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,86,100,Did not play
+Brandon Servania,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,87,100,Miss
+Matt Freese,Saves 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,87,80,Miss
+Gennadiy Synchuk,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,95,100,Hit
+Luighi,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,92,80,Hit
+CF Montréal (team),Cards 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,91,100,Hit
+CF Montréal (team),Over 1.5,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,84,100,Hit
+New York City FC (team),Over 1.5,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,88,100,Hit
+New York City FC (team),Scores 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,81,80,Hit
+Aiden O'Neill,Tackles 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,90,100,Did not play
+Nicolás Fernández,Fouled 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,100,100,Hit
+Nicolás Fernández,Fouled 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,84,100,Hit
+Nicolás Fernández,Fouls 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,84,100,Miss
+Nicolás Fernández,SOT 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,81,80,Hit
+Nicolás Fernández,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,97,80,Hit
+Nicolás Fernández,Shots 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,81,80,Hit
 Gabriel Martinelli,SOT 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),83,100,Pending
 Gabriel Martinelli,Shots 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),100,100,Pending
 Gabriel Martinelli,Shots 2+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),83,100,Pending
@@ -1123,33 +1123,33 @@ Jan Paul van Hecke,Fouls 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:
 Jan Paul van Hecke,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,100,100,Miss
 Crystal Palace (team),Cards 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,88,100,Hit
 Crystal Palace (team),Over 1.5,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,88,80,Hit
-Charlotte FC (team),Over 1.5,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Pending
-Charlotte FC (team),Scores 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Pending
-Vinícius Nogueira,Fouls 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Pending
-Vinícius Nogueira,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,80,80,Pending
-Luis Otávio,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,92,100,Pending
-Joran Gerbet,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,80,80,Pending
-Antoine Griezmann,SOT 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Pending
-Antoine Griezmann,Score or assist,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,88,100,Pending
-Antoine Griezmann,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Pending
-Antoine Griezmann,Shots 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Pending
-Wilfried Zaha,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Pending
-Wilfried Zaha,Fouled 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Pending
-Wilfried Zaha,Fouls 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,92,80,Pending
-Martín Ojeda,SOT 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,85,100,Pending
-Martín Ojeda,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,92,100,Pending
-Martín Ojeda,Shots 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Pending
-Orlando City (team),Cards 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,97,100,Pending
-Orlando City (team),Match corners 9+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Pending
-Orlando City (team),Over 1.5,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,91,100,Pending
-Orlando City (team),Scores 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,84,100,Pending
-Maxime Crépeau,Saves 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,90,100,Pending
-Allan Saint-Maximin,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,85,100,Pending
-Allan Saint-Maximin,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Pending
-Kristijan Kahlina,Saves 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,91,80,Pending
-Kristijan Kahlina,Saves 3+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,84,80,Pending
-Pep Biel,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,88,80,Pending
-Iván Angulo,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Pending
+Charlotte FC (team),Over 1.5,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Hit
+Charlotte FC (team),Scores 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Hit
+Vinícius Nogueira,Fouls 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Miss
+Vinícius Nogueira,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,80,80,Hit
+Luis Otávio,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,92,100,Miss
+Joran Gerbet,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,80,80,Did not play
+Antoine Griezmann,SOT 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Hit
+Antoine Griezmann,Score or assist,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,88,100,Miss
+Antoine Griezmann,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Hit
+Antoine Griezmann,Shots 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Hit
+Wilfried Zaha,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Did not play
+Wilfried Zaha,Fouled 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Did not play
+Wilfried Zaha,Fouls 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,92,80,Did not play
+Martín Ojeda,SOT 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,85,100,Hit
+Martín Ojeda,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,92,100,Hit
+Martín Ojeda,Shots 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Hit
+Orlando City (team),Cards 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,97,100,Hit
+Orlando City (team),Match corners 9+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Miss
+Orlando City (team),Over 1.5,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,91,100,Hit
+Orlando City (team),Scores 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,84,100,Miss
+Maxime Crépeau,Saves 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,90,100,Hit
+Allan Saint-Maximin,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,85,100,Hit
+Allan Saint-Maximin,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,100,100,Hit
+Kristijan Kahlina,Saves 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,91,80,Hit
+Kristijan Kahlina,Saves 3+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,84,80,Hit
+Pep Biel,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,88,80,Hit
+Iván Angulo,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,81,100,Hit
 Maduka Okoye,Saves 2+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
 Matias Soulé,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,89,80,Hit
 Wesley,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,88,80,Hit
