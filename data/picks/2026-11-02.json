@@ -869,6 +869,22 @@
 "utc": "2026-11-02T19:45:00Z",
 "who": "Marco Carnesecchi"
 },
+"5749731|10167|Over 1.5 %": {
+"fixture": "5749731",
+"games": 9,
+"key": "Over 1.5 %",
+"l5": 80,
+"league": "Serie A",
+"market": "Over 1.5",
+"match": "Atalanta v Parma",
+"pid": null,
+"result": "",
+"season": 78,
+"tid": 10167,
+"true": 80,
+"utc": "2026-11-02T19:45:00.000Z",
+"who": "Parma (team)"
+},
 "5749731|1050178|Tackles 1+ %": {
 "fixture": "5749731",
 "games": 8,
@@ -3073,6 +3089,22 @@
 "tid": null,
 "utc": "2026-11-02T20:15:00Z",
 "who": "Alexander Bah"
+},
+"5887671|9772|Cards 1+ %": {
+"fixture": "5887671",
+"games": 9,
+"key": "Cards 1+ %",
+"l5": 100,
+"league": "Portugal (Porto, Sporting, Benfica)",
+"market": "Cards 1+",
+"match": "Benfica v Alverca",
+"pid": null,
+"result": "",
+"season": 78,
+"tid": 9772,
+"true": 82,
+"utc": "2026-11-02T20:15:00.000Z",
+"who": "Benfica (team)"
 },
 "5887671|9772|Over 1.5 %": {
 "fixture": "5887671",
