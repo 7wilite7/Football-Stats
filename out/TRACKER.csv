@@ -1,25 +1,25 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:26 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4788,3534,74,90
-Tackles 1+,995,772,78,90
-Shots 1+,863,681,79,91
-Fouled 1+,538,373,69,90
-Fouls 1+,508,330,65,88
-Cards 1+,276,237,86,92
+All picks,4805,3545,74,90
+Tackles 1+,998,774,78,90
+Shots 1+,865,683,79,91
+Fouled 1+,541,375,69,90
+Fouls 1+,510,331,65,88
+Cards 1+,277,238,86,92
 Over 1.5,216,182,84,90
 Scores 1+,199,162,81,91
-Shots 2+,197,140,71,90
+Shots 2+,198,141,71,90
 Saves 2+,160,112,70,91
-Shots on target 1+,118,85,72,87
+Shots on target 1+,119,86,72,88
 Tackles 2+,108,62,57,88
-Shots on target 4+,106,81,76,91
-Corners 4+,86,62,72,90
-Match corners 9+,62,38,61,89
+Shots on target 4+,107,82,77,91
+Corners 4+,87,62,71,90
+Match corners 9+,63,38,60,89
 Over 2.5,50,32,64,87
 Saves 3+,45,31,69,90
 Cards 2+,39,24,62,89
+Corners 5+,38,23,61,89
 Fouled 2+,38,19,50,87
-Corners 5+,37,23,62,89
 BTTS,33,15,45,88
 Score or assist,27,18,67,85
 Win,22,16,73,89
@@ -544,23 +544,23 @@ Ilan Kebbal,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Hit
 Ilan Kebbal,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
 Carlens Arcus,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,71,80,Hit
 Hamari Traoré,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,67,80,Hit
-Beşiktaş (team),Cards 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
-Beşiktaş (team),Corners 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Beşiktaş (team),Corners 5+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Beşiktaş (team),Match corners 9+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Beşiktaş (team),Shots on target 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Emmanuel Agbadou,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
-Leandro Trossard,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Leandro Trossard,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Pending
-Dušan Vlahović,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
-Dušan Vlahović,Shots on target 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Dušan Vlahović,Shots 2+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Salih Özcan,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
-Salih Özcan,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
-Tiago Djaló,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Tiago Djaló,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Pending
-Emirhan Topçu,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Pending
+Beşiktaş (team),Cards 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Hit
+Beşiktaş (team),Corners 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Beşiktaş (team),Corners 5+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Miss
+Beşiktaş (team),Match corners 9+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Miss
+Beşiktaş (team),Shots on target 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Emmanuel Agbadou,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Hit
+Leandro Trossard,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Miss
+Leandro Trossard,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",88,80,Hit
+Dušan Vlahović,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Miss
+Dušan Vlahović,Shots on target 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Dušan Vlahović,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Dušan Vlahović,Shots 2+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Salih Özcan,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Hit
+Salih Özcan,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Hit
+Tiago Djaló,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Hit
+Tiago Djaló,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,80,Miss
+Emirhan Topçu,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",86,80,Hit
 Jude Bellingham,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Hit
 Jude Bellingham,Fouled 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,100,Miss
 Jude Bellingham,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,90,80,Hit
