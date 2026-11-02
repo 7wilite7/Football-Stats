@@ -1,23 +1,23 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:18 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:19 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4570,3359,74,90
-Tackles 1+,949,734,77,90
-Shots 1+,820,646,79,91
-Fouled 1+,506,347,69,90
-Fouls 1+,477,307,64,88
-Cards 1+,258,222,86,92
+All picks,4597,3381,74,90
+Tackles 1+,956,741,78,90
+Shots 1+,824,649,79,91
+Fouled 1+,509,348,68,90
+Fouls 1+,482,310,64,88
+Cards 1+,260,224,86,92
 Over 1.5,208,174,84,90
 Scores 1+,193,156,81,91
 Shots 2+,187,133,71,90
-Saves 2+,153,105,69,91
-Shots on target 1+,113,82,73,88
+Saves 2+,155,107,69,91
+Shots on target 1+,114,83,73,88
 Shots on target 4+,106,81,76,91
 Tackles 2+,105,59,56,88
 Corners 4+,86,62,72,90
 Match corners 9+,60,38,63,89
 Over 2.5,50,32,64,87
-Saves 3+,41,28,68,90
-Cards 2+,38,23,61,89
+Saves 3+,43,30,70,90
+Cards 2+,39,24,62,89
 Fouled 2+,38,19,50,87
 Corners 5+,37,23,62,89
 BTTS,33,15,45,88
@@ -460,37 +460,37 @@ Ryan Gravenberch,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League
 Arsenal (team),Cards 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
 Arsenal (team),Scores 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Hit
 Arsenal (team),Win,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Hit
-David Møller Wolfe,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,100,Pending
-Raphael Onyedika,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Raphael Onyedika,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Noah Atubolu,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Noah Atubolu,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Can Uzun,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Pending
-Can Uzun,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Pending
-Elias Baum,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Younes Ebnoutalib,Shots on target 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Younes Ebnoutalib,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Noël Aséko,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,80,80,Pending
-Noël Aséko,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,80,80,Pending
-Keita Kosugi,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Keita Kosugi,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Shafiq Nandja,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Shafiq Nandja,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Daniel Heuer Fernandes,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Daniel Heuer Fernandes,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Ritsu Doan,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Pending
-Ritsu Doan,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Miro Muheim,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Albert Sambi Lokonga,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Jonathan Burkardt,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Hamburger SV (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
-Eintracht Frankfurt (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
-Eintracht Frankfurt (team),Cards 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,100,Pending
+David Møller Wolfe,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,100,Miss
+Raphael Onyedika,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Hit
+Raphael Onyedika,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Hit
+Noah Atubolu,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Noah Atubolu,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Can Uzun,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Hit
+Can Uzun,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Hit
+Elias Baum,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Younes Ebnoutalib,Shots on target 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Hit
+Younes Ebnoutalib,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Hit
+Noël Aséko,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,80,80,Miss
+Noël Aséko,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,80,80,Hit
+Keita Kosugi,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Miss
+Keita Kosugi,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Shafiq Nandja,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Miss
+Shafiq Nandja,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Daniel Heuer Fernandes,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Hit
+Daniel Heuer Fernandes,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Hit
+Ritsu Doan,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,80,Hit
+Ritsu Doan,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Miro Muheim,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Albert Sambi Lokonga,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Jonathan Burkardt,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Miss
+Hamburger SV (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Hit
+Eintracht Frankfurt (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Hit
+Eintracht Frankfurt (team),Cards 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,100,Hit
 Bradley Barcola,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,67,80,Hit
 Ezri Konsa,Fouled 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Hit
 Ezri Konsa,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Hit
 Ronald Araujo,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,75,80,Hit
-Martin Adeline,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,67,80,Pending
+Martin Adeline,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,67,80,Hit
 Jim Allevinah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Jim Allevinah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Mads Bidstrup,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,86,100,Pending
