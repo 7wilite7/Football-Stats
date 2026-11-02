@@ -1,17 +1,17 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:20 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:22 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4677,3439,74,90
-Tackles 1+,971,751,77,90
-Shots 1+,835,658,79,91
-Fouled 1+,524,360,69,90
-Fouls 1+,497,321,65,88
-Cards 1+,265,228,86,92
-Over 1.5,210,176,84,90
-Scores 1+,194,157,81,91
-Shots 2+,190,135,71,90
-Saves 2+,159,111,70,91
-Shots on target 1+,115,83,72,88
-Tackles 2+,107,61,57,88
+All picks,4788,3534,74,90
+Tackles 1+,995,772,78,90
+Shots 1+,863,681,79,91
+Fouled 1+,538,373,69,90
+Fouls 1+,508,330,65,88
+Cards 1+,276,237,86,92
+Over 1.5,216,182,84,90
+Scores 1+,199,162,81,91
+Shots 2+,197,140,71,90
+Saves 2+,160,112,70,91
+Shots on target 1+,118,85,72,87
+Tackles 2+,108,62,57,88
 Shots on target 4+,106,81,76,91
 Corners 4+,86,62,72,90
 Match corners 9+,62,38,61,89
@@ -184,133 +184,133 @@ Armand Laurienté,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,89,
 Jay Idzes,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
 Nicolò Fagioli,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
 João Mário,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,80,80,Pending
-Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,80,100,Pending
-Agustin Resch,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,65,80,Pending
-Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,100,Pending
-Portland Timbers (team),Over 1.5,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Pending
-Ezequiel Ponce,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,88,80,Pending
-Houston Dynamo FC (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,80,Pending
-Ronald Hernández,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,81,100,Pending
-Kristoffer Velde,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,97,100,Pending
-Kristoffer Velde,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,100,100,Pending
-Kristoffer Velde,Shots 2+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,87,80,Pending
-Kristoffer Velde,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,77,100,Pending
-Lyle Foster,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,83,100,Pending
-Mateusz Bogusz,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,84,100,Pending
-Mateusz Bogusz,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Pending
-Cole Bassett,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,96,100,Pending
-Leo Walta,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
-Owen Gene,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,67,80,Pending
-Anthony Markanich,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,87,80,Pending
-Anthony Markanich,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Pending
-Jefferson Díaz,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,76,80,Pending
-Cherrion Valerius,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
-Cherrion Valerius,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Pending
-Cherrion Valerius,Tackles 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,80,80,Pending
-Minnesota United (team),Cards 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,91,80,Pending
-Minnesota United (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,80,Pending
-Heung-Min Son,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
-Heung-Min Son,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,86,100,Pending
-Denis Bouanga,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
-Evgen Cheberko,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,75,80,Pending
-Evgen Cheberko,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Pending
-Eddie Segura,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,84,80,Pending
-Los Angeles FC (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,80,Pending
-Kelvin Yeboah,Shots on target 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Pending
-Kelvin Yeboah,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Pending
-Kelvin Yeboah,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Pending
-Dor Turgeman,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,94,100,Pending
-Rocco Ríos Novo,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,100,100,Pending
-Matías Galarza,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,80,Pending
-Gonzalo Luján,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,100,Pending
-Micael,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
-Brooklyn Raines,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
-Brooklyn Raines,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
-Will Sands,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,84,80,Pending
-Peyton Miller,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,100,Pending
-Yannick Bright,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,88,80,Pending
-Yannick Bright,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Pending
-Rodrigo De Paul,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,100,Pending
-Carles Gil,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,97,100,Pending
-New England Revolution (team),Cards 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,84,100,Pending
-New England Revolution (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,81,80,Pending
-Matt Turner,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,81,100,Pending
-Germán Berterame,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,89,80,Pending
-Mamadou Fofana,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,80,Pending
-Inter Miami CF (team),Cards 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,97,80,Pending
-Inter Miami CF (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,94,100,Pending
-Inter Miami CF (team),Scores 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,91,80,Pending
-Cade Cowell,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,87,100,Pending
-Patrick Yazbek,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,100,Pending
-Elias Saad,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,87,80,Pending
-Matthew Corcoran,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,86,100,Pending
-Julian Hall,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,100,Pending
-Mohammed Sofo,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,80,100,Pending
-Adri Mehmeti,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,83,100,Pending
-Emil Forsberg,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,86,100,Pending
-Hany Mukhtar,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Hany Mukhtar,Shots 2+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,100,Pending
-Jeisson Palacios,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
-Red Bull New York (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,94,80,Pending
-Red Bull New York (team),Over 1.5,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,100,Pending
-Sam Surridge,Shots on target 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
-Sam Surridge,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
-Nashville SC (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,80,Pending
-Nashville SC (team),Scores 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Pending
-José Cifuentes,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,90,80,Pending
-Matheus Pereira,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,100,Pending
-Tomás Jacob,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,89,80,Pending
-Mauricio Amaro,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Miguel Almirón,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,100,Pending
-Miguel Almirón,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Júnior Alonso,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,81,80,Pending
-Breel Embolo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Breel Embolo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Breel Embolo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,80,Pending
-Toronto FC (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,80,Pending
-Toronto FC (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,91,100,Pending
-Toronto FC (team),Scores 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,100,Pending
-Dániel Sallói,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,88,100,Pending
-Raheem Edwards,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,85,80,Pending
-Raheem Edwards,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
-Niklas Dorsch,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Niklas Dorsch,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
-Niklas Dorsch,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,100,Pending
-Richie Laryea,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Pending
-Richie Laryea,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,80,Pending
-Atlanta United (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Atlanta United (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,100,Pending
-Joshua Sargent,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,88,80,Pending
-Juan Berrocal,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Giuliano Galoppo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,100,Pending
-Giuliano Galoppo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Pending
-Giuliano Galoppo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,100,Pending
-Giuliano Galoppo,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,80,Pending
-Maxwell Woledzi,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,78,80,Pending
-Julián Bazán,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,76,100,Pending
-Julián Bazán,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,76,80,Pending
-Theodor Corbeanu,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,79,100,Pending
-Mathías Laborda,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,81,80,Pending
-Sebastian Berhalter,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
-Sebastian Berhalter,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
-Sebastian Berhalter,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
-Sebastian Berhalter,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,80,Pending
-Seattle Sounders FC (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,84,80,Pending
-Édier Ocampo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,82,100,Pending
-Édier Ocampo,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,86,100,Pending
-Jeevan Badwal,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,91,100,Pending
-Kee-Hee Kim,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,86,80,Pending
-Vancouver Whitecaps (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,91,80,Pending
-Ryan Gauld,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,83,80,Pending
-Albert Rusnák,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,90,80,Pending
-Cristian Roldan,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,92,80,Pending
-Dejan Joveljić,Shots on target 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,83,100,Pending
-Dejan Joveljić,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Pending
-Nouhou Tolo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,81,100,Pending
-Brian White,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,97,80,Pending
-Brian White,Shots 2+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,87,80,Pending
-Ryan Gauld,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,78,80,Pending
-Cristian Roldan,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,75,80,Pending
+Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,80,100,Did not play
+Agustin Resch,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,65,80,Hit
+Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,100,Hit
+Portland Timbers (team),Over 1.5,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Hit
+Ezequiel Ponce,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,88,80,Did not play
+Houston Dynamo FC (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,91,80,Hit
+Ronald Hernández,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,81,100,Hit
+Kristoffer Velde,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,97,100,Hit
+Kristoffer Velde,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,100,100,Hit
+Kristoffer Velde,Shots 2+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,87,80,Hit
+Kristoffer Velde,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,77,100,Miss
+Lyle Foster,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,83,100,Hit
+Mateusz Bogusz,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,84,100,Hit
+Mateusz Bogusz,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,94,80,Hit
+Cole Bassett,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,96,100,Miss
+Leo Walta,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Miss
+Owen Gene,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,67,80,Hit
+Anthony Markanich,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,87,80,Miss
+Anthony Markanich,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Hit
+Jefferson Díaz,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,76,80,Hit
+Cherrion Valerius,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Miss
+Cherrion Valerius,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,100,100,Hit
+Cherrion Valerius,Tackles 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,80,80,Hit
+Minnesota United (team),Cards 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,91,80,Hit
+Minnesota United (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,80,Hit
+Heung-Min Son,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Hit
+Heung-Min Son,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,86,100,Hit
+Denis Bouanga,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Hit
+Evgen Cheberko,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,75,80,Did not play
+Evgen Cheberko,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,90,100,Did not play
+Eddie Segura,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,84,80,Hit
+Los Angeles FC (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,80,Hit
+Kelvin Yeboah,Shots on target 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Miss
+Kelvin Yeboah,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,97,100,Hit
+Kelvin Yeboah,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,81,100,Miss
+Dor Turgeman,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,94,100,Hit
+Rocco Ríos Novo,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,100,100,Did not play
+Matías Galarza,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,80,Hit
+Gonzalo Luján,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,82,100,Hit
+Micael,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Hit
+Brooklyn Raines,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Hit
+Brooklyn Raines,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Hit
+Will Sands,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,84,80,Hit
+Peyton Miller,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,100,Hit
+Yannick Bright,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,88,80,Miss
+Yannick Bright,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,83,80,Hit
+Rodrigo De Paul,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,100,Hit
+Carles Gil,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,97,100,Hit
+New England Revolution (team),Cards 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,84,100,Hit
+New England Revolution (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,81,80,Hit
+Matt Turner,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,81,100,Hit
+Germán Berterame,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,89,80,Hit
+Mamadou Fofana,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,93,80,Did not play
+Inter Miami CF (team),Cards 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,97,80,Hit
+Inter Miami CF (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,94,100,Hit
+Inter Miami CF (team),Scores 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,91,80,Hit
+Cade Cowell,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,87,100,Hit
+Patrick Yazbek,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,100,Hit
+Elias Saad,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,87,80,Hit
+Matthew Corcoran,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,86,100,Hit
+Julian Hall,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,100,Hit
+Mohammed Sofo,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,80,100,Did not play
+Adri Mehmeti,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,83,100,Hit
+Emil Forsberg,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,86,100,Miss
+Hany Mukhtar,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,100,100,Hit
+Hany Mukhtar,Shots 2+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,100,Hit
+Jeisson Palacios,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Hit
+Red Bull New York (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,94,80,Hit
+Red Bull New York (team),Over 1.5,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,100,Hit
+Sam Surridge,Shots on target 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Hit
+Sam Surridge,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Hit
+Nashville SC (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,84,80,Miss
+Nashville SC (team),Scores 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,81,80,Hit
+José Cifuentes,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,90,80,Did not play
+Matheus Pereira,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,100,Hit
+Tomás Jacob,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,89,80,Hit
+Mauricio Amaro,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Hit
+Miguel Almirón,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,100,Miss
+Miguel Almirón,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Hit
+Júnior Alonso,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,81,80,Hit
+Breel Embolo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Hit
+Breel Embolo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Hit
+Breel Embolo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,80,Hit
+Toronto FC (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,80,Hit
+Toronto FC (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,91,100,Hit
+Toronto FC (team),Scores 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,100,Hit
+Dániel Sallói,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,88,100,Miss
+Raheem Edwards,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,85,80,Did not play
+Raheem Edwards,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Did not play
+Niklas Dorsch,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Hit
+Niklas Dorsch,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Hit
+Niklas Dorsch,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,100,Hit
+Richie Laryea,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,92,80,Hit
+Richie Laryea,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,80,80,Hit
+Atlanta United (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Miss
+Atlanta United (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,84,100,Hit
+Joshua Sargent,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,88,80,Hit
+Juan Berrocal,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Did not play
+Giuliano Galoppo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,100,Hit
+Giuliano Galoppo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,100,100,Hit
+Giuliano Galoppo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,100,Miss
+Giuliano Galoppo,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,86,80,Miss
+Maxwell Woledzi,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,78,80,Hit
+Julián Bazán,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,76,100,Hit
+Julián Bazán,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,76,80,Hit
+Theodor Corbeanu,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,79,100,Hit
+Mathías Laborda,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,81,80,Hit
+Sebastian Berhalter,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Did not play
+Sebastian Berhalter,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Did not play
+Sebastian Berhalter,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Did not play
+Sebastian Berhalter,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,80,Did not play
+Seattle Sounders FC (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,84,80,Hit
+Édier Ocampo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,82,100,Hit
+Édier Ocampo,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,86,100,Hit
+Jeevan Badwal,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,91,100,Did not play
+Kee-Hee Kim,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,86,80,Miss
+Vancouver Whitecaps (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,91,80,Hit
+Ryan Gauld,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,83,80,Hit
+Albert Rusnák,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,90,80,Hit
+Cristian Roldan,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,92,80,Hit
+Dejan Joveljić,Shots on target 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,83,100,Hit
+Dejan Joveljić,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,93,100,Hit
+Nouhou Tolo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,81,100,Hit
+Brian White,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,97,80,Hit
+Brian White,Shots 2+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,87,80,Hit
+Ryan Gauld,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,78,80,Hit
+Cristian Roldan,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,75,80,Hit
 Robert Navarro,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Hit
 Nico Williams,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Hit
 Beñat Turrientes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Hit
