@@ -1,31 +1,31 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:19 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4597,3381,74,90
-Tackles 1+,956,741,78,90
-Shots 1+,824,649,79,91
-Fouled 1+,509,348,68,90
-Fouls 1+,482,310,64,88
-Cards 1+,260,224,86,92
-Over 1.5,208,174,84,90
-Scores 1+,193,156,81,91
-Shots 2+,187,133,71,90
-Saves 2+,155,107,69,91
-Shots on target 1+,114,83,73,88
+All picks,4677,3439,74,90
+Tackles 1+,971,751,77,90
+Shots 1+,835,658,79,91
+Fouled 1+,524,360,69,90
+Fouls 1+,497,321,65,88
+Cards 1+,265,228,86,92
+Over 1.5,210,176,84,90
+Scores 1+,194,157,81,91
+Shots 2+,190,135,71,90
+Saves 2+,159,111,70,91
+Shots on target 1+,115,83,72,88
+Tackles 2+,107,61,57,88
 Shots on target 4+,106,81,76,91
-Tackles 2+,105,59,56,88
 Corners 4+,86,62,72,90
-Match corners 9+,60,38,63,89
+Match corners 9+,62,38,61,89
 Over 2.5,50,32,64,87
-Saves 3+,43,30,70,90
+Saves 3+,45,31,69,90
 Cards 2+,39,24,62,89
 Fouled 2+,38,19,50,87
 Corners 5+,37,23,62,89
 BTTS,33,15,45,88
 Score or assist,27,18,67,85
 Win,22,16,73,89
-Match corners 10+,19,9,47,88
+Match corners 10+,20,9,45,88
+Fouls 2+,16,6,38,87
 Match cards 4+,16,14,88,87
-Fouls 2+,15,6,40,88
 Goal 1+,9,6,67,86
 Shots on target 2+,3,3,100,86
 Booked,1,1,100,80
@@ -360,38 +360,38 @@ Napoli (team),Match corners 9+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,
 Napoli (team),Scores 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Miss
 Juventus (team),Corners 4+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,80,Hit
 Juventus (team),Over 1.5,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,100,Hit
-Casper Tengstedt,Shots on target 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
-Casper Tengstedt,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Casper Tengstedt,Shots 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Igor Paixão,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,80,Pending
-Tochukwu Nnadi,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Thomas Jørgensen,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Niko Sigur,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Julián Vignolo,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Rafik Messali,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Ilyas Azizi,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
-Ilyas Azizi,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
-Seny Koumbassa,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Pierre-Emile Højbjerg,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Pending
-Pierre-Emile Højbjerg,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,80,Pending
-Rasmus Nicolaisen,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Rasmus Nicolaisen,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Pending
-Jeffrey De Lange,Saves 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
-Amine Harit,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
-Amine Harit,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
-Cristian Cásseres,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
-Cristian Cásseres,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
-Cristian Cásseres,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Cristian Cásseres,Tackles 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Pending
-Marseille (team),Over 1.5,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
-Timothy Weah,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,80,Pending
-Timothy Weah,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,100,Pending
-Mark McKenzie,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
-Mark McKenzie,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Pending
-Toulouse (team),Cards 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Pending
+Casper Tengstedt,Shots on target 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Miss
+Casper Tengstedt,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Hit
+Casper Tengstedt,Shots 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Hit
+Igor Paixão,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,80,Hit
+Tochukwu Nnadi,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Hit
+Thomas Jørgensen,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Hit
+Niko Sigur,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Hit
+Julián Vignolo,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Miss
+Rafik Messali,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Did not play
+Ilyas Azizi,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Did not play
+Ilyas Azizi,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Did not play
+Seny Koumbassa,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Miss
+Pierre-Emile Højbjerg,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,100,Hit
+Pierre-Emile Højbjerg,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,83,80,Miss
+Rasmus Nicolaisen,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Hit
+Rasmus Nicolaisen,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,80,80,Hit
+Jeffrey De Lange,Saves 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Hit
+Amine Harit,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Hit
+Amine Harit,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Miss
+Cristian Cásseres,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Hit
+Cristian Cásseres,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Hit
+Cristian Cásseres,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Hit
+Cristian Cásseres,Tackles 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,100,100,Hit
+Marseille (team),Over 1.5,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Hit
+Timothy Weah,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,80,Miss
+Timothy Weah,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,86,100,Hit
+Mark McKenzie,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Hit
+Mark McKenzie,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,100,Hit
+Toulouse (team),Cards 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,Hit
 Frank Anguissa,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,67,80,Miss
-Jacen Russell-Rowe,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Pending
-Jacen Russell-Rowe,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Pending
+Jacen Russell-Rowe,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Miss
+Jacen Russell-Rowe,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Hit
 Valencia (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Hit
 Valencia (team),Cards 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Hit
 Elche (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Hit
@@ -491,59 +491,59 @@ Ezri Konsa,Fouled 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,8
 Ezri Konsa,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Hit
 Ronald Araujo,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,75,80,Hit
 Martin Adeline,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,67,80,Hit
-Jim Allevinah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Jim Allevinah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Mads Bidstrup,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,86,100,Pending
-Amine Sbaï,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Ernest Nuamah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Ernest Nuamah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
-Ernest Nuamah,Shots 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
-Yassin Belkhdim,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Julien Duranville,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Zachary Athekame,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Joseph Kalulu,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Anthony Lopes,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Anthony Lopes,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Corentin Tolisso,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Corentin Tolisso,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Jordan Lefort,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,86,80,Pending
-Branco van den Boomen,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Haris Belkebla,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Dominik Greif,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Dominik Greif,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
-Angers (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Angers (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lyon (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Lyon (team),Match corners 10+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lyon (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lyon (team),Over 1.5,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Samir Chergui,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Samir Chergui,Fouls 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,80,80,Pending
-Mamadou Mbow,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,80,80,Pending
-Vanderson,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Vanderson,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Vanderson,Tackles 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Pablo Pagis,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Pablo Pagis,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Paris Brunner,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Paris Brunner,Shots 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,83,80,Pending
-Lamine Camara,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Lamine Camara,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lamine Camara,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Mamadou Coulibaly,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Hamari Traoré,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,83,100,Pending
-Maxime Lopez,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Paris FC (team),Cards 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Pierre Lees-Melou,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Lukás Hrádecky,Saves 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Jordan Teze,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Lassine Sinayoko,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Monaco (team),Cards 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Monaco (team),Scores 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
-Ilan Kebbal,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Pending
-Ilan Kebbal,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Pending
-Carlens Arcus,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,71,80,Pending
-Hamari Traoré,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,67,80,Pending
+Jim Allevinah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Miss
+Jim Allevinah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Miss
+Mads Bidstrup,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,86,100,Hit
+Amine Sbaï,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Ernest Nuamah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Ernest Nuamah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Hit
+Ernest Nuamah,Shots 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Hit
+Yassin Belkhdim,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Miss
+Julien Duranville,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Zachary Athekame,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Joseph Kalulu,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Anthony Lopes,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Anthony Lopes,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Corentin Tolisso,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Corentin Tolisso,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,100,Miss
+Jordan Lefort,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,86,80,Miss
+Branco van den Boomen,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Miss
+Haris Belkebla,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Dominik Greif,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Dominik Greif,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,83,80,Miss
+Angers (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Angers (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Miss
+Lyon (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,100,Miss
+Lyon (team),Match corners 10+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Miss
+Lyon (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Miss
+Lyon (team),Over 1.5,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Samir Chergui,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Samir Chergui,Fouls 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,80,80,Miss
+Mamadou Mbow,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,80,80,Hit
+Vanderson,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Vanderson,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Hit
+Vanderson,Tackles 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Hit
+Pablo Pagis,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Pablo Pagis,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Paris Brunner,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Paris Brunner,Shots 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,83,80,Miss
+Lamine Camara,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Lamine Camara,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Lamine Camara,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Miss
+Mamadou Coulibaly,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Did not play
+Hamari Traoré,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,83,100,Hit
+Maxime Lopez,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Hit
+Paris FC (team),Cards 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Hit
+Pierre Lees-Melou,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Lukás Hrádecky,Saves 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Jordan Teze,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Miss
+Lassine Sinayoko,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Monaco (team),Cards 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Monaco (team),Scores 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,80,Hit
+Ilan Kebbal,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,88,100,Hit
+Ilan Kebbal,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,100,100,Hit
+Carlens Arcus,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,71,80,Hit
+Hamari Traoré,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,67,80,Hit
 Beşiktaş (team),Cards 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,100,Pending
 Beşiktaş (team),Corners 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",100,100,Pending
 Beşiktaş (team),Corners 5+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,80,Pending
