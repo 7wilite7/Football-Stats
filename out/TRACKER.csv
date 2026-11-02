@@ -1,132 +1,142 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:16 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:17 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4478,3295,74,90
-Tackles 1+,921,712,77,90
-Shots 1+,805,635,79,91
-Fouled 1+,495,340,69,90
-Fouls 1+,465,303,65,88
-Cards 1+,252,216,86,92
-Over 1.5,205,171,83,90
+All picks,4534,3337,74,90
+Tackles 1+,935,723,77,90
+Shots 1+,814,642,79,91
+Fouled 1+,503,347,69,90
+Fouls 1+,472,306,65,88
+Cards 1+,256,220,86,92
+Over 1.5,206,172,83,90
 Scores 1+,192,156,81,91
-Shots 2+,186,133,72,90
-Saves 2+,151,104,69,91
-Shots on target 1+,111,82,74,88
+Shots 2+,187,133,71,90
+Saves 2+,153,105,69,91
+Shots on target 1+,112,82,73,88
 Shots on target 4+,106,81,76,91
-Tackles 2+,103,58,56,88
-Corners 4+,84,60,71,90
-Match corners 9+,58,36,62,89
-Over 2.5,49,31,63,87
+Tackles 2+,105,59,56,88
+Corners 4+,85,61,72,90
+Match corners 9+,59,37,63,89
+Over 2.5,50,32,64,87
 Saves 3+,41,28,68,90
+Cards 2+,38,23,61,89
 Fouled 2+,38,19,50,87
-Cards 2+,36,21,58,89
-Corners 5+,36,22,61,89
+Corners 5+,37,23,62,89
 BTTS,33,15,45,88
 Score or assist,27,18,67,85
 Win,22,16,73,89
 Match corners 10+,19,9,47,88
+Match cards 4+,16,14,88,87
 Fouls 2+,15,6,40,88
-Match cards 4+,15,13,87,88
 Goal 1+,9,6,67,86
 Shots on target 2+,3,3,100,86
 Booked,1,1,100,80
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
+Gianluca Prestianni,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gianluca Prestianni,Shots on target 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
+Gianluca Prestianni,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gianluca Prestianni,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Rafa Silva,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
+João Palhinha,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+João Palhinha,Fouls 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",86,100,Pending
+João Palhinha,Tackles 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+João Palhinha,Tackles 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
 Vangelis Pavlidis,Score or assist,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
 Vangelis Pavlidis,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Vangelis Pavlidis,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Alexander Bah,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Gianluca Prestianni,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Gianluca Prestianni,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-Gianluca Prestianni,Shots on target 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
-Gianluca Prestianni,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-João Palhinha,Fouls 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",86,100,Pending
-João Palhinha,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-João Palhinha,Tackles 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
-João Palhinha,Tackles 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
-Benfica (team),Scores 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Benfica (team),Over 1.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Benfica (team),Over 2.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
-Diego Villares,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,83,80,Pending
+Benfica (team),Scores 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
 Mario Soriano,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
+Raúl García,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
 Leo Román,Saves 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
+Flavien Boyomo,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
 Adrià Altimira,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Abel Bretones,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
 Lucas Noubi,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
 Lorenzo Amatucci,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,88,100,Pending
 Lorenzo Amatucci,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Asier Osambela,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,88,80,Pending
+Iñigo Arguibide,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
+Unai Santos,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
 Bil Nsongo,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
-José Giménez,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,67,100,Pending
-Ante Budimir,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,80,Pending
 Ante Budimir,Shots on target 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
+Ante Budimir,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,80,Pending
 Moi Gómez,Fouled 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,86,80,Pending
 Rubén Garcia,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
-Jon Moncayola,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,80,Pending
-Raúl García,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
-Abel Bretones,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
-Iñigo Arguibide,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
-Miguel Loureiro,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,83,80,Pending
-Asier Osambela,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,88,80,Pending
-Flavien Boyomo,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
-Unai Santos,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
-Valentin Rosier,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+José Giménez,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,67,100,Pending
 Valentin Rosier,Booked,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
-Deportivo A Coruña (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
-Deportivo A Coruña (team),Match cards 4+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
-Osasuna (team),Over 1.5,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,100,Pending
+Valentin Rosier,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Miguel Loureiro,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,83,80,Pending
 Osasuna (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
 Osasuna (team),Cards 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
-James Tarkowski,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
-Jordan Pickford,Saves 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
-Vitaliy Mykolenko,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,86,100,Pending
-Kiernan Dewsbury-Hall,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
-Kiernan Dewsbury-Hall,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
-James Garner,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Osasuna (team),Over 1.5,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,100,Pending
+Jon Moncayola,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,80,Pending
+Deportivo A Coruña (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Deportivo A Coruña (team),Match cards 4+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
+Diego Villares,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,83,80,Pending
+Newcastle United (team),Cards 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Newcastle United (team),Corners 4+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+Newcastle United (team),Over 1.5,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Newcastle United (team),Scores 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
 Jarrad Branthwaite,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,86,80,Pending
-Merlin Röhl,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,80,80,Pending
-Thierno Barry,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
-Thierno Barry,Shots 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
-Thierno Barry,Shots on target 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
-Thierno Barry,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
-Harrison Armstrong,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
-Harvey Barnes,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
-Harvey Barnes,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
-Joseph Willock,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
-Joseph Willock,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
 Lukás Hornícek,Saves 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
 Lewis Hall,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
 Lewis Hall,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Merlin Röhl,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,80,80,Pending
 Nico González,Fouls 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,83,80,Pending
 Nico González,Fouls 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,83,80,Pending
+Thierno Barry,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Thierno Barry,Shots on target 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+Thierno Barry,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Thierno Barry,Shots 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Harrison Armstrong,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+James Tarkowski,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Jordan Pickford,Saves 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
 Joelinton,Fouls 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Harvey Barnes,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Harvey Barnes,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Joseph Willock,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Joseph Willock,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
 Everton (team),Corners 4+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
-Newcastle United (team),Scores 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
-Newcastle United (team),Over 1.5,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
-Newcastle United (team),Corners 4+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
-Newcastle United (team),Cards 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
-Edoardo Corvi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,88,80,Pending
-Edoardo Corvi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,88,80,Pending
-Mandela Keita,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,80,Pending
-Mandela Keita,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,100,Pending
-Davide Zappacosta,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,71,80,Pending
-Nikola Krstović,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,100,Pending
+Vitaliy Mykolenko,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,86,100,Pending
+Kiernan Dewsbury-Hall,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+Kiernan Dewsbury-Hall,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+James Garner,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
 Marco Carnesecchi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,100,100,Pending
 Marco Carnesecchi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,80,Pending
 Lazar Samardžić,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,88,100,Pending
-Giorgio Scalvini,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,86,80,Pending
-Jonathan Rowe,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,86,80,Pending
 Jonathan Rowe,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,86,80,Pending
-Diego Carlos,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,100,100,Pending
+Jonathan Rowe,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,86,80,Pending
+Edoardo Corvi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,88,80,Pending
+Edoardo Corvi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,88,80,Pending
+Giorgio Scalvini,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,86,80,Pending
+Mandela Keita,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,80,Pending
+Mandela Keita,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,100,Pending
 Relja Obrić,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,100,100,Pending
-Atalanta (team),Scores 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,80,Pending
+Davide Zappacosta,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,71,80,Pending
+Diego Carlos,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,100,100,Pending
+Nikola Krstović,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,100,Pending
 Atalanta (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,100,Pending
-Jean-Victor Makengo,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
-Jean-Victor Makengo,Fouled 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Atalanta (team),Scores 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,80,Pending
 Noah Cadiou,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Souleymane Touré,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Ibrahima Baldé,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,83,80,Pending
+Bradley Locko,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Bradley Locko,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
 Théo Le Bris,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,80,80,Pending
 Théo Le Bris,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Kamory Doumbia,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Kamory Doumbia,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
 Nathaniel Adjei,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
 Dembo Sylla,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Pathé Mboup,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Shots on target 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Shots 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
 Arthur Avom,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,100,Pending
 Arsène Kouassi,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,100,Pending
 Gabin Bernardeau,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
@@ -134,25 +144,15 @@ Kenny Lala,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
 Kenny Lala,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
 Ludovic Ajorque,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
 Ludovic Ajorque,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Bradley Locko,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Bradley Locko,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Kamory Doumbia,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Kamory Doumbia,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Pathé Mboup,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Pathé Mboup,Shots 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Pathé Mboup,Shots on target 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Pathé Mboup,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Pathé Mboup,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Pathé Mboup,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Jean-Victor Makengo,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Jean-Victor Makengo,Fouled 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
 Hugo Magnetti,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,86,80,Pending
 Hugo Magnetti,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,71,80,Pending
 Hugo Magnetti,Tackles 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,71,80,Pending
-Ibrahima Baldé,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,83,80,Pending
-Souleymane Touré,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
-Brest (team),Scores 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
 Brest (team),BTTS,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
-Brest (team),Over 1.5,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
 Brest (team),Cards 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Brest (team),Over 1.5,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Brest (team),Scores 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
 Sebastiano Esposito,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,83,80,Pending
 Ignace Van Der Brempt,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
 Cher Ndour,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
@@ -311,37 +311,37 @@ Brian White,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:
 Brian White,Shots 2+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,87,80,Pending
 Ryan Gauld,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,78,80,Pending
 Cristian Roldan,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,75,80,Pending
-Robert Navarro,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Pending
-Nico Williams,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Beñat Turrientes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
-Beñat Turrientes,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
-Beñat Turrientes,Tackles 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
-Jon Aramburu,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,88,80,Pending
-Jon Aramburu,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,88,100,Pending
-Beñat Gerenabarrena,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Pending
-Beñat Gerenabarrena,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Pending
-Mamadou Sarr,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Mamadou Sarr,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Pending
-Mamadou Sarr,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Hugo Rincón,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Gonçalo Guedes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Alex Remiro,Saves 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,80,Pending
-Mikel Oyarzabal,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
-Athletic Club (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,100,Pending
-Sergio Gómez,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
-Real Sociedad (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Real Sociedad (team),Cards 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
-Real Sociedad (team),Corners 4+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
-Real Sociedad (team),Corners 5+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
-Real Sociedad (team),Match corners 9+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Pending
-Real Sociedad (team),Over 1.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
-Real Sociedad (team),Over 2.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Pending
-Oihan Sancet,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,83,80,Pending
-Oihan Sancet,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Oihan Sancet,Shots 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Pending
-Luka Sučić,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,80,Pending
-Robert Navarro,Shots on target 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,71,80,Pending
-Robert Navarro,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,71,100,Pending
+Robert Navarro,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Hit
+Nico Williams,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Hit
+Beñat Turrientes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Hit
+Beñat Turrientes,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Miss
+Beñat Turrientes,Tackles 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Miss
+Jon Aramburu,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,88,80,Hit
+Jon Aramburu,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,88,100,Hit
+Beñat Gerenabarrena,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Hit
+Beñat Gerenabarrena,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,86,100,Hit
+Mamadou Sarr,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Hit
+Mamadou Sarr,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,80,Miss
+Mamadou Sarr,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Hit
+Hugo Rincón,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Hit
+Gonçalo Guedes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Hit
+Alex Remiro,Saves 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,80,Miss
+Mikel Oyarzabal,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Hit
+Athletic Club (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,100,Hit
+Sergio Gómez,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Hit
+Real Sociedad (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Hit
+Real Sociedad (team),Cards 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Hit
+Real Sociedad (team),Corners 4+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Hit
+Real Sociedad (team),Corners 5+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Hit
+Real Sociedad (team),Match corners 9+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,90,80,Hit
+Real Sociedad (team),Over 1.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Hit
+Real Sociedad (team),Over 2.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,80,100,Hit
+Oihan Sancet,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,83,80,Miss
+Oihan Sancet,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Miss
+Oihan Sancet,Shots 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,100,100,Miss
+Luka Sučić,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,89,80,Hit
+Robert Navarro,Shots on target 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,71,80,Miss
+Robert Navarro,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,71,100,Miss
 Rasmus Højlund,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,89,100,Pending
 Rafa Marín,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
 Vanja Milinković-Savić,Saves 2+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,100,100,Pending
@@ -392,34 +392,34 @@ Toulouse (team),Cards 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,88,80,
 Frank Anguissa,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,67,80,Pending
 Jacen Russell-Rowe,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Pending
 Jacen Russell-Rowe,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,75,80,Pending
-Valencia (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
-Valencia (team),Cards 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
-Elche (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
-Elche (team),Match cards 4+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
-David Affengruber,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
-Germán Valera,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
-Fer Niño,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
-Víctor Chust,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Pending
-Federico Redondo,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
-César Tárrega,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
-Buba Sangaré,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,89,100,Pending
-Ryunosuke Sato,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
-Ali Houary,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
-Thomas Lemar,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
-Thomas Lemar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,100,Pending
-Guido Rodríguez,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Pending
-Guido Rodríguez,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Pending
-Guido Rodríguez,Tackles 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,100,Pending
-Matías Dituro,Saves 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Pepelu,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Arnaut Danjuma,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Arnaut Danjuma,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Tete Morente,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Pending
-Gonzalo Villar,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Gonzalo Villar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Pending
-Roy Revivo,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,71,80,Pending
-Javi Morcillo,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,75,80,Pending
-Javi Morcillo,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,75,80,Pending
+Valencia (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Hit
+Valencia (team),Cards 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Hit
+Elche (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Hit
+Elche (team),Match cards 4+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Hit
+David Affengruber,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Did not play
+Germán Valera,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Hit
+Fer Niño,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Hit
+Víctor Chust,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,100,Hit
+Federico Redondo,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Hit
+César Tárrega,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Hit
+Buba Sangaré,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,89,100,Hit
+Ryunosuke Sato,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Did not play
+Ali Houary,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Did not play
+Thomas Lemar,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Miss
+Thomas Lemar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,100,Hit
+Guido Rodríguez,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,80,Hit
+Guido Rodríguez,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,100,100,Hit
+Guido Rodríguez,Tackles 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,86,100,Hit
+Matías Dituro,Saves 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Hit
+Pepelu,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Hit
+Arnaut Danjuma,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Hit
+Arnaut Danjuma,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Miss
+Tete Morente,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,80,80,Miss
+Gonzalo Villar,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Hit
+Gonzalo Villar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,90,80,Hit
+Roy Revivo,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,71,80,Hit
+Javi Morcillo,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,75,80,Miss
+Javi Morcillo,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,75,80,Miss
 Genoa (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
 Lorenzo Colombo,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,86,80,Pending
 Jamil Siebert,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
