@@ -1,28 +1,28 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 01 Nov 2026 17:41 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 02 Nov 2026 07:16 UK time. 'Sheet said %' = average season hit rate shown when the pick was made"
 Market,Picks graded,Hits,Actual hit rate %,Sheet said %
-All picks,4456,3275,73,90
-Tackles 1+,915,706,77,90
-Shots 1+,800,630,79,91
-Fouled 1+,492,338,69,90
-Fouls 1+,463,301,65,88
-Cards 1+,251,215,86,92
+All picks,4478,3295,74,90
+Tackles 1+,921,712,77,90
+Shots 1+,805,635,79,91
+Fouled 1+,495,340,69,90
+Fouls 1+,465,303,65,88
+Cards 1+,252,216,86,92
 Over 1.5,205,171,83,90
-Scores 1+,191,155,81,91
-Shots 2+,185,132,71,90
+Scores 1+,192,156,81,91
+Shots 2+,186,133,72,90
 Saves 2+,151,104,69,91
-Shots on target 1+,110,82,75,88
+Shots on target 1+,111,82,74,88
 Shots on target 4+,106,81,76,91
 Tackles 2+,103,58,56,88
 Corners 4+,84,60,71,90
 Match corners 9+,58,36,62,89
 Over 2.5,49,31,63,87
 Saves 3+,41,28,68,90
-Fouled 2+,37,18,49,87
+Fouled 2+,38,19,50,87
 Cards 2+,36,21,58,89
 Corners 5+,36,22,61,89
 BTTS,33,15,45,88
 Score or assist,27,18,67,85
-Win,21,15,71,89
+Win,22,16,73,89
 Match corners 10+,19,9,47,88
 Fouls 2+,15,6,40,88
 Match cards 4+,15,13,87,88
@@ -32,6 +32,127 @@ Booked,1,1,100,80
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,Season %,Last 5 %,Result
+Rafa Silva,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,100,Pending
+Vangelis Pavlidis,Score or assist,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
+Vangelis Pavlidis,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Vangelis Pavlidis,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Alexander Bah,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gianluca Prestianni,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gianluca Prestianni,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Gianluca Prestianni,Shots on target 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
+Gianluca Prestianni,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+João Palhinha,Fouls 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",86,100,Pending
+João Palhinha,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+João Palhinha,Tackles 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+João Palhinha,Tackles 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",86,80,Pending
+Benfica (team),Scores 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Benfica (team),Over 1.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",100,100,Pending
+Benfica (team),Over 2.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",89,80,Pending
+Diego Villares,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,83,80,Pending
+Mario Soriano,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
+Leo Román,Saves 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
+Adrià Altimira,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Lucas Noubi,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
+Lorenzo Amatucci,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,88,100,Pending
+Lorenzo Amatucci,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Bil Nsongo,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
+José Giménez,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,67,100,Pending
+Ante Budimir,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,80,Pending
+Ante Budimir,Shots on target 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
+Moi Gómez,Fouled 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,86,80,Pending
+Rubén Garcia,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
+Jon Moncayola,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,80,Pending
+Raúl García,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
+Abel Bretones,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Iñigo Arguibide,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
+Miguel Loureiro,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,83,80,Pending
+Asier Osambela,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,88,80,Pending
+Flavien Boyomo,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Unai Santos,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Valentin Rosier,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Valentin Rosier,Booked,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Deportivo A Coruña (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Deportivo A Coruña (team),Match cards 4+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,80,Pending
+Osasuna (team),Over 1.5,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,80,100,Pending
+Osasuna (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,100,100,Pending
+Osasuna (team),Cards 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,90,100,Pending
+James Tarkowski,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Jordan Pickford,Saves 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+Vitaliy Mykolenko,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,86,100,Pending
+Kiernan Dewsbury-Hall,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Kiernan Dewsbury-Hall,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+James Garner,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Jarrad Branthwaite,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,86,80,Pending
+Merlin Röhl,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,80,80,Pending
+Thierno Barry,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Thierno Barry,Shots 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Thierno Barry,Shots on target 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+Thierno Barry,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Harrison Armstrong,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Harvey Barnes,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Harvey Barnes,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Joseph Willock,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Joseph Willock,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+Lukás Hornícek,Saves 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Lewis Hall,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+Lewis Hall,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Nico González,Fouls 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,83,80,Pending
+Nico González,Fouls 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,83,80,Pending
+Joelinton,Fouls 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Everton (team),Corners 4+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Newcastle United (team),Scores 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Newcastle United (team),Over 1.5,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,80,Pending
+Newcastle United (team),Corners 4+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,88,100,Pending
+Newcastle United (team),Cards 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,100,100,Pending
+Edoardo Corvi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,88,80,Pending
+Edoardo Corvi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,88,80,Pending
+Mandela Keita,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,80,Pending
+Mandela Keita,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,100,Pending
+Davide Zappacosta,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,71,80,Pending
+Nikola Krstović,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,100,Pending
+Marco Carnesecchi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,100,100,Pending
+Marco Carnesecchi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,80,Pending
+Lazar Samardžić,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,88,100,Pending
+Giorgio Scalvini,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,86,80,Pending
+Jonathan Rowe,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,86,80,Pending
+Jonathan Rowe,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,86,80,Pending
+Diego Carlos,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,100,100,Pending
+Relja Obrić,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,100,100,Pending
+Atalanta (team),Scores 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,80,Pending
+Atalanta (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,89,100,Pending
+Jean-Victor Makengo,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Jean-Victor Makengo,Fouled 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Noah Cadiou,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Théo Le Bris,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,80,80,Pending
+Théo Le Bris,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Nathaniel Adjei,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Dembo Sylla,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Arthur Avom,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,100,Pending
+Arsène Kouassi,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,100,Pending
+Gabin Bernardeau,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Kenny Lala,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Kenny Lala,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Ludovic Ajorque,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Ludovic Ajorque,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Bradley Locko,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Bradley Locko,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Kamory Doumbia,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Kamory Doumbia,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Shots 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Shots on target 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Pathé Mboup,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Hugo Magnetti,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,86,80,Pending
+Hugo Magnetti,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,71,80,Pending
+Hugo Magnetti,Tackles 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,71,80,Pending
+Ibrahima Baldé,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,83,80,Pending
+Souleymane Touré,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
+Brest (team),Scores 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Brest (team),BTTS,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Brest (team),Over 1.5,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,88,80,Pending
+Brest (team),Cards 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,100,100,Pending
 Sebastiano Esposito,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,83,80,Pending
 Ignace Van Der Brempt,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,100,100,Pending
 Cher Ndour,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,78,80,Pending
@@ -319,26 +440,26 @@ Lecce (team),Over 1.5,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,100,Pending
 Tiago Gabriel,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,75,80,Pending
 Mikael Egill Ellertsson,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,89,80,Pending
 Mikael Egill Ellertsson,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,100,100,Pending
-Florian Wirtz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Miloš Kerkez,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Miloš Kerkez,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Bradley Barcola,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,100,Pending
-Myles Lewis-Skelly,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Myles Lewis-Skelly,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,80,Pending
-Jérémy Jacquet,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,100,Pending
-Jérémy Jacquet,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Alexander Isak,Shots on target 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Alexander Isak,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Alexander Isak,Shots 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Ezri Konsa,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,100,Pending
-Kai Havertz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
-Ben White,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,80,Pending
-Cody Gakpo,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,80,Pending
-Alexis Mac Allister,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Ryan Gravenberch,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,100,Pending
-Arsenal (team),Cards 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Pending
-Arsenal (team),Scores 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
-Arsenal (team),Win,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Pending
+Florian Wirtz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
+Miloš Kerkez,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Miss
+Miloš Kerkez,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
+Bradley Barcola,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,100,Hit
+Myles Lewis-Skelly,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
+Myles Lewis-Skelly,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,80,Hit
+Jérémy Jacquet,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,100,Hit
+Jérémy Jacquet,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
+Alexander Isak,Shots on target 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Miss
+Alexander Isak,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
+Alexander Isak,Shots 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
+Ezri Konsa,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,100,Hit
+Kai Havertz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Hit
+Ben White,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,80,Did not play
+Cody Gakpo,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,83,80,Hit
+Alexis Mac Allister,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
+Ryan Gravenberch,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,86,100,Did not play
+Arsenal (team),Cards 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,100,100,Hit
+Arsenal (team),Scores 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Hit
+Arsenal (team),Win,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,88,80,Hit
 David Møller Wolfe,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,83,100,Pending
 Raphael Onyedika,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
 Raphael Onyedika,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
@@ -365,10 +486,10 @@ Jonathan Burkardt,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:3
 Hamburger SV (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,80,Pending
 Eintracht Frankfurt (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,100,100,Pending
 Eintracht Frankfurt (team),Cards 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,86,100,Pending
-Bradley Barcola,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,67,80,Pending
-Ezri Konsa,Fouled 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Pending
-Ezri Konsa,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Pending
-Ronald Araujo,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,75,80,Pending
+Bradley Barcola,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,67,80,Hit
+Ezri Konsa,Fouled 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Hit
+Ezri Konsa,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,71,80,Hit
+Ronald Araujo,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,75,80,Hit
 Martin Adeline,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,67,80,Pending
 Jim Allevinah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
 Jim Allevinah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,88,80,Pending
@@ -1411,124 +1532,3 @@ Brayann Pereira,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 
 Isaac Price,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Hit
 Jimmy-Jay Morgan,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Hit
 Mohamadou Kanté,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,82,80,Hit
-Conor Townsend,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Did not play
-Max O'Leary,Saves 2+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Hit
-Jarrod Bowen,Fouled 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Miss
-Jarrod Bowen,Shots on target 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Hit
-Jarrod Bowen,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Hit
-Jarrod Bowen,Shots 2+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Miss
-Konstantinos Mavropanos,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Did not play
-Callum Styles,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Hit
-Valentín Castellanos,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,82,80,Hit
-West Ham United (team),Cards 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,100,Hit
-West Ham United (team),Corners 4+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Hit
-West Ham United (team),Over 1.5,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,80,Hit
-West Ham United (team),Shots on target 4+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Hit
-West Ham United (team),Scores 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Hit
-West Bromwich Albion (team),Cards 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,100,100,Hit
-West Bromwich Albion (team),Match corners 9+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,100,Hit
-Ousmane Diakité,Shots 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,83,80,Hit
-Ousmane Diakité,Tackles 1+,West Ham United v West Bromwich Albion,Sat 31 Oct · 15:00,Championship,92,80,Hit
-Hugo Bueno,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,82,80,Hit
-Joel Bagan,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Hit
-André,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,100,Hit
-Rafiki Saïd,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
-Rafiki Saïd,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
-Yousef Salech,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,89,100,Hit
-Jack Moylan,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
-Jack Moylan,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
-Jack Moylan,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Miss
-Jack Moylan,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Miss
-Joel Colwill,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Hit
-Fer López,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
-Fer López,Shots 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,91,100,Hit
-Mateus Mané,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Miss
-Kieran Trippier,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
-Perry Ng,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,82,80,Hit
-Perry Ng,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
-Nathan Trott,Saves 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Miss
-Jean-Ricner Bellegarde,Fouled 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
-Jean-Ricner Bellegarde,Fouled 2+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
-Jean-Ricner Bellegarde,Fouls 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Hit
-Jean-Ricner Bellegarde,Shots 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
-Marshall Munetsi,Tackles 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
-Cardiff City (team),Cards 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Hit
-Cardiff City (team),Corners 4+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Hit
-Cardiff City (team),Over 1.5,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Hit
-Cardiff City (team),Scores 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Miss
-Wolverhampton Wanderers (team),Cards 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Hit
-Wolverhampton Wanderers (team),Corners 4+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,100,100,Miss
-Wolverhampton Wanderers (team),Corners 5+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,100,Miss
-Wolverhampton Wanderers (team),Match corners 9+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,83,80,Miss
-Wolverhampton Wanderers (team),Scores 1+,Wolverhampton Wanderers v Cardiff City,Sat 31 Oct · 15:00,Championship,92,80,Hit
-Evanilson,Fouled 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Evanilson,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-Adrien Truffert,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,100,Miss
-Adrien Truffert,Tackles 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-James Trafford,Saves 2+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-James Trafford,Saves 3+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Rayan,Shots 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Rayan,Tackles 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-Adam Smith,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Dominic Calvert-Lewin,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-James Justin,Fouled 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,100,Miss
-James Justin,Tackles 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-James Justin,Tackles 2+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Gabriel Gudmundsson,Fouled 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Gabriel Gudmundsson,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,83,80,Hit
-Gabriel Gudmundsson,Tackles 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Ethan Ampadu,Tackles 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Marcus Tavernier,Tackles 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Miss
-Jayden Bogle,Fouled 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Jayden Bogle,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Justin Kluivert,Fouls 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,83,80,Hit
-Justin Kluivert,Shots 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,83,80,Hit
-Leeds United (team),Cards 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-AFC Bournemouth (team),Cards 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-AFC Bournemouth (team),Over 1.5,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-AFC Bournemouth (team),Shots on target 4+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-AFC Bournemouth (team),Scores 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Ao Tanaka,Shots 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,86,100,Miss
-Ao Tanaka,Tackles 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Ao Tanaka,Tackles 2+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-James Hill,Tackles 1+,AFC Bournemouth v Leeds United,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-Keane Lewis-Potter,Shots 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,88,80,Miss
-Nottingham Forest (team),Cards 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Kevin Schade,Tackles 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-James McAtee,Tackles 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,88,80,Hit
-Liam Delap,Fouled 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,86,100,Miss
-Liam Delap,Fouls 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,86,100,Hit
-Liam Delap,Shots 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Jaidon Anthony,Shots 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,88,80,Miss
-Mamadou Sangaré,Fouls 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,88,80,Miss
-Mamadou Sangaré,Tackles 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Igor Thiago,Shots 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Murillo,Tackles 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-Jannik Schuster,Fouls 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Did not play
-Xaver Schlager,Shots 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,88,100,Hit
-Ola Aina,Fouled 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,80,80,Miss
-Ola Aina,Fouls 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Miss
-Ola Aina,Tackles 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,80,80,Hit
-Ola Aina,Tackles 2+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,80,80,Hit
-Vitaly Janelt,Fouls 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-Vitaly Janelt,Tackles 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Vitaly Janelt,Tackles 2+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-Nikola Milenković,Fouls 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Morgan Gibbs-White,Shots 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-Daniel Muñoz,Fouls 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-Daniel Muñoz,Tackles 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Brentford (team),Cards 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Brentford (team),Over 1.5,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Brentford (team),Scores 1+,Brentford v Nottingham Forest,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Jack Rudoni,Shots 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Enzo Le Fée,Fouled 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Trai Hume,Tackles 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-Milan van Ewijk,Tackles 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-Carl Rushworth,Saves 2+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,88,100,Miss
-Loum Tchaouna,Shots 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Did not play
-Nilson Angulo,Tackles 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,86,80,Hit
-Sidiki Cherif,Fouled 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Granit Xhaka,Fouled 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Thomas Meunier,Shots 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,83,80,Miss
-Luke O'Nien,Tackles 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Hit
-Reinildo,Fouled 1+,Coventry City v Sunderland,Sat 31 Oct · 15:00,Premier League,100,100,Miss
