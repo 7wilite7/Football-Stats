@@ -1,3 +1,3 @@
 ===== BUNDESLIGA
 fixtures 306 table 18 scope None
-BUNDESLIGA {'new_matches': 0, 'cached': 72, 'run_seconds': 45, 'at': '2026-11-02T12:55Z'}
+BUNDESLIGA {'new_matches': 0, 'cached': 72, 'run_seconds': 40, 'at': '2026-11-03T07:02Z'}
