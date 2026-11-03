@@ -1,26 +1,26 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:01 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:02 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,4858,3583,74,90,
-Tackles 1+,1013,784,77,90,
-Shots 1+,873,691,79,91,
-Fouled 1+,546,379,69,90,
-Fouls 1+,517,334,65,88,
-Cards 1+,280,240,86,92,
-Over 1.5,218,183,84,90,
-Scores 1+,200,162,81,91,
-Shots 2+,199,142,71,90,
-Saves 2+,163,115,71,91,
+All picks,4899,3608,74,90,80
+Tackles 1+,1022,790,77,90,
+Shots 1+,882,697,79,91,
+Fouled 1+,552,381,69,90,
+Fouls 1+,520,335,64,88,
+Cards 1+,282,242,86,92,
+Over 1.5,222,187,84,90,80
+Scores 1+,202,163,81,90,
+Shots 2+,200,143,72,90,
+Saves 2+,165,115,70,91,
 SOT 1+,121,88,73,87,
 Tackles 2+,108,62,57,88,
 SOT 4+,107,82,77,91,
 Corners 4+,89,64,72,90,
 Match corners 9+,63,38,60,89,
-Over 2.5,50,32,64,87,
-Saves 3+,45,31,69,90,
+Over 2.5,51,33,65,87,
+Saves 3+,46,31,67,90,
 Cards 2+,40,25,62,89,
 Corners 5+,38,23,61,89,
 Fouled 2+,38,19,50,87,
-BTTS,33,15,45,88,
+BTTS,34,16,47,88,
 Score or assist,27,18,67,85,
 Win,22,16,73,89,
 Match corners 10+,20,9,45,88,
@@ -239,22 +239,22 @@ Vitaliy Mykolenko,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Prem
 Kiernan Dewsbury-Hall,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,100,Hit
 Kiernan Dewsbury-Hall,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
 James Garner,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
-Marco Carnesecchi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Pending
-Marco Carnesecchi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Pending
-Lazar Samardžić,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,100,Pending
-Jonathan Rowe,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Pending
-Jonathan Rowe,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Pending
-Edoardo Corvi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,80,Pending
-Edoardo Corvi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,80,Pending
-Giorgio Scalvini,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Pending
-Mandela Keita,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Pending
-Mandela Keita,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Pending
-Relja Obrić,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Pending
-Davide Zappacosta,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,71,80,Pending
-Diego Carlos,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Pending
-Nikola Krstović,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Pending
-Atalanta (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Pending
-Atalanta (team),Scores 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Pending
+Marco Carnesecchi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Miss
+Marco Carnesecchi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Miss
+Lazar Samardžić,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,100,Miss
+Jonathan Rowe,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Hit
+Jonathan Rowe,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Hit
+Edoardo Corvi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,80,Did not play
+Edoardo Corvi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,80,Did not play
+Giorgio Scalvini,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Miss
+Mandela Keita,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Miss
+Mandela Keita,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Hit
+Relja Obrić,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Miss
+Davide Zappacosta,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,71,80,Hit
+Diego Carlos,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Did not play
+Nikola Krstović,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Hit
+Atalanta (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Hit
+Atalanta (team),Scores 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Miss
 Noah Cadiou,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
 Souleymane Touré,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
 Ibrahima Baldé,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,83,80,Pending
@@ -288,38 +288,38 @@ Brest (team),BTTS,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
 Brest (team),Cards 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
 Brest (team),Over 1.5,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
 Brest (team),Scores 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Parma (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,80,78,80,Pending
-Sebastiano Esposito,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,83,80,Pending
-Ignace Van Der Brempt,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Cher Ndour,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,78,80,Pending
-Cher Ndour,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Vasilije Adžić,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,86,80,Pending
-Vasilije Adžić,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,86,80,Pending
-Álex Jiménez,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,75,80,Pending
-Álex Jiménez,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,75,80,Pending
-Alieu Njie,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,100,Pending
-Alieu Njie,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Pending
-Franco Mastantuono,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Pending
-Franco Mastantuono,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Franco Mastantuono,Shots 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Pending
-Darryl Bakola,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Pending
-David de Gea,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Pending
-Domenico Berardi,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Pending
-Domenico Berardi,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Duje Ćaleta-Car,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,67,80,Pending
-Arijanet Murić,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Arijanet Murić,Saves 3+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Sassuolo (team),BTTS,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Pending
-Sassuolo (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Pending
-Sassuolo (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Sassuolo (team),Scores 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Pending
-Fiorentina (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Pending
-Fiorentina (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Fiorentina (team),Over 2.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Pending
-Armand Laurienté,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Pending
-Jay Idzes,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Pending
-Nicolò Fagioli,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,78,80,Pending
-João Mário,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,80,80,Pending
+Parma (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,80,78,80,Hit
+Sebastiano Esposito,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,83,80,Miss
+Ignace Van Der Brempt,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Did not play
+Cher Ndour,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,78,80,Miss
+Cher Ndour,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
+Vasilije Adžić,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,86,80,Miss
+Vasilije Adžić,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,86,80,Miss
+Álex Jiménez,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,75,80,Miss
+Álex Jiménez,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,75,80,Hit
+Alieu Njie,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,100,Miss
+Alieu Njie,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Hit
+Franco Mastantuono,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Miss
+Franco Mastantuono,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
+Franco Mastantuono,Shots 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Hit
+Darryl Bakola,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Hit
+David de Gea,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Miss
+Domenico Berardi,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Hit
+Domenico Berardi,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
+Duje Ćaleta-Car,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,67,80,Did not play
+Arijanet Murić,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Did not play
+Arijanet Murić,Saves 3+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Did not play
+Sassuolo (team),BTTS,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Hit
+Sassuolo (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Hit
+Sassuolo (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
+Sassuolo (team),Scores 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Hit
+Fiorentina (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Hit
+Fiorentina (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
+Fiorentina (team),Over 2.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Hit
+Armand Laurienté,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Hit
+Jay Idzes,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
+Nicolò Fagioli,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,78,80,Miss
+João Mário,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,80,80,Hit
 Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,80,100,Did not play
 Agustin Resch,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,65,80,Hit
 Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,91,100,Hit
