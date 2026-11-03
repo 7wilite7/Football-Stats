@@ -1,23 +1,23 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:00 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:01 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,4833,3565,74,90,
-Tackles 1+,1006,779,77,90,
-Shots 1+,869,687,79,91,
-Fouled 1+,545,378,69,90,
-Fouls 1+,512,332,65,88,
-Cards 1+,278,239,86,92,
-Over 1.5,217,182,84,90,
+All picks,4858,3583,74,90,
+Tackles 1+,1013,784,77,90,
+Shots 1+,873,691,79,91,
+Fouled 1+,546,379,69,90,
+Fouls 1+,517,334,65,88,
+Cards 1+,280,240,86,92,
+Over 1.5,218,183,84,90,
 Scores 1+,200,162,81,91,
 Shots 2+,199,142,71,90,
-Saves 2+,162,114,70,91,
-SOT 1+,120,87,72,88,
+Saves 2+,163,115,71,91,
+SOT 1+,121,88,73,87,
 Tackles 2+,108,62,57,88,
 SOT 4+,107,82,77,91,
 Corners 4+,89,64,72,90,
 Match corners 9+,63,38,60,89,
 Over 2.5,50,32,64,87,
 Saves 3+,45,31,69,90,
-Cards 2+,39,24,62,89,
+Cards 2+,40,25,62,89,
 Corners 5+,38,23,61,89,
 Fouled 2+,38,19,50,87,
 BTTS,33,15,45,88,
@@ -25,147 +25,147 @@ Score or assist,27,18,67,85,
 Win,22,16,73,89,
 Match corners 10+,20,9,45,88,
 Fouls 2+,17,6,35,87,
-Match cards 4+,16,14,88,87,
+Match cards 4+,17,15,88,87,
 Goal 1+,9,6,67,86,
 SOT 2+,3,3,100,86,
-Booked,1,1,100,80,
+Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
+Millwall (team),Cards 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,91,92,100,Pending
+Millwall (team),Over 1.5,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,60,Pending
+Millwall (team),Scores 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,80,Pending
+Jay Stansfield,Shots 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,88,100,100,Pending
+Camiel Neghli,Shots 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,87,92,100,Pending
+Jhon Solís,Tackles 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,81,91,100,Pending
+Phil Neumann,Fouled 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,81,92,100,Pending
+Lyndon Dykes,Shots 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,85,85,100,Pending
+Birmingham City (team),Cards 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,91,92,100,Pending
+Birmingham City (team),Scores 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,80,Pending
+Léo Scienza,Fouled 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,86,100,100,Pending
+Isaac Price,Shots 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,81,92,100,Pending
 Max O'Leary,Saves 2+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,82,85,80,Pending
 Callum Styles,Tackles 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,83,92,100,Pending
-Ousmane Diakité,Tackles 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,87,92,80,Pending
-Isaac Price,Shots 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,81,92,100,Pending
-Lyndon Dykes,Shots 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,85,85,100,Pending
-Camiel Neghli,Shots 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,87,92,100,Pending
-Phil Neumann,Fouled 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,81,92,100,Pending
-Jay Stansfield,Shots 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,88,100,100,Pending
-Jhon Solís,Tackles 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,81,91,100,Pending
 Flynn Downes,Tackles 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,81,91,80,Pending
+Southampton (team),Scores 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,89,92,80,Pending
+West Bromwich Albion (team),Cards 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,97,100,100,Pending
+West Bromwich Albion (team),Match corners 9+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,80,85,100,Pending
+West Bromwich Albion (team),Scores 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,83,85,80,Pending
 Finn Azaz,Shots 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,87,100,100,Pending
 Daniel Peretz,Saves 2+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,82,85,100,Pending
-Léo Scienza,Fouled 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,86,100,100,Pending
+Ousmane Diakité,Tackles 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,87,92,80,Pending
 Nathan Wood,Tackles 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,81,86,80,Pending
-West Bromwich Albion (team),Scores 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,83,85,80,Pending
-West Bromwich Albion (team),Match corners 9+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,80,85,100,Pending
-West Bromwich Albion (team),Cards 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,97,100,100,Pending
-Millwall (team),Scores 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,80,Pending
-Millwall (team),Over 1.5,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,60,Pending
-Millwall (team),Cards 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,91,92,100,Pending
-Birmingham City (team),Scores 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,80,Pending
-Birmingham City (team),Cards 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,91,92,100,Pending
-Southampton (team),Scores 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,89,92,80,Pending
-Zion Suzuki,Saves 2+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Josep Martínez,Saves 2+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Péter Gulácsi,Saves 2+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Tjark Ernst,Saves 2+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Jan Oblak,Saves 2+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Matvey Safonov,Saves 2+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Dominik Takác,Saves 2+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Nikita Haikin,Saves 2+,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Aston Villa (team),Scores 1+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
 Aston Villa (team),Over 1.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
 Aston Villa (team),Over 2.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
 Aston Villa (team),SOT 4+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-LASK (team),Cards 1+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Lille (team),Over 1.5,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Lille (team),Over 2.5,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Lille (team),Cards 1+,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Inter (team),Scores 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Inter (team),Cards 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Inter (team),SOT 4+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Villarreal (team),Scores 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Villarreal (team),BTTS,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,81,100,100,Pending
-Villarreal (team),Over 1.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Villarreal (team),Over 2.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Villarreal (team),Cards 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Villarreal (team),SOT 4+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Barcelona (team),Scores 1+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Aston Villa (team),Scores 1+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Zion Suzuki,Saves 2+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
 Barcelona (team),BTTS,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,81,100,100,Pending
 Barcelona (team),Over 1.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
 Barcelona (team),Over 2.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
 Barcelona (team),SOT 4+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Feyenoord (team),Cards 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Atlético Madrid (team),Scores 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Atlético Madrid (team),Over 1.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
+Barcelona (team),Scores 1+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Jan Oblak,Saves 2+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
+Bayern München (team),Over 1.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
+Bayern München (team),Over 2.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
+Bayern München (team),SOT 4+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
+Bayern München (team),Scores 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
 Atlético Madrid (team),Cards 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Paris Saint-Germain (team),Scores 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Atlético Madrid (team),Over 1.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
+Atlético Madrid (team),Scores 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Manchester United (team),Cards 1+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Manchester United (team),Over 1.5,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
+Manchester United (team),SOT 4+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
+Roma (team),Over 1.5,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
+Roma (team),Scores 1+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Feyenoord (team),Cards 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Tjark Ernst,Saves 2+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
+Josep Martínez,Saves 2+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
+Inter (team),Cards 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Inter (team),SOT 4+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
+Inter (team),Scores 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Nikita Haikin,Saves 2+,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
+Lille (team),Cards 1+,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Lille (team),Over 1.5,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
+Lille (team),Over 2.5,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
+Villarreal (team),BTTS,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,81,100,100,Pending
+Villarreal (team),Cards 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Villarreal (team),Over 1.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
+Villarreal (team),Over 2.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
+Villarreal (team),SOT 4+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
+Villarreal (team),Scores 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Péter Gulácsi,Saves 2+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Matvey Safonov,Saves 2+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
 Paris Saint-Germain (team),BTTS,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,81,100,100,Pending
 Paris Saint-Germain (team),Over 1.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
 Paris Saint-Germain (team),Over 2.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
 Paris Saint-Germain (team),SOT 4+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
+Paris Saint-Germain (team),Scores 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Slovan Bratislava (team),Cards 1+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
 Slovan Bratislava (team),Over 1.5,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
 Slovan Bratislava (team),Over 2.5,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Slovan Bratislava (team),Cards 1+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Roma (team),Scores 1+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Roma (team),Over 1.5,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Bayern München (team),Scores 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Bayern München (team),Over 1.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Bayern München (team),Over 2.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Bayern München (team),SOT 4+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Manchester United (team),Over 1.5,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Manchester United (team),Cards 1+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Manchester United (team),SOT 4+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Oladapo Afolayan,Fouled 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,81,92,100,Pending
+Dominik Takác,Saves 2+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
+LASK (team),Cards 1+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Stoke City (team),Cards 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,91,92,80,Pending
+Stoke City (team),Scores 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,89,92,80,Pending
+Jack McGlynn,Shots 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,81,89,100,Pending
 Kristi Montgomery,Tackles 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,88,100,100,Pending
-Daniel Iversen,Saves 2+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,88,92,100,Pending
-Léo Leroy,Tackles 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,87,92,100,Pending
-Odel Offiah,Tackles 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,84,82,100,Pending
-Ebou Adams,Tackles 1+,Portsmouth v Swansea City,Tue 03 Nov · 19:45,Championship,89,100,100,Pending
-Harvey Vale,Tackles 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,87,100,100,Pending
-Adrian Segečić,Shots 1+,Portsmouth v Swansea City,Tue 03 Nov · 19:45,Championship,81,92,80,Pending
-Joe Ward,Tackles 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,83,80,100,Pending
-Conor Coventry,Fouls 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,86,100,100,Pending
-Conor Coventry,Tackles 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,87,100,100,Pending
+Oladapo Afolayan,Fouled 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,81,92,100,Pending
+Blackburn Rovers (team),Cards 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,91,92,80,Pending
+Blackburn Rovers (team),Over 1.5,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,83,85,80,Pending
+Blackburn Rovers (team),Scores 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,83,85,80,Pending
 Jacob Widell Zetterström,Saves 2+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,84,89,80,Pending
-Ivan Mesík,Tackles 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,81,91,80,Pending
-Bobby Clark,Shots 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,81,85,80,Pending
+Derby County (team),Cards 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,91,92,100,Pending
+Derby County (team),Match corners 9+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,86,92,80,Pending
+Derby County (team),Over 1.5,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,83,85,80,Pending
 Pelle Mattsson,Tackles 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,87,92,100,Pending
 Benjamin Chrisene,Tackles 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,81,92,80,Pending
-George Wickens,Saves 2+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,94,100,100,Pending
-Freddie Draper,Fouls 1+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,81,92,100,Pending
-Federico Ravaglia,Saves 2+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,82,85,100,Pending
-Jordan Zemura,Tackles 1+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,82,92,100,Pending
+Bobby Clark,Shots 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,81,85,80,Pending
 Jack Stacey,Tackles 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,86,91,100,Pending
-Arthur Okonkwo,Saves 2+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,87,92,100,Pending
+Joe Ward,Tackles 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,83,80,100,Pending
+Norwich City (team),Cards 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,85,85,100,Pending
+Adrian Segečić,Shots 1+,Portsmouth v Swansea City,Tue 03 Nov · 19:45,Championship,81,92,80,Pending
+Ebou Adams,Tackles 1+,Portsmouth v Swansea City,Tue 03 Nov · 19:45,Championship,89,100,100,Pending
 Daniel Bielica,Saves 2+,Portsmouth v Swansea City,Tue 03 Nov · 19:45,Championship,87,100,100,Pending
+Léo Leroy,Tackles 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,87,92,100,Pending
+Odel Offiah,Tackles 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,84,82,100,Pending
+Daniel Iversen,Saves 2+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,88,92,100,Pending
 Hamza Choudhury,Tackles 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,86,100,100,Pending
+Preston North End (team),Cards 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,97,100,100,Pending
+Sheffield United (team),Cards 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,85,85,100,Pending
+Queens Park Rangers (team),Cards 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,91,92,100,Pending
 Largie Ramazani,Shots 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,83,100,100,Pending
 Largie Ramazani,Tackles 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,84,80,100,Pending
-Oliver Skipp,Tackles 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,84,100,100,Pending
-Jack McGlynn,Shots 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,81,89,100,Pending
-Gavin Bazunu,Saves 2+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,81,86,80,Pending
-Blackburn Rovers (team),Scores 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,83,85,80,Pending
-Blackburn Rovers (team),Over 1.5,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,83,85,80,Pending
-Blackburn Rovers (team),Cards 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,91,92,80,Pending
-Preston North End (team),Cards 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,97,100,100,Pending
-Queens Park Rangers (team),Cards 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,91,92,100,Pending
-Charlton Athletic (team),Cards 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,85,85,100,Pending
-Derby County (team),Over 1.5,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,83,85,80,Pending
-Derby County (team),Match corners 9+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,86,92,80,Pending
-Derby County (team),Cards 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,91,92,100,Pending
-Norwich City (team),Cards 1+,Derby County v Norwich City,Tue 03 Nov · 19:45,Championship,85,85,100,Pending
-Stoke City (team),Scores 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,89,92,80,Pending
-Stoke City (team),Cards 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,91,92,80,Pending
-Lincoln City (team),Cards 1+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,97,100,100,Pending
-Sheffield United (team),Cards 1+,Preston North End v Sheffield United,Tue 03 Nov · 19:45,Championship,85,85,100,Pending
-Burnley (team),Scores 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,89,92,80,Pending
-Burnley (team),Over 1.5,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,89,92,80,Pending
-Burnley (team),Corners 4+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,80,85,60,Pending
+Harvey Vale,Tackles 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,87,100,100,Pending
 Burnley (team),Cards 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,91,92,80,Pending
-Uğurcan Çakir,Saves 2+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,91,100,100,Pending
+Burnley (team),Corners 4+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,80,85,60,Pending
+Burnley (team),Over 1.5,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,89,92,80,Pending
+Burnley (team),Scores 1+,Queens Park Rangers v Burnley,Tue 03 Nov · 19:45,Championship,89,92,80,Pending
+Freddie Draper,Fouls 1+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,81,92,100,Pending
+Federico Ravaglia,Saves 2+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,82,85,100,Pending
+Lincoln City (team),Cards 1+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,97,100,100,Pending
+George Wickens,Saves 2+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,94,100,100,Pending
+Jordan Zemura,Tackles 1+,Watford v Lincoln City,Tue 03 Nov · 19:45,Championship,82,92,100,Pending
+Ivan Mesík,Tackles 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,81,91,80,Pending
+Conor Coventry,Fouls 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,86,100,100,Pending
+Conor Coventry,Tackles 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,87,100,100,Pending
+Charlton Athletic (team),Cards 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,85,85,100,Pending
+Oliver Skipp,Tackles 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,84,100,100,Pending
+Gavin Bazunu,Saves 2+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,81,86,80,Pending
+Arthur Okonkwo,Saves 2+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,87,92,100,Pending
 Kaique Pereira,Saves 2+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-VfB Stuttgart (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-VfB Stuttgart (team),Over 1.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,93,100,100,Pending
-Sporting CP (team),Scores 1+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
+Shakhtar Donetsk (team),Cards 1+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
 Sporting CP (team),Over 1.5,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,93,100,100,Pending
 Sporting CP (team),SOT 4+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,87,100,100,Pending
-Galatasaray (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
+Sporting CP (team),Scores 1+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
+VfB Stuttgart (team),Over 1.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,93,100,100,Pending
+VfB Stuttgart (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
+Uğurcan Çakir,Saves 2+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,91,100,100,Pending
 Galatasaray (team),BTTS,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,81,100,100,Pending
+Galatasaray (team),Cards 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
 Galatasaray (team),Over 1.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,93,100,100,Pending
 Galatasaray (team),Over 2.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,85,100,100,Pending
-Galatasaray (team),Cards 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-Shakhtar Donetsk (team),Cards 1+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
+Galatasaray (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
 Gianluca Prestianni,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
 Gianluca Prestianni,SOT 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Pending
 Gianluca Prestianni,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
@@ -183,34 +183,34 @@ Benfica (team),Over 1.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, 
 Benfica (team),Over 2.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Pending
 Benfica (team),Scores 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
 Benfica (team),Cards 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",82,78,100,Pending
-Mario Soriano,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Pending
-Raúl García,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Pending
-Leo Román,Saves 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Pending
-Flavien Boyomo,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Adrià Altimira,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Abel Bretones,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Lucas Noubi,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Pending
-Lorenzo Amatucci,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,88,100,Pending
-Lorenzo Amatucci,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Asier Osambela,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,88,80,Pending
-Iñigo Arguibide,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Pending
-Unai Santos,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Bil Nsongo,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Pending
-Ante Budimir,SOT 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Pending
-Ante Budimir,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,80,Pending
-Moi Gómez,Fouled 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,86,80,Pending
-Rubén Garcia,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Pending
-José Giménez,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,67,100,Pending
-Valentin Rosier,Booked,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Valentin Rosier,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Miguel Loureiro,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,83,80,Pending
-Osasuna (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Osasuna (team),Cards 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Pending
-Osasuna (team),Over 1.5,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,100,Pending
-Jon Moncayola,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,80,Pending
-Deportivo A Coruña (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Pending
-Deportivo A Coruña (team),Match cards 4+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Pending
-Diego Villares,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,83,80,Pending
+Mario Soriano,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
+Raúl García,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
+Leo Román,Saves 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
+Flavien Boyomo,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Miss
+Adrià Altimira,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Miss
+Abel Bretones,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Hit
+Lucas Noubi,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Did not play
+Lorenzo Amatucci,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,88,100,Miss
+Lorenzo Amatucci,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Hit
+Asier Osambela,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,88,80,Miss
+Iñigo Arguibide,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
+Unai Santos,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Did not play
+Bil Nsongo,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
+Ante Budimir,SOT 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
+Ante Budimir,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,80,Hit
+Moi Gómez,Fouled 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,86,80,Hit
+Rubén Garcia,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
+José Giménez,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,67,100,Hit
+Valentin Rosier,Booked,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Miss
+Valentin Rosier,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Hit
+Miguel Loureiro,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,83,80,Miss
+Osasuna (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Hit
+Osasuna (team),Cards 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
+Osasuna (team),Over 1.5,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,100,Hit
+Jon Moncayola,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,80,Hit
+Deportivo A Coruña (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Miss
+Deportivo A Coruña (team),Match cards 4+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
+Diego Villares,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,83,80,Did not play
 Newcastle United (team),Cards 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Hit
 Newcastle United (team),Corners 4+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,100,Hit
 Newcastle United (team),Over 1.5,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Miss
