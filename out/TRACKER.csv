@@ -1,27 +1,27 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:08 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:09 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,4932,3630,74,90,80
-Tackles 1+,1030,796,77,90,
-Shots 1+,885,699,79,91,
-Fouled 1+,560,385,69,90,
-Fouls 1+,524,338,65,88,
-Cards 1+,283,243,86,92,
-Over 1.5,223,188,84,90,80
-Scores 1+,203,164,81,90,
-Shots 2+,201,144,72,90,
+All picks,4949,3640,74,90,81
+Tackles 1+,1031,796,77,90,
+Shots 1+,887,701,79,91,
+Fouled 1+,564,388,69,90,
+Fouls 1+,525,339,65,88,
+Cards 1+,284,244,86,92,82
+Over 1.5,224,188,84,90,80
+Scores 1+,204,165,81,91,
+Shots 2+,203,145,71,90,
 Saves 2+,165,115,70,91,
-SOT 1+,122,89,73,87,
-Tackles 2+,109,62,57,88,
+SOT 1+,123,89,72,87,
+Tackles 2+,110,62,56,88,
 SOT 4+,107,82,77,91,
 Corners 4+,89,64,72,90,
 Match corners 9+,63,38,60,89,
-Over 2.5,51,33,65,87,
+Over 2.5,52,33,63,87,
 Saves 3+,46,31,67,90,
 Cards 2+,40,25,62,89,
 Fouled 2+,39,20,51,87,
 Corners 5+,38,23,61,89,
 BTTS,35,16,46,88,
-Score or assist,27,18,67,85,
+Score or assist,28,19,68,85,
 Win,22,16,73,89,
 Match corners 10+,20,9,45,88,
 Fouls 2+,19,7,37,87,
@@ -166,23 +166,23 @@ Galatasaray (team),Cards 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Cham
 Galatasaray (team),Over 1.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,93,100,100,Pending
 Galatasaray (team),Over 2.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,85,100,100,Pending
 Galatasaray (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-Gianluca Prestianni,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-Gianluca Prestianni,SOT 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Pending
-Gianluca Prestianni,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-Gianluca Prestianni,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-Rafa Silva,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,100,Pending
-João Palhinha,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-João Palhinha,Fouls 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,86,100,Pending
-João Palhinha,Tackles 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-João Palhinha,Tackles 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,86,80,Pending
-Vangelis Pavlidis,Score or assist,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Pending
-Vangelis Pavlidis,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-Vangelis Pavlidis,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-Alexander Bah,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-Benfica (team),Over 1.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-Benfica (team),Over 2.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Pending
-Benfica (team),Scores 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Pending
-Benfica (team),Cards 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",82,78,100,Pending
+Gianluca Prestianni,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
+Gianluca Prestianni,SOT 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Miss
+Gianluca Prestianni,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
+Gianluca Prestianni,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Miss
+Rafa Silva,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,100,Miss
+João Palhinha,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
+João Palhinha,Fouls 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,86,100,Hit
+João Palhinha,Tackles 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Miss
+João Palhinha,Tackles 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,86,80,Miss
+Vangelis Pavlidis,Score or assist,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Hit
+Vangelis Pavlidis,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
+Vangelis Pavlidis,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
+Alexander Bah,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
+Benfica (team),Over 1.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Miss
+Benfica (team),Over 2.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Miss
+Benfica (team),Scores 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
+Benfica (team),Cards 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",82,78,100,Hit
 Mario Soriano,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
 Raúl García,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
 Leo Román,Saves 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
