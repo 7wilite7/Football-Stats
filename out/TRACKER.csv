@@ -1,30 +1,30 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:02 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:03 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,4899,3608,74,90,80
-Tackles 1+,1022,790,77,90,
-Shots 1+,882,697,79,91,
-Fouled 1+,552,381,69,90,
-Fouls 1+,520,335,64,88,
-Cards 1+,282,242,86,92,
-Over 1.5,222,187,84,90,80
-Scores 1+,202,163,81,90,
-Shots 2+,200,143,72,90,
+All picks,4932,3630,74,90,80
+Tackles 1+,1030,796,77,90,
+Shots 1+,885,699,79,91,
+Fouled 1+,560,385,69,90,
+Fouls 1+,524,338,65,88,
+Cards 1+,283,243,86,92,
+Over 1.5,223,188,84,90,80
+Scores 1+,203,164,81,90,
+Shots 2+,201,144,72,90,
 Saves 2+,165,115,70,91,
-SOT 1+,121,88,73,87,
-Tackles 2+,108,62,57,88,
+SOT 1+,122,89,73,87,
+Tackles 2+,109,62,57,88,
 SOT 4+,107,82,77,91,
 Corners 4+,89,64,72,90,
 Match corners 9+,63,38,60,89,
 Over 2.5,51,33,65,87,
 Saves 3+,46,31,67,90,
 Cards 2+,40,25,62,89,
+Fouled 2+,39,20,51,87,
 Corners 5+,38,23,61,89,
-Fouled 2+,38,19,50,87,
-BTTS,34,16,47,88,
+BTTS,35,16,46,88,
 Score or assist,27,18,67,85,
 Win,22,16,73,89,
 Match corners 10+,20,9,45,88,
-Fouls 2+,17,6,35,87,
+Fouls 2+,19,7,37,87,
 Match cards 4+,17,15,88,87,
 Goal 1+,9,6,67,86,
 SOT 2+,3,3,100,86,
@@ -255,39 +255,39 @@ Diego Carlos,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Did 
 Nikola Krstović,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Hit
 Atalanta (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Hit
 Atalanta (team),Scores 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Miss
-Noah Cadiou,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Souleymane Touré,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
-Ibrahima Baldé,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,83,80,Pending
-Bradley Locko,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Bradley Locko,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Théo Le Bris,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,80,80,Pending
-Théo Le Bris,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
-Kamory Doumbia,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Kamory Doumbia,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Nathaniel Adjei,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Dembo Sylla,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
-Pathé Mboup,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Pathé Mboup,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Pathé Mboup,SOT 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Pathé Mboup,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Pathé Mboup,Shots 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Pathé Mboup,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
-Arthur Avom,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,100,Pending
-Arsène Kouassi,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,100,Pending
-Gabin Bernardeau,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Kenny Lala,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Kenny Lala,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Ludovic Ajorque,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
-Ludovic Ajorque,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Jean-Victor Makengo,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
-Jean-Victor Makengo,Fouled 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
-Hugo Magnetti,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,86,80,Pending
-Hugo Magnetti,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,71,80,Pending
-Hugo Magnetti,Tackles 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,71,80,Pending
-Brest (team),BTTS,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Brest (team),Cards 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Pending
-Brest (team),Over 1.5,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
-Brest (team),Scores 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Pending
+Noah Cadiou,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
+Souleymane Touré,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
+Ibrahima Baldé,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,83,80,Hit
+Bradley Locko,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
+Bradley Locko,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
+Théo Le Bris,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,80,80,Miss
+Théo Le Bris,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Miss
+Kamory Doumbia,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Kamory Doumbia,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Nathaniel Adjei,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Dembo Sylla,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
+Pathé Mboup,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
+Pathé Mboup,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
+Pathé Mboup,SOT 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Pathé Mboup,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Pathé Mboup,Shots 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Pathé Mboup,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
+Arthur Avom,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,100,Hit
+Arsène Kouassi,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,100,Hit
+Gabin Bernardeau,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
+Kenny Lala,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
+Kenny Lala,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Ludovic Ajorque,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
+Ludovic Ajorque,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Jean-Victor Makengo,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
+Jean-Victor Makengo,Fouled 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
+Hugo Magnetti,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,86,80,Hit
+Hugo Magnetti,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,71,80,Hit
+Hugo Magnetti,Tackles 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,71,80,Miss
+Brest (team),BTTS,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
+Brest (team),Cards 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
+Brest (team),Over 1.5,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
+Brest (team),Scores 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
 Parma (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,80,78,80,Hit
 Sebastiano Esposito,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,83,80,Miss
 Ignace Van Der Brempt,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Did not play
