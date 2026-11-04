@@ -527,6 +527,22 @@
 "utc": "2026-11-04T20:00:00Z",
 "who": "Real Betis (team)"
 },
+"6106271|8603|Corners 4+ %": {
+"fixture": "6106271",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "Borussia Dortmund v Real Betis",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 8603,
+"true": 80,
+"utc": "2026-11-04T20:00:00.000Z",
+"who": "Real Betis (team)"
+},
 "6106271|8603|SOT 4+ %": {
 "fixture": "6106271",
 "games": 3,
@@ -558,6 +574,22 @@
 "true": 90,
 "utc": "2026-11-04T20:00:00Z",
 "who": "Real Betis (team)"
+},
+"6106271|9789|Corners 4+ %": {
+"fixture": "6106271",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "Borussia Dortmund v Real Betis",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 9789,
+"true": 80,
+"utc": "2026-11-04T20:00:00.000Z",
+"who": "Borussia Dortmund (team)"
 },
 "6106271|9789|SOT 4+ %": {
 "fixture": "6106271",
@@ -799,6 +831,22 @@
 "utc": "2026-11-04T20:00:00Z",
 "who": "Manchester City (team)"
 },
+"6106322|8456|Corners 4+ %": {
+"fixture": "6106322",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "RB Leipzig v Manchester City",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 8456,
+"true": 80,
+"utc": "2026-11-04T20:00:00.000Z",
+"who": "Manchester City (team)"
+},
 "6106322|8456|Over 1.5 %": {
 "fixture": "6106322",
 "games": 3,
@@ -893,6 +941,22 @@
 "tid": 8650,
 "true": 81,
 "utc": "2026-11-04T17:45:00Z",
+"who": "Liverpool (team)"
+},
+"6106330|8650|Corners 4+ %": {
+"fixture": "6106330",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "Fenerbah\u00e7e v Liverpool",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 8650,
+"true": 80,
+"utc": "2026-11-04T17:45:00.000Z",
 "who": "Liverpool (team)"
 },
 "6106330|8650|Over 1.5 %": {
@@ -1039,6 +1103,22 @@
 "utc": "2026-11-04T20:00:00Z",
 "who": "Slavia Prague (team)"
 },
+"6106389|7787|Corners 4+ %": {
+"fixture": "6106389",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "Slavia Prague v Arsenal",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 7787,
+"true": 80,
+"utc": "2026-11-04T20:00:00.000Z",
+"who": "Slavia Prague (team)"
+},
 "6106389|7787|Over 1.5 %": {
 "fixture": "6106389",
 "games": 3,
@@ -1085,6 +1165,22 @@
 "tid": 9825,
 "true": 90,
 "utc": "2026-11-04T20:00:00Z",
+"who": "Arsenal (team)"
+},
+"6106389|9825|Corners 4+ %": {
+"fixture": "6106389",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "Slavia Prague v Arsenal",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 9825,
+"true": 80,
+"utc": "2026-11-04T20:00:00.000Z",
 "who": "Arsenal (team)"
 },
 "6106389|9825|SOT 4+ %": {
@@ -1181,6 +1277,22 @@
 "tid": 8633,
 "true": 90,
 "utc": "2026-11-04T17:45:00Z",
+"who": "Real Madrid (team)"
+},
+"6106401|8633|Corners 4+ %": {
+"fixture": "6106401",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "AEK Athens v Real Madrid",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 8633,
+"true": 80,
+"utc": "2026-11-04T17:45:00.000Z",
 "who": "Real Madrid (team)"
 },
 "6106401|8633|Over 1.5 %": {
@@ -1391,6 +1503,22 @@
 "utc": "2026-11-04T20:00:00Z",
 "who": "Lens (team)"
 },
+"6106416|8588|Corners 4+ %": {
+"fixture": "6106416",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "Lens v Como",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 8588,
+"true": 80,
+"utc": "2026-11-04T20:00:00.000Z",
+"who": "Lens (team)"
+},
 "6106416|8588|Over 1.5 %": {
 "fixture": "6106416",
 "games": 3,
@@ -1453,6 +1581,22 @@
 "tid": 8478,
 "true": 81,
 "utc": "2026-11-04T20:00:00Z",
+"who": "Viking (team)"
+},
+"6106420|8478|Corners 4+ %": {
+"fixture": "6106420",
+"games": 3,
+"key": "Corners 4+ %",
+"l5": 100,
+"league": "Champions League",
+"market": "Corners 4+",
+"match": "Viking v Sabah FK",
+"pid": null,
+"result": "",
+"season": 100,
+"tid": 8478,
+"true": 80,
+"utc": "2026-11-04T20:00:00.000Z",
 "who": "Viking (team)"
 },
 "6106420|8478|Over 1.5 %": {

@@ -1,26 +1,26 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 04 Nov 2026 07:12 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 04 Nov 2026 07:15 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5008,3691,74,90,86
+All picks,5070,3736,74,90,87
 Tackles 1+,1044,809,77,90,85
 Shots 1+,896,710,79,91,84
 Fouled 1+,566,389,69,90,81
 Fouls 1+,527,341,65,88,84
-Cards 1+,297,255,86,92,90
-Over 1.5,228,192,84,90,84
-Scores 1+,211,171,81,90,86
+Cards 1+,307,264,86,92,90
+Over 1.5,241,203,84,90,90
+Scores 1+,222,178,80,91,88
 Shots 2+,203,145,71,90,
-Saves 2+,171,119,70,91,85
+Saves 2+,179,127,71,91,88
 SOT 1+,123,89,72,87,
+SOT 4+,115,87,76,91,87
 Tackles 2+,110,62,56,88,
-SOT 4+,107,82,77,91,
 Corners 4+,90,64,71,90,80
 Match corners 9+,65,39,60,89,83
-Over 2.5,52,33,63,87,
+Over 2.5,60,38,63,89,85
 Saves 3+,46,31,67,90,
 Cards 2+,40,25,62,89,
+BTTS,39,16,41,90,81
 Fouled 2+,39,20,51,87,
 Corners 5+,38,23,61,89,
-BTTS,35,16,46,88,
 Score or assist,28,19,68,85,
 Win,22,16,73,89,
 Match corners 10+,20,9,45,88,
@@ -87,6 +87,13 @@ Viking (team),Over 2.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,85
 Viking (team),Scores 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
 Sabah FK (team),Cards 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
 Sabah FK (team),Over 1.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
+Manchester City (team),Corners 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Real Betis (team),Corners 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Borussia Dortmund (team),Corners 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Viking (team),Corners 4+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Arsenal (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Slavia Prague (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Lens (team),Corners 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
 Joel Bagan,Tackles 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,83,92,100,Pending
 Jack Moylan,Fouled 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,87,100,100,Pending
 Jack Moylan,Shots 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,88,100,100,Pending
@@ -128,6 +135,8 @@ Real Madrid (team),Over 1.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champio
 Real Madrid (team),Over 2.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,85,100,100,Pending
 Real Madrid (team),SOT 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,87,100,100,Pending
 Real Madrid (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
+Real Madrid (team),Corners 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,80,100,100,Pending
+Liverpool (team),Corners 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,80,100,100,Pending
 Olympiacos (team),Cards 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,92,100,100,Pending
 Olympiacos (team),Scores 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,85,100,100,Pending
 Rennes (team),SOT 4+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,80,100,100,Pending
@@ -154,57 +163,57 @@ Finn Azaz,Shots 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Champi
 Daniel Peretz,Saves 2+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,82,85,100,Hit
 Ousmane Diakité,Tackles 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,87,92,80,Hit
 Nathan Wood,Tackles 1+,West Bromwich Albion v Southampton,Tue 03 Nov · 20:00,Championship,81,86,80,Did not play
-Aston Villa (team),Over 1.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Aston Villa (team),Over 2.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Aston Villa (team),SOT 4+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Aston Villa (team),Scores 1+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Zion Suzuki,Saves 2+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Barcelona (team),BTTS,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,81,100,100,Pending
-Barcelona (team),Over 1.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Barcelona (team),Over 2.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Barcelona (team),SOT 4+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Barcelona (team),Scores 1+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Jan Oblak,Saves 2+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Bayern München (team),Over 1.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Bayern München (team),Over 2.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Bayern München (team),SOT 4+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Bayern München (team),Scores 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Atlético Madrid (team),Cards 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Atlético Madrid (team),Over 1.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Atlético Madrid (team),Scores 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Manchester United (team),Cards 1+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Manchester United (team),Over 1.5,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Manchester United (team),SOT 4+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Roma (team),Over 1.5,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Roma (team),Scores 1+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Feyenoord (team),Cards 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Tjark Ernst,Saves 2+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Josep Martínez,Saves 2+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Inter (team),Cards 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Inter (team),SOT 4+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Inter (team),Scores 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Nikita Haikin,Saves 2+,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Lille (team),Cards 1+,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Lille (team),Over 1.5,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Lille (team),Over 2.5,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Villarreal (team),BTTS,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,81,100,100,Pending
-Villarreal (team),Cards 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Villarreal (team),Over 1.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Villarreal (team),Over 2.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Villarreal (team),SOT 4+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Villarreal (team),Scores 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Péter Gulácsi,Saves 2+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Matvey Safonov,Saves 2+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-Paris Saint-Germain (team),BTTS,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,81,100,100,Pending
-Paris Saint-Germain (team),Over 1.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Paris Saint-Germain (team),Over 2.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Paris Saint-Germain (team),SOT 4+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,87,100,100,Pending
-Paris Saint-Germain (team),Scores 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Slovan Bratislava (team),Cards 1+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
-Slovan Bratislava (team),Over 1.5,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,93,100,100,Pending
-Slovan Bratislava (team),Over 2.5,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,85,100,100,Pending
-Dominik Takác,Saves 2+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,91,100,100,Pending
-LASK (team),Cards 1+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,90,100,100,Pending
+Aston Villa (team),Over 1.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Aston Villa (team),Over 2.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,85,100,100,Hit
+Aston Villa (team),SOT 4+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,87,100,100,Miss
+Aston Villa (team),Scores 1+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,90,100,100,Miss
+Zion Suzuki,Saves 2+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,91,100,100,Hit
+Barcelona (team),BTTS,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,81,100,100,Miss
+Barcelona (team),Over 1.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Barcelona (team),Over 2.5,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,85,100,100,Hit
+Barcelona (team),SOT 4+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,87,100,100,Hit
+Barcelona (team),Scores 1+,Barcelona v Aston Villa,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Jan Oblak,Saves 2+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,91,100,100,Hit
+Bayern München (team),Over 1.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Bayern München (team),Over 2.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,85,100,100,Miss
+Bayern München (team),SOT 4+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,87,100,100,Hit
+Bayern München (team),Scores 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Atlético Madrid (team),Cards 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Atlético Madrid (team),Over 1.5,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Atlético Madrid (team),Scores 1+,Atlético Madrid v Bayern München,Tue 03 Nov · 20:00,Champions League,90,100,100,Miss
+Manchester United (team),Cards 1+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Manchester United (team),Over 1.5,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Manchester United (team),SOT 4+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,87,100,100,Hit
+Roma (team),Over 1.5,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Roma (team),Scores 1+,Manchester United v Roma,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Feyenoord (team),Cards 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Tjark Ernst,Saves 2+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,91,100,100,Hit
+Josep Martínez,Saves 2+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,91,100,100,Hit
+Inter (team),Cards 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Inter (team),SOT 4+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,87,100,100,Hit
+Inter (team),Scores 1+,Feyenoord v Inter,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Nikita Haikin,Saves 2+,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,91,100,100,Hit
+Lille (team),Cards 1+,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Lille (team),Over 1.5,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,93,100,100,Miss
+Lille (team),Over 2.5,Bodø/Glimt v Lille,Tue 03 Nov · 20:00,Champions League,85,100,100,Miss
+Villarreal (team),BTTS,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,81,100,100,Miss
+Villarreal (team),Cards 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Villarreal (team),Over 1.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Villarreal (team),Over 2.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,85,100,100,Hit
+Villarreal (team),SOT 4+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,87,100,100,Miss
+Villarreal (team),Scores 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Miss
+Péter Gulácsi,Saves 2+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Matvey Safonov,Saves 2+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,91,100,100,Hit
+Paris Saint-Germain (team),BTTS,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,81,100,100,Miss
+Paris Saint-Germain (team),Over 1.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Paris Saint-Germain (team),Over 2.5,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,85,100,100,Hit
+Paris Saint-Germain (team),SOT 4+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,87,100,100,Hit
+Paris Saint-Germain (team),Scores 1+,Villarreal v Paris Saint-Germain,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Slovan Bratislava (team),Cards 1+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,90,100,100,Hit
+Slovan Bratislava (team),Over 1.5,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,93,100,100,Hit
+Slovan Bratislava (team),Over 2.5,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,85,100,100,Hit
+Dominik Takác,Saves 2+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,91,100,100,Did not play
+LASK (team),Cards 1+,LASK v Slovan Bratislava,Tue 03 Nov · 20:00,Champions League,90,100,100,Miss
 Stoke City (team),Cards 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,91,92,80,Hit
 Stoke City (team),Scores 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,89,92,80,Hit
 Jack McGlynn,Shots 1+,Blackburn Rovers v Stoke City,Tue 03 Nov · 19:45,Championship,81,89,100,Hit
@@ -252,19 +261,19 @@ Charlton Athletic (team),Cards 1+,Charlton Athletic v Bolton Wanderers,Tue 03 No
 Oliver Skipp,Tackles 1+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,84,100,100,Did not play
 Gavin Bazunu,Saves 2+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,81,86,80,Did not play
 Arthur Okonkwo,Saves 2+,Charlton Athletic v Bolton Wanderers,Tue 03 Nov · 19:45,Championship,87,92,100,Did not play
-Kaique Pereira,Saves 2+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-Shakhtar Donetsk (team),Cards 1+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-Sporting CP (team),Over 1.5,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,93,100,100,Pending
-Sporting CP (team),SOT 4+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,87,100,100,Pending
-Sporting CP (team),Scores 1+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-VfB Stuttgart (team),Over 1.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,93,100,100,Pending
-VfB Stuttgart (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-Uğurcan Çakir,Saves 2+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,91,100,100,Pending
-Galatasaray (team),BTTS,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,81,100,100,Pending
-Galatasaray (team),Cards 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
-Galatasaray (team),Over 1.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,93,100,100,Pending
-Galatasaray (team),Over 2.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,85,100,100,Pending
-Galatasaray (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Pending
+Kaique Pereira,Saves 2+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Did not play
+Shakhtar Donetsk (team),Cards 1+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Hit
+Sporting CP (team),Over 1.5,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,93,100,100,Miss
+Sporting CP (team),SOT 4+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,87,100,100,Miss
+Sporting CP (team),Scores 1+,Shakhtar Donetsk v Sporting CP,Tue 03 Nov · 17:45,Champions League,90,100,100,Hit
+VfB Stuttgart (team),Over 1.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,93,100,100,Hit
+VfB Stuttgart (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Miss
+Uğurcan Çakir,Saves 2+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,91,100,100,Hit
+Galatasaray (team),BTTS,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,81,100,100,Miss
+Galatasaray (team),Cards 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Hit
+Galatasaray (team),Over 1.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,93,100,100,Hit
+Galatasaray (team),Over 2.5,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,85,100,100,Miss
+Galatasaray (team),Scores 1+,Galatasaray v VfB Stuttgart,Tue 03 Nov · 17:45,Champions League,90,100,100,Hit
 Gianluca Prestianni,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
 Gianluca Prestianni,SOT 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Miss
 Gianluca Prestianni,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
@@ -1523,12 +1532,3 @@ Jean-Philippe Mateta,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 1
 Dean Henderson,Saves 2+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Hit
 Dean Henderson,Saves 3+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Hit
 Omar Marmoush,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,86,80,Miss
-Omar Marmoush,Fouls 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,86,80,Hit
-Omar Marmoush,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,86,80,Hit
-Tottenham Hotspur (team),Cards 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,80,Hit
-Tottenham Hotspur (team),Corners 4+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,100,Hit
-Sandro Tonali,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,100,Hit
-Mohammed Kudus,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,86,100,Hit
-Pedro Porro,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Hit
-Chris Richards,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,80,Hit
-Quinten Timber,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Did not play
