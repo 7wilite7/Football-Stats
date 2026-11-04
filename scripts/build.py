@@ -336,7 +336,7 @@ def player_rows(matches, scope, lg, all_last_team, avail, team_names, team_info,
                      n, sum(p["start"] for p in Pl), round(mins / n)] + [tr[k] for k in PLAYER_L5_KEYS] +
                     [season[c] for c, _ in PLAYER_STATS] + [gk[c] for c, _ in GK_STATS] + [l5[k] for k in PLAYER_L5_KEYS] +
                     [st[k] for k in STARTS_KEYS] +
-                    [" ".join(str(int(p[k])) for p in last5) for k in ("sot", "sh", "fc", "tk")] + [dates5])
+                    [" · ".join(str(int(p[k])) for p in last5) for k in ("sot", "sh", "fc", "tk")] + [dates5])
         # Today-tab candidates: season and last-5 both strong, player available
         if ctx and not left and not any(w in status for w in ("Injured", "uspended", "Doubtful", "Unavailable")):
             for k in PLAYER_L5_KEYS:
