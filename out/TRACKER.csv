@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 04 Nov 2026 07:15 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 04 Nov 2026 07:17 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
 All picks,5070,3736,74,90,87
 Tackles 1+,1044,809,77,90,85
@@ -87,13 +87,13 @@ Viking (team),Over 2.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,85
 Viking (team),Scores 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
 Sabah FK (team),Cards 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
 Sabah FK (team),Over 1.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
-Manchester City (team),Corners 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
 Real Betis (team),Corners 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
 Borussia Dortmund (team),Corners 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
-Viking (team),Corners 4+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
-Arsenal (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Manchester City (team),Corners 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
 Slavia Prague (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Arsenal (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
 Lens (team),Corners 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Viking (team),Corners 4+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
 Joel Bagan,Tackles 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,83,92,100,Pending
 Jack Moylan,Fouled 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,87,100,100,Pending
 Jack Moylan,Shots 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,88,100,100,Pending
@@ -135,8 +135,8 @@ Real Madrid (team),Over 1.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champio
 Real Madrid (team),Over 2.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,85,100,100,Pending
 Real Madrid (team),SOT 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,87,100,100,Pending
 Real Madrid (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
-Real Madrid (team),Corners 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,80,100,100,Pending
 Liverpool (team),Corners 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,80,100,100,Pending
+Real Madrid (team),Corners 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,80,100,100,Pending
 Olympiacos (team),Cards 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,92,100,100,Pending
 Olympiacos (team),Scores 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,85,100,100,Pending
 Rennes (team),SOT 4+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,80,100,100,Pending
