@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 03 Nov 2026 07:09 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 04 Nov 2026 07:05 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
 All picks,4949,3640,74,90,81
 Tackles 1+,1031,796,77,90,
@@ -32,6 +32,105 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
+Marshall Munetsi,Fouls 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,81,85,60,Pending
+André,Tackles 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,83,92,100,Pending
+Fer López,Shots 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,86,100,100,Pending
+Dominic Ballard,Shots 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,82,92,100,Pending
+Wolverhampton Wanderers (team),Scores 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,89,92,100,Pending
+Wolverhampton Wanderers (team),Corners 4+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,86,92,80,Pending
+Wolverhampton Wanderers (team),Cards 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,97,100,100,Pending
+Yann Sommer,Saves 2+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
+Diogo Costa,Saves 2+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
+Gregor Kobel,Saves 2+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
+Alex Meret,Saves 2+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Jakub Markovič,Saves 2+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
+Robin Risser,Saves 2+,Lens v Como,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
+Stas Pokatilov,Saves 2+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
+Jean Butez,Saves 2+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Maarten Vandevoordt,Saves 2+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
+Club Brugge (team),Scores 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Club Brugge (team),Over 1.5,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
+Club Brugge (team),Over 2.5,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,85,100,100,Pending
+Club Brugge (team),Cards 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Club Brugge (team),SOT 4+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+Manchester City (team),Scores 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Manchester City (team),Over 1.5,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
+Manchester City (team),Cards 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Manchester City (team),SOT 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+Real Betis (team),Scores 1+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Real Betis (team),Cards 1+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Real Betis (team),SOT 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+Borussia Dortmund (team),SOT 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+Viking (team),Scores 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Viking (team),BTTS,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,81,100,100,Pending
+Viking (team),Over 1.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
+Viking (team),Over 2.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,85,100,100,Pending
+Napoli (team),Cards 1+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Arsenal (team),Scores 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Arsenal (team),Cards 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Arsenal (team),SOT 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+PSV Eindhoven (team),Cards 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Slavia Prague (team),Over 1.5,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
+Slavia Prague (team),Cards 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Slavia Prague (team),SOT 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+Lens (team),Over 1.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
+Lens (team),Cards 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Lens (team),SOT 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+Sabah FK (team),Over 1.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
+Sabah FK (team),Cards 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Como (team),Scores 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Como (team),BTTS,Lens v Como,Wed 04 Nov · 20:00,Champions League,81,100,100,Pending
+Como (team),Over 1.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
+Como (team),Over 2.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,85,100,100,Pending
+Como (team),Cards 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+Como (team),SOT 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+RB Leipzig (team),Scores 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+RB Leipzig (team),Cards 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
+RB Leipzig (team),SOT 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
+Callum Brittain,Tackles 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,83,92,80,Pending
+Will Lankshear,Shots 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,87,100,100,Pending
+Jarrod Bowen,Shots 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,88,100,100,Pending
+Konstantinos Mavropanos,Tackles 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,87,100,100,Pending
+Kieffer Moore,Shots 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,86,92,100,Pending
+Perry Ng,Tackles 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,88,100,100,Pending
+Nathan Trott,Saves 2+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,88,92,80,Pending
+Oliver Rathbone,Tackles 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,81,91,100,Pending
+Joel Bagan,Tackles 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,83,92,100,Pending
+Jack Moylan,Shots 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,88,100,100,Pending
+Jack Moylan,Fouled 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,87,100,100,Pending
+Aidan Morris,Tackles 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,88,100,100,Pending
+Amario Cozier-Duberry,Shots 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,83,100,100,Pending
+Middlesbrough (team),Scores 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,95,100,100,Pending
+Middlesbrough (team),Over 1.5,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,83,85,80,Pending
+West Ham United (team),Scores 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,95,100,100,Pending
+West Ham United (team),Over 1.5,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,89,92,80,Pending
+West Ham United (team),Corners 4+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,80,85,80,Pending
+West Ham United (team),Cards 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,91,92,100,Pending
+Cardiff City (team),Over 1.5,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,83,85,80,Pending
+Cardiff City (team),Corners 4+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,86,92,80,Pending
+Cardiff City (team),Cards 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,91,92,80,Pending
+Wrexham (team),Over 1.5,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,83,85,80,Pending
+Wrexham (team),Cards 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,85,85,100,Pending
+Thibaut Courtois,Saves 2+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,91,100,100,Pending
+Ederson,Saves 2+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,91,100,100,Pending
+AEK Athens (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
+Real Madrid (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
+Real Madrid (team),BTTS,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,81,100,100,Pending
+Real Madrid (team),Over 1.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,93,100,100,Pending
+Real Madrid (team),Over 2.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,85,100,100,Pending
+Real Madrid (team),Cards 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
+Real Madrid (team),SOT 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,87,100,100,Pending
+Liverpool (team),Scores 1+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
+Liverpool (team),BTTS,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,81,100,100,Pending
+Liverpool (team),Over 1.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,93,100,100,Pending
+Liverpool (team),Over 2.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,85,100,100,Pending
+Liverpool (team),SOT 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,87,100,100,Pending
+Fenerbahçe (team),Over 1.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,93,100,100,Pending
+Fenerbahçe (team),Cards 1+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
+Fenerbahçe (team),SOT 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,87,100,100,Pending
+Olympiacos (team),Scores 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,85,100,100,Pending
+Olympiacos (team),Cards 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,92,100,100,Pending
+Rennes (team),SOT 4+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,80,100,100,Pending
 Millwall (team),Cards 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,91,92,100,Pending
 Millwall (team),Over 1.5,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,60,Pending
 Millwall (team),Scores 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,80,Pending
@@ -1433,102 +1532,3 @@ Mohammed Kudus,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,
 Pedro Porro,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Hit
 Chris Richards,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,80,Hit
 Quinten Timber,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Did not play
-Quinten Timber,Fouled 2+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,80,80,Did not play
-Quinten Timber,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,80,80,Did not play
-Quinten Timber,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,80,80,Did not play
-Jan Paul van Hecke,Fouls 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Miss
-Jan Paul van Hecke,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Miss
-Crystal Palace (team),Cards 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,100,Hit
-Crystal Palace (team),Over 1.5,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,80,Hit
-Charlotte FC (team),Over 1.5,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,81,100,Hit
-Charlotte FC (team),Scores 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,81,100,Hit
-Vinícius Nogueira,Fouls 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,100,100,Miss
-Vinícius Nogueira,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,80,80,Hit
-Luis Otávio,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,92,100,Miss
-Joran Gerbet,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,80,80,Did not play
-Antoine Griezmann,SOT 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,81,100,Hit
-Antoine Griezmann,Score or assist,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,88,100,Miss
-Antoine Griezmann,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,100,100,Hit
-Antoine Griezmann,Shots 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,100,100,Hit
-Wilfried Zaha,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,100,100,Did not play
-Wilfried Zaha,Fouled 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,100,100,Did not play
-Wilfried Zaha,Fouls 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,92,80,Did not play
-Martín Ojeda,SOT 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,85,100,Hit
-Martín Ojeda,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,92,100,Hit
-Martín Ojeda,Shots 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,81,100,Hit
-Orlando City (team),Cards 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,97,100,Hit
-Orlando City (team),Match corners 9+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,81,100,Miss
-Orlando City (team),Over 1.5,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,91,100,Hit
-Orlando City (team),Scores 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,84,100,Miss
-Maxime Crépeau,Saves 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,90,100,Hit
-Allan Saint-Maximin,Fouled 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,85,100,Hit
-Allan Saint-Maximin,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,100,100,Hit
-Kristijan Kahlina,Saves 2+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,91,80,Hit
-Kristijan Kahlina,Saves 3+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,84,80,Hit
-Pep Biel,Shots 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,88,80,Hit
-Iván Angulo,Tackles 1+,Charlotte FC v Orlando City,Sat 31 Oct · 17:00,MLS,,81,100,Hit
-Maduka Okoye,Saves 2+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,89,80,Hit
-Matias Soulé,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,89,80,Hit
-Wesley,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,88,80,Hit
-Christian Kabasele,Fouled 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,80,80,Hit
-Christian Kabasele,Fouls 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,80,80,Hit
-Matteo Palma,Fouled 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,100,100,Hit
-Matteo Palma,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,100,100,Hit
-Marten de Roon,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,100,100,Miss
-Bryan Cristante,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,100,100,Hit
-Donyell Malen,SOT 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,88,80,Hit
-Donyell Malen,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,100,100,Hit
-Donyell Malen,Shots 2+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,100,100,Hit
-Keinan Davis,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,88,100,Miss
-Enzo Ebosse,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,88,100,Did not play
-Nicolò Zaniolo,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,100,100,Hit
-Udinese (team),Cards 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,89,100,Hit
-Roma (team),Over 1.5,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,89,80,Hit
-Roma (team),SOT 4+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,89,80,Hit
-Roma (team),Scores 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,89,80,Hit
-Jurgen Ekkelenkamp,Shots 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,100,100,Miss
-Leonardo Balerdi,Tackles 1+,Udinese v Roma,Sat 31 Oct · 17:00,Serie A,,83,80,Did not play
-Kerem Aktürkoglu,Shots 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,88,100,Hit
-N'Golo Kanté,Tackles 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,80,Hit
-Nélson Semedo,Tackles 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,100,Miss
-Fenerbahçe (team),Corners 4+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,100,Hit
-Fenerbahçe (team),Over 1.5,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,80,Hit
-Fenerbahçe (team),Scores 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,80,Hit
-Mason Greenwood,Shots 1+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,80,Did not play
-Mason Greenwood,Shots 2+,Fenerbahçe v Göztepe,Sat 31 Oct · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,80,Did not play
-Feyenoord (team),Corners 4+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,80,100,Hit
-Feyenoord (team),Corners 5+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,80,100,Hit
-Feyenoord (team),Match corners 9+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,80,100,Miss
-Feyenoord (team),Over 1.5,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,90,100,Hit
-Feyenoord (team),SOT 4+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,100,100,Hit
-Feyenoord (team),Scores 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,100,100,Hit
-Mika Mármol,Tackles 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,90,100,Hit
-Luciano Valente,Fouled 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,80,80,Miss
-Luciano Valente,Shots 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,100,100,Hit
-Givairo Read,Fouled 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,80,80,Hit
-Givairo Read,Shots 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,80,80,Hit
-Givairo Read,Tackles 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,90,100,Hit
-Anis Hadj Moussa,Shots 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,100,100,Hit
-Gaoussou Diarra,Shots 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,88,80,Miss
-Gaoussou Diarra,Shots 2+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,88,80,Miss
-Jeremiah St. Juste,Tackles 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,88,100,Did not play
-Ayase Ueda,Fouled 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,100,100,Did not play
-Ayase Ueda,SOT 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,100,100,Did not play
-Ayase Ueda,Shots 1+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,100,100,Did not play
-Ayase Ueda,Shots 2+,Feyenoord v Fortuna Sittard,Sat 31 Oct · 15:30,Eredivisie (top 5),,100,100,Did not play
-Sebastián Cáceres,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,100,100,Miss
-Ferrán Jutglà,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,80,100,Miss
-Ilaix Moriba,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,80,100,Hit
-Hugo González,SOT 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,80,80,Miss
-Hugo González,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,80,80,Hit
-Yoel Lago,Fouled 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,80,100,Hit
-Florian Lejeune,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,89,80,Hit
-Florian Lejeune,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,89,100,Miss
-Florian Lejeune,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,89,80,Hit
-Marcos Alonso,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,88,80,Did not play
-Álvaro Garcia,Shots 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,89,100,Miss
-Unai López,Tackles 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,100,100,Hit
-Emil Audero,Saves 2+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,100,100,Miss
-Emil Audero,Saves 3+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,80,80,Miss
-Aleix Febas,Fouled 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,100,100,Hit
-Aleix Febas,Fouls 1+,Rayo Vallecano v Celta Vigo,Sat 31 Oct · 15:15,La Liga,,80,80,Hit
