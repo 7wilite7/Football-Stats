@@ -1,3 +1,3 @@
 ===== MLS
 fixtures 510 table 30 scope None
-MLS {'new_matches': 0, 'cached': 495, 'run_seconds': 71, 'at': '2026-11-03T07:05Z'}
+MLS {'new_matches': 0, 'cached': 495, 'run_seconds': 95, 'at': '2026-11-04T07:12Z'}
