@@ -1,3 +1,3 @@
 ===== SCOTLAND
 fixtures 198 table 12 scope ['Rangers', 'Celtic', 'Heart of Midlothian']
-SCOTLAND {'new_matches': 0, 'cached': 69, 'run_seconds': 12, 'at': '2026-11-04T14:54Z'}
+SCOTLAND {'new_matches': 0, 'cached': 69, 'run_seconds': 13, 'at': '2026-11-05T07:20Z'}
