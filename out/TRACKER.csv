@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 04 Nov 2026 14:54 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 05 Nov 2026 07:10 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
 All picks,5070,3736,74,90,87
 Tackles 1+,1044,809,77,90,85
@@ -32,6 +32,96 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
+João Bravim,Saves 2+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
+Ionuț Radu,Saves 2+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
+Anatoliy Trubin,Saves 2+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
+Jari De Busser,Saves 2+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
+Mark Flekken,Saves 2+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,84,100,100,Pending
+Žan-Luk Leban,Saves 2+,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
+Jeffrey De Lange,Saves 2+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
+Mateusz Lis,Saves 2+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
+Viljami Sinisalo,Saves 2+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,84,100,100,Pending
+Lucas Paes,Saves 2+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,84,100,100,Pending
+Ararat Armenia (team),Over 1.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Ararat Armenia (team),Over 2.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
+Ararat Armenia (team),Cards 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Benfica (team),Scores 1+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
+Benfica (team),Over 1.5,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Benfica (team),Cards 1+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Benfica (team),SOT 4+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
+Sunderland (team),Scores 1+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
+Sunderland (team),Cards 1+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Sunderland (team),SOT 4+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
+Sturm Graz (team),Cards 1+,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Bayer Leverkusen (team),Scores 1+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
+Bayer Leverkusen (team),Over 1.5,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Bayer Leverkusen (team),SOT 4+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
+NK Celje (team),Over 1.5,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+OFI Crete (team),Over 1.5,Hapoel Beer Sheva v OFI Crete,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+OFI Crete (team),Cards 1+,Hapoel Beer Sheva v OFI Crete,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Beşiktaş (team),Scores 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
+Beşiktaş (team),Over 1.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Beşiktaş (team),Over 2.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
+Beşiktaş (team),Cards 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Marseille (team),Cards 1+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Union St.Gilloise (team),Scores 1+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
+Union St.Gilloise (team),Over 1.5,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Union St.Gilloise (team),Cards 1+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Union St.Gilloise (team),SOT 4+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
+Lech Poznań (team),Over 1.5,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Celtic (team),Scores 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
+Celtic (team),Over 1.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Celtic (team),Over 2.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
+Celtic (team),SOT 4+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
+Torreense (team),Scores 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
+Torreense (team),Over 1.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Torreense (team),Over 2.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
+Torreense (team),Cards 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Juventus (team),Scores 1+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
+Juventus (team),Over 1.5,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
+Juventus (team),Over 2.5,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
+Juventus (team),Cards 1+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
+Juventus (team),SOT 4+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
+Fabiano,Saves 2+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,86,100,100,Pending
+Sławomir Abramowicz,Saves 2+,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,86,100,100,Pending
+Dominik Greif,Saves 2+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,84,100,100,Pending
+Dániel Radnóti,Saves 2+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,84,100,100,Pending
+Omonia Nicosia (team),Scores 1+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
+Omonia Nicosia (team),SOT 4+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,80,100,100,Pending
+Jagiellonia Białystok (team),Over 1.5,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Jagiellonia Białystok (team),Over 2.5,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
+Jagiellonia Białystok (team),Cards 1+,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+Anderlecht (team),SOT 4+,Anderlecht v Salzburg,Thu 05 Nov · 17:45,Europa League,80,100,100,Pending
+Lyon (team),Over 1.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Lyon (team),Over 2.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
+Lyon (team),Cards 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+Milan (team),Over 1.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Milan (team),Cards 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+Hoffenheim (team),Over 1.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Hoffenheim (team),Cards 1+,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+Salzburg (team),Cards 1+,Anderlecht v Salzburg,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+Viktoria Plzeň (team),Over 1.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Viktoria Plzeň (team),Over 2.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
+Viktoria Plzeň (team),Cards 1+,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+Crystal Palace (team),Scores 1+,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
+Crystal Palace (team),Over 1.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Crystal Palace (team),Over 2.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
+Ferencváros (team),Scores 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
+Ferencváros (team),Over 1.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Ferencváros (team),Over 2.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
+Ferencváros (team),Cards 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+Ferencváros (team),SOT 4+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,80,100,100,Pending
+Lillestrøm (team),Over 1.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Lillestrøm (team),Cards 1+,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+NEC Nijmegen (team),Over 1.5,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+NEC Nijmegen (team),Cards 1+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+Real Sociedad (team),Scores 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
+Real Sociedad (team),Over 1.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+Real Sociedad (team),Cards 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
+AFC Bournemouth (team),Scores 1+,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
+AFC Bournemouth (team),Over 1.5,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
+AFC Bournemouth (team),Over 2.5,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
+AFC Bournemouth (team),Cards 1+,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
 André,Tackles 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,83,92,100,Pending
 Dominic Ballard,Shots 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,82,92,100,Pending
 Fer López,Shots 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,86,100,100,Pending
@@ -1442,93 +1532,3 @@ PSV Eindhoven (team),Over 1.5,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Ered
 PSV Eindhoven (team),SOT 4+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,90,80,Hit
 PSV Eindhoven (team),Scores 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,100,100,Hit
 Mauro Júnior,Tackles 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,100,100,Hit
-Lutsharel Geertruida,Shots 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,83,80,Hit
-David Larrubia,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,80,Miss
-David Larrubia,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Abdessamad Ezzalzouli,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,86,100,Hit
-Abdessamad Ezzalzouli,SOT 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,86,100,Miss
-Abdessamad Ezzalzouli,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,86,100,Hit
-Valentín Gómez,Fouls 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,80,Did not play
-Valentín Gómez,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,80,Did not play
-Adrián Niño,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Adam Aznou,Fouls 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Adam Aznou,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Adam Aznou,Tackles 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Ángel Ortiz,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Chupe,Shots 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,90,80,Hit
-Rafita,Fouled 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,100,Hit
-Rafita,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,100,Hit
-Marc Bartra,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,83,80,Hit
-Alfonso Herrero,Saves 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Alfonso Herrero,Saves 3+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,90,80,Hit
-Marc Roca,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Fran García,Tackles 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,88,100,Hit
-Fran García,Tackles 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,88,100,Hit
-Real Betis (team),Cards 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,90,100,Hit
-Real Betis (team),Corners 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,80,Hit
-Real Betis (team),SOT 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,80,Hit
-Real Betis (team),Scores 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,90,80,Hit
-Málaga (team),Cards 1+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Málaga (team),Corners 4+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,80,Miss
-Málaga (team),Match corners 9+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,100,Hit
-Málaga (team),Over 1.5,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,80,80,Hit
-Álvaro Vallés,Saves 2+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,100,100,Hit
-Álvaro Vallés,Saves 3+,Real Betis v Málaga,Sat 31 Oct · 17:30,La Liga,,90,80,Hit
-Nico Schlotterbeck,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,80,80,Hit
-Michael Olise,Fouled 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Miss
-Michael Olise,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Miss
-Michael Olise,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Michael Olise,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,100,Hit
-Maximilian Beier,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Ismael Saibari,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Daniel Svensson,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Ethan Nwaneri,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,83,100,Did not play
-Jobe Bellingham,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Nathaniel Brown,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Harry Kane,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,100,Miss
-Harry Kane,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Harry Kane,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Serhou Guirassy,Fouled 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Serhou Guirassy,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Miss
-Serhou Guirassy,SOT 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Serhou Guirassy,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Serhou Guirassy,Shots 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Miss
-Joshua Kimmich,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,83,80,Hit
-Konrad Laimer,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Konrad Laimer,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Dayot Upamecano,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,100,Hit
-Dayot Upamecano,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Dayot Upamecano,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Dayot Upamecano,Tackles 2+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Waldemar Anton,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,100,Hit
-Joey Veerman,Shots 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,83,80,Miss
-Joey Veerman,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,83,100,Hit
-Min-Jae Kim,Fouls 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Felix Nmecha,Tackles 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,100,Hit
-Borussia Dortmund (team),Cards 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Borussia Dortmund (team),Scores 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,80,Hit
-Bayern München (team),Corners 4+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Bayern München (team),Corners 5+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Bayern München (team),Match corners 10+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Miss
-Bayern München (team),Match corners 9+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Miss
-Bayern München (team),Over 1.5,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,100,Hit
-Bayern München (team),Over 2.5,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,100,Hit
-Bayern München (team),SOT 4+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,100,100,Hit
-Bayern München (team),Scores 1+,Bayern München v Borussia Dortmund,Sat 31 Oct · 17:30,Bundesliga,,86,100,Hit
-Yéremi Pino,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,100,Hit
-Yéremi Pino,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,80,Miss
-Mathys Tel,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,83,80,Hit
-Adam Wharton,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Miss
-Adam Wharton,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,80,Hit
-Archie Gray,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,86,80,Miss
-Archie Gray,Fouls 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,86,100,Hit
-Archie Gray,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,86,100,Miss
-Anan Khalaili,Fouls 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,100,Miss
-Anan Khalaili,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Hit
-Anan Khalaili,Tackles 2+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,88,80,Hit
-Jaydee Canvot,Tackles 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Hit
-Walter Benítez,Saves 2+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,80,80,Did not play
-Jean-Philippe Mateta,Shots 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Miss
-Dean Henderson,Saves 2+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Hit
-Dean Henderson,Saves 3+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,100,100,Hit
-Omar Marmoush,Fouled 1+,Tottenham Hotspur v Crystal Palace,Sat 31 Oct · 17:30,Premier League,,86,80,Miss
