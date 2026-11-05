@@ -1,16 +1,16 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 05 Nov 2026 07:18 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 05 Nov 2026 07:19 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5173,3829,74,90,88
+All picks,5176,3830,74,90,87
 Tackles 1+,1051,815,78,90,85
 Shots 1+,902,716,79,91,84
 Fouled 1+,567,390,69,90,83
 Fouls 1+,528,342,65,88,83
-Cards 1+,324,278,86,92,90
+Cards 1+,325,278,86,92,90
 Over 1.5,255,217,85,91,90
-Scores 1+,235,190,81,91,89
+Scores 1+,236,190,81,91,89
 Shots 2+,203,145,71,90,
 Saves 2+,190,138,73,92,89
-SOT 4+,127,97,76,92,87
+SOT 4+,128,98,77,92,87
 SOT 1+,123,89,72,87,
 Tackles 2+,110,62,56,88,
 Corners 4+,102,73,72,91,81
@@ -227,9 +227,9 @@ Real Madrid (team),SOT 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions
 Real Madrid (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Hit
 Liverpool (team),Corners 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,80,100,100,Hit
 Real Madrid (team),Corners 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,80,100,100,Hit
-Olympiacos (team),Cards 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,92,100,100,Pending
-Olympiacos (team),Scores 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,85,100,100,Pending
-Rennes (team),SOT 4+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,80,100,100,Pending
+Olympiacos (team),Cards 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,92,100,100,Miss
+Olympiacos (team),Scores 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,85,100,100,Miss
+Rennes (team),SOT 4+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,80,100,100,Hit
 Millwall (team),Cards 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,91,92,100,Hit
 Millwall (team),Over 1.5,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,60,Hit
 Millwall (team),Scores 1+,Birmingham City v Millwall,Tue 03 Nov · 20:00,Championship,83,85,80,Miss
