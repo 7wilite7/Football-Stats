@@ -1,24 +1,24 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 05 Nov 2026 07:15 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 05 Nov 2026 07:18 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5100,3763,74,90,87
+All picks,5173,3829,74,90,88
 Tackles 1+,1051,815,78,90,85
 Shots 1+,902,716,79,91,84
 Fouled 1+,567,390,69,90,83
 Fouls 1+,528,342,65,88,83
-Cards 1+,311,267,86,92,90
-Over 1.5,245,207,84,90,89
-Scores 1+,225,180,80,91,89
+Cards 1+,324,278,86,92,90
+Over 1.5,255,217,85,91,90
+Scores 1+,235,190,81,91,89
 Shots 2+,203,145,71,90,
-Saves 2+,180,128,71,92,88
+Saves 2+,190,138,73,92,89
+SOT 4+,127,97,76,92,87
 SOT 1+,123,89,72,87,
-SOT 4+,115,87,76,91,87
 Tackles 2+,110,62,56,88,
-Corners 4+,93,67,72,90,83
+Corners 4+,102,73,72,91,81
+Over 2.5,65,43,66,90,85
 Match corners 9+,65,39,60,89,83
-Over 2.5,60,38,63,89,85
 Saves 3+,46,31,67,90,
+BTTS,43,20,47,91,81
 Cards 2+,40,25,62,89,
-BTTS,39,16,41,90,81
 Fouled 2+,39,20,51,87,
 Corners 5+,38,23,61,89,
 Score or assist,28,19,68,85,
@@ -129,61 +129,61 @@ Marshall Munetsi,Fouls 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 2
 Wolverhampton Wanderers (team),Cards 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,97,100,100,Hit
 Wolverhampton Wanderers (team),Corners 4+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,86,92,80,Hit
 Wolverhampton Wanderers (team),Scores 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,89,92,100,Hit
-Gregor Kobel,Saves 2+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
-Real Betis (team),Cards 1+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Real Betis (team),SOT 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-Real Betis (team),Scores 1+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Borussia Dortmund (team),SOT 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-Alex Meret,Saves 2+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Diogo Costa,Saves 2+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
-Napoli (team),Cards 1+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Yann Sommer,Saves 2+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
-Club Brugge (team),Cards 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Club Brugge (team),Over 1.5,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
-Club Brugge (team),Over 2.5,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,85,100,100,Pending
-Club Brugge (team),SOT 4+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-Club Brugge (team),Scores 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-PSV Eindhoven (team),Cards 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-RB Leipzig (team),Cards 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-RB Leipzig (team),SOT 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-RB Leipzig (team),Scores 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Manchester City (team),Cards 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Manchester City (team),Over 1.5,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
-Manchester City (team),SOT 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-Manchester City (team),Scores 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Maarten Vandevoordt,Saves 2+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
-Jakub Markovič,Saves 2+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
-Slavia Prague (team),Cards 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Slavia Prague (team),Over 1.5,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
-Slavia Prague (team),SOT 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-Arsenal (team),Cards 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Arsenal (team),SOT 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-Arsenal (team),Scores 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Como (team),BTTS,Lens v Como,Wed 04 Nov · 20:00,Champions League,81,100,100,Pending
-Como (team),Cards 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Como (team),Over 1.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
-Como (team),Over 2.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,85,100,100,Pending
-Como (team),SOT 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-Como (team),Scores 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Robin Risser,Saves 2+,Lens v Como,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
-Jean Butez,Saves 2+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Lens (team),Cards 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Lens (team),Over 1.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
-Lens (team),SOT 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,87,100,100,Pending
-Stas Pokatilov,Saves 2+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,91,100,100,Pending
-Viking (team),BTTS,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,81,100,100,Pending
-Viking (team),Over 1.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
-Viking (team),Over 2.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,85,100,100,Pending
-Viking (team),Scores 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Sabah FK (team),Cards 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Pending
-Sabah FK (team),Over 1.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,93,100,100,Pending
-Real Betis (team),Corners 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
-Borussia Dortmund (team),Corners 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
-Manchester City (team),Corners 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
-Slavia Prague (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
-Arsenal (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
-Lens (team),Corners 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
-Viking (team),Corners 4+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,80,100,100,Pending
+Gregor Kobel,Saves 2+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,91,100,100,Hit
+Real Betis (team),Cards 1+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Real Betis (team),SOT 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,87,100,100,Hit
+Real Betis (team),Scores 1+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Borussia Dortmund (team),SOT 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,87,100,100,Hit
+Alex Meret,Saves 2+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Diogo Costa,Saves 2+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,91,100,100,Hit
+Napoli (team),Cards 1+,FC Porto v Napoli,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Yann Sommer,Saves 2+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,91,100,100,Hit
+Club Brugge (team),Cards 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Club Brugge (team),Over 1.5,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,93,100,100,Hit
+Club Brugge (team),Over 2.5,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,85,100,100,Hit
+Club Brugge (team),SOT 4+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,87,100,100,Miss
+Club Brugge (team),Scores 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+PSV Eindhoven (team),Cards 1+,PSV Eindhoven v Club Brugge,Wed 04 Nov · 20:00,Champions League,90,100,100,Miss
+RB Leipzig (team),Cards 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+RB Leipzig (team),SOT 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,87,100,100,Hit
+RB Leipzig (team),Scores 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Manchester City (team),Cards 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Manchester City (team),Over 1.5,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,93,100,100,Hit
+Manchester City (team),SOT 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,87,100,100,Hit
+Manchester City (team),Scores 1+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Maarten Vandevoordt,Saves 2+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,91,100,100,Hit
+Jakub Markovič,Saves 2+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,91,100,100,Did not play
+Slavia Prague (team),Cards 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Slavia Prague (team),Over 1.5,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,93,100,100,Hit
+Slavia Prague (team),SOT 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,87,100,100,Hit
+Arsenal (team),Cards 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Arsenal (team),SOT 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,87,100,100,Hit
+Arsenal (team),Scores 1+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Como (team),BTTS,Lens v Como,Wed 04 Nov · 20:00,Champions League,81,100,100,Hit
+Como (team),Cards 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Miss
+Como (team),Over 1.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,93,100,100,Hit
+Como (team),Over 2.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,85,100,100,Hit
+Como (team),SOT 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,87,100,100,Hit
+Como (team),Scores 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Robin Risser,Saves 2+,Lens v Como,Wed 04 Nov · 20:00,Champions League,91,100,100,Hit
+Jean Butez,Saves 2+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Lens (team),Cards 1+,Lens v Como,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Lens (team),Over 1.5,Lens v Como,Wed 04 Nov · 20:00,Champions League,93,100,100,Hit
+Lens (team),SOT 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,87,100,100,Miss
+Stas Pokatilov,Saves 2+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,91,100,100,Hit
+Viking (team),BTTS,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,81,100,100,Hit
+Viking (team),Over 1.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,93,100,100,Hit
+Viking (team),Over 2.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,85,100,100,Hit
+Viking (team),Scores 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Sabah FK (team),Cards 1+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,90,100,100,Hit
+Sabah FK (team),Over 1.5,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,93,100,100,Hit
+Real Betis (team),Corners 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,80,100,100,Hit
+Borussia Dortmund (team),Corners 4+,Borussia Dortmund v Real Betis,Wed 04 Nov · 20:00,Champions League,80,100,100,Miss
+Manchester City (team),Corners 4+,RB Leipzig v Manchester City,Wed 04 Nov · 20:00,Champions League,80,100,100,Miss
+Slavia Prague (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Hit
+Arsenal (team),Corners 4+,Slavia Prague v Arsenal,Wed 04 Nov · 20:00,Champions League,80,100,100,Miss
+Lens (team),Corners 4+,Lens v Como,Wed 04 Nov · 20:00,Champions League,80,100,100,Hit
+Viking (team),Corners 4+,Viking v Sabah FK,Wed 04 Nov · 20:00,Champions League,80,100,100,Hit
 Joel Bagan,Tackles 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,83,92,100,Hit
 Jack Moylan,Fouled 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,87,100,100,Hit
 Jack Moylan,Shots 1+,Cardiff City v West Ham United,Wed 04 Nov · 19:45,Championship,88,100,100,Hit
@@ -208,25 +208,25 @@ Middlesbrough (team),Over 1.5,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Champi
 Middlesbrough (team),Scores 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,95,100,100,Miss
 Wrexham (team),Cards 1+,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,85,85,100,Hit
 Wrexham (team),Over 1.5,Wrexham v Middlesbrough,Wed 04 Nov · 19:45,Championship,83,85,80,Hit
-Ederson,Saves 2+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,91,100,100,Pending
-Liverpool (team),BTTS,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,81,100,100,Pending
-Liverpool (team),Over 1.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,93,100,100,Pending
-Liverpool (team),Over 2.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,85,100,100,Pending
-Liverpool (team),SOT 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,87,100,100,Pending
-Liverpool (team),Scores 1+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
-Fenerbahçe (team),Cards 1+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
-Fenerbahçe (team),Over 1.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,93,100,100,Pending
-Fenerbahçe (team),SOT 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,87,100,100,Pending
-Thibaut Courtois,Saves 2+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,91,100,100,Pending
-AEK Athens (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
-Real Madrid (team),BTTS,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,81,100,100,Pending
-Real Madrid (team),Cards 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
-Real Madrid (team),Over 1.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,93,100,100,Pending
-Real Madrid (team),Over 2.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,85,100,100,Pending
-Real Madrid (team),SOT 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,87,100,100,Pending
-Real Madrid (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Pending
-Liverpool (team),Corners 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,80,100,100,Pending
-Real Madrid (team),Corners 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,80,100,100,Pending
+Ederson,Saves 2+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,91,100,100,Hit
+Liverpool (team),BTTS,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,81,100,100,Hit
+Liverpool (team),Over 1.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,93,100,100,Hit
+Liverpool (team),Over 2.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,85,100,100,Hit
+Liverpool (team),SOT 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,87,100,100,Hit
+Liverpool (team),Scores 1+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,90,100,100,Hit
+Fenerbahçe (team),Cards 1+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,90,100,100,Hit
+Fenerbahçe (team),Over 1.5,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,93,100,100,Hit
+Fenerbahçe (team),SOT 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,87,100,100,Hit
+Thibaut Courtois,Saves 2+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,91,100,100,Hit
+AEK Athens (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Hit
+Real Madrid (team),BTTS,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,81,100,100,Hit
+Real Madrid (team),Cards 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Hit
+Real Madrid (team),Over 1.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,93,100,100,Hit
+Real Madrid (team),Over 2.5,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,85,100,100,Hit
+Real Madrid (team),SOT 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,87,100,100,Hit
+Real Madrid (team),Scores 1+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,90,100,100,Hit
+Liverpool (team),Corners 4+,Fenerbahçe v Liverpool,Wed 04 Nov · 17:45,Champions League,80,100,100,Hit
+Real Madrid (team),Corners 4+,AEK Athens v Real Madrid,Wed 04 Nov · 17:45,Champions League,80,100,100,Hit
 Olympiacos (team),Cards 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,92,100,100,Pending
 Olympiacos (team),Scores 1+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,85,100,100,Pending
 Rennes (team),SOT 4+,Rennes v Olympiacos,Wed 04 Nov · 15:30,Europa League,80,100,100,Pending
