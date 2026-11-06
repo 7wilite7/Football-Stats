@@ -48,6 +48,8 @@ jobs:
             git commit -qm "update $L" || true
             for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
           done
+          python scripts/check.py $LIST || FAILED="$FAILED checks(see errors above)"
+          git add data/checks.json && git commit -qm "checks" && for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done || true
           if [ -n "$FAILED" ]; then echo "::error::Leagues that failed to update:$FAILED (sheet keeps their previous numbers)"; exit 1; fi
       - name: Tell healthchecks.io the update finished
         if: success() && env.SKIP != '1' && github.event_name != 'push'
