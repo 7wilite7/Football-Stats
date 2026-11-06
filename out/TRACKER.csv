@@ -1,20 +1,20 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 06 Nov 2026 07:14 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 06 Nov 2026 07:16 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5176,3830,74,90,87
+All picks,5263,3898,74,90,87
 Tackles 1+,1051,815,78,90,85
 Shots 1+,902,716,79,91,84
 Fouled 1+,567,390,69,90,83
 Fouls 1+,528,342,65,88,83
-Cards 1+,325,278,86,92,90
-Over 1.5,255,217,85,91,90
-Scores 1+,236,190,81,91,89
+Cards 1+,346,299,86,93,91
+Over 1.5,277,235,85,91,90
+Scores 1+,249,201,81,92,88
 Shots 2+,203,145,71,90,
-Saves 2+,190,138,73,92,89
-SOT 4+,128,98,77,92,87
+Saves 2+,201,145,72,92,88
+SOT 4+,137,103,75,93,85
 SOT 1+,123,89,72,87,
 Tackles 2+,110,62,56,88,
 Corners 4+,102,73,72,91,81
-Over 2.5,65,43,66,90,85
+Over 2.5,76,49,64,91,84
 Match corners 9+,65,39,60,89,83
 Saves 3+,46,31,67,90,
 BTTS,43,20,47,91,81
@@ -86,96 +86,96 @@ Borussia Mönchengladbach (team),Match corners 9+,Hamburger SV v Borussia Mönch
 Borussia Mönchengladbach (team),Over 1.5,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,85,88,80,Pending
 Borussia Mönchengladbach (team),Over 2.5,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,81,88,80,Pending
 Hamburger SV (team),Cards 1+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,87,88,80,Pending
-Mark Flekken,Saves 2+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,84,100,100,Pending
-Jeffrey De Lange,Saves 2+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
-Bayer Leverkusen (team),Over 1.5,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Bayer Leverkusen (team),SOT 4+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
-Bayer Leverkusen (team),Scores 1+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
-Marseille (team),Cards 1+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Anatoliy Trubin,Saves 2+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
-Lech Poznań (team),Over 1.5,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Mateusz Lis,Saves 2+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
-Benfica (team),Cards 1+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Benfica (team),Over 1.5,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Benfica (team),SOT 4+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
-Benfica (team),Scores 1+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
-Jari De Busser,Saves 2+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
-Juventus (team),Cards 1+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Juventus (team),Over 1.5,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Juventus (team),Over 2.5,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
-Juventus (team),SOT 4+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
-Juventus (team),Scores 1+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
-Beşiktaş (team),Cards 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Beşiktaş (team),Over 1.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Beşiktaş (team),Over 2.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
-Beşiktaş (team),Scores 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
-Viljami Sinisalo,Saves 2+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,84,100,100,Pending
-Celtic (team),Over 1.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Celtic (team),Over 2.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
-Celtic (team),SOT 4+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
-Celtic (team),Scores 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
-Sturm Graz (team),Cards 1+,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Žan-Luk Leban,Saves 2+,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
-NK Celje (team),Over 1.5,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Sunderland (team),Cards 1+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Sunderland (team),SOT 4+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
-Sunderland (team),Scores 1+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
-Ionuț Radu,Saves 2+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
-Union St.Gilloise (team),Cards 1+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Union St.Gilloise (team),Over 1.5,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Union St.Gilloise (team),SOT 4+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,80,100,100,Pending
-Union St.Gilloise (team),Scores 1+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
-João Bravim,Saves 2+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
-Torreense (team),Cards 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Torreense (team),Over 1.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Torreense (team),Over 2.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
-Torreense (team),Scores 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,85,100,100,Pending
-Ararat Armenia (team),Cards 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-Ararat Armenia (team),Over 1.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Ararat Armenia (team),Over 2.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,82,100,100,Pending
-Lucas Paes,Saves 2+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,84,100,100,Pending
-OFI Crete (team),Cards 1+,Hapoel Beer Sheva v OFI Crete,Thu 05 Nov · 20:00,Europa League,92,100,100,Pending
-OFI Crete (team),Over 1.5,Hapoel Beer Sheva v OFI Crete,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
-Dániel Radnóti,Saves 2+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,84,100,100,Pending
-Ferencváros (team),Cards 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Ferencváros (team),Over 1.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Ferencváros (team),Over 2.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
-Ferencváros (team),SOT 4+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,80,100,100,Pending
-Ferencváros (team),Scores 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
-Milan (team),Cards 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Milan (team),Over 1.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Dominik Greif,Saves 2+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,84,100,100,Pending
-Real Sociedad (team),Cards 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Real Sociedad (team),Over 1.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Real Sociedad (team),Scores 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
-Lyon (team),Cards 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Lyon (team),Over 1.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Lyon (team),Over 2.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
-AFC Bournemouth (team),Cards 1+,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-AFC Bournemouth (team),Over 1.5,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-AFC Bournemouth (team),Over 2.5,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
-AFC Bournemouth (team),Scores 1+,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
-Salzburg (team),Cards 1+,Anderlecht v Salzburg,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Anderlecht (team),SOT 4+,Anderlecht v Salzburg,Thu 05 Nov · 17:45,Europa League,80,100,100,Pending
-Hoffenheim (team),Cards 1+,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Hoffenheim (team),Over 1.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Crystal Palace (team),Over 1.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Crystal Palace (team),Over 2.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
-Crystal Palace (team),Scores 1+,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
-Fabiano,Saves 2+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,86,100,100,Pending
-Omonia Nicosia (team),SOT 4+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,80,100,100,Pending
-Omonia Nicosia (team),Scores 1+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,85,100,100,Pending
-NEC Nijmegen (team),Cards 1+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-NEC Nijmegen (team),Over 1.5,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Viktoria Plzeň (team),Cards 1+,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Viktoria Plzeň (team),Over 1.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Viktoria Plzeň (team),Over 2.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
-Lillestrøm (team),Cards 1+,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Lillestrøm (team),Over 1.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Sławomir Abramowicz,Saves 2+,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,86,100,100,Pending
-Jagiellonia Białystok (team),Cards 1+,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,92,100,100,Pending
-Jagiellonia Białystok (team),Over 1.5,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,90,100,100,Pending
-Jagiellonia Białystok (team),Over 2.5,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,82,100,100,Pending
+Mark Flekken,Saves 2+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,84,100,100,Miss
+Jeffrey De Lange,Saves 2+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,86,100,100,Hit
+Bayer Leverkusen (team),Over 1.5,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,90,100,100,Miss
+Bayer Leverkusen (team),SOT 4+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,80,100,100,Miss
+Bayer Leverkusen (team),Scores 1+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,85,100,100,Miss
+Marseille (team),Cards 1+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Anatoliy Trubin,Saves 2+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,86,100,100,Hit
+Lech Poznań (team),Over 1.5,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Mateusz Lis,Saves 2+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,86,100,100,Hit
+Benfica (team),Cards 1+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Benfica (team),Over 1.5,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Benfica (team),SOT 4+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,80,100,100,Hit
+Benfica (team),Scores 1+,Benfica v Lech Poznań,Thu 05 Nov · 20:00,Europa League,85,100,100,Hit
+Jari De Busser,Saves 2+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,86,100,100,Miss
+Juventus (team),Cards 1+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Juventus (team),Over 1.5,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Juventus (team),Over 2.5,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,82,100,100,Hit
+Juventus (team),SOT 4+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,80,100,100,Miss
+Juventus (team),Scores 1+,AZ Alkmaar v Juventus,Thu 05 Nov · 20:00,Europa League,85,100,100,Hit
+Beşiktaş (team),Cards 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Beşiktaş (team),Over 1.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Beşiktaş (team),Over 2.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,82,100,100,Hit
+Beşiktaş (team),Scores 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,85,100,100,Hit
+Viljami Sinisalo,Saves 2+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,84,100,100,Did not play
+Celtic (team),Over 1.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Celtic (team),Over 2.5,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,82,100,100,Hit
+Celtic (team),SOT 4+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,80,100,100,Hit
+Celtic (team),Scores 1+,Celtic v Beşiktaş,Thu 05 Nov · 20:00,Europa League,85,100,100,Hit
+Sturm Graz (team),Cards 1+,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Žan-Luk Leban,Saves 2+,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,86,100,100,Hit
+NK Celje (team),Over 1.5,Sturm Graz v NK Celje,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Sunderland (team),Cards 1+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Sunderland (team),SOT 4+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,80,100,100,Hit
+Sunderland (team),Scores 1+,Sunderland v Dinamo Zagreb,Thu 05 Nov · 20:00,Europa League,85,100,100,Miss
+Ionuț Radu,Saves 2+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,86,100,100,Miss
+Union St.Gilloise (team),Cards 1+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Union St.Gilloise (team),Over 1.5,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Union St.Gilloise (team),SOT 4+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,80,100,100,Miss
+Union St.Gilloise (team),Scores 1+,Celta Vigo v Union St.Gilloise,Thu 05 Nov · 20:00,Europa League,85,100,100,Hit
+João Bravim,Saves 2+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,86,100,100,Miss
+Torreense (team),Cards 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Torreense (team),Over 1.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Torreense (team),Over 2.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,82,100,100,Hit
+Torreense (team),Scores 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,85,100,100,Hit
+Ararat Armenia (team),Cards 1+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+Ararat Armenia (team),Over 1.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Ararat Armenia (team),Over 2.5,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,82,100,100,Hit
+Lucas Paes,Saves 2+,Torreense v Ararat Armenia,Thu 05 Nov · 20:00,Europa League,84,100,100,Hit
+OFI Crete (team),Cards 1+,Hapoel Beer Sheva v OFI Crete,Thu 05 Nov · 20:00,Europa League,92,100,100,Hit
+OFI Crete (team),Over 1.5,Hapoel Beer Sheva v OFI Crete,Thu 05 Nov · 20:00,Europa League,90,100,100,Hit
+Dániel Radnóti,Saves 2+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,84,100,100,Did not play
+Ferencváros (team),Cards 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Ferencváros (team),Over 1.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,90,100,100,Hit
+Ferencváros (team),Over 2.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,82,100,100,Miss
+Ferencváros (team),SOT 4+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,80,100,100,Hit
+Ferencváros (team),Scores 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,85,100,100,Hit
+Milan (team),Cards 1+,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Milan (team),Over 1.5,Milan v Ferencváros,Thu 05 Nov · 17:45,Europa League,90,100,100,Hit
+Dominik Greif,Saves 2+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,84,100,100,Hit
+Real Sociedad (team),Cards 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Real Sociedad (team),Over 1.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,90,100,100,Hit
+Real Sociedad (team),Scores 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,85,100,100,Hit
+Lyon (team),Cards 1+,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Lyon (team),Over 1.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,90,100,100,Hit
+Lyon (team),Over 2.5,Real Sociedad v Lyon,Thu 05 Nov · 17:45,Europa League,82,100,100,Miss
+AFC Bournemouth (team),Cards 1+,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+AFC Bournemouth (team),Over 1.5,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,90,100,100,Hit
+AFC Bournemouth (team),Over 2.5,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,82,100,100,Hit
+AFC Bournemouth (team),Scores 1+,Sparta Prague v AFC Bournemouth,Thu 05 Nov · 17:45,Europa League,85,100,100,Hit
+Salzburg (team),Cards 1+,Anderlecht v Salzburg,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Anderlecht (team),SOT 4+,Anderlecht v Salzburg,Thu 05 Nov · 17:45,Europa League,80,100,100,Hit
+Hoffenheim (team),Cards 1+,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Hoffenheim (team),Over 1.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,90,100,100,Hit
+Crystal Palace (team),Over 1.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,90,100,100,Hit
+Crystal Palace (team),Over 2.5,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,82,100,100,Miss
+Crystal Palace (team),Scores 1+,Crystal Palace v Hoffenheim,Thu 05 Nov · 17:45,Europa League,85,100,100,Hit
+Fabiano,Saves 2+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,86,100,100,Did not play
+Omonia Nicosia (team),SOT 4+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,80,100,100,Miss
+Omonia Nicosia (team),Scores 1+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,85,100,100,Hit
+NEC Nijmegen (team),Cards 1+,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+NEC Nijmegen (team),Over 1.5,NEC Nijmegen v Omonia Nicosia,Thu 05 Nov · 17:45,Europa League,90,100,100,Hit
+Viktoria Plzeň (team),Cards 1+,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Viktoria Plzeň (team),Over 1.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,90,100,100,Miss
+Viktoria Plzeň (team),Over 2.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,82,100,100,Miss
+Lillestrøm (team),Cards 1+,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Lillestrøm (team),Over 1.5,Lillestrøm v Viktoria Plzeň,Thu 05 Nov · 17:45,Europa League,90,100,100,Miss
+Sławomir Abramowicz,Saves 2+,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,86,100,100,Hit
+Jagiellonia Białystok (team),Cards 1+,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,92,100,100,Hit
+Jagiellonia Białystok (team),Over 1.5,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,90,100,100,Miss
+Jagiellonia Białystok (team),Over 2.5,Levski Sofia v Jagiellonia Białystok,Thu 05 Nov · 17:45,Europa League,82,100,100,Miss
 André,Tackles 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,83,92,100,Hit
 Dominic Ballard,Shots 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,82,92,100,Hit
 Fer López,Shots 1+,Bristol City v Wolverhampton Wanderers,Wed 04 Nov · 20:00,Championship,86,100,100,Hit
