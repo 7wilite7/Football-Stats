@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 05 Nov 2026 07:20 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 06 Nov 2026 07:07 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
 All picks,5176,3830,74,90,87
 Tackles 1+,1051,815,78,90,85
@@ -32,6 +32,60 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
+Antonio Sivera,Saves 2+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,82,60,Pending
+Nahuel Tenaglia,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,91,80,Pending
+Ángel Pérez,Shots 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,83,90,80,Pending
+Odysseas Vlachodimos,Saves 2+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,91,100,Pending
+Lucien Agoumé,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,100,100,Pending
+Juan Iglesias,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,100,100,Pending
+Lucas Boyé,Fouls 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,85,100,100,Pending
+Nicolás Valentini,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,80,71,100,Pending
+Deportivo Alavés (team),Scores 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,80,82,80,Pending
+Deportivo Alavés (team),Cards 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,92,91,80,Pending
+Sevilla (team),Scores 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,93,100,100,Pending
+Sevilla (team),Over 1.5,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,82,100,Pending
+Sevilla (team),Cards 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,98,100,100,Pending
+Chris Forino-Joseph,Tackles 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,84,100,100,Pending
+Joe Ward,Tackles 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,83,80,100,Pending
+Jacob Widell Zetterström,Saves 2+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,85,90,80,Pending
+Bobby Clark,Shots 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,82,86,80,Pending
+Henrik Meister,Fouls 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,84,100,100,Pending
+Gavin Bazunu,Saves 2+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,81,86,80,Pending
+Bolton Wanderers (team),Cards 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,80,79,100,Pending
+Derby County (team),Over 1.5,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,84,86,80,Pending
+Derby County (team),Match corners 9+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,87,93,80,Pending
+Derby County (team),Cards 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,91,93,100,Pending
+Jack Rudoni,Shots 1+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,83,100,100,Pending
+Jordan Pickford,Saves 2+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,84,89,100,Pending
+Thierno Barry,Shots 1+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,84,100,100,Pending
+Coventry City (team),Cards 1+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,81,78,60,Pending
+Everton (team),Corners 4+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,83,89,80,Pending
+Everton (team),Cards 1+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,81,78,80,Pending
+Maduka Okoye,Saves 2+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Pending
+John Yeboah,Shots 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,86,100,100,Pending
+Kike Pérez,Tackles 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,80,90,100,Pending
+Gianluca Busio,Tackles 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,82,100,100,Pending
+Filip Stanković,Saves 2+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Pending
+Udinese (team),Over 1.5,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,82,80,80,Pending
+Udinese (team),Cards 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Pending
+Venezia (team),Cards 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,80,80,60,Pending
+Filip Jörgensen,Saves 2+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,85,89,80,Pending
+Gessime Yassine,Tackles 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,86,100,100,Pending
+Cristian Cásseres,Tackles 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,86,100,100,Pending
+Thomas Jørgensen,Shots 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,83,100,100,Pending
+Strasbourg (team),Over 1.5,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,94,100,100,Pending
+Strasbourg (team),Over 2.5,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,80,89,100,Pending
+Strasbourg (team),Cards 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,89,89,80,Pending
+Toulouse (team),Cards 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,89,89,100,Pending
+Philipp Sander,Fouls 1+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,82,100,100,Pending
+Joseph Scally,Tackles 1+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,83,88,100,Pending
+Daniel Heuer Fernandes,Saves 2+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,85,88,100,Pending
+Daniel Heuer Fernandes,Saves 3+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,80,88,100,Pending
+Borussia Mönchengladbach (team),Over 1.5,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,85,88,80,Pending
+Borussia Mönchengladbach (team),Over 2.5,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,81,88,80,Pending
+Borussia Mönchengladbach (team),Match corners 9+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,83,88,100,Pending
+Borussia Mönchengladbach (team),Cards 1+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,87,88,100,Pending
+Hamburger SV (team),Cards 1+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,87,88,80,Pending
 Mark Flekken,Saves 2+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,84,100,100,Pending
 Jeffrey De Lange,Saves 2+,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,86,100,100,Pending
 Bayer Leverkusen (team),Over 1.5,Bayer Leverkusen v Marseille,Thu 05 Nov · 20:00,Europa League,90,100,100,Pending
@@ -1478,57 +1532,3 @@ Aarón Herrera,Shots 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,,86,80
 Aarón Herrera,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,,86,100,Did not play
 Brandon Servania,Tackles 1+,Columbus Crew v DC United,Sat 31 Oct · 18:00,MLS,,87,100,Miss
 Matt Freese,Saves 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,87,80,Miss
-Gennadiy Synchuk,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,95,100,Hit
-Luighi,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,92,80,Hit
-CF Montréal (team),Cards 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,91,100,Hit
-CF Montréal (team),Over 1.5,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,84,100,Hit
-New York City FC (team),Over 1.5,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,88,100,Hit
-New York City FC (team),Scores 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,81,80,Hit
-Aiden O'Neill,Tackles 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,90,100,Did not play
-Nicolás Fernández,Fouled 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,100,100,Hit
-Nicolás Fernández,Fouled 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,84,100,Hit
-Nicolás Fernández,Fouls 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,84,100,Miss
-Nicolás Fernández,SOT 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,81,80,Hit
-Nicolás Fernández,Shots 1+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,97,80,Hit
-Nicolás Fernández,Shots 2+,New York City FC v CF Montréal,Sat 31 Oct · 18:00,MLS,,81,80,Hit
-Gabriel Martinelli,SOT 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,83,100,Did not play
-Gabriel Martinelli,Shots 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,100,100,Did not play
-Gabriel Martinelli,Shots 2+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,83,100,Did not play
-Mohammed Mahzari,Fouled 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,80,100,Hit
-Mohammed Mahzari,Tackles 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,100,100,Hit
-Kalidou Koulibaly,Fouls 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,80,80,Hit
-Kalidou Koulibaly,Tackles 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,80,100,Miss
-Al Hilal (team),Cards 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,80,100,Hit
-Al Hilal (team),Over 1.5,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,90,80,Hit
-Al Hilal (team),SOT 4+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,100,100,Hit
-Al Hilal (team),Scores 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,90,80,Hit
-Al Hilal (team),Win,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,90,80,Hit
-Sergej Milinković-Savić,Shots 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,89,100,Hit
-Rúben Neves,Fouls 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,80,80,Hit
-Rúben Neves,Shots 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,100,100,Hit
-Rúben Neves,Tackles 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,90,100,Hit
-Ollie Watkins,Fouled 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,86,80,Hit
-Ollie Watkins,SOT 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,86,80,Hit
-Ollie Watkins,Shots 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,100,100,Hit
-Ollie Watkins,Shots 2+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,86,80,Hit
-Mohamed Kanno,Tackles 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,89,80,Hit
-Crysencio Summerville,Fouled 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,100,100,Hit
-Crysencio Summerville,Shots 1+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,100,100,Hit
-Crysencio Summerville,Shots 2+,Al Hilal v Al Fateh FC,Sat 31 Oct · 18:00,Saudi Pro League (top 5),,90,100,Hit
-Sven Mijnans,Shots 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,88,80,Hit
-Kodai Sano,Tackles 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,89,100,Hit
-Esmir Bajraktarević,Shots 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,83,80,Miss
-Ruben van Bommel,Shots 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,100,100,Hit
-Ivan Perišić,Tackles 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,89,80,Miss
-Ayoni Santos,Tackles 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,83,80,Miss
-Noah Fernandez,Shots 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,83,80,Hit
-Noah Fernandez,Tackles 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,83,80,Hit
-Guus Til,Shots 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,90,100,Hit
-Armando Obispo,Tackles 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,80,80,Miss
-PSV Eindhoven (team),BTTS,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,90,80,Miss
-PSV Eindhoven (team),Cards 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,90,100,Miss
-PSV Eindhoven (team),Corners 4+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,80,80,Hit
-PSV Eindhoven (team),Over 1.5,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,100,100,Hit
-PSV Eindhoven (team),SOT 4+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,90,80,Hit
-PSV Eindhoven (team),Scores 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,100,100,Hit
-Mauro Júnior,Tackles 1+,PSV Eindhoven v Willem II,Sat 31 Oct · 17:45,Eredivisie (top 5),,100,100,Hit
