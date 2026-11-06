@@ -1,6 +1,6 @@
 "Next 24 hours · updated Fri 06 Nov 21:26 · True % = hit rate adjusted for small samples, the best guide in testing · Pick tracker: past picks hit 74% (5,263 graded)",,,,,,Key:,100%,90%+,80%+,70%+,60%+,50%+,Under 50%,Injured / suspended,Doubtful,Transferred,Under 6 games,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2026-11-06 21:26
 Pick,Market,True %,Season %,Last 5 %,When starting %,Games,Kick-off (UK),Match,Competition,Team,Opponent context,Note
-,"PLAYER PICKS: 100% this season, true rate 80%+  (128)"
+,"PLAYER PICKS: 100% this season, true rate 80%+  (127)"
 Darlin Yongwa,Tackles 1+,81,100,100,100,6,Sat 07 Nov · 12:30,Bristol City v Norwich City,Championship,Norwich City,,6 apps (3 starts); Tracker: this market hits 78% (1051 picks)
 Ebou Adams,Tackles 1+,90,100,100,100,14,Sat 07 Nov · 12:30,Portsmouth v Stoke City,Championship,Portsmouth,,14 apps (5 starts); Tracker: this market hits 78% (1051 picks)
 Daniel Bielica,Saves 2+,87,100,100,,4,Sat 07 Nov · 12:30,Portsmouth v Stoke City,Championship,Portsmouth,Stoke City: 3.6 shots on target/game,Small sample (4 games); 4 apps (4 starts); Tracker: this market hits 72% (201 picks)
@@ -79,7 +79,6 @@ Harvey Barnes,Shots 1+,84,100,100,100,9,Sat 07 Nov · 15:00,Fulham v Newcastle U
 Ángel Fortuno,Saves 2+,89,100,100,,4,Sat 07 Nov · 15:15,Espanyol v Deportivo A Coruña,La Liga,Espanyol,Deportivo A Coruña: 4.6 shots on target/game,Small sample (4 games); 4 apps (4 starts); Tracker: this market hits 72% (201 picks)
 Lorenzo Amatucci,Tackles 1+,85,100,100,100,9,Sat 07 Nov · 15:15,Espanyol v Deportivo A Coruña,La Liga,Deportivo A Coruña,,9 apps (8 starts); Regular starter: 100% when starting; Tracker: this market hits 78% (1051 picks)
 Lucas Torreira,Tackles 1+,85,100,100,100,9,Sat 07 Nov · 16:00,Galatasaray v Amed Sportif,"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray,,9 apps (9 starts); Regular starter: 100% when starting; Started Champions League game 3 days before: rotation risk; Tracker: this market hits 78% (1051 picks)
-Victor Osimhen,Shots 1+,81,100,100,100,8,Sat 07 Nov · 16:00,Galatasaray v Amed Sportif,"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray,Amed Sportif: 9.9 shots conceded/game,8 apps (7 starts); Regular starter: 100% when starting; Started Champions League game 3 days before: rotation risk; Tracker: this market hits 79% (902 picks)
 Tommaso Pobega,Shots 1+,84,100,100,100,9,Sat 07 Nov · 17:00,Parma v Bologna,Serie A,Bologna,Parma: 18.1 shots conceded/game,9 apps (9 starts); Regular starter: 100% when starting; Tracker: this market hits 79% (902 picks)
 Dennis Seimen,Saves 2+,90,100,100,,4,Sat 07 Nov · 17:30,VfB Stuttgart v Werder Bremen,Bundesliga,VfB Stuttgart,Werder Bremen: 6.6 shots on target/game,Small sample (4 games); 4 apps (4 starts); Tracker: this market hits 72% (201 picks)
 Bilal El Khannouss,Tackles 1+,84,100,100,100,8,Sat 07 Nov · 17:30,VfB Stuttgart v Werder Bremen,Bundesliga,VfB Stuttgart,,8 apps (4 starts); Started Champions League game 3 days before: rotation risk; Tracker: this market hits 78% (1051 picks)
@@ -322,8 +321,8 @@ Deportivo A Coruña (team),Cards 1+,92,91,80,–,11,Sat 07 Nov · 15:15,Espanyol
 Espanyol (team),Scores 1+,87,91,80,–,11,Sat 07 Nov · 15:15,Espanyol v Deportivo A Coruña,La Liga,Espanyol,Deportivo A Coruña: 1.27 goals conceded/game,Tracker: this market hits 81% (249 picks)
 Deportivo A Coruña (team),Over 1.5,81,82,80,–,11,Sat 07 Nov · 15:15,Espanyol v Deportivo A Coruña,La Liga,Deportivo A Coruña,Espanyol: 1.27 goals conceded/game,Tracker: this market hits 85% (277 picks)
 Galatasaray (team),Cards 1+,89,90,100,–,10,Sat 07 Nov · 16:00,Galatasaray v Amed Sportif,"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray,Amed Sportif: 10.6 fouls won/game,Tracker: this market hits 86% (346 picks)
+Galatasaray (team),SOT 4+,85,90,80,–,10,Sat 07 Nov · 16:00,Galatasaray v Amed Sportif,"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray,Amed Sportif: 3.5 SOT conceded/game,Tracker: this market hits 75% (137 picks)
 Galatasaray (team),Scores 1+,84,90,80,–,10,Sat 07 Nov · 16:00,Galatasaray v Amed Sportif,"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray,Amed Sportif: 1.1 goals conceded/game,Tracker: this market hits 81% (249 picks)
-Galatasaray (team),SOT 4+,84,90,80,–,10,Sat 07 Nov · 16:00,Galatasaray v Amed Sportif,"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray,Amed Sportif: 3.5 SOT conceded/game,Tracker: this market hits 75% (137 picks)
 Parma (team),Over 1.5,82,80,80,–,10,Sat 07 Nov · 17:00,Parma v Bologna,Serie A,Parma,Bologna: 1.3 goals conceded/game,Tracker: this market hits 85% (277 picks)
 Bologna (team),Cards 1+,80,80,100,–,10,Sat 07 Nov · 17:00,Parma v Bologna,Serie A,Bologna,Parma: 13.7 fouls won/game,Tracker: this market hits 86% (346 picks)
 Werder Bremen (team),SOT 4+,82,88,100,–,8,Sat 07 Nov · 17:30,VfB Stuttgart v Werder Bremen,Bundesliga,Werder Bremen,VfB Stuttgart: 5.6 SOT conceded/game,Tracker: this market hits 75% (137 picks)
