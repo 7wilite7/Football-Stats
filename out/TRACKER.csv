@@ -1,14 +1,14 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 07 Nov 2026 06:52 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 07 Nov 2026 06:53 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5282,3912,74,90,87
-Tackles 1+,1055,819,78,90,85
-Shots 1+,905,718,79,91,84
+All picks,5289,3919,74,90,87
+Tackles 1+,1056,820,78,90,85
+Shots 1+,906,719,79,91,84
 Fouled 1+,567,390,69,90,83
 Fouls 1+,529,343,65,88,83
-Cards 1+,350,303,87,93,91
-Over 1.5,278,235,85,91,90
+Cards 1+,352,305,87,93,90
+Over 1.5,279,236,85,91,90
 Scores 1+,251,201,80,92,88
-Saves 2+,204,148,73,92,88
+Saves 2+,206,150,73,92,88
 Shots 2+,203,145,71,90,
 SOT 4+,137,103,75,93,85
 SOT 1+,123,89,72,87,
@@ -637,14 +637,14 @@ Jordan Pickford,Saves 2+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier Lea
 Everton (team),Cards 1+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,81,78,80,Hit
 Everton (team),Corners 4+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,83,89,80,Miss
 Coventry City (team),Cards 1+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,81,78,60,Hit
-Maduka Okoye,Saves 2+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Pending
-Filip Stanković,Saves 2+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Pending
-Venezia (team),Cards 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,80,80,60,Pending
-John Yeboah,Shots 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,86,100,100,Pending
-Udinese (team),Cards 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Pending
-Udinese (team),Over 1.5,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,82,80,80,Pending
-Kike Pérez,Tackles 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,80,90,100,Pending
-Gianluca Busio,Tackles 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,82,100,100,Pending
+Maduka Okoye,Saves 2+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Hit
+Filip Stanković,Saves 2+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Hit
+Venezia (team),Cards 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,80,80,60,Hit
+John Yeboah,Shots 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,86,100,100,Hit
+Udinese (team),Cards 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,Hit
+Udinese (team),Over 1.5,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,82,80,80,Hit
+Kike Pérez,Tackles 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,80,90,100,Hit
+Gianluca Busio,Tackles 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,82,100,100,Did not play
 Filip Jörgensen,Saves 2+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,85,89,80,Pending
 Thomas Jørgensen,Shots 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,83,100,100,Pending
 Gessime Yassine,Tackles 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,86,100,100,Pending
