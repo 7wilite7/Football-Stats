@@ -1,15 +1,15 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 07 Nov 2026 06:51 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 07 Nov 2026 06:52 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5269,3903,74,90,87
-Tackles 1+,1051,815,78,90,85
-Shots 1+,904,718,79,91,84
+All picks,5282,3912,74,90,87
+Tackles 1+,1055,819,78,90,85
+Shots 1+,905,718,79,91,84
 Fouled 1+,567,390,69,90,83
-Fouls 1+,528,342,65,88,83
-Cards 1+,348,301,86,93,91
-Over 1.5,277,235,85,91,90
-Scores 1+,249,201,81,92,88
+Fouls 1+,529,343,65,88,83
+Cards 1+,350,303,87,93,91
+Over 1.5,278,235,85,91,90
+Scores 1+,251,201,80,92,88
+Saves 2+,204,148,73,92,88
 Shots 2+,203,145,71,90,
-Saves 2+,202,146,72,92,88
 SOT 4+,137,103,75,93,85
 SOT 1+,123,89,72,87,
 Tackles 2+,110,62,56,88,
@@ -32,103 +32,103 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
+Damian Las,Saves 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,90,100,100,Pending
+Austin FC (team),Cards 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,83,82,60,Pending
+Austin FC (team),Over 1.5,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,87,88,100,Pending
+Austin FC (team),Scores 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,82,82,100,Pending
+Portland Timbers (team),Cards 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,91,91,100,Pending
+Portland Timbers (team),Over 1.5,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,93,94,80,Pending
+Brad Stuver,Saves 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,88,89,80,Pending
+Kristoffer Velde,Fouled 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,91,97,100,Pending
+Kristoffer Velde,Shots 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,94,100,100,Pending
+Kristoffer Velde,Shots 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,80,88,100,Pending
+James Pantemis,Saves 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,81,82,40,Pending
+Myrto Uzuni,Shots 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,88,92,80,Pending
+Cole Bassett,Shots 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,87,93,80,Pending
+Miguel Navarro,Fouled 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,84,85,100,Pending
+Miguel Navarro,Fouls 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,84,81,80,Pending
+Jonathan Sirois,Saves 2+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,88,92,80,Pending
+Nolan Norris,Fouls 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,80,79,100,Pending
+Hamzat Ojediran,Tackles 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,80,83,80,Pending
+Wayne Frederick,Fouled 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,85,76,100,Pending
+Kaick Ferreira,Fouled 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,83,88,100,Pending
+FC Dallas (team),Cards 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,93,94,80,Pending
+FC Dallas (team),Cards 2+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,80,82,80,Pending
+Shaq Moore,Tackles 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,86,87,80,Pending
+Petar Musa,SOT 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,82,90,80,Pending
+Petar Musa,Shots 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,93,100,100,Pending
+Colorado Rapids (team),Cards 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,93,94,100,Pending
+Osaze Urhoghide,Tackles 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,81,85,100,Pending
+Rafael Navarro,Fouled 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,88,91,80,Pending
+Rafael Navarro,Fouls 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,80,85,100,Pending
+Rafael Navarro,Shots 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,91,97,100,Pending
+Jaziel Orozco,Tackles 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,81,82,80,Pending
+Simon Becher,Shots 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,83,88,80,Pending
+St. Louis City (team),Cards 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,88,88,80,Pending
+St. Louis City (team),Over 1.5,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,85,85,60,Pending
+Agustin Resch,Tackles 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,80,78,40,Pending
+Houston Dynamo FC (team),Cards 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,91,91,100,Pending
 Conrad Wallem,Fouls 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,84,89,80,Pending
 Christopher Durkin,Fouls 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,87,90,80,Pending
 Christopher Durkin,Tackles 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,85,90,100,Pending
-Jaziel Orozco,Tackles 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,81,82,80,Pending
-Simon Becher,Shots 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,83,88,80,Pending
-Sergi Solans,Shots 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,90,90,100,Pending
-Shaq Moore,Tackles 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,86,87,80,Pending
-Petar Musa,Shots 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,93,100,100,Pending
-Petar Musa,SOT 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,82,90,80,Pending
-Osaze Urhoghide,Tackles 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,81,85,100,Pending
-Kaick Ferreira,Fouled 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,83,88,100,Pending
-Brad Stuver,Saves 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,88,89,80,Pending
-Tomás Chancalay,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,81,85,60,Pending
-Myrto Uzuni,Shots 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,88,92,80,Pending
-Kelvin Yeboah,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,93,97,100,Pending
+Lyle Foster,Fouls 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,80,86,100,Pending
+Mateusz Bogusz,Fouled 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,82,84,100,Pending
+Mateusz Bogusz,Shots 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,91,94,80,Pending
+Preston Judd,Fouled 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,82,80,100,Pending
+Preston Judd,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,89,97,100,Pending
 Nectarios Triantis,Tackles 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,87,78,80,Pending
 Anthony Markanich,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,82,84,60,Pending
 Anthony Markanich,Tackles 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,86,91,100,Pending
-Mateusz Bogusz,Shots 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,91,94,80,Pending
-Mateusz Bogusz,Fouled 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,82,84,100,Pending
-Heung-Min Son,Shots 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,90,97,100,Pending
-Heung-Min Son,Shots 2+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,84,87,100,Pending
-Sergi Palencia,Fouls 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,84,82,80,Pending
-Denis Bouanga,Shots 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,91,97,100,Pending
-Eddie Segura,Tackles 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,80,85,80,Pending
-Evgen Cheberko,Tackles 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,91,90,100,Pending
-Kristoffer Velde,Shots 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,94,100,100,Pending
-Kristoffer Velde,Shots 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,80,88,100,Pending
-Kristoffer Velde,Fouled 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,91,97,100,Pending
-James Pantemis,Saves 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,81,82,40,Pending
-Cole Bassett,Shots 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,87,93,80,Pending
+Cherrion Valerius,Tackles 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,81,100,100,Pending
+Beau Leroux,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,80,84,60,Pending
+Minnesota United (team),Cards 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,91,91,80,Pending
+Minnesota United (team),Scores 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,82,82,80,Pending
+Earl Edwards Jr.,Saves 2+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,89,100,100,Pending
+San Jose Earthquakes (team),Cards 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,91,91,80,Pending
+San Jose Earthquakes (team),Over 1.5,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,82,82,100,Pending
+San Jose Earthquakes (team),Scores 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,84,85,80,Pending
+Ronaldo Vieira,Fouls 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,83,88,100,Pending
+Tomás Chancalay,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,81,85,60,Pending
+Kelvin Yeboah,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,93,97,100,Pending
+Morgan Guilavogui,Shots 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,80,85,100,Pending
+Kobi Henry,Fouls 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,80,83,100,Pending
+Sergi Solans,Shots 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,90,90,100,Pending
+Hirving Lozano,Fouls 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,81,100,100,Pending
+Stijn Spierings,Tackles 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,84,88,80,Pending
+Real Salt Lake (team),Cards 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,93,94,100,Pending
+Real Salt Lake (team),Over 1.5,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,93,94,100,Pending
+Real Salt Lake (team),Scores 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,82,82,100,Pending
+LA Galaxy (team),Cards 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,93,94,100,Pending
+LA Galaxy (team),Over 1.5,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,90,91,100,Pending
+LA Galaxy (team),Scores 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,87,88,100,Pending
+João Klauss,Shots 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,80,94,100,Pending
+James Marcinkowski,Saves 2+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,84,85,60,Pending
+Joseph Paintsil,Shots 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,83,84,60,Pending
+Jansen Miller,Fouls 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,83,79,100,Pending
+André Luiz,Shots 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,85,92,100,Pending
+San Diego FC (team),Cards 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,85,85,80,Pending
+San Diego FC (team),Scores 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,84,85,100,Pending
 Aníbal Godoy,Fouled 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,88,83,80,Pending
 Marcus Ingvartsen,Shots 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,81,86,100,Pending
 Anders Dreyer,Shots 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,91,97,80,Pending
-Ronaldo Vieira,Fouls 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,83,88,100,Pending
-Dejan Joveljić,Shots 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,88,93,100,Pending
-Jansen Miller,Fouls 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,83,79,100,Pending
-Preston Judd,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,89,97,100,Pending
-Preston Judd,Fouled 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,82,80,100,Pending
-Beau Leroux,Shots 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,80,84,60,Pending
-João Klauss,Shots 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,80,94,100,Pending
-Joseph Paintsil,Shots 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,83,84,60,Pending
+Emir Karić,Tackles 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,86,89,80,Pending
+Sporting Kansas City (team),Cards 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,80,79,60,Pending
+Sporting Kansas City (team),Over 1.5,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,95,97,100,Pending
+Stefan Cleveland,Saves 2+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,82,83,80,Pending
+Andrew Thomas,Saves 2+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,81,82,60,Pending
+Seattle Sounders FC (team),Cards 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,85,85,80,Pending
+Heung-Min Son,Shots 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,90,97,100,Pending
+Heung-Min Son,Shots 2+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,84,87,100,Pending
 Albert Rusnák,Shots 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,90,91,80,Pending
 Cristian Roldan,Shots 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,80,76,80,Pending
 Cristian Roldan,Tackles 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,85,92,80,Pending
+Sergi Palencia,Fouls 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,84,82,80,Pending
+Denis Bouanga,Shots 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,91,97,100,Pending
+Dejan Joveljić,Shots 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,88,93,100,Pending
+Evgen Cheberko,Tackles 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,91,90,100,Pending
 Nouhou Tolo,Fouled 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,80,82,100,Pending
-Miguel Navarro,Fouls 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,84,81,80,Pending
-Miguel Navarro,Fouled 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,84,85,100,Pending
-Rafael Navarro,Shots 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,91,97,100,Pending
-Rafael Navarro,Fouls 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,80,85,100,Pending
-Rafael Navarro,Fouled 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,88,91,80,Pending
-Andrew Thomas,Saves 2+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,81,82,60,Pending
-Hamzat Ojediran,Tackles 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,80,83,80,Pending
-Wayne Frederick,Fouled 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,85,76,100,Pending
-Morgan Guilavogui,Shots 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,80,85,100,Pending
-Agustin Resch,Tackles 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,80,78,40,Pending
-Nolan Norris,Fouls 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,80,79,100,Pending
-Stijn Spierings,Tackles 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,84,88,80,Pending
-James Marcinkowski,Saves 2+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,84,85,60,Pending
-Earl Edwards Jr.,Saves 2+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,89,100,100,Pending
-Stefan Cleveland,Saves 2+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,82,83,80,Pending
-Jonathan Sirois,Saves 2+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,88,92,80,Pending
-Emir Karić,Tackles 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,86,89,80,Pending
-Hirving Lozano,Fouls 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,81,100,100,Pending
-Damian Las,Saves 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,90,100,100,Pending
-Kobi Henry,Fouls 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,80,83,100,Pending
-André Luiz,Shots 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,85,92,100,Pending
-Lyle Foster,Fouls 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,80,86,100,Pending
-Cherrion Valerius,Tackles 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,81,100,100,Pending
-St. Louis City (team),Over 1.5,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,85,85,60,Pending
-St. Louis City (team),Cards 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,88,88,80,Pending
-Real Salt Lake (team),Scores 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,82,82,100,Pending
-Real Salt Lake (team),Over 1.5,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,93,94,100,Pending
-Real Salt Lake (team),Cards 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,93,94,100,Pending
-FC Dallas (team),Cards 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,93,94,80,Pending
-FC Dallas (team),Cards 2+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,80,82,80,Pending
-Austin FC (team),Scores 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,82,82,100,Pending
-Austin FC (team),Over 1.5,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,87,88,100,Pending
-Austin FC (team),Cards 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,83,82,60,Pending
-Minnesota United (team),Scores 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,82,82,80,Pending
-Minnesota United (team),Cards 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,91,91,80,Pending
-Houston Dynamo FC (team),Cards 1+,Houston Dynamo FC v St. Louis City,Sun 08 Nov · 00:00,MLS,91,91,100,Pending
+Eddie Segura,Tackles 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,80,85,80,Pending
 Los Angeles FC (team),Scores 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,82,82,100,Pending
-Portland Timbers (team),Over 1.5,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,93,94,80,Pending
-Portland Timbers (team),Cards 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,91,91,100,Pending
-San Diego FC (team),Scores 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,84,85,100,Pending
-San Diego FC (team),Cards 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,85,85,80,Pending
-San Jose Earthquakes (team),Scores 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,84,85,80,Pending
-San Jose Earthquakes (team),Over 1.5,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,82,82,100,Pending
-San Jose Earthquakes (team),Cards 1+,Minnesota United v San Jose Earthquakes,Sun 08 Nov · 00:00,MLS,91,91,80,Pending
-Sporting Kansas City (team),Over 1.5,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,95,97,100,Pending
-Sporting Kansas City (team),Cards 1+,San Diego FC v Sporting Kansas City,Sun 08 Nov · 00:00,MLS,80,79,60,Pending
-LA Galaxy (team),Scores 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,87,88,100,Pending
-LA Galaxy (team),Over 1.5,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,90,91,100,Pending
-LA Galaxy (team),Cards 1+,Real Salt Lake v LA Galaxy,Sun 08 Nov · 00:00,MLS,93,94,100,Pending
-Seattle Sounders FC (team),Cards 1+,Seattle Sounders FC v Los Angeles FC,Sun 08 Nov · 00:00,MLS,85,85,80,Pending
-Colorado Rapids (team),Cards 1+,FC Dallas v Colorado Rapids,Sun 08 Nov · 00:00,MLS,93,94,100,Pending
 Santiago Rodríguez,Tackles 1+,Chicago Fire FC v Columbus Crew,Sat 07 Nov · 21:00,MLS,81,91,100,Pending
 Anass Zaroury,Shots 1+,Chicago Fire FC v Columbus Crew,Sat 07 Nov · 21:00,MLS,80,100,100,Pending
 Patrick Schulte,Saves 2+,Chicago Fire FC v Columbus Crew,Sat 07 Nov · 21:00,MLS,87,88,80,Pending
@@ -618,19 +618,19 @@ Bobby Clark,Shots 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Champio
 Joe Ward,Tackles 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,83,80,100,Pending
 Bolton Wanderers (team),Cards 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,80,79,100,Pending
 Gavin Bazunu,Saves 2+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,81,86,80,Pending
-Juan Iglesias,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,100,100,Pending
-Nicolás Valentini,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,80,71,100,Pending
-Ángel Pérez,Shots 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,83,90,80,Pending
-Odysseas Vlachodimos,Saves 2+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,91,100,Pending
-Antonio Sivera,Saves 2+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,82,60,Pending
-Lucas Boyé,Fouls 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,85,100,100,Pending
-Sevilla (team),Cards 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,98,100,100,Pending
-Sevilla (team),Over 1.5,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,82,100,Pending
-Sevilla (team),Scores 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,93,100,100,Pending
-Nahuel Tenaglia,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,91,80,Pending
-Lucien Agoumé,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,100,100,Pending
-Deportivo Alavés (team),Cards 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,92,91,80,Pending
-Deportivo Alavés (team),Scores 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,80,82,80,Pending
+Juan Iglesias,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,100,100,Hit
+Nicolás Valentini,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,80,71,100,Hit
+Ángel Pérez,Shots 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,83,90,80,Miss
+Odysseas Vlachodimos,Saves 2+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,91,100,Hit
+Antonio Sivera,Saves 2+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,82,60,Hit
+Lucas Boyé,Fouls 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,85,100,100,Hit
+Sevilla (team),Cards 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,98,100,100,Hit
+Sevilla (team),Over 1.5,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,82,100,Miss
+Sevilla (team),Scores 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,93,100,100,Miss
+Nahuel Tenaglia,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,81,91,80,Hit
+Lucien Agoumé,Tackles 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,88,100,100,Hit
+Deportivo Alavés (team),Cards 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,92,91,80,Hit
+Deportivo Alavés (team),Scores 1+,Sevilla v Deportivo Alavés,Fri 06 Nov · 20:00,La Liga,80,82,80,Miss
 Jack Rudoni,Shots 1+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,83,100,100,Hit
 Thierno Barry,Shots 1+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,84,100,100,Hit
 Jordan Pickford,Saves 2+,Everton v Coventry City,Fri 06 Nov · 20:00,Premier League,84,89,100,Hit

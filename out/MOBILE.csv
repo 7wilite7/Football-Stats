@@ -1,4 +1,4 @@
-"Today · updated Sat 07 Nov 06:51 · Pick tracker: past picks hit 74% (5,263 graded)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2026-11-07 06:51
+"Today · updated Sat 07 Nov 06:52 · Pick tracker: past picks hit 74% (5,269 graded)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2026-11-07 06:52
 Pick,True %,Game
 ,PLAYER 100% PICKS  (132)
 James Trafford · Saves 2+,92,12:30 Sat · Leeds United v Tottenham Hotspur
@@ -79,6 +79,8 @@ Taïryk Arconte · Shots 1+,83,15:00 Sat · West Bromwich Albion v Millwall
 Lorenzo Amatucci · Tackles 1+,85,15:15 Sat · Espanyol v Deportivo A Coruña
 Lucas Torreira · Tackles 1+,85,16:00 Sat · Galatasaray v Amed Sportif
 Tommaso Pobega · Shots 1+,84,17:00 Sat · Parma v Bologna
+Abel Bretones · Fouls 1+,84,17:30 Sat · Osasuna v Athletic Club
+Nico Williams · Shots 1+,83,17:30 Sat · Osasuna v Athletic Club
 Daniel Muñoz · Tackles 1+,85,17:30 Sat · Nottingham Forest v Manchester City
 Erling Haaland · Shots 1+,84,17:30 Sat · Nottingham Forest v Manchester City
 Elliot Anderson · Fouled 1+,82,17:30 Sat · Nottingham Forest v Manchester City
@@ -91,8 +93,6 @@ Olivier Deman · Tackles 1+,84,17:30 Sat · VfB Stuttgart v Werder Bremen
 Youri Regeer · Tackles 1+,83,17:30 Sat · VfB Stuttgart v Werder Bremen
 Marco Grüll · Fouls 1+,82,17:30 Sat · VfB Stuttgart v Werder Bremen
 Ermedin Demirović · Shots 1+,80,17:30 Sat · VfB Stuttgart v Werder Bremen
-Abel Bretones · Fouls 1+,84,17:30 Sat · Osasuna v Athletic Club
-Nico Williams · Shots 1+,83,17:30 Sat · Osasuna v Athletic Club
 Pablo Pagis · Fouls 1+,85,18:00 Sat · Auxerre v Paris FC
 Ilan Kebbal · Shots 1+,83,18:00 Sat · Auxerre v Paris FC
 Cameron Archer · Shots 1+,80,18:00 Sat · Auxerre v Paris FC
@@ -178,14 +178,14 @@ Barış Alper Yılmaz · Shots 1+,81,16:00 Sat · Galatasaray v Amed Sportif
 Jens Odgaard · Shots 1+,80,17:00 Sat · Parma v Bologna
 Lewis Ferguson · Tackles 1+,80,17:00 Sat · Parma v Bologna
 Mandela Keita · Tackles 1+,80,17:00 Sat · Parma v Bologna
-Elliot Anderson · Tackles 1+,85,17:30 Sat · Nottingham Forest v Manchester City
-Xaver Schlager · Shots 1+,83,17:30 Sat · Nottingham Forest v Manchester City
-Abdukodir Khusanov · Tackles 1+,80,17:30 Sat · Nottingham Forest v Manchester City
-Matheus Nunes · Tackles 1+,80,17:30 Sat · Nottingham Forest v Manchester City
 Ante Budimir · Shots 1+,83,17:30 Sat · Osasuna v Athletic Club
 Iñigo Arguibide · Tackles 1+,81,17:30 Sat · Osasuna v Athletic Club
 Rubén Garcia · Tackles 1+,81,17:30 Sat · Osasuna v Athletic Club
 Jon Moncayola · Tackles 1+,80,17:30 Sat · Osasuna v Athletic Club
+Elliot Anderson · Tackles 1+,85,17:30 Sat · Nottingham Forest v Manchester City
+Xaver Schlager · Shots 1+,83,17:30 Sat · Nottingham Forest v Manchester City
+Abdukodir Khusanov · Tackles 1+,80,17:30 Sat · Nottingham Forest v Manchester City
+Matheus Nunes · Tackles 1+,80,17:30 Sat · Nottingham Forest v Manchester City
 Hamari Traoré · Tackles 1+,82,18:00 Sat · Auxerre v Paris FC
 Matias Soulé · Shots 1+,82,19:45 Sat · Roma v Sassuolo
 Jude Bellingham · Tackles 1+,87,20:00 Sat · Valencia v Real Madrid
@@ -284,12 +284,12 @@ Lincoln City · Cards 1+,97,15:00 Sat · Queens Park Rangers v Lincoln City
 West Bromwich Albion · Cards 1+,97,15:00 Sat · West Bromwich Albion v Millwall
 Espanyol · Cards 1+,98,15:15 Sat · Espanyol v Deportivo A Coruña
 Espanyol · Cards 2+,92,15:15 Sat · Espanyol v Deportivo A Coruña
+Osasuna · Cards 1+,98,17:30 Sat · Osasuna v Athletic Club
 Nottingham Forest · Cards 1+,96,17:30 Sat · Nottingham Forest v Manchester City
 Werder Bremen · Cards 1+,96,17:30 Sat · VfB Stuttgart v Werder Bremen
 Werder Bremen · Over 1.5,94,17:30 Sat · VfB Stuttgart v Werder Bremen
 Werder Bremen · Scores 1+,92,17:30 Sat · VfB Stuttgart v Werder Bremen
 VfB Stuttgart · SOT 4+,91,17:30 Sat · VfB Stuttgart v Werder Bremen
-Osasuna · Cards 1+,98,17:30 Sat · Osasuna v Athletic Club
 Auxerre · Scores 1+,93,18:00 Sat · Auxerre v Paris FC
 Sassuolo · Over 1.5,96,19:45 Sat · Roma v Sassuolo
 Valencia · Cards 1+,98,20:00 Sat · Valencia v Real Madrid
@@ -315,7 +315,7 @@ Wolverhampton Wanderers · Scores 1+,90,12:30 Sat · Wrexham v Wolverhampton Wan
 Wrexham · Cards 1+,86,12:30 Sat · Wrexham v Wolverhampton Wanderers
 Wrexham · Over 1.5,84,12:30 Sat · Wrexham v Wolverhampton Wanderers
 Racing Santander · Over 1.5,87,13:00 Sat · Málaga v Racing Santander
-Málaga · Over 1.5,81,13:00 Sat · Málaga v Racing Santander
+Málaga · Over 1.5,80,13:00 Sat · Málaga v Racing Santander
 Frosinone · Over 1.5,89,14:00 Sat · Cagliari v Frosinone
 Cagliari · Cards 1+,80,14:00 Sat · Cagliari v Frosinone
 Lecce · Over 1.5,89,14:00 Sat · Torino v Lecce
@@ -352,28 +352,28 @@ Millwall · Cards 1+,91,15:00 Sat · West Bromwich Albion v Millwall
 Millwall · Over 1.5,84,15:00 Sat · West Bromwich Albion v Millwall
 West Bromwich Albion · Scores 1+,84,15:00 Sat · West Bromwich Albion v Millwall
 Deportivo A Coruña · Cards 1+,92,15:15 Sat · Espanyol v Deportivo A Coruña
-Espanyol · Scores 1+,87,15:15 Sat · Espanyol v Deportivo A Coruña
-Deportivo A Coruña · Over 1.5,81,15:15 Sat · Espanyol v Deportivo A Coruña
+Espanyol · Scores 1+,86,15:15 Sat · Espanyol v Deportivo A Coruña
+Deportivo A Coruña · Over 1.5,80,15:15 Sat · Espanyol v Deportivo A Coruña
 Galatasaray · Cards 1+,89,16:00 Sat · Galatasaray v Amed Sportif
 Galatasaray · SOT 4+,85,16:00 Sat · Galatasaray v Amed Sportif
 Galatasaray · Scores 1+,84,16:00 Sat · Galatasaray v Amed Sportif
 Parma · Over 1.5,82,17:00 Sat · Parma v Bologna
 Bologna · Cards 1+,80,17:00 Sat · Parma v Bologna
+Athletic Club · Cards 1+,91,17:30 Sat · Osasuna v Athletic Club
+Osasuna · Over 1.5,80,17:30 Sat · Osasuna v Athletic Club
 Manchester City · Scores 1+,83,17:30 Sat · Nottingham Forest v Manchester City
 Manchester City · Cards 1+,81,17:30 Sat · Nottingham Forest v Manchester City
 Manchester City · SOT 4+,81,17:30 Sat · Nottingham Forest v Manchester City
 Werder Bremen · SOT 4+,82,17:30 Sat · VfB Stuttgart v Werder Bremen
-Athletic Club · Cards 1+,91,17:30 Sat · Osasuna v Athletic Club
-Osasuna · Over 1.5,81,17:30 Sat · Osasuna v Athletic Club
 Auxerre · Cards 1+,89,18:00 Sat · Auxerre v Paris FC
 Paris FC · Cards 1+,89,18:00 Sat · Auxerre v Paris FC
 Auxerre · Over 1.5,86,18:00 Sat · Auxerre v Paris FC
 Roma · Over 1.5,89,19:45 Sat · Roma v Sassuolo
 Sassuolo · Cards 1+,87,19:45 Sat · Roma v Sassuolo
 Roma · Scores 1+,87,19:45 Sat · Roma v Sassuolo
-Real Madrid · Scores 1+,87,20:00 Sat · Valencia v Real Madrid
+Real Madrid · Scores 1+,86,20:00 Sat · Valencia v Real Madrid
 Real Madrid · SOT 4+,83,20:00 Sat · Valencia v Real Madrid
-Real Madrid · Over 1.5,81,20:00 Sat · Valencia v Real Madrid
+Real Madrid · Over 1.5,80,20:00 Sat · Valencia v Real Madrid
 Rangers · Cards 1+,90,20:00 Sat · St. Mirren v Rangers
 Paris Saint-Germain · Over 1.5,86,20:05 Sat · Paris Saint-Germain v Troyes
 Troyes · Cards 1+,81,20:05 Sat · Paris Saint-Germain v Troyes
