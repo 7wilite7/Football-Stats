@@ -2879,6 +2879,22 @@
 "utc": "2026-11-07T15:00:00Z",
 "who": "Oli McBurnie"
 },
+"5795505|710159|Fouled 1+ %": {
+"fixture": "5795505",
+"games": 8,
+"key": "Fouled 1+ %",
+"l5": 100,
+"league": "Premier League",
+"market": "Fouled 1+",
+"match": "Arsenal v Hull City",
+"pid": 710159,
+"result": "",
+"season": 88,
+"tid": null,
+"true": 80,
+"utc": "2026-11-07T15:00:00.000Z",
+"who": "Ezri Konsa"
+},
 "5795505|8667|Cards 1+ %": {
 "fixture": "5795505",
 "games": 9,
