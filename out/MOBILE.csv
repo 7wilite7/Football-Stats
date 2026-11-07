@@ -1,6 +1,10 @@
-"Today · updated Sat 07 Nov 06:54 · Pick tracker: past picks hit 74% (5,298 graded)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2026-11-07 06:54
+"Today · updated Sat 07 Nov 06:55 · Pick tracker: past picks hit 74% (5,306 graded)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2026-11-07 06:55
 Pick,True %,Game
 ,PLAYER 100% PICKS  (132)
+Darlin Yongwa · Tackles 1+,81,12:30 Sat · Bristol City v Norwich City
+Ebou Adams · Tackles 1+,90,12:30 Sat · Portsmouth v Stoke City
+Daniel Bielica · Saves 2+,87,12:30 Sat · Portsmouth v Stoke City
+Fer López · Shots 1+,87,12:30 Sat · Wrexham v Wolverhampton Wanderers
 James Trafford · Saves 2+,92,12:30 Sat · Leeds United v Tottenham Hotspur
 Ethan Ampadu · Tackles 1+,86,12:30 Sat · Leeds United v Tottenham Hotspur
 James Justin · Tackles 1+,86,12:30 Sat · Leeds United v Tottenham Hotspur
@@ -8,10 +12,6 @@ Jayden Bogle · Fouls 1+,84,12:30 Sat · Leeds United v Tottenham Hotspur
 Ao Tanaka · Tackles 1+,83,12:30 Sat · Leeds United v Tottenham Hotspur
 Gabriel Gudmundsson · Tackles 1+,83,12:30 Sat · Leeds United v Tottenham Hotspur
 Gabriel Gudmundsson · Fouled 1+,80,12:30 Sat · Leeds United v Tottenham Hotspur
-Darlin Yongwa · Tackles 1+,81,12:30 Sat · Bristol City v Norwich City
-Ebou Adams · Tackles 1+,90,12:30 Sat · Portsmouth v Stoke City
-Daniel Bielica · Saves 2+,87,12:30 Sat · Portsmouth v Stoke City
-Fer López · Shots 1+,87,12:30 Sat · Wrexham v Wolverhampton Wanderers
 Alfonso Herrero · Saves 2+,94,13:00 Sat · Málaga v Racing Santander
 David Larrubia · Tackles 1+,87,13:00 Sat · Málaga v Racing Santander
 Adrián Niño · Shots 1+,80,13:00 Sat · Málaga v Racing Santander
@@ -48,19 +48,11 @@ Ezechiel Banzuzi · Fouls 1+,82,14:30 Sat · RB Leipzig v Augsburg
 Rômulo · Tackles 1+,81,14:30 Sat · RB Leipzig v Augsburg
 Arijon Ibrahimović · Shots 1+,80,14:30 Sat · RB Leipzig v Augsburg
 Rômulo · Shots 1+,80,14:30 Sat · RB Leipzig v Augsburg
-Mohamed Belloumi · Shots 1+,83,15:00 Sat · Arsenal v Hull City
-Oli McBurnie · Fouled 1+,83,15:00 Sat · Arsenal v Hull City
-Myles Lewis-Skelly · Fouled 1+,80,15:00 Sat · Arsenal v Hull City
-Lukás Hornícek · Saves 2+,92,15:00 Sat · Fulham v Newcastle United
-Calvin Bassey · Tackles 1+,86,15:00 Sat · Fulham v Newcastle United
-Antonee Robinson · Tackles 1+,85,15:00 Sat · Fulham v Newcastle United
-Gonzalo García · Shots 1+,84,15:00 Sat · Fulham v Newcastle United
-Harvey Barnes · Shots 1+,84,15:00 Sat · Fulham v Newcastle United
-Jay Stansfield · Shots 1+,88,15:00 Sat · Birmingham City v Swansea City
+Jay Stansfield · Shots 1+,89,15:00 Sat · Birmingham City v Swansea City
+Jarrod Bowen · Shots 1+,89,15:00 Sat · Blackburn Rovers v West Ham United
 Kristi Montgomery · Tackles 1+,89,15:00 Sat · Blackburn Rovers v West Ham United
-Jarrod Bowen · Shots 1+,88,15:00 Sat · Blackburn Rovers v West Ham United
 Konstantinos Mavropanos · Tackles 1+,88,15:00 Sat · Blackburn Rovers v West Ham United
-Jack Moylan · Shots 1+,88,15:00 Sat · Cardiff City v Burnley
+Jack Moylan · Shots 1+,89,15:00 Sat · Cardiff City v Burnley
 Jack Moylan · Fouled 1+,88,15:00 Sat · Cardiff City v Burnley
 Largie Ramazani · Shots 1+,84,15:00 Sat · Cardiff City v Burnley
 Conor Coventry · Tackles 1+,88,15:00 Sat · Charlton Athletic v Sheffield United
@@ -75,6 +67,14 @@ Will Lankshear · Shots 1+,87,15:00 Sat · Watford v Middlesbrough
 Amario Cozier-Duberry · Shots 1+,84,15:00 Sat · Watford v Middlesbrough
 Jenson Metcalfe · Tackles 1+,89,15:00 Sat · West Bromwich Albion v Millwall
 Taïryk Arconte · Shots 1+,83,15:00 Sat · West Bromwich Albion v Millwall
+Mohamed Belloumi · Shots 1+,83,15:00 Sat · Arsenal v Hull City
+Oli McBurnie · Fouled 1+,83,15:00 Sat · Arsenal v Hull City
+Myles Lewis-Skelly · Fouled 1+,80,15:00 Sat · Arsenal v Hull City
+Lukás Hornícek · Saves 2+,92,15:00 Sat · Fulham v Newcastle United
+Calvin Bassey · Tackles 1+,86,15:00 Sat · Fulham v Newcastle United
+Antonee Robinson · Tackles 1+,85,15:00 Sat · Fulham v Newcastle United
+Gonzalo García · Shots 1+,84,15:00 Sat · Fulham v Newcastle United
+Harvey Barnes · Shots 1+,84,15:00 Sat · Fulham v Newcastle United
 Ángel Fortuno · Saves 2+,89,15:15 Sat · Espanyol v Deportivo A Coruña
 Lorenzo Amatucci · Tackles 1+,85,15:15 Sat · Espanyol v Deportivo A Coruña
 Lucas Torreira · Tackles 1+,85,16:00 Sat · Galatasaray v Amed Sportif
@@ -135,7 +135,6 @@ Cherrion Valerius · Tackles 1+,81,00:00 Sun · Minnesota United v San Jose Eart
 Hirving Lozano · Fouls 1+,81,00:00 Sun · Real Salt Lake v LA Galaxy
 
 ,PLAYER TOP PICKS  (125)
-Omar Marmoush · Shots 1+,81,12:30 Sat · Leeds United v Tottenham Hotspur
 Jack Stacey · Tackles 1+,87,12:30 Sat · Bristol City v Norwich City
 Pelle Mattsson · Tackles 1+,87,12:30 Sat · Bristol City v Norwich City
 Dominic Ballard · Shots 1+,83,12:30 Sat · Bristol City v Norwich City
@@ -145,6 +144,7 @@ Jack McGlynn · Shots 1+,83,12:30 Sat · Portsmouth v Stoke City
 Adrian Segečić · Shots 1+,82,12:30 Sat · Portsmouth v Stoke City
 Kieffer Moore · Shots 1+,87,12:30 Sat · Wrexham v Wolverhampton Wanderers
 André · Tackles 1+,84,12:30 Sat · Wrexham v Wolverhampton Wanderers
+Omar Marmoush · Shots 1+,81,12:30 Sat · Leeds United v Tottenham Hotspur
 Jorge Salinas · Tackles 1+,86,13:00 Sat · Málaga v Racing Santander
 Yassir Zabiri · Shots 1+,82,13:00 Sat · Málaga v Racing Santander
 Jamil Siebert · Tackles 1+,83,14:00 Sat · Torino v Lecce
@@ -153,7 +153,6 @@ Danilo Veiga · Tackles 1+,80,14:00 Sat · Torino v Lecce
 Joshua Kimmich · Tackles 1+,81,14:30 Sat · Mainz 05 v Bayern München
 Younes Ebnoutalib · Shots 1+,80,14:30 Sat · Paderborn v Eintracht Frankfurt
 Michael Gregoritsch · Shots 1+,80,14:30 Sat · RB Leipzig v Augsburg
-Mohamed Belloumi · Tackles 1+,85,15:00 Sat · Arsenal v Hull City
 Jhon Solís · Tackles 1+,82,15:00 Sat · Birmingham City v Swansea City
 Sam Morsy · Tackles 1+,81,15:00 Sat · Blackburn Rovers v West Ham United
 Largie Ramazani · Tackles 1+,86,15:00 Sat · Cardiff City v Burnley
@@ -173,6 +172,7 @@ Ousmane Diakité · Tackles 1+,87,15:00 Sat · West Bromwich Albion v Millwall
 Lyndon Dykes · Shots 1+,86,15:00 Sat · West Bromwich Albion v Millwall
 Callum Styles · Tackles 1+,84,15:00 Sat · West Bromwich Albion v Millwall
 Isaac Price · Shots 1+,82,15:00 Sat · West Bromwich Albion v Millwall
+Mohamed Belloumi · Tackles 1+,85,15:00 Sat · Arsenal v Hull City
 Bil Nsongo · Shots 1+,85,15:15 Sat · Espanyol v Deportivo A Coruña
 Barış Alper Yılmaz · Shots 1+,81,16:00 Sat · Galatasaray v Amed Sportif
 Jens Odgaard · Shots 1+,80,17:00 Sat · Parma v Bologna
@@ -276,12 +276,12 @@ RB Leipzig · Over 1.5,94,14:30 Sat · RB Leipzig v Augsburg
 Augsburg · Scores 1+,92,14:30 Sat · RB Leipzig v Augsburg
 Augsburg · SOT 4+,91,14:30 Sat · RB Leipzig v Augsburg
 RB Leipzig · Match corners 9+,91,14:30 Sat · RB Leipzig v Augsburg
-Arsenal · Cards 1+,96,15:00 Sat · Arsenal v Hull City
-Newcastle United · Cards 1+,96,15:00 Sat · Fulham v Newcastle United
 West Ham United · Scores 1+,95,15:00 Sat · Blackburn Rovers v West Ham United
 Preston North End · Cards 1+,97,15:00 Sat · Preston North End v Southampton
 Lincoln City · Cards 1+,97,15:00 Sat · Queens Park Rangers v Lincoln City
 West Bromwich Albion · Cards 1+,97,15:00 Sat · West Bromwich Albion v Millwall
+Arsenal · Cards 1+,96,15:00 Sat · Arsenal v Hull City
+Newcastle United · Cards 1+,96,15:00 Sat · Fulham v Newcastle United
 Espanyol · Cards 1+,98,15:15 Sat · Espanyol v Deportivo A Coruña
 Espanyol · Cards 2+,92,15:15 Sat · Espanyol v Deportivo A Coruña
 Werder Bremen · Cards 1+,96,17:30 Sat · VfB Stuttgart v Werder Bremen
@@ -303,8 +303,6 @@ Sporting CP · Scores 1+,92,20:30 Sat · Sporting CP v Moreirense
 Sporting CP · Over 1.5,92,20:30 Sat · Sporting CP v Moreirense
 
 ,TEAM TOP PICKS  (117)
-Leeds United · Cards 1+,89,12:30 Sat · Leeds United v Tottenham Hotspur
-Tottenham Hotspur · Cards 1+,89,12:30 Sat · Leeds United v Tottenham Hotspur
 Bristol City · Cards 1+,80,12:30 Sat · Bristol City v Norwich City
 Norwich City · Cards 1+,80,12:30 Sat · Bristol City v Norwich City
 Norwich City · SOT 4+,80,12:30 Sat · Bristol City v Norwich City
@@ -314,6 +312,8 @@ Portsmouth · Cards 1+,80,12:30 Sat · Portsmouth v Stoke City
 Wolverhampton Wanderers · Scores 1+,90,12:30 Sat · Wrexham v Wolverhampton Wanderers
 Wrexham · Cards 1+,86,12:30 Sat · Wrexham v Wolverhampton Wanderers
 Wrexham · Over 1.5,84,12:30 Sat · Wrexham v Wolverhampton Wanderers
+Leeds United · Cards 1+,89,12:30 Sat · Leeds United v Tottenham Hotspur
+Tottenham Hotspur · Cards 1+,89,12:30 Sat · Leeds United v Tottenham Hotspur
 Racing Santander · Over 1.5,87,13:00 Sat · Málaga v Racing Santander
 Málaga · Over 1.5,80,13:00 Sat · Málaga v Racing Santander
 Frosinone · Over 1.5,89,14:00 Sat · Cagliari v Frosinone
@@ -330,9 +330,6 @@ Paderborn · Cards 1+,87,14:30 Sat · Paderborn v Eintracht Frankfurt
 Augsburg · Cards 1+,87,14:30 Sat · RB Leipzig v Augsburg
 RB Leipzig · Scores 1+,83,14:30 Sat · RB Leipzig v Augsburg
 RB Leipzig · SOT 4+,82,14:30 Sat · RB Leipzig v Augsburg
-Hull City · Cards 1+,89,15:00 Sat · Arsenal v Hull City
-Arsenal · Scores 1+,83,15:00 Sat · Arsenal v Hull City
-Fulham · Cards 1+,89,15:00 Sat · Fulham v Newcastle United
 Birmingham City · Cards 1+,91,15:00 Sat · Birmingham City v Swansea City
 Birmingham City · Scores 1+,84,15:00 Sat · Birmingham City v Swansea City
 Blackburn Rovers · Cards 1+,91,15:00 Sat · Blackburn Rovers v West Ham United
@@ -351,6 +348,9 @@ Watford · Cards 1+,80,15:00 Sat · Watford v Middlesbrough
 Millwall · Cards 1+,91,15:00 Sat · West Bromwich Albion v Millwall
 Millwall · Over 1.5,84,15:00 Sat · West Bromwich Albion v Millwall
 West Bromwich Albion · Scores 1+,84,15:00 Sat · West Bromwich Albion v Millwall
+Hull City · Cards 1+,89,15:00 Sat · Arsenal v Hull City
+Arsenal · Scores 1+,83,15:00 Sat · Arsenal v Hull City
+Fulham · Cards 1+,89,15:00 Sat · Fulham v Newcastle United
 Deportivo A Coruña · Cards 1+,92,15:15 Sat · Espanyol v Deportivo A Coruña
 Espanyol · Scores 1+,86,15:15 Sat · Espanyol v Deportivo A Coruña
 Deportivo A Coruña · Over 1.5,80,15:15 Sat · Espanyol v Deportivo A Coruña
