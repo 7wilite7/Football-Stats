@@ -1,20 +1,20 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 07 Nov 2026 06:54 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5298,3926,74,90,87
-Tackles 1+,1057,820,78,90,85
-Shots 1+,906,719,79,91,84
+All picks,5306,3933,74,90,87
+Tackles 1+,1059,821,78,90,85
+Shots 1+,907,720,79,91,84
 Fouled 1+,567,390,69,90,83
 Fouls 1+,530,344,65,88,83
-Cards 1+,354,307,87,93,90
-Over 1.5,280,237,85,91,90
+Cards 1+,356,309,87,93,90
+Over 1.5,281,238,85,91,90
 Scores 1+,251,201,80,92,88
-Saves 2+,207,151,73,92,88
+Saves 2+,208,152,73,92,88
 Shots 2+,203,145,71,90,
 SOT 4+,137,103,75,93,85
 SOT 1+,123,89,72,87,
 Tackles 2+,110,62,56,88,
 Corners 4+,103,73,71,91,81
-Over 2.5,77,50,65,91,84
+Over 2.5,78,51,65,91,83
 Match corners 9+,66,39,59,89,83
 Saves 3+,47,32,68,90,80
 BTTS,43,20,47,91,81
@@ -645,14 +645,14 @@ Udinese (team),Cards 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,87,90,100,
 Udinese (team),Over 1.5,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,82,80,80,Hit
 Kike Pérez,Tackles 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,80,90,100,Hit
 Gianluca Busio,Tackles 1+,Venezia v Udinese,Fri 06 Nov · 19:45,Serie A,82,100,100,Did not play
-Filip Jörgensen,Saves 2+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,85,89,80,Pending
-Thomas Jørgensen,Shots 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,83,100,100,Pending
-Gessime Yassine,Tackles 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,86,100,100,Pending
-Cristian Cásseres,Tackles 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,86,100,100,Pending
-Strasbourg (team),Cards 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,89,89,80,Pending
-Strasbourg (team),Over 1.5,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,94,100,100,Pending
-Strasbourg (team),Over 2.5,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,80,89,100,Pending
-Toulouse (team),Cards 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,89,89,100,Pending
+Filip Jörgensen,Saves 2+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,85,89,80,Hit
+Thomas Jørgensen,Shots 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,83,100,100,Hit
+Gessime Yassine,Tackles 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,86,100,100,Miss
+Cristian Cásseres,Tackles 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,86,100,100,Hit
+Strasbourg (team),Cards 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,89,89,80,Hit
+Strasbourg (team),Over 1.5,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,94,100,100,Hit
+Strasbourg (team),Over 2.5,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,80,89,100,Hit
+Toulouse (team),Cards 1+,Toulouse v Strasbourg,Fri 06 Nov · 19:45,Ligue 1,89,89,100,Hit
 Daniel Heuer Fernandes,Saves 2+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,85,88,100,Hit
 Daniel Heuer Fernandes,Saves 3+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,80,88,100,Hit
 Philipp Sander,Fouls 1+,Hamburger SV v Borussia Mönchengladbach,Fri 06 Nov · 19:30,Bundesliga,82,100,100,Hit
