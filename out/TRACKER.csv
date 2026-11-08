@@ -1,23 +1,23 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 06:57 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 06:58 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5525,4107,74,90,86
-Tackles 1+,1104,859,78,90,84
-Shots 1+,940,750,80,91,83
-Fouled 1+,575,395,69,90,83
-Fouls 1+,542,354,65,88,83
-Cards 1+,388,335,86,93,90
-Over 1.5,300,251,84,91,89
-Scores 1+,266,211,79,92,88
-Saves 2+,223,165,74,92,88
+All picks,5623,4192,75,90,86
+Tackles 1+,1128,880,78,90,84
+Shots 1+,961,768,80,91,83
+Fouled 1+,579,398,69,90,83
+Fouls 1+,545,357,66,88,83
+Cards 1+,407,352,86,92,90
+Over 1.5,307,257,84,91,89
+Scores 1+,275,218,79,92,88
+Saves 2+,228,169,74,92,88
 Shots 2+,203,145,71,90,
-SOT 4+,147,112,76,93,85
+SOT 4+,149,114,77,93,85
 SOT 1+,123,89,72,87,
-Corners 4+,111,78,70,91,82
+Corners 4+,114,81,71,91,82
 Tackles 2+,110,62,56,88,
 Over 2.5,80,53,66,91,83
 Match corners 9+,73,43,59,89,84
 Saves 3+,51,35,69,91,84
-BTTS,45,20,44,91,81
+BTTS,46,21,46,90,81
 Cards 2+,44,29,66,89,88
 Corners 5+,39,24,62,90,86
 Fouled 2+,39,20,51,87,
@@ -766,84 +766,84 @@ Harvey Barnes,Shots 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier Lea
 Calvin Bassey,Tackles 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,86,100,100,Miss
 Fulham (team),Cards 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,89,89,100,Miss
 Fulham (team),Corners 4+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,83,89,80,Miss
-Jay Stansfield,Shots 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,88,100,100,Pending
-Jhon Solís,Tackles 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,82,92,100,Pending
-Birmingham City (team),Cards 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,91,93,100,Pending
-Birmingham City (team),Scores 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,84,86,80,Pending
-Kristi Montgomery,Tackles 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,89,100,100,Pending
-Sam Morsy,Tackles 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,81,85,100,Pending
-Jarrod Bowen,Shots 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,88,100,100,Pending
-Konstantinos Mavropanos,Tackles 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,88,100,100,Pending
-Oladapo Afolayan,Fouled 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,82,93,100,Pending
-West Ham United (team),Cards 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,91,93,100,Pending
-West Ham United (team),Corners 4+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,81,86,80,Pending
-West Ham United (team),Over 1.5,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,89,93,80,Pending
-West Ham United (team),SOT 4+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,80,86,100,Pending
-West Ham United (team),Scores 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,95,100,100,Pending
-Blackburn Rovers (team),Cards 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,91,93,80,Pending
-Blackburn Rovers (team),Over 1.5,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,84,86,80,Pending
-Blackburn Rovers (team),Scores 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,84,86,80,Pending
-Largie Ramazani,Shots 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,84,100,100,Pending
-Largie Ramazani,Tackles 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,86,82,100,Pending
-Joel Bagan,Tackles 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,84,93,100,Pending
-Yousef Salech,Shots 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,80,91,100,Pending
-Jack Moylan,Fouled 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,88,100,100,Pending
-Jack Moylan,Shots 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,88,100,100,Pending
-Nathan Trott,Saves 2+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,89,93,80,Pending
-Burnley (team),BTTS,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,80,86,80,Pending
-Burnley (team),Cards 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,91,93,100,Pending
-Burnley (team),Over 1.5,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,89,93,80,Pending
-Burnley (team),Scores 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,90,93,80,Pending
-Hjalmar Ekdal,Tackles 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,81,88,100,Pending
-Cardiff City (team),Cards 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,86,86,80,Pending
-Cardiff City (team),Corners 4+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,87,93,80,Pending
-Cardiff City (team),Over 1.5,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,84,86,80,Pending
-Grégoire Coudert,Saves 2+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,81,86,80,Pending
-Ivan Mesík,Tackles 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,81,91,80,Pending
-Hamza Choudhury,Tackles 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,87,100,100,Pending
-Conor Coventry,Fouls 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,87,100,100,Pending
-Conor Coventry,Tackles 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,88,100,100,Pending
-Charlton Athletic (team),Cards 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,86,86,100,Pending
-Sheffield United (team),Cards 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,80,79,80,Pending
-Oliver Skipp,Tackles 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,84,100,100,Pending
-Arthur Okonkwo,Saves 2+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,87,92,100,Pending
-Odel Offiah,Tackles 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,86,83,100,Pending
-Léo Scienza,Fouled 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,86,100,100,Pending
-Kuryu Matsuki,Shots 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,85,79,100,Pending
-Daniel Iversen,Saves 2+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,89,93,100,Pending
-Preston North End (team),Cards 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,97,100,100,Pending
-Flynn Downes,Tackles 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,82,92,80,Pending
-Southampton (team),Scores 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,90,93,80,Pending
-Finn Azaz,Shots 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,88,100,100,Pending
-Keven Schlotterbeck,Shots 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,81,92,100,Pending
-Daniel Peretz,Saves 2+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,83,86,100,Pending
-Nathan Wood,Tackles 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,81,86,80,Pending
-Queens Park Rangers (team),Cards 1+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,91,93,100,Pending
-Harvey Vale,Tackles 1+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,87,100,100,Pending
-Freddie Draper,Fouls 1+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,82,92,100,Pending
-Lincoln City (team),Cards 1+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,97,100,100,Pending
-George Wickens,Saves 2+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,89,93,80,Pending
-Aidan Morris,Tackles 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,89,100,100,Pending
-Amario Cozier-Duberry,Shots 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,84,100,100,Pending
-Will Lankshear,Shots 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,87,100,100,Pending
-Callum Brittain,Tackles 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,84,93,80,Pending
-Middlesbrough (team),Over 1.5,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,84,86,100,Pending
-Middlesbrough (team),Scores 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,90,93,80,Pending
-Watford (team),Cards 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,80,79,100,Pending
-Jordan Zemura,Tackles 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,82,92,100,Pending
-Millwall (team),Cards 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,91,93,100,Pending
-Millwall (team),Over 1.5,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,84,86,80,Pending
-Camiel Neghli,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,88,93,100,Pending
-Taïryk Arconte,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,83,100,100,Pending
-Isaac Price,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,82,93,100,Pending
-Jenson Metcalfe,Tackles 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,89,100,100,Pending
-Max O'Leary,Saves 2+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,83,86,80,Pending
-Callum Styles,Tackles 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,84,93,100,Pending
-Lyndon Dykes,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,86,86,100,Pending
-West Bromwich Albion (team),Cards 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,97,100,100,Pending
-West Bromwich Albion (team),Scores 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,84,86,100,Pending
-Ousmane Diakité,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,80,86,80,Pending
-Ousmane Diakité,Tackles 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,87,93,80,Pending
+Jay Stansfield,Shots 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,88,100,100,Hit
+Jhon Solís,Tackles 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,82,92,100,Hit
+Birmingham City (team),Cards 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,91,93,100,Hit
+Birmingham City (team),Scores 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,84,86,80,Hit
+Kristi Montgomery,Tackles 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,89,100,100,Miss
+Sam Morsy,Tackles 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,81,85,100,Hit
+Jarrod Bowen,Shots 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,88,100,100,Hit
+Konstantinos Mavropanos,Tackles 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,88,100,100,Hit
+Oladapo Afolayan,Fouled 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,82,93,100,Hit
+West Ham United (team),Cards 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,91,93,100,Hit
+West Ham United (team),Corners 4+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,81,86,80,Hit
+West Ham United (team),Over 1.5,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,89,93,80,Hit
+West Ham United (team),SOT 4+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,80,86,100,Hit
+West Ham United (team),Scores 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,95,100,100,Hit
+Blackburn Rovers (team),Cards 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,91,93,80,Hit
+Blackburn Rovers (team),Over 1.5,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,84,86,80,Hit
+Blackburn Rovers (team),Scores 1+,Blackburn Rovers v West Ham United,Sat 07 Nov · 15:00,Championship,84,86,80,Hit
+Largie Ramazani,Shots 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,84,100,100,Hit
+Largie Ramazani,Tackles 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,86,82,100,Hit
+Joel Bagan,Tackles 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,84,93,100,Hit
+Yousef Salech,Shots 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,80,91,100,Hit
+Jack Moylan,Fouled 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,88,100,100,Miss
+Jack Moylan,Shots 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,88,100,100,Hit
+Nathan Trott,Saves 2+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,89,93,80,Hit
+Burnley (team),BTTS,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,80,86,80,Hit
+Burnley (team),Cards 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,91,93,100,Hit
+Burnley (team),Over 1.5,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,89,93,80,Hit
+Burnley (team),Scores 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,90,93,80,Hit
+Hjalmar Ekdal,Tackles 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,81,88,100,Hit
+Cardiff City (team),Cards 1+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,86,86,80,Hit
+Cardiff City (team),Corners 4+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,87,93,80,Hit
+Cardiff City (team),Over 1.5,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,84,86,80,Hit
+Grégoire Coudert,Saves 2+,Cardiff City v Burnley,Sat 07 Nov · 15:00,Championship,81,86,80,Hit
+Ivan Mesík,Tackles 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,81,91,80,Did not play
+Hamza Choudhury,Tackles 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,87,100,100,Hit
+Conor Coventry,Fouls 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,87,100,100,Hit
+Conor Coventry,Tackles 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,88,100,100,Hit
+Charlton Athletic (team),Cards 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,86,86,100,Hit
+Sheffield United (team),Cards 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,80,79,80,Hit
+Oliver Skipp,Tackles 1+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,84,100,100,Hit
+Arthur Okonkwo,Saves 2+,Charlton Athletic v Sheffield United,Sat 07 Nov · 15:00,Championship,87,92,100,Did not play
+Odel Offiah,Tackles 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,86,83,100,Hit
+Léo Scienza,Fouled 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,86,100,100,Hit
+Kuryu Matsuki,Shots 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,85,79,100,Hit
+Daniel Iversen,Saves 2+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,89,93,100,Did not play
+Preston North End (team),Cards 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,97,100,100,Hit
+Flynn Downes,Tackles 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,82,92,80,Hit
+Southampton (team),Scores 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,90,93,80,Miss
+Finn Azaz,Shots 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,88,100,100,Hit
+Keven Schlotterbeck,Shots 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,81,92,100,Miss
+Daniel Peretz,Saves 2+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,83,86,100,Miss
+Nathan Wood,Tackles 1+,Preston North End v Southampton,Sat 07 Nov · 15:00,Championship,81,86,80,Did not play
+Queens Park Rangers (team),Cards 1+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,91,93,100,Hit
+Harvey Vale,Tackles 1+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,87,100,100,Hit
+Freddie Draper,Fouls 1+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,82,92,100,Hit
+Lincoln City (team),Cards 1+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,97,100,100,Hit
+George Wickens,Saves 2+,Queens Park Rangers v Lincoln City,Sat 07 Nov · 15:00,Championship,89,93,80,Hit
+Aidan Morris,Tackles 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,89,100,100,Hit
+Amario Cozier-Duberry,Shots 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,84,100,100,Hit
+Will Lankshear,Shots 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,87,100,100,Did not play
+Callum Brittain,Tackles 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,84,93,80,Hit
+Middlesbrough (team),Over 1.5,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,84,86,100,Miss
+Middlesbrough (team),Scores 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,90,93,80,Miss
+Watford (team),Cards 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,80,79,100,Hit
+Jordan Zemura,Tackles 1+,Watford v Middlesbrough,Sat 07 Nov · 15:00,Championship,82,92,100,Miss
+Millwall (team),Cards 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,91,93,100,Hit
+Millwall (team),Over 1.5,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,84,86,80,Hit
+Camiel Neghli,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,88,93,100,Miss
+Taïryk Arconte,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,83,100,100,Hit
+Isaac Price,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,82,93,100,Hit
+Jenson Metcalfe,Tackles 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,89,100,100,Hit
+Max O'Leary,Saves 2+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,83,86,80,Hit
+Callum Styles,Tackles 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,84,93,100,Hit
+Lyndon Dykes,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,86,86,100,Miss
+West Bromwich Albion (team),Cards 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,97,100,100,Hit
+West Bromwich Albion (team),Scores 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,84,86,100,Hit
+Ousmane Diakité,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,80,86,80,Hit
+Ousmane Diakité,Tackles 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,87,93,80,Hit
 Ezri Konsa,Fouled 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,80,88,100,Hit
 Lukas Petkov,Fouled 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Hit
 Lukas Petkov,Tackles 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
@@ -951,33 +951,33 @@ Leeds United (team),Cards 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:3
 Tottenham Hotspur (team),Cards 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,89,89,100,Hit
 Tottenham Hotspur (team),Corners 4+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,83,89,100,Hit
 Ao Tanaka,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,83,100,100,Hit
-Pelle Mattsson,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,87,92,100,Pending
-Anthony Musaba,Shots 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,81,92,100,Pending
-Benjamin Chrisene,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,81,92,80,Pending
-Darlin Yongwa,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,81,100,100,Pending
-Mathias Kvistgaarden,Shots 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,80,91,100,Pending
-Dominic Ballard,Shots 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,83,93,100,Pending
-Jack Stacey,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,87,92,100,Pending
-Bristol City (team),Cards 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,80,79,80,Pending
-Norwich City (team),Cards 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,80,79,80,Pending
-Norwich City (team),SOT 4+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,80,86,80,Pending
-Stoke City (team),Cards 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,91,93,80,Pending
-Stoke City (team),Scores 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,90,93,80,Pending
-Jack McGlynn,Shots 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,83,90,100,Pending
-Adrian Segečić,Shots 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,82,93,80,Pending
-Ebou Adams,Tackles 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,90,100,100,Pending
-Portsmouth (team),Cards 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,80,79,100,Pending
-Daniel Bielica,Saves 2+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,87,100,100,Pending
-André,Tackles 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,84,93,100,Pending
-Fer López,Shots 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,87,100,100,Pending
-Kieffer Moore,Fouled 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,80,93,100,Pending
-Kieffer Moore,Shots 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,87,93,100,Pending
-Marshall Munetsi,Fouls 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,82,86,80,Pending
-Wolverhampton Wanderers (team),Cards 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,97,100,100,Pending
-Wolverhampton Wanderers (team),Corners 4+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,87,93,80,Pending
-Wolverhampton Wanderers (team),Scores 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,90,93,100,Pending
-Wrexham (team),Cards 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,86,86,100,Pending
-Wrexham (team),Over 1.5,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,84,86,80,Pending
+Pelle Mattsson,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,87,92,100,Did not play
+Anthony Musaba,Shots 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,81,92,100,Hit
+Benjamin Chrisene,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,81,92,80,Hit
+Darlin Yongwa,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,81,100,100,Miss
+Mathias Kvistgaarden,Shots 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,80,91,100,Hit
+Dominic Ballard,Shots 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,83,93,100,Hit
+Jack Stacey,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,87,92,100,Hit
+Bristol City (team),Cards 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,80,79,80,Miss
+Norwich City (team),Cards 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,80,79,80,Miss
+Norwich City (team),SOT 4+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,80,86,80,Hit
+Stoke City (team),Cards 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,91,93,80,Hit
+Stoke City (team),Scores 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,90,93,80,Hit
+Jack McGlynn,Shots 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,83,90,100,Hit
+Adrian Segečić,Shots 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,82,93,80,Hit
+Ebou Adams,Tackles 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,90,100,100,Hit
+Portsmouth (team),Cards 1+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,80,79,100,Hit
+Daniel Bielica,Saves 2+,Portsmouth v Stoke City,Sat 07 Nov · 12:30,Championship,87,100,100,Did not play
+André,Tackles 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,84,93,100,Hit
+Fer López,Shots 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,87,100,100,Hit
+Kieffer Moore,Fouled 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,80,93,100,Hit
+Kieffer Moore,Shots 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,87,93,100,Hit
+Marshall Munetsi,Fouls 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,82,86,80,Hit
+Wolverhampton Wanderers (team),Cards 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,97,100,100,Hit
+Wolverhampton Wanderers (team),Corners 4+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,87,93,80,Hit
+Wolverhampton Wanderers (team),Scores 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,90,93,100,Hit
+Wrexham (team),Cards 1+,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,86,86,100,Hit
+Wrexham (team),Over 1.5,Wrexham v Wolverhampton Wanderers,Sat 07 Nov · 12:30,Championship,84,86,80,Hit
 Jacob Widell Zetterström,Saves 2+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,85,90,80,Hit
 Derby County (team),Cards 1+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,91,93,100,Hit
 Derby County (team),Match corners 9+,Derby County v Bolton Wanderers,Fri 06 Nov · 20:00,Championship,87,93,80,Hit
