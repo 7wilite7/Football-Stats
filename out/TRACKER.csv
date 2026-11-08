@@ -1,24 +1,24 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:22 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:23 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5930,4440,75,90,86
-Tackles 1+,1179,920,78,90,84
-Shots 1+,1029,830,81,91,84
-Fouled 1+,605,415,69,90,84
-Fouls 1+,568,373,66,88,83
-Cards 1+,453,391,86,92,90
-Over 1.5,336,277,82,91,89
-Scores 1+,300,238,79,91,87
-Saves 2+,244,184,75,92,87
+All picks,5977,4470,75,90,86
+Tackles 1+,1184,923,78,90,84
+Shots 1+,1038,835,80,92,84
+Fouled 1+,606,415,68,90,84
+Fouls 1+,569,373,66,88,83
+Cards 1+,458,396,86,92,90
+Over 1.5,344,283,82,91,89
+Scores 1+,304,241,79,92,87
+Saves 2+,250,189,76,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,153,118,77,93,85
+SOT 4+,155,119,77,93,85
 SOT 1+,125,91,73,88,82
-Corners 4+,118,84,71,91,83
+Corners 4+,119,84,71,91,83
 Tackles 2+,110,62,56,88,
-Over 2.5,80,53,66,91,83
-Match corners 9+,75,45,60,89,84
-Saves 3+,53,35,66,90,83
+Over 2.5,81,53,65,91,83
+Match corners 9+,77,46,60,89,84
+Saves 3+,54,36,67,91,83
+BTTS,47,21,45,90,81
 Cards 2+,47,31,66,89,85
-BTTS,46,21,46,90,81
 Corners 5+,40,25,62,90,83
 Fouled 2+,39,20,51,87,
 Score or assist,28,19,68,85,
@@ -115,21 +115,21 @@ David Soria,Saves 2+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,81,82,80,Pe
 Getafe (team),Cards 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,98,100,100,Pending
 Getafe (team),Cards 2+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,86,91,100,Pending
 Getafe (team),Match cards 4+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,92,100,100,Pending
-Como (team),Corners 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,88,100,100,Pending
-Como (team),Match corners 9+,Inter v Como,Sun 08 Nov · 17:00,Serie A,81,90,80,Pending
-Como (team),Over 1.5,Inter v Como,Sun 08 Nov · 17:00,Serie A,82,80,60,Pending
-Como (team),SOT 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,91,100,100,Pending
-Lucas Da Cunha,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,90,100,Pending
-Martin Baturina,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Pending
-Nico Paz,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Pending
-Piotr Zieliński,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Pending
-Marcus Thuram,Fouls 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,80,78,100,Pending
-Marcus Thuram,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,82,100,100,Pending
-Inter (team),Cards 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,80,80,60,Pending
-Inter (team),Over 1.5,Inter v Como,Sun 08 Nov · 17:00,Serie A,89,90,100,Pending
-Inter (team),SOT 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,90,80,Pending
-Inter (team),Scores 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,94,100,100,Pending
-Anastasios Douvikas,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Pending
+Como (team),Corners 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,88,100,100,Miss
+Como (team),Match corners 9+,Inter v Como,Sun 08 Nov · 17:00,Serie A,81,90,80,Miss
+Como (team),Over 1.5,Inter v Como,Sun 08 Nov · 17:00,Serie A,82,80,60,Hit
+Como (team),SOT 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,91,100,100,Miss
+Lucas Da Cunha,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,90,100,Miss
+Martin Baturina,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Miss
+Nico Paz,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Hit
+Piotr Zieliński,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Miss
+Marcus Thuram,Fouls 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,80,78,100,Miss
+Marcus Thuram,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,82,100,100,Hit
+Inter (team),Cards 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,80,80,60,Hit
+Inter (team),Over 1.5,Inter v Como,Sun 08 Nov · 17:00,Serie A,89,90,100,Hit
+Inter (team),SOT 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,90,80,Hit
+Inter (team),Scores 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,94,100,100,Hit
+Anastasios Douvikas,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Miss
 Igor Matanović,Shots 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
 Philipp Treu,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,81,100,100,Pending
 Tom Rothe,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,83,100,100,Pending
@@ -269,30 +269,30 @@ Bayer Leverkusen (team),SOT 4+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:3
 Bayer Leverkusen (team),Scores 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,83,88,80,Pending
 1. FC Köln (team),Cards 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,87,88,100,Pending
 1. FC Köln (team),Corners 4+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Pending
-Genoa (team),Cards 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,90,80,Pending
-Genoa (team),Over 1.5,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,82,80,80,Pending
-Alessandro Marcandalli,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,85,90,80,Pending
-Mike Maignan,Saves 2+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,90,100,Pending
-Justin Bijlow,Saves 2+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,80,80,100,Pending
-Leo Østigard,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,100,100,Pending
-Milan (team),Cards 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,80,80,80,Pending
-Milan (team),Over 1.5,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,96,100,100,Pending
-Milan (team),Scores 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,94,100,100,Pending
-Morten Frendrup,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,86,90,80,Pending
-Mikael Egill Ellertsson,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,100,100,Pending
-Marco Carnesecchi,Saves 2+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,87,90,80,Pending
-Noel Törnqvist,Saves 2+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,92,100,100,Pending
-Noel Törnqvist,Saves 3+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,85,100,100,Pending
-Ebenezer Akinsanmiro,Fouled 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,100,100,Pending
-Gustavo Varela,Shots 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,84,100,100,Pending
-Monza (team),BTTS,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,81,90,80,Pending
-Monza (team),Cards 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,80,80,Pending
-Monza (team),Over 1.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,96,100,100,Pending
-Monza (team),Over 2.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,82,90,100,Pending
-Monza (team),Scores 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,94,100,100,Pending
-Samuele Birindelli,Shots 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,86,100,100,Pending
-Samuele Birindelli,Tackles 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,90,80,Pending
-Atalanta (team),Over 1.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,89,90,100,Pending
+Genoa (team),Cards 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,90,80,Hit
+Genoa (team),Over 1.5,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,82,80,80,Hit
+Alessandro Marcandalli,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,85,90,80,Miss
+Mike Maignan,Saves 2+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,90,100,Hit
+Justin Bijlow,Saves 2+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,80,80,100,Miss
+Leo Østigard,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,100,100,Hit
+Milan (team),Cards 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,80,80,80,Hit
+Milan (team),Over 1.5,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,96,100,100,Hit
+Milan (team),Scores 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,94,100,100,Hit
+Morten Frendrup,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,86,90,80,Did not play
+Mikael Egill Ellertsson,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,100,100,Hit
+Marco Carnesecchi,Saves 2+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,87,90,80,Hit
+Noel Törnqvist,Saves 2+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,92,100,100,Hit
+Noel Törnqvist,Saves 3+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,85,100,100,Hit
+Ebenezer Akinsanmiro,Fouled 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,100,100,Miss
+Gustavo Varela,Shots 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,84,100,100,Hit
+Monza (team),BTTS,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,81,90,80,Miss
+Monza (team),Cards 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,80,80,Hit
+Monza (team),Over 1.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,96,100,100,Miss
+Monza (team),Over 2.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,82,90,100,Miss
+Monza (team),Scores 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,94,100,100,Miss
+Samuele Birindelli,Shots 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,86,100,100,Did not play
+Samuele Birindelli,Tackles 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,90,80,Did not play
+Atalanta (team),Over 1.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,89,90,100,Miss
 Anthony Rouault,Tackles 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,82,100,100,Pending
 Ethan Mbappé,Shots 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,100,100,Pending
 Benjamin André,Fouls 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,86,80,Pending
@@ -383,17 +383,17 @@ Fenerbahçe (team),Cards 1+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey 
 Fenerbahçe (team),Corners 4+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,100,Pending
 Fenerbahçe (team),Over 1.5,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",87,90,100,Pending
 Fenerbahçe (team),Scores 1+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,90,100,Pending
-Matteo Cancellieri,Shots 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,100,100,Pending
-Romano Floriani,Tackles 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,86,100,100,Pending
-Vanja Milinković-Savić,Saves 2+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,89,100,100,Pending
-Noa Lang,Shots 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,88,100,Pending
-Noa Lang,Tackles 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,100,100,Pending
-Lazio (team),Cards 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,87,90,100,Pending
-Lazio (team),Over 1.5,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,80,100,Pending
-Lazio (team),Scores 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,94,100,100,Pending
-Christos Mandas,Saves 2+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,80,80,Pending
-Napoli (team),Match corners 9+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,81,90,80,Pending
-Napoli (team),Over 1.5,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,80,80,Pending
+Matteo Cancellieri,Shots 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,100,100,Hit
+Romano Floriani,Tackles 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,86,100,100,Hit
+Vanja Milinković-Savić,Saves 2+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,89,100,100,Hit
+Noa Lang,Shots 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,88,100,Hit
+Noa Lang,Tackles 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,100,100,Miss
+Lazio (team),Cards 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,87,90,100,Hit
+Lazio (team),Over 1.5,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,80,100,Hit
+Lazio (team),Scores 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,94,100,100,Hit
+Christos Mandas,Saves 2+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,80,80,Hit
+Napoli (team),Match corners 9+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,81,90,80,Hit
+Napoli (team),Over 1.5,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,80,80,Hit
 Feyenoord (team),Over 1.5,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),90,91,100,Pending
 Feyenoord (team),SOT 4+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),92,100,100,Pending
 Feyenoord (team),Scores 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),96,100,100,Pending
