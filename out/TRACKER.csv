@@ -1,16 +1,16 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 07:04 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:21 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5853,4379,75,90,86
-Tackles 1+,1164,911,78,90,84
-Shots 1+,1017,818,80,91,84
-Fouled 1+,598,410,69,90,84
-Fouls 1+,567,372,66,88,83
-Cards 1+,439,378,86,92,90
-Over 1.5,327,271,83,91,89
-Scores 1+,295,235,80,91,87
-Saves 2+,239,180,75,92,87
+All picks,5904,4423,75,90,86
+Tackles 1+,1175,918,78,90,84
+Shots 1+,1026,827,81,91,84
+Fouled 1+,603,414,69,90,84
+Fouls 1+,568,373,66,88,83
+Cards 1+,449,388,86,92,90
+Over 1.5,334,277,83,91,89
+Scores 1+,298,237,80,91,87
+Saves 2+,240,181,75,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,151,116,77,93,85
+SOT 4+,153,118,77,93,85
 SOT 1+,125,91,73,88,82
 Corners 4+,117,83,71,91,83
 Tackles 2+,110,62,56,88,
@@ -18,14 +18,14 @@ Over 2.5,80,53,66,91,83
 Match corners 9+,74,44,59,89,84
 Saves 3+,52,35,67,90,83
 BTTS,46,21,46,90,81
-Cards 2+,45,29,64,89,86
+Cards 2+,46,30,65,89,85
 Corners 5+,39,24,62,90,86
 Fouled 2+,39,20,51,87,
 Score or assist,28,19,68,85,
 Win,22,16,73,89,
 Match corners 10+,21,9,43,88,80
 Fouls 2+,19,7,37,87,
-Match cards 4+,18,16,89,87,85
+Match cards 4+,19,17,89,87,82
 Goal 1+,9,6,67,86,
 SOT 2+,3,3,100,86,
 Booked,2,1,50,90,
@@ -144,15 +144,15 @@ Freiburg (team),Over 1.5,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,
 Freiburg (team),Over 2.5,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,82,88,100,Pending
 Freiburg (team),Scores 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,92,100,100,Pending
 András Schäfer,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,81,88,100,Pending
-Aston Villa (team),Cards 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,88,89,100,Pending
-Manchester United (team),Cards 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,88,89,80,Pending
-Manchester United (team),Over 1.5,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,85,89,100,Pending
-João Gomes,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,82,100,100,Pending
-Bruno Fernandes,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,83,100,100,Pending
-Boubacar Kamara,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,86,100,100,Pending
-Matheus Cunha,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,84,100,100,Pending
-Bryan Mbeumo,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,84,100,100,Pending
-Ian Maatsen,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,82,100,100,Pending
+Aston Villa (team),Cards 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,88,89,100,Hit
+Manchester United (team),Cards 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,88,89,80,Hit
+Manchester United (team),Over 1.5,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,85,89,100,Hit
+João Gomes,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,82,100,100,Miss
+Bruno Fernandes,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,83,100,100,Hit
+Boubacar Kamara,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,86,100,100,Hit
+Matheus Cunha,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,84,100,100,Hit
+Bryan Mbeumo,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,84,100,100,Hit
+Ian Maatsen,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,82,100,100,Hit
 Niels Nkounkou,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
 Mohamed Abdelmonem,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Pending
 Elye Wahi,Shots 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Pending
@@ -306,52 +306,52 @@ Rennes (team),Over 1.5,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,86,89,100,Pend
 Rennes (team),Over 2.5,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,89,100,Pending
 Rennes (team),SOT 4+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,82,89,100,Pending
 Rennes (team),Scores 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,85,89,80,Pending
-Brighton & Hove Albion (team),Cards 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,88,89,100,Pending
-Brighton & Hove Albion (team),Cards 2+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,81,89,100,Pending
-Brighton & Hove Albion (team),Over 1.5,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,85,89,80,Pending
-Brighton & Hove Albion (team),Scores 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,83,89,80,Pending
-Yasin Ayari,Shots 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Mamadou Sangaré,Tackles 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,86,100,100,Pending
-Igor Thiago,Shots 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,84,100,100,Pending
-Vitaly Janelt,Tackles 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,85,100,100,Pending
-Brentford (team),Cards 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,96,100,100,Pending
-Brentford (team),Over 1.5,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,92,100,100,Pending
-Brentford (team),Scores 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,91,100,100,Pending
-Yéremi Pino,Fouled 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,82,89,100,Pending
-Florian Wirtz,Shots 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,84,100,100,Pending
-Miloš Kerkez,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,100,100,Pending
-Jérémy Jacquet,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,86,100,100,Pending
-Anan Khalaili,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,86,100,100,Pending
-Jaydee Canvot,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,100,100,Pending
-Alexander Isak,Shots 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Dean Henderson,Saves 2+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,88,100,100,Pending
-Alexis Mac Allister,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Liverpool (team),Cards 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,81,78,80,Pending
-Crystal Palace (team),Cards 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,88,89,100,Pending
-Crystal Palace (team),Over 1.5,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,89,80,Pending
-Julio Enciso,Fouled 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Evanilson,Fouled 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Saša Lukić,Fouls 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,80,100,100,Pending
-Saša Lukić,Tackles 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,82,100,100,Pending
-Exequiel Palacios,Tackles 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,82,100,100,Pending
-Kjell Scherpen,Saves 2+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,88,100,100,Pending
-AFC Bournemouth (team),Cards 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,96,100,100,Pending
-AFC Bournemouth (team),Over 1.5,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,85,89,80,Pending
-AFC Bournemouth (team),SOT 4+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,81,89,80,Pending
-AFC Bournemouth (team),Scores 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,89,80,Pending
-Ipswich Town (team),Cards 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,88,89,100,Pending
-Ipswich Town (team),Over 1.5,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,85,89,80,Pending
-Enzo Le Fée,Fouled 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Roméo Lavia,Tackles 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Granit Xhaka,Fouled 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Pedro Neto,Shots 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
-Chelsea (team),Cards 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,78,60,Pending
-Chelsea (team),Match cards 4+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,80,89,80,Pending
-Chelsea (team),Over 1.5,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,92,100,100,Pending
-Chelsea (team),SOT 4+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,89,80,Pending
-Sunderland (team),Cards 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,78,80,Pending
-Morgan Rogers,Shots 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,84,100,100,Pending
-Brian Brobbey,Fouls 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,100,100,Pending
+Brighton & Hove Albion (team),Cards 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,88,89,100,Hit
+Brighton & Hove Albion (team),Cards 2+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,81,89,100,Hit
+Brighton & Hove Albion (team),Over 1.5,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,85,89,80,Hit
+Brighton & Hove Albion (team),Scores 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,83,89,80,Hit
+Yasin Ayari,Shots 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,83,100,100,Hit
+Mamadou Sangaré,Tackles 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,86,100,100,Hit
+Igor Thiago,Shots 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,84,100,100,Hit
+Vitaly Janelt,Tackles 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,85,100,100,Hit
+Brentford (team),Cards 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,96,100,100,Hit
+Brentford (team),Over 1.5,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,92,100,100,Hit
+Brentford (team),Scores 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,91,100,100,Miss
+Yéremi Pino,Fouled 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,82,89,100,Hit
+Florian Wirtz,Shots 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,84,100,100,Hit
+Miloš Kerkez,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,100,100,Miss
+Jérémy Jacquet,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,86,100,100,Hit
+Anan Khalaili,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,86,100,100,Miss
+Jaydee Canvot,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,100,100,Did not play
+Alexander Isak,Shots 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,83,100,100,Hit
+Dean Henderson,Saves 2+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,88,100,100,Hit
+Alexis Mac Allister,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,83,100,100,Miss
+Liverpool (team),Cards 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,81,78,80,Hit
+Crystal Palace (team),Cards 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,88,89,100,Hit
+Crystal Palace (team),Over 1.5,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,89,80,Hit
+Julio Enciso,Fouled 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,100,100,Hit
+Evanilson,Fouled 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,100,100,Hit
+Saša Lukić,Fouls 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,80,100,100,Did not play
+Saša Lukić,Tackles 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,82,100,100,Did not play
+Exequiel Palacios,Tackles 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,82,100,100,Hit
+Kjell Scherpen,Saves 2+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,88,100,100,Did not play
+AFC Bournemouth (team),Cards 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,96,100,100,Hit
+AFC Bournemouth (team),Over 1.5,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,85,89,80,Hit
+AFC Bournemouth (team),SOT 4+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,81,89,80,Hit
+AFC Bournemouth (team),Scores 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,89,80,Hit
+Ipswich Town (team),Cards 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,88,89,100,Hit
+Ipswich Town (team),Over 1.5,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,85,89,80,Hit
+Enzo Le Fée,Fouled 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Hit
+Roméo Lavia,Tackles 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Hit
+Granit Xhaka,Fouled 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Miss
+Pedro Neto,Shots 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Hit
+Chelsea (team),Cards 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,78,60,Hit
+Chelsea (team),Match cards 4+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,80,89,80,Hit
+Chelsea (team),Over 1.5,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,92,100,100,Miss
+Chelsea (team),SOT 4+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,89,80,Hit
+Sunderland (team),Cards 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,78,80,Hit
+Morgan Rogers,Shots 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,84,100,100,Hit
+Brian Brobbey,Fouls 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,100,100,Hit
 Younes Taha,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),83,80,80,Pending
 Oscar Gloukh,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),87,100,100,Pending
 Daouda Weidmann,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,100,100,Pending
