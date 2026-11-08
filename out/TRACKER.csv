@@ -1,26 +1,26 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 06:55 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 06:56 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5440,4043,74,90,87
-Tackles 1+,1087,846,78,90,84
-Shots 1+,926,738,80,91,84
-Fouled 1+,574,394,69,90,83
-Fouls 1+,536,349,65,88,83
-Cards 1+,378,326,86,93,90
-Over 1.5,294,248,84,91,89
-Scores 1+,258,205,79,92,88
-Saves 2+,219,162,74,92,88
+All picks,5507,4096,74,90,86
+Tackles 1+,1101,857,78,90,84
+Shots 1+,937,748,80,91,83
+Fouled 1+,575,395,69,90,83
+Fouls 1+,540,352,65,88,83
+Cards 1+,385,332,86,93,90
+Over 1.5,298,251,84,91,89
+Scores 1+,264,210,80,92,87
+Saves 2+,223,165,74,92,88
 Shots 2+,203,145,71,90,
-SOT 4+,140,106,76,93,84
+SOT 4+,146,111,76,93,85
 SOT 1+,123,89,72,87,
+Corners 4+,110,78,71,91,82
 Tackles 2+,110,62,56,88,
-Corners 4+,108,76,70,91,81
-Over 2.5,78,51,65,91,83
-Match corners 9+,69,42,61,89,83
-Saves 3+,50,35,70,90,82
+Over 2.5,80,53,66,91,83
+Match corners 9+,73,43,59,89,84
+Saves 3+,51,35,69,91,84
 BTTS,44,20,45,91,81
 Cards 2+,44,29,66,89,88
+Corners 5+,39,24,62,90,86
 Fouled 2+,39,20,51,87,
-Corners 5+,38,23,61,89,
 Score or assist,28,19,68,85,
 Win,22,16,73,89,
 Match corners 10+,21,9,43,88,80
@@ -708,20 +708,20 @@ Osasuna (team),Cards 1+,Osasuna v Athletic Club,Sat 07 Nov · 17:30,La Liga,98,1
 Osasuna (team),Cards 2+,Osasuna v Athletic Club,Sat 07 Nov · 17:30,La Liga,86,91,100,Hit
 Osasuna (team),Over 1.5,Osasuna v Athletic Club,Sat 07 Nov · 17:30,La Liga,81,82,100,Hit
 Jon Moncayola,Tackles 1+,Osasuna v Athletic Club,Sat 07 Nov · 17:30,La Liga,80,91,80,Miss
-Marco Grüll,Fouls 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,82,100,100,Pending
-Marco Grüll,Shots 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,84,100,100,Pending
-VfB Stuttgart (team),Match corners 9+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,83,88,80,Pending
-VfB Stuttgart (team),SOT 4+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,91,100,100,Pending
-Youri Regeer,Tackles 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,83,100,100,Pending
-Bilal El Khannouss,Tackles 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,84,100,100,Pending
-Dennis Seimen,Saves 2+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,90,100,100,Pending
-Niclas Füllkrug,Shots 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,84,100,100,Pending
-Ermedin Demirović,Shots 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,80,100,100,Pending
-Werder Bremen (team),Cards 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,96,100,100,Pending
-Werder Bremen (team),Over 1.5,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,94,100,100,Pending
-Werder Bremen (team),SOT 4+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,82,88,100,Pending
-Werder Bremen (team),Scores 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,92,100,100,Pending
-Olivier Deman,Tackles 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,84,100,100,Pending
+Marco Grüll,Fouls 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,82,100,100,Hit
+Marco Grüll,Shots 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,84,100,100,Hit
+VfB Stuttgart (team),Match corners 9+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,83,88,80,Miss
+VfB Stuttgart (team),SOT 4+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,91,100,100,Hit
+Youri Regeer,Tackles 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,83,100,100,Hit
+Bilal El Khannouss,Tackles 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,84,100,100,Miss
+Dennis Seimen,Saves 2+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,90,100,100,Hit
+Niclas Füllkrug,Shots 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,84,100,100,Hit
+Ermedin Demirović,Shots 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,80,100,100,Miss
+Werder Bremen (team),Cards 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,96,100,100,Hit
+Werder Bremen (team),Over 1.5,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,94,100,100,Miss
+Werder Bremen (team),SOT 4+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,82,88,100,Hit
+Werder Bremen (team),Scores 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,92,100,100,Miss
+Olivier Deman,Tackles 1+,VfB Stuttgart v Werder Bremen,Sat 07 Nov · 17:30,Bundesliga,84,100,100,Hit
 Parma (team),Over 1.5,Parma v Bologna,Sat 07 Nov · 17:00,Serie A,82,80,80,Hit
 Edoardo Corvi,Saves 2+,Parma v Bologna,Sat 07 Nov · 17:00,Serie A,85,88,80,Did not play
 Mandela Keita,Tackles 1+,Parma v Bologna,Sat 07 Nov · 17:00,Serie A,80,90,100,Hit
@@ -845,63 +845,63 @@ West Bromwich Albion (team),Scores 1+,West Bromwich Albion v Millwall,Sat 07 Nov
 Ousmane Diakité,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,80,86,80,Pending
 Ousmane Diakité,Tackles 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,87,93,80,Pending
 Ezri Konsa,Fouled 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,80,88,100,Hit
-Lukas Petkov,Fouled 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Pending
-Lukas Petkov,Tackles 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Nicolas Kristof,Saves 2+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,85,88,80,Pending
-Elversberg (team),Cards 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,87,88,80,Pending
-Łukasz Poręba,Fouls 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Pending
-Borussia Dortmund (team),Cards 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,87,88,80,Pending
-Borussia Dortmund (team),Scores 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,83,88,80,Pending
-Michael Olise,Shots 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Pending
-Harry Kane,Shots 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Pending
-Alexander Schwolow,Saves 2+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,80,80,80,Pending
-Joshua Kimmich,Tackles 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,81,86,80,Pending
-Phillip Tietz,Shots 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Bayern München (team),Corners 4+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,90,100,100,Pending
-Bayern München (team),Corners 5+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,86,100,100,Pending
-Bayern München (team),Match corners 9+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,83,88,80,Pending
-Bayern München (team),Over 1.5,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,85,88,100,Pending
-Bayern München (team),Over 2.5,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,81,88,100,Pending
-Bayern München (team),SOT 4+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,91,100,100,Pending
-Bayern München (team),Scores 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,83,88,100,Pending
-Mainz 05 (team),Cards 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,87,88,100,Pending
-Mainz 05 (team),Corners 4+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,82,88,80,Pending
-Mainz 05 (team),SOT 4+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,82,88,80,Pending
-Mainz 05 (team),Scores 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,83,88,100,Pending
-Noah Atubolu,Saves 2+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,93,100,100,Pending
-Noah Atubolu,Saves 3+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,88,100,100,Pending
-Santiago Castañeda,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Laurin Ulrich,Fouled 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Pending
-Tjark Scheller,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Elias Baum,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Pending
-Younes Ebnoutalib,Shots 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,80,88,100,Pending
-Jano ter Horst,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Keita Kosugi,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,83,100,100,Pending
-Ritsu Doan,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,83,100,100,Pending
-Paderborn (team),Cards 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,87,88,80,Pending
-Paderborn (team),Match corners 9+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,83,88,80,Pending
-Marvin Pieringer,Fouls 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Pending
-Eintracht Frankfurt (team),Cards 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,96,100,100,Pending
-Fabian Rieder,Tackles 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Antonio Nusa,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Ezechiel Banzuzi,Fouls 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Pending
-Ezechiel Banzuzi,Tackles 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Rômulo,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,80,100,100,Pending
-Rômulo,Tackles 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Pending
-Arijon Ibrahimović,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,80,100,100,Pending
-Tidiam Gomis,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-Hennes Behrens,Tackles 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
-RB Leipzig (team),Match corners 9+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,92,100,100,Pending
-RB Leipzig (team),Over 1.5,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,94,100,100,Pending
-RB Leipzig (team),SOT 4+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,82,88,80,Pending
-RB Leipzig (team),Scores 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,83,88,80,Pending
-Michael Gregoritsch,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,80,88,80,Pending
-Augsburg (team),Cards 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,87,88,80,Pending
-Augsburg (team),Over 1.5,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,94,100,100,Pending
-Augsburg (team),Over 2.5,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,81,88,80,Pending
-Augsburg (team),SOT 4+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,91,100,100,Pending
-Augsburg (team),Scores 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,92,100,100,Pending
-Maarten Vandevoordt,Saves 2+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,83,86,80,Pending
+Lukas Petkov,Fouled 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Hit
+Lukas Petkov,Tackles 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+Nicolas Kristof,Saves 2+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,85,88,80,Hit
+Elversberg (team),Cards 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,87,88,80,Hit
+Łukasz Poręba,Fouls 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Hit
+Borussia Dortmund (team),Cards 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,87,88,80,Hit
+Borussia Dortmund (team),Scores 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,83,88,80,Hit
+Michael Olise,Shots 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Hit
+Harry Kane,Shots 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Hit
+Alexander Schwolow,Saves 2+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,80,80,80,Did not play
+Joshua Kimmich,Tackles 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,81,86,80,Hit
+Phillip Tietz,Shots 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+Bayern München (team),Corners 4+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,90,100,100,Hit
+Bayern München (team),Corners 5+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,86,100,100,Hit
+Bayern München (team),Match corners 9+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,83,88,80,Hit
+Bayern München (team),Over 1.5,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,85,88,100,Hit
+Bayern München (team),Over 2.5,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,81,88,100,Hit
+Bayern München (team),SOT 4+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,91,100,100,Hit
+Bayern München (team),Scores 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,83,88,100,Hit
+Mainz 05 (team),Cards 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,87,88,100,Miss
+Mainz 05 (team),Corners 4+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,82,88,80,Hit
+Mainz 05 (team),SOT 4+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,82,88,80,Miss
+Mainz 05 (team),Scores 1+,Mainz 05 v Bayern München,Sat 07 Nov · 14:30,Bundesliga,83,88,100,Hit
+Noah Atubolu,Saves 2+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,93,100,100,Miss
+Noah Atubolu,Saves 3+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,88,100,100,Miss
+Santiago Castañeda,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Miss
+Laurin Ulrich,Fouled 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Did not play
+Tjark Scheller,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+Elias Baum,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Hit
+Younes Ebnoutalib,Shots 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,80,88,100,Hit
+Jano ter Horst,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+Keita Kosugi,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,83,100,100,Did not play
+Ritsu Doan,Tackles 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,83,100,100,Hit
+Paderborn (team),Cards 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,87,88,80,Hit
+Paderborn (team),Match corners 9+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,83,88,80,Miss
+Marvin Pieringer,Fouls 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Hit
+Eintracht Frankfurt (team),Cards 1+,Paderborn v Eintracht Frankfurt,Sat 07 Nov · 14:30,Bundesliga,96,100,100,Hit
+Fabian Rieder,Tackles 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+Antonio Nusa,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+Ezechiel Banzuzi,Fouls 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,82,100,100,Miss
+Ezechiel Banzuzi,Tackles 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+Rômulo,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,80,100,100,Hit
+Rômulo,Tackles 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Miss
+Arijon Ibrahimović,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,80,100,100,Hit
+Tidiam Gomis,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+Hennes Behrens,Tackles 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Hit
+RB Leipzig (team),Match corners 9+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,92,100,100,Miss
+RB Leipzig (team),Over 1.5,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,94,100,100,Hit
+RB Leipzig (team),SOT 4+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,82,88,80,Hit
+RB Leipzig (team),Scores 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,83,88,80,Hit
+Michael Gregoritsch,Shots 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,80,88,80,Did not play
+Augsburg (team),Cards 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,87,88,80,Hit
+Augsburg (team),Over 1.5,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,94,100,100,Hit
+Augsburg (team),Over 2.5,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,81,88,80,Hit
+Augsburg (team),SOT 4+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,91,100,100,Hit
+Augsburg (team),Scores 1+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,92,100,100,Hit
+Maarten Vandevoordt,Saves 2+,RB Leipzig v Augsburg,Sat 07 Nov · 14:30,Bundesliga,83,86,80,Hit
 Lorenzo Palmisani,Saves 2+,Cagliari v Frosinone,Sat 07 Nov · 14:00,Serie A,94,100,100,Hit
 Lorenzo Palmisani,Saves 3+,Cagliari v Frosinone,Sat 07 Nov · 14:00,Serie A,82,90,100,Hit
 Giorgio Cittadini,Tackles 1+,Cagliari v Frosinone,Sat 07 Nov · 14:00,Serie A,82,100,100,Did not play
