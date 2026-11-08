@@ -1,25 +1,25 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:30 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6037,4515,75,90,86
-Tackles 1+,1194,928,78,90,84
-Shots 1+,1046,841,80,92,84
-Fouled 1+,610,419,69,90,84
+All picks,6078,4548,75,90,86
+Tackles 1+,1201,934,78,90,84
+Shots 1+,1058,850,80,92,84
+Fouled 1+,611,419,69,90,84
 Fouls 1+,571,374,65,88,83
-Cards 1+,470,405,86,92,90
-Over 1.5,349,288,83,91,89
-Scores 1+,309,246,80,92,87
+Cards 1+,473,408,86,92,89
+Over 1.5,354,293,83,91,89
+Scores 1+,313,250,80,92,87
 Saves 2+,257,194,75,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,158,121,77,93,85
+SOT 4+,163,124,76,93,85
 SOT 1+,125,91,73,88,82
-Corners 4+,121,85,70,91,83
+Corners 4+,122,86,70,91,83
 Tackles 2+,110,62,56,88,
 Over 2.5,83,55,66,91,83
-Match corners 9+,77,46,60,89,84
+Match corners 9+,79,47,59,89,84
 Saves 3+,54,36,67,91,83
 BTTS,47,21,45,90,81
 Cards 2+,47,31,66,89,85
-Corners 5+,40,25,62,90,83
+Corners 5+,41,26,63,90,83
 Fouled 2+,39,20,51,87,
 Score or assist,28,19,68,85,
 Win,22,16,73,89,
@@ -199,26 +199,26 @@ Celtic (team),Corners 5+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rang
 Celtic (team),Match corners 9+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",88,92,80,Pending
 Celtic (team),SOT 4+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",85,92,100,Pending
 Celtic (team),Scores 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",82,83,80,Pending
-Kodai Sano,Tackles 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),86,90,100,Pending
-Ruben van Bommel,Shots 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),85,100,100,Pending
-Guus Til,Shots 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,100,Pending
-PSV Eindhoven (team),Cards 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),80,82,80,Pending
-PSV Eindhoven (team),Over 1.5,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),97,100,100,Pending
-PSV Eindhoven (team),SOT 4+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),85,91,80,Pending
-PSV Eindhoven (team),Scores 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),96,100,100,Pending
-Mauro Júnior,Tackles 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),88,100,100,Pending
-AZ Alkmaar (team),Match corners 9+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,82,80,Pending
-AZ Alkmaar (team),Over 1.5,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),84,82,60,Pending
-AZ Alkmaar (team),SOT 4+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),85,91,80,Pending
-Wouter Goes,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),87,100,100,Pending
-Mexx Meerdink,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),87,100,100,Pending
-Lewis Schouten,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Pending
-Ro-Zangelo Daal,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,80,Pending
-Weslley Pinto,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),82,100,100,Pending
-Dave Kwakman,Fouled 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),82,90,80,Pending
-Mateo Chávez,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Pending
-Calvin Stengs,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,100,Pending
-Peer Koopmeiners,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Pending
+Kodai Sano,Tackles 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),86,90,100,Hit
+Ruben van Bommel,Shots 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),85,100,100,Hit
+Guus Til,Shots 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,100,Hit
+PSV Eindhoven (team),Cards 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),80,82,80,Hit
+PSV Eindhoven (team),Over 1.5,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),97,100,100,Hit
+PSV Eindhoven (team),SOT 4+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),85,91,80,Hit
+PSV Eindhoven (team),Scores 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),96,100,100,Hit
+Mauro Júnior,Tackles 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),88,100,100,Hit
+AZ Alkmaar (team),Match corners 9+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,82,80,Miss
+AZ Alkmaar (team),Over 1.5,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),84,82,60,Hit
+AZ Alkmaar (team),SOT 4+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),85,91,80,Hit
+Wouter Goes,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),87,100,100,Miss
+Mexx Meerdink,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),87,100,100,Hit
+Lewis Schouten,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Did not play
+Ro-Zangelo Daal,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,80,Hit
+Weslley Pinto,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),82,100,100,Did not play
+Dave Kwakman,Fouled 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),82,90,80,Miss
+Mateo Chávez,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Hit
+Calvin Stengs,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,100,Miss
+Peer Koopmeiners,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Hit
 Chibuike Nwaiwu,Fouled 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,100,100,Pending
 Wagner Pina,Tackles 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,89,100,Pending
 Mohamed Salah,Shots 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,100,100,Pending
@@ -352,21 +352,21 @@ Chelsea (team),SOT 4+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81
 Sunderland (team),Cards 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,78,80,Hit
 Morgan Rogers,Shots 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,84,100,100,Hit
 Brian Brobbey,Fouls 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,100,100,Hit
-Younes Taha,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),83,80,80,Pending
-Oscar Gloukh,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),87,100,100,Pending
-Daouda Weidmann,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,100,100,Pending
-Wout Weghorst,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),87,100,100,Pending
-Ajax (team),Cards 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),80,82,100,Pending
-Ajax (team),Over 1.5,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),90,91,80,Pending
-Ajax (team),SOT 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,91,80,Pending
-Ajax (team),Scores 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),96,100,100,Pending
-FC Twente (team),Cards 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),80,82,80,Pending
-FC Twente (team),Corners 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),84,91,100,Pending
-FC Twente (team),Corners 5+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),82,91,100,Pending
-FC Twente (team),Match corners 9+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),86,91,80,Pending
-FC Twente (team),Over 1.5,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),84,82,100,Pending
-FC Twente (team),SOT 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,91,100,Pending
-FC Twente (team),Scores 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),89,91,100,Pending
+Younes Taha,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),83,80,80,Hit
+Oscar Gloukh,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),87,100,100,Miss
+Daouda Weidmann,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,100,100,Hit
+Wout Weghorst,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),87,100,100,Hit
+Ajax (team),Cards 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),80,82,100,Hit
+Ajax (team),Over 1.5,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),90,91,80,Hit
+Ajax (team),SOT 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,91,80,Miss
+Ajax (team),Scores 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),96,100,100,Hit
+FC Twente (team),Cards 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),80,82,80,Hit
+FC Twente (team),Corners 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),84,91,100,Hit
+FC Twente (team),Corners 5+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),82,91,100,Hit
+FC Twente (team),Match corners 9+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),86,91,80,Hit
+FC Twente (team),Over 1.5,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),84,82,100,Hit
+FC Twente (team),SOT 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,91,100,Hit
+FC Twente (team),Scores 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),89,91,100,Hit
 Elche (team),Cards 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,98,100,100,Hit
 Abdessamad Ezzalzouli,Fouled 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,81,88,100,Miss
 Abdessamad Ezzalzouli,Shots 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,88,100,Hit
@@ -394,14 +394,14 @@ Lazio (team),Scores 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,94,100,100,Hit
 Christos Mandas,Saves 2+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,80,80,Hit
 Napoli (team),Match corners 9+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,81,90,80,Hit
 Napoli (team),Over 1.5,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,80,80,Hit
-Feyenoord (team),Over 1.5,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),90,91,100,Pending
-Feyenoord (team),SOT 4+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),92,100,100,Pending
-Feyenoord (team),Scores 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),96,100,100,Pending
-Mika Mármol,Tackles 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),81,91,100,Pending
-Luciano Valente,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),86,100,100,Pending
-Givairo Read,Tackles 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),81,91,100,Pending
-Nacho Ferri,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),82,80,100,Pending
-Anis Hadj Moussa,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),86,100,100,Pending
+Feyenoord (team),Over 1.5,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),90,91,100,Hit
+Feyenoord (team),SOT 4+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),92,100,100,Miss
+Feyenoord (team),Scores 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),96,100,100,Hit
+Mika Mármol,Tackles 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),81,91,100,Hit
+Luciano Valente,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),86,100,100,Miss
+Givairo Read,Tackles 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),81,91,100,Hit
+Nacho Ferri,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),82,80,100,Hit
+Anis Hadj Moussa,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),86,100,100,Hit
 Damian Las,Saves 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,90,100,100,Did not play
 Austin FC (team),Cards 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,83,82,60,Hit
 Austin FC (team),Over 1.5,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,87,88,100,Hit
