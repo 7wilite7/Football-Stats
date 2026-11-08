@@ -6,4 +6,4 @@ HTTP 500 https://www.fotmob.com/teams/9728/squad/shakhtar-donetsk
 HTTP 500 https://www.fotmob.com/teams/951893/squad/sabah-fk
 HTTP 500 https://www.fotmob.com/teams/951893/squad/sabah-fk
 HTTP 500 https://www.fotmob.com/teams/951893/squad/sabah-fk
-UCL {'new_matches': 0, 'cached': 72, 'run_seconds': 104, 'at': '2026-11-08T07:01Z'}
+UCL {'new_matches': 0, 'cached': 72, 'run_seconds': 98, 'at': '2026-11-08T19:28Z'}
