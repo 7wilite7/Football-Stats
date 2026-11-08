@@ -1,20 +1,20 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 22:59 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 23:00 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6141,4600,75,90,86
-Tackles 1+,1211,940,78,90,84
-Shots 1+,1068,857,80,92,84
+All picks,6151,4610,75,91,86
+Tackles 1+,1213,942,78,90,84
+Shots 1+,1069,858,80,92,84
 Fouled 1+,613,421,69,90,84
 Fouls 1+,571,374,65,88,83
-Cards 1+,482,417,87,92,89
-Over 1.5,360,298,83,91,89
+Cards 1+,484,419,87,92,89
+Over 1.5,362,300,83,91,89
 Scores 1+,319,256,80,92,87
-Saves 2+,261,197,75,92,87
+Saves 2+,262,198,76,92,87
 Shots 2+,207,149,72,90,85
 SOT 4+,169,130,77,93,85
-Corners 4+,126,89,71,91,83
+Corners 4+,127,90,71,91,83
 SOT 1+,125,91,73,88,82
 Tackles 2+,110,62,56,88,
-Over 2.5,84,56,67,91,83
+Over 2.5,85,57,67,91,83
 Match corners 9+,80,48,60,89,84
 Saves 3+,55,36,65,91,83
 Cards 2+,48,32,67,89,86
@@ -51,16 +51,16 @@ Atlético Madrid (team),Cards 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:0
 Atlético Madrid (team),Over 1.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,80,82,60,Hit
 Atlético Madrid (team),SOT 4+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,89,100,100,Hit
 Atlético Madrid (team),Scores 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,86,91,100,Hit
-Cher Ndour,Tackles 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,86,100,100,Pending
-Franco Mastantuono,Shots 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,86,100,100,Pending
-David de Gea,Saves 2+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,80,80,80,Pending
-Fiorentina (team),Cards 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,87,90,100,Pending
-Fiorentina (team),Over 1.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,96,100,100,Pending
-Fiorentina (team),Over 2.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,82,90,100,Pending
-Gleison Bremer,Tackles 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,87,100,100,Pending
-Juventus (team),Cards 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,80,80,60,Pending
-Juventus (team),Corners 4+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,81,90,80,Pending
-Juventus (team),Over 1.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,89,90,100,Pending
+Cher Ndour,Tackles 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,86,100,100,Hit
+Franco Mastantuono,Shots 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,86,100,100,Hit
+David de Gea,Saves 2+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,80,80,80,Hit
+Fiorentina (team),Cards 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,87,90,100,Hit
+Fiorentina (team),Over 1.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,96,100,100,Hit
+Fiorentina (team),Over 2.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,82,90,100,Hit
+Gleison Bremer,Tackles 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,87,100,100,Hit
+Juventus (team),Cards 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,80,80,60,Hit
+Juventus (team),Corners 4+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,81,90,80,Hit
+Juventus (team),Over 1.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,89,90,100,Hit
 Robin Risser,Saves 2+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,85,89,80,Pending
 Ruben Aguilar,Tackles 1+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,83,88,100,Pending
 Jeffrey De Lange,Saves 2+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,85,89,80,Pending
