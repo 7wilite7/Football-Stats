@@ -1,4 +1,4 @@
-"Today · updated Sun 08 Nov 06:56 · Pick tracker: past picks hit 74% (5,440 graded)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2026-11-08 06:56
+"Today · updated Sun 08 Nov 06:57 · Pick tracker: past picks hit 74% (5,507 graded)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2026-11-08 06:57
 Pick,True %,Game
 ,PLAYER 100% PICKS  (121)
 Anis Hadj Moussa · Shots 1+,86,11:15 Sun · SC Heerenveen v Feyenoord
@@ -14,6 +14,10 @@ Romelu Lukaku · Shots 1+,84,13:00 Sun · Çorum FK v Fenerbahçe
 Oscar Gloukh · Shots 1+,87,13:30 Sun · FC Twente v Ajax
 Wout Weghorst · Shots 1+,87,13:30 Sun · FC Twente v Ajax
 Daouda Weidmann · Shots 1+,85,13:30 Sun · FC Twente v Ajax
+Brice Samba · Saves 2+,92,14:00 Sun · Rennes v Lille
+Valentin Rongier · Tackles 1+,85,14:00 Sun · Rennes v Lille
+Anthony Rouault · Tackles 1+,82,14:00 Sun · Rennes v Lille
+Ethan Mbappé · Shots 1+,80,14:00 Sun · Rennes v Lille
 Mamadou Sangaré · Tackles 1+,86,14:00 Sun · Brighton & Hove Albion v Brentford
 Vitaly Janelt · Tackles 1+,85,14:00 Sun · Brighton & Hove Albion v Brentford
 Igor Thiago · Shots 1+,84,14:00 Sun · Brighton & Hove Albion v Brentford
@@ -45,10 +49,6 @@ Samuele Birindelli · Shots 1+,86,14:00 Sun · Monza v Atalanta
 Noel Törnqvist · Saves 3+,85,14:00 Sun · Monza v Atalanta
 Gustavo Varela · Shots 1+,84,14:00 Sun · Monza v Atalanta
 Ebenezer Akinsanmiro · Fouled 1+,81,14:00 Sun · Monza v Atalanta
-Brice Samba · Saves 2+,92,14:00 Sun · Rennes v Lille
-Valentin Rongier · Tackles 1+,85,14:00 Sun · Rennes v Lille
-Anthony Rouault · Tackles 1+,82,14:00 Sun · Rennes v Lille
-Ethan Mbappé · Shots 1+,80,14:00 Sun · Rennes v Lille
 Ibrahim Maza · Shots 1+,84,14:30 Sun · 1. FC Köln v Bayer Leverkusen
 Patrik Schick · Shots 1+,82,14:30 Sun · 1. FC Köln v Bayer Leverkusen
 Jordi Altena · Tackles 1+,87,15:00 Sun · Heart of Midlothian v Falkirk
@@ -170,6 +170,8 @@ Feyenoord · SOT 4+,92,11:15 Sun · SC Heerenveen v Feyenoord
 Lazio · Scores 1+,94,11:30 Sun · Napoli v Lazio
 Elche · Cards 1+,98,13:00 Sun · Elche v Real Betis
 Ajax · Scores 1+,96,13:30 Sun · FC Twente v Ajax
+Rennes · Cards 1+,97,14:00 Sun · Rennes v Lille
+Lille · Scores 1+,93,14:00 Sun · Rennes v Lille
 Brentford · Cards 1+,96,14:00 Sun · Brighton & Hove Albion v Brentford
 Brentford · Over 1.5,92,14:00 Sun · Brighton & Hove Albion v Brentford
 Brentford · Scores 1+,91,14:00 Sun · Brighton & Hove Albion v Brentford
@@ -179,8 +181,6 @@ Milan · Over 1.5,96,14:00 Sun · Genoa v Milan
 Milan · Scores 1+,94,14:00 Sun · Genoa v Milan
 Monza · Over 1.5,96,14:00 Sun · Monza v Atalanta
 Monza · Scores 1+,94,14:00 Sun · Monza v Atalanta
-Rennes · Cards 1+,96,14:00 Sun · Rennes v Lille
-Lille · Scores 1+,93,14:00 Sun · Rennes v Lille
 Bayer Leverkusen · Over 1.5,94,14:30 Sun · 1. FC Köln v Bayer Leverkusen
 Heart of Midlothian · Scores 1+,94,15:00 Sun · Heart of Midlothian v Falkirk
 Heart of Midlothian · Over 1.5,94,15:00 Sun · Heart of Midlothian v Falkirk
@@ -192,12 +192,12 @@ PSV Eindhoven · Over 1.5,97,15:45 Sun · Cambuur v PSV Eindhoven
 PSV Eindhoven · Scores 1+,96,15:45 Sun · Cambuur v PSV Eindhoven
 Celtic · Corners 4+,93,16:00 Sun · Celtic v Kilmarnock
 Celtic · Corners 5+,91,16:00 Sun · Celtic v Kilmarnock
-Angers · Cards 1+,96,16:15 Sun · Angers v Nice
-Nice · Cards 1+,96,16:15 Sun · Angers v Nice
-Brest · Cards 1+,96,16:15 Sun · Brest v Lyon
-Le Mans · Cards 1+,96,16:15 Sun · Le Mans v Monaco
-Monaco · Cards 1+,96,16:15 Sun · Le Mans v Monaco
-Le Mans · Over 1.5,94,16:15 Sun · Le Mans v Monaco
+Angers · Cards 1+,97,16:15 Sun · Angers v Nice
+Nice · Cards 1+,97,16:15 Sun · Angers v Nice
+Brest · Cards 1+,97,16:15 Sun · Brest v Lyon
+Le Mans · Cards 1+,97,16:15 Sun · Le Mans v Monaco
+Monaco · Cards 1+,97,16:15 Sun · Le Mans v Monaco
+Le Mans · Over 1.5,93,16:15 Sun · Le Mans v Monaco
 Freiburg · Cards 1+,96,16:30 Sun · Freiburg v Union Berlin
 Union Berlin · Cards 1+,96,16:30 Sun · Freiburg v Union Berlin
 Freiburg · Scores 1+,92,16:30 Sun · Freiburg v Union Berlin
@@ -233,6 +233,9 @@ Fenerbahçe · Cards 1+,81,13:00 Sun · Çorum FK v Fenerbahçe
 Ajax · Over 1.5,90,13:30 Sun · FC Twente v Ajax
 FC Twente · Scores 1+,89,13:30 Sun · FC Twente v Ajax
 Ajax · SOT 4+,85,13:30 Sun · FC Twente v Ajax
+Rennes · Over 1.5,86,14:00 Sun · Rennes v Lille
+Rennes · Scores 1+,85,14:00 Sun · Rennes v Lille
+Lille · Cards 1+,81,14:00 Sun · Rennes v Lille
 Brighton & Hove Albion · Cards 1+,88,14:00 Sun · Brighton & Hove Albion v Brentford
 Brighton & Hove Albion · Over 1.5,85,14:00 Sun · Brighton & Hove Albion v Brentford
 Brighton & Hove Albion · Scores 1+,83,14:00 Sun · Brighton & Hove Albion v Brentford
@@ -248,9 +251,6 @@ Chelsea · SOT 4+,81,14:00 Sun · Sunderland v Chelsea
 Genoa · Cards 1+,87,14:00 Sun · Genoa v Milan
 Genoa · Over 1.5,82,14:00 Sun · Genoa v Milan
 Atalanta · Over 1.5,89,14:00 Sun · Monza v Atalanta
-Rennes · Over 1.5,86,14:00 Sun · Rennes v Lille
-Rennes · Scores 1+,85,14:00 Sun · Rennes v Lille
-Rennes · SOT 4+,82,14:00 Sun · Rennes v Lille
 1. FC Köln · Cards 1+,87,14:30 Sun · 1. FC Köln v Bayer Leverkusen
 Bayer Leverkusen · Cards 1+,87,14:30 Sun · 1. FC Köln v Bayer Leverkusen
 Bayer Leverkusen · Scores 1+,84,14:30 Sun · 1. FC Köln v Bayer Leverkusen
@@ -272,8 +272,8 @@ Brest · Over 1.5,86,16:15 Sun · Brest v Lyon
 Lyon · Over 1.5,86,16:15 Sun · Brest v Lyon
 Brest · Scores 1+,85,16:15 Sun · Brest v Lyon
 Le Havre · Cards 1+,89,16:15 Sun · Le Havre v Lorient
-Le Havre · SOT 4+,82,16:15 Sun · Le Havre v Lorient
 Lorient · Cards 1+,81,16:15 Sun · Le Havre v Lorient
+Le Havre · SOT 4+,81,16:15 Sun · Le Havre v Lorient
 Monaco · Scores 1+,85,16:15 Sun · Le Mans v Monaco
 Freiburg · Over 1.5,85,16:30 Sun · Freiburg v Union Berlin
 Aston Villa · Cards 1+,88,16:30 Sun · Manchester United v Aston Villa
@@ -292,11 +292,11 @@ Beşiktaş · Cards 1+,89,18:00 Sun · Beşiktaş v Gençlerbirliği
 Hoffenheim · Cards 1+,87,18:30 Sun · Hoffenheim v Schalke 04
 Schalke 04 · Cards 1+,87,18:30 Sun · Hoffenheim v Schalke 04
 Hoffenheim · Scores 1+,84,18:30 Sun · Hoffenheim v Schalke 04
-Juventus · Over 1.5,89,19:45 Sun · Fiorentina v Juventus
-Fiorentina · Cards 1+,87,19:45 Sun · Fiorentina v Juventus
 Lens · Cards 1+,89,19:45 Sun · Lens v Marseille
 Marseille · Over 1.5,86,19:45 Sun · Lens v Marseille
 Marseille · Cards 1+,81,19:45 Sun · Lens v Marseille
+Juventus · Over 1.5,89,19:45 Sun · Fiorentina v Juventus
+Fiorentina · Cards 1+,87,19:45 Sun · Fiorentina v Juventus
 Atlético Madrid · Cards 1+,92,20:00 Sun · Atlético Madrid v Barcelona
 Atlético Madrid · Scores 1+,86,20:00 Sun · Atlético Madrid v Barcelona
 Atlético Madrid · Over 1.5,80,20:00 Sun · Atlético Madrid v Barcelona

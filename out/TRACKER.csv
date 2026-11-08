@@ -1,23 +1,23 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 06:56 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 06:57 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5507,4096,74,90,86
-Tackles 1+,1101,857,78,90,84
-Shots 1+,937,748,80,91,83
+All picks,5525,4107,74,90,86
+Tackles 1+,1104,859,78,90,84
+Shots 1+,940,750,80,91,83
 Fouled 1+,575,395,69,90,83
-Fouls 1+,540,352,65,88,83
-Cards 1+,385,332,86,93,90
-Over 1.5,298,251,84,91,89
-Scores 1+,264,210,80,92,87
+Fouls 1+,542,354,65,88,83
+Cards 1+,388,335,86,93,90
+Over 1.5,300,251,84,91,89
+Scores 1+,266,211,79,92,88
 Saves 2+,223,165,74,92,88
 Shots 2+,203,145,71,90,
-SOT 4+,146,111,76,93,85
+SOT 4+,147,112,76,93,85
 SOT 1+,123,89,72,87,
-Corners 4+,110,78,71,91,82
+Corners 4+,111,78,70,91,82
 Tackles 2+,110,62,56,88,
 Over 2.5,80,53,66,91,83
 Match corners 9+,73,43,59,89,84
 Saves 3+,51,35,69,91,84
-BTTS,44,20,45,91,81
+BTTS,45,20,44,91,81
 Cards 2+,44,29,66,89,88
 Corners 5+,39,24,62,90,86
 Fouled 2+,39,20,51,87,
@@ -631,14 +631,14 @@ Luis Suárez,Shots 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Po
 Sporting CP (team),Cards 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",97,100,100,Pending
 Sporting CP (team),Over 1.5,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
 Sporting CP (team),Scores 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
-Troyes (team),Cards 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,81,78,100,Pending
-Troyes (team),Corners 4+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,80,89,80,Pending
-Dermane Karim,Tackles 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,83,88,100,Pending
-Désiré Doué,Shots 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,82,100,100,Pending
-Désiré Doué,Tackles 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,85,100,100,Pending
-Paris Saint-Germain (team),Over 1.5,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,86,89,100,Pending
-Paris Saint-Germain (team),SOT 4+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,89,100,100,Pending
-Paris Saint-Germain (team),Scores 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,93,100,100,Pending
+Troyes (team),Cards 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,81,78,100,Hit
+Troyes (team),Corners 4+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,80,89,80,Miss
+Dermane Karim,Tackles 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,83,88,100,Hit
+Désiré Doué,Shots 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,82,100,100,Hit
+Désiré Doué,Tackles 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,85,100,100,Hit
+Paris Saint-Germain (team),Over 1.5,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,86,89,100,Miss
+Paris Saint-Germain (team),SOT 4+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,89,100,100,Hit
+Paris Saint-Germain (team),Scores 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,93,100,100,Hit
 Ryan Don Naderi,Fouls 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",82,100,100,Pending
 Ryan Don Naderi,Shots 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",82,90,100,Pending
 Min-Su Kim,Shots 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",83,100,100,Pending
@@ -672,18 +672,18 @@ Roma (team),Over 1.5,Roma v Sassuolo,Sat 07 Nov · 19:45,Serie A,89,90,80,Hit
 Roma (team),SOT 4+,Roma v Sassuolo,Sat 07 Nov · 19:45,Serie A,84,90,80,Hit
 Roma (team),Scores 1+,Roma v Sassuolo,Sat 07 Nov · 19:45,Serie A,87,90,80,Hit
 Stefano Turati,Saves 2+,Roma v Sassuolo,Sat 07 Nov · 19:45,Serie A,89,100,100,Did not play
-Samir Chergui,Fouls 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,80,100,100,Pending
-Cameron Archer,Shots 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,80,100,100,Pending
-Fredrik Oppegård,Fouls 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,80,86,100,Pending
-Pablo Pagis,Fouls 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,85,100,100,Pending
-Mamadou Diop,Saves 2+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,81,83,80,Pending
-Hamari Traoré,Tackles 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,82,86,100,Pending
-Paris FC (team),Cards 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,89,89,100,Pending
-Auxerre (team),BTTS,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,80,89,100,Pending
-Auxerre (team),Cards 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,89,89,80,Pending
-Auxerre (team),Over 1.5,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,86,89,100,Pending
-Auxerre (team),Scores 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,93,100,100,Pending
-Ilan Kebbal,Shots 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,83,100,100,Pending
+Samir Chergui,Fouls 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,80,100,100,Did not play
+Cameron Archer,Shots 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,80,100,100,Hit
+Fredrik Oppegård,Fouls 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,80,86,100,Hit
+Pablo Pagis,Fouls 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,85,100,100,Hit
+Mamadou Diop,Saves 2+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,81,83,80,Did not play
+Hamari Traoré,Tackles 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,82,86,100,Miss
+Paris FC (team),Cards 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,89,89,100,Hit
+Auxerre (team),BTTS,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,80,89,100,Miss
+Auxerre (team),Cards 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,89,89,80,Hit
+Auxerre (team),Over 1.5,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,86,89,100,Miss
+Auxerre (team),Scores 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,93,100,100,Miss
+Ilan Kebbal,Shots 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,83,100,100,Miss
 Nottingham Forest (team),Cards 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,96,100,100,Hit
 Elliot Anderson,Fouled 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,82,100,100,Hit
 Elliot Anderson,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,85,89,80,Hit
