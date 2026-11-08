@@ -1,16 +1,16 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 23:07 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6185,4638,75,91,86
-Tackles 1+,1221,946,77,90,84
-Shots 1+,1072,861,80,92,84
-Fouled 1+,613,421,69,90,84
-Fouls 1+,572,375,66,88,83
-Cards 1+,490,424,87,92,89
-Over 1.5,365,303,83,91,89
-Scores 1+,321,258,80,92,87
+All picks,6199,4650,75,91,86
+Tackles 1+,1222,946,77,90,84
+Shots 1+,1075,864,80,92,84
+Fouled 1+,615,423,69,90,84
+Fouls 1+,573,376,66,88,83
+Cards 1+,491,424,86,92,89
+Over 1.5,367,305,83,91,89
+Scores 1+,323,260,80,92,88
 Saves 2+,266,202,76,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,169,130,77,93,85
+SOT 4+,170,131,77,93,85
 Corners 4+,129,92,71,91,83
 SOT 1+,125,91,73,88,82
 Tackles 2+,110,62,56,88,
@@ -22,7 +22,7 @@ BTTS,47,21,45,90,81
 Corners 5+,42,27,64,90,85
 Fouled 2+,39,20,51,87,
 Score or assist,28,19,68,85,
-Win,22,16,73,89,
+Win,23,17,74,89,83
 Match corners 10+,21,9,43,88,80
 Match cards 4+,20,18,90,88,86
 Fouls 2+,19,7,37,87,
@@ -32,13 +32,13 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
-Gianluca Prestianni,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,100,100,Pending
-Gianluca Prestianni,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Pending
-Vangelis Pavlidis,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Pending
-Alexander Bah,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",83,100,100,Pending
-Benfica (team),Cards 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",83,80,100,Pending
-Benfica (team),Over 1.5,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,90,80,Pending
-Benfica (team),Scores 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
+Gianluca Prestianni,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,100,100,Hit
+Gianluca Prestianni,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Hit
+Vangelis Pavlidis,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Hit
+Alexander Bah,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",83,100,100,Hit
+Benfica (team),Cards 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",83,80,100,Miss
+Benfica (team),Over 1.5,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,90,80,Hit
+Benfica (team),Scores 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Hit
 Lamine Yamal,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,86,100,100,Hit
 Alejandro Grimaldo,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,83,90,80,Miss
 Raphinha,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,83,100,100,Hit
@@ -82,13 +82,13 @@ Hoffenheim (team),Over 1.5,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundeslig
 Hoffenheim (team),Over 2.5,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,82,88,80,Hit
 Hoffenheim (team),Scores 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,88,80,Hit
 Ozan Kabak,Fouls 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,81,88,80,Hit
-Gabriel Veiga,Shots 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",83,100,100,Pending
-Alberto Costa,Fouls 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",84,89,100,Pending
-Pablo Rosario,Tackles 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",85,90,80,Pending
-FC Porto (team),Over 1.5,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",85,90,80,Pending
-FC Porto (team),SOT 4+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",80,90,100,Pending
-FC Porto (team),Scores 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
-FC Porto (team),Win,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",83,100,100,Pending
+Gabriel Veiga,Shots 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",83,100,100,Hit
+Alberto Costa,Fouls 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",84,89,100,Hit
+Pablo Rosario,Tackles 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",85,90,80,Miss
+FC Porto (team),Over 1.5,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",85,90,80,Hit
+FC Porto (team),SOT 4+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",80,90,100,Hit
+FC Porto (team),Scores 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",92,100,100,Hit
+FC Porto (team),Win,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",83,100,100,Hit
 Beşiktaş (team),Cards 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,90,100,Pending
 Beşiktaş (team),Corners 4+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,80,Pending
 Beşiktaş (team),SOT 4+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",92,100,100,Pending
