@@ -4,6 +4,7 @@ on:
     # 6am UK all year. GitHub schedules are UTC, so both run and the wrong one for the season skips itself.
     - cron: "0 5 * * *"    # 06:00 UK during summer time (BST)
     - cron: "0 6 * * *"    # 06:00 UK during winter (GMT)
+    - cron: "30 22 * * *"  # evening run (22:30 GMT / 23:30 BST) so the day's results are in the same night
   workflow_dispatch:
     inputs:
       leagues:
@@ -25,7 +26,7 @@ jobs:
     timeout-minutes: 300
     steps:
       - name: Skip the schedule that isn't 6am UK today
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' && github.event.schedule != '30 22 * * *'
         run: |
           ZONE=$(TZ=Europe/London date +%Z)
           if { [ "$ZONE" = "BST" ] && [ "${{ github.event.schedule }}" != "0 5 * * *" ]; } || \
