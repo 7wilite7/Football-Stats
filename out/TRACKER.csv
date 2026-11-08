@@ -1,17 +1,17 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 23:08 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6199,4650,75,91,86
-Tackles 1+,1222,946,77,90,84
-Shots 1+,1075,864,80,92,84
-Fouled 1+,615,423,69,90,84
+All picks,6207,4656,75,91,86
+Tackles 1+,1223,946,77,90,84
+Shots 1+,1077,866,80,92,84
+Fouled 1+,617,424,69,90,84
 Fouls 1+,573,376,66,88,83
-Cards 1+,491,424,86,92,89
+Cards 1+,492,425,86,92,89
 Over 1.5,367,305,83,91,89
 Scores 1+,323,260,80,92,88
 Saves 2+,266,202,76,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,170,131,77,93,85
-Corners 4+,129,92,71,91,83
+SOT 4+,171,132,77,93,85
+Corners 4+,130,93,72,91,83
 SOT 1+,125,91,73,88,82
 Tackles 2+,110,62,56,88,
 Over 2.5,87,58,67,91,83
@@ -89,14 +89,14 @@ FC Porto (team),Over 1.5,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"
 FC Porto (team),SOT 4+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",80,90,100,Hit
 FC Porto (team),Scores 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",92,100,100,Hit
 FC Porto (team),Win,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",83,100,100,Hit
-Beşiktaş (team),Cards 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,90,100,Pending
-Beşiktaş (team),Corners 4+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,80,Pending
-Beşiktaş (team),SOT 4+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",92,100,100,Pending
-Emmanuel Agbadou,Tackles 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,90,80,Pending
-Dušan Vlahović,Shots 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Pending
-Salih Özcan,Fouled 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,100,100,Pending
-Emirhan Topçu,Fouled 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,88,80,Pending
-Orkun Kökcü,Shots 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Pending
+Beşiktaş (team),Cards 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,90,100,Hit
+Beşiktaş (team),Corners 4+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,80,Hit
+Beşiktaş (team),SOT 4+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",92,100,100,Hit
+Emmanuel Agbadou,Tackles 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,90,80,Miss
+Dušan Vlahović,Shots 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Hit
+Salih Özcan,Fouled 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,100,100,Hit
+Emirhan Topçu,Fouled 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,88,80,Miss
+Orkun Kökcü,Shots 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Hit
 Ilaix Moriba,Tackles 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,82,100,Hit
 Thiago Fernández,Shots 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,82,100,100,Miss
 Mathew Ryan,Saves 2+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,88,91,80,Hit
