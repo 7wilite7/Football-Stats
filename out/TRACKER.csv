@@ -1,20 +1,20 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:23 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:24 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5977,4470,75,90,86
-Tackles 1+,1184,923,78,90,84
-Shots 1+,1038,835,80,92,84
+All picks,5988,4479,75,90,86
+Tackles 1+,1185,923,78,90,84
+Shots 1+,1041,838,80,92,84
 Fouled 1+,606,415,68,90,84
 Fouls 1+,569,373,66,88,83
-Cards 1+,458,396,86,92,90
-Over 1.5,344,283,82,91,89
-Scores 1+,304,241,79,92,87
+Cards 1+,460,398,87,92,90
+Over 1.5,345,284,82,91,89
+Scores 1+,305,242,79,92,87
 Saves 2+,250,189,76,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,155,119,77,93,85
+SOT 4+,156,120,77,93,85
 SOT 1+,125,91,73,88,82
-Corners 4+,119,84,71,91,83
+Corners 4+,120,84,70,91,83
 Tackles 2+,110,62,56,88,
-Over 2.5,81,53,65,91,83
+Over 2.5,82,54,66,91,83
 Match corners 9+,77,46,60,89,84
 Saves 3+,54,36,67,91,83
 BTTS,47,21,45,90,81
@@ -258,17 +258,17 @@ Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Falkirk,Sun 08 Nov �
 Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Pending
 Heart of Midlothian (team),SOT 4+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",84,91,80,Pending
 Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Pending
-Equi Fernández,Tackles 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,83,88,80,Pending
-Ibrahim Maza,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,84,100,100,Pending
-Saïd El Mala,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,80,86,100,Pending
-Patrik Schick,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,100,100,Pending
-Bayer Leverkusen (team),Cards 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,87,88,80,Pending
-Bayer Leverkusen (team),Over 1.5,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,94,100,100,Pending
-Bayer Leverkusen (team),Over 2.5,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Pending
-Bayer Leverkusen (team),SOT 4+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Pending
-Bayer Leverkusen (team),Scores 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,83,88,80,Pending
-1. FC Köln (team),Cards 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,87,88,100,Pending
-1. FC Köln (team),Corners 4+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Pending
+Equi Fernández,Tackles 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,83,88,80,Miss
+Ibrahim Maza,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,84,100,100,Hit
+Saïd El Mala,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,80,86,100,Hit
+Patrik Schick,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,100,100,Hit
+Bayer Leverkusen (team),Cards 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,87,88,80,Hit
+Bayer Leverkusen (team),Over 1.5,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,94,100,100,Hit
+Bayer Leverkusen (team),Over 2.5,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Hit
+Bayer Leverkusen (team),SOT 4+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Hit
+Bayer Leverkusen (team),Scores 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,83,88,80,Hit
+1. FC Köln (team),Cards 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,87,88,100,Hit
+1. FC Köln (team),Corners 4+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Miss
 Genoa (team),Cards 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,90,80,Hit
 Genoa (team),Over 1.5,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,82,80,80,Hit
 Alessandro Marcandalli,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,85,90,80,Miss
