@@ -1,18 +1,18 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 07:03 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 07:04 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5847,4376,75,90,86
-Tackles 1+,1163,911,78,90,84
-Shots 1+,1016,817,80,91,84
+All picks,5853,4379,75,90,86
+Tackles 1+,1164,911,78,90,84
+Shots 1+,1017,818,80,91,84
 Fouled 1+,598,410,69,90,84
 Fouls 1+,567,372,66,88,83
-Cards 1+,438,378,86,92,90
+Cards 1+,439,378,86,92,90
 Over 1.5,327,271,83,91,89
-Scores 1+,294,234,80,91,87
+Scores 1+,295,235,80,91,87
 Saves 2+,239,180,75,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,150,115,77,93,85
+SOT 4+,151,116,77,93,85
 SOT 1+,125,91,73,88,82
-Corners 4+,116,83,72,91,83
+Corners 4+,117,83,71,91,83
 Tackles 2+,110,62,56,88,
 Over 2.5,80,53,66,91,83
 Match corners 9+,74,44,59,89,84
@@ -729,13 +729,13 @@ Jens Odgaard,Shots 1+,Parma v Bologna,Sat 07 Nov · 17:00,Serie A,80,75,60,Hit
 Tommaso Pobega,Shots 1+,Parma v Bologna,Sat 07 Nov · 17:00,Serie A,84,100,100,Hit
 Lewis Ferguson,Tackles 1+,Parma v Bologna,Sat 07 Nov · 17:00,Serie A,80,90,80,Hit
 Bologna (team),Cards 1+,Parma v Bologna,Sat 07 Nov · 17:00,Serie A,80,80,100,Hit
-Lucas Torreira,Tackles 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,100,100,Pending
-Victor Osimhen,Shots 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Pending
-Galatasaray (team),Cards 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,90,100,Pending
-Galatasaray (team),Corners 4+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,100,Pending
-Galatasaray (team),SOT 4+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,90,80,Pending
-Galatasaray (team),Scores 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,90,80,Pending
-Barış Alper Yılmaz,Shots 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,89,80,Pending
+Lucas Torreira,Tackles 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,100,100,Miss
+Victor Osimhen,Shots 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Did not play
+Galatasaray (team),Cards 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,90,100,Miss
+Galatasaray (team),Corners 4+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,100,Miss
+Galatasaray (team),SOT 4+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,90,80,Hit
+Galatasaray (team),Scores 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,90,80,Hit
+Barış Alper Yılmaz,Shots 1+,Galatasaray v Amed Sportif,Sat 07 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,89,80,Hit
 Ángel Fortuno,Saves 2+,Espanyol v Deportivo A Coruña,Sat 07 Nov · 15:15,La Liga,89,100,100,Miss
 Leo Román,Saves 2+,Espanyol v Deportivo A Coruña,Sat 07 Nov · 15:15,La Liga,81,82,80,Hit
 Lorenzo Amatucci,Tackles 1+,Espanyol v Deportivo A Coruña,Sat 07 Nov · 15:15,La Liga,85,100,100,Hit
