@@ -1,25 +1,25 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:31 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6078,4548,75,90,86
-Tackles 1+,1201,934,78,90,84
-Shots 1+,1058,850,80,92,84
-Fouled 1+,611,419,69,90,84
+All picks,6097,4565,75,90,86
+Tackles 1+,1206,937,78,90,84
+Shots 1+,1060,852,80,92,84
+Fouled 1+,612,420,69,90,84
 Fouls 1+,571,374,65,88,83
-Cards 1+,473,408,86,92,89
-Over 1.5,354,293,83,91,89
-Scores 1+,313,250,80,92,87
+Cards 1+,475,410,86,92,89
+Over 1.5,355,294,83,91,89
+Scores 1+,315,252,80,92,87
 Saves 2+,257,194,75,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,163,124,76,93,85
+SOT 4+,165,126,76,93,85
 SOT 1+,125,91,73,88,82
-Corners 4+,122,86,70,91,83
+Corners 4+,124,88,71,91,83
 Tackles 2+,110,62,56,88,
 Over 2.5,83,55,66,91,83
-Match corners 9+,79,47,59,89,84
+Match corners 9+,80,48,60,89,84
 Saves 3+,54,36,67,91,83
 BTTS,47,21,45,90,81
 Cards 2+,47,31,66,89,85
-Corners 5+,41,26,63,90,83
+Corners 5+,42,27,64,90,85
 Fouled 2+,39,20,51,87,
 Score or assist,28,19,68,85,
 Win,22,16,73,89,
@@ -191,14 +191,14 @@ Le Mans (team),Cards 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,96,100,100,
 Le Mans (team),Over 1.5,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,94,100,100,Hit
 Monaco (team),Cards 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Miss
 Monaco (team),Scores 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Hit
-Mika Baur,Tackles 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",86,100,100,Pending
-Colby Donovan,Tackles 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",80,75,80,Pending
-Celtic (team),Cards 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",90,92,100,Pending
-Celtic (team),Corners 4+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",93,100,100,Pending
-Celtic (team),Corners 5+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",91,100,100,Pending
-Celtic (team),Match corners 9+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",88,92,80,Pending
-Celtic (team),SOT 4+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",85,92,100,Pending
-Celtic (team),Scores 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",82,83,80,Pending
+Mika Baur,Tackles 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",86,100,100,Hit
+Colby Donovan,Tackles 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",80,75,80,Hit
+Celtic (team),Cards 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",90,92,100,Hit
+Celtic (team),Corners 4+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",93,100,100,Hit
+Celtic (team),Corners 5+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",91,100,100,Hit
+Celtic (team),Match corners 9+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",88,92,80,Hit
+Celtic (team),SOT 4+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",85,92,100,Hit
+Celtic (team),Scores 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",82,83,80,Hit
 Kodai Sano,Tackles 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),86,90,100,Hit
 Ruben van Bommel,Shots 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),85,100,100,Hit
 Guus Til,Shots 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,100,Hit
@@ -247,17 +247,17 @@ Real Sociedad (team),Match corners 9+,Real Sociedad v Rayo Vallecano,Sun 08 Nov 
 Real Sociedad (team),Over 1.5,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,82,100,Miss
 Andrei Rațiu,Fouled 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,81,100,100,Hit
 Sergio Camello,Shots 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,83,90,100,Hit
-Joshua McPake,Fouled 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",85,100,100,Pending
-Joshua McPake,Shots 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,100,Pending
-Joshua McPake,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,90,80,Pending
-Cláudio Braga,Shots 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,91,100,Pending
-Jordi Altena,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",87,100,100,Pending
-Laurent Mendy,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,90,80,Pending
-Heart of Midlothian (team),Cards 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",83,82,100,Pending
-Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",85,91,80,Pending
-Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Pending
-Heart of Midlothian (team),SOT 4+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",84,91,80,Pending
-Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Pending
+Joshua McPake,Fouled 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",85,100,100,Hit
+Joshua McPake,Shots 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,100,Hit
+Joshua McPake,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,90,80,Miss
+Cláudio Braga,Shots 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,91,100,Hit
+Jordi Altena,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",87,100,100,Hit
+Laurent Mendy,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,90,80,Miss
+Heart of Midlothian (team),Cards 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",83,82,100,Hit
+Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",85,91,80,Hit
+Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Hit
+Heart of Midlothian (team),SOT 4+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",84,91,80,Hit
+Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Hit
 Equi Fernández,Tackles 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,83,88,80,Miss
 Ibrahim Maza,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,84,100,100,Hit
 Saïd El Mala,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,80,86,100,Hit
