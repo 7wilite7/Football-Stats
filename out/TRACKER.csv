@@ -1,21 +1,21 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 07:03 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5838,4367,75,90,86
-Tackles 1+,1162,910,78,90,84
-Shots 1+,1014,815,80,91,84
+All picks,5847,4376,75,90,86
+Tackles 1+,1163,911,78,90,84
+Shots 1+,1016,817,80,91,84
 Fouled 1+,598,410,69,90,84
-Fouls 1+,566,371,66,88,83
-Cards 1+,437,377,86,92,90
+Fouls 1+,567,372,66,88,83
+Cards 1+,438,378,86,92,90
 Over 1.5,327,271,83,91,89
-Scores 1+,293,233,80,91,87
+Scores 1+,294,234,80,91,87
 Saves 2+,239,180,75,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,149,114,77,93,85
+SOT 4+,150,115,77,93,85
 SOT 1+,125,91,73,88,82
-Corners 4+,115,82,71,91,82
+Corners 4+,116,83,72,91,83
 Tackles 2+,110,62,56,88,
 Over 2.5,80,53,66,91,83
-Match corners 9+,73,43,59,89,84
+Match corners 9+,74,44,59,89,84
 Saves 3+,52,35,67,90,83
 BTTS,46,21,46,90,81
 Cards 2+,45,29,64,89,86
@@ -639,15 +639,15 @@ Désiré Doué,Tackles 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue
 Paris Saint-Germain (team),Over 1.5,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,86,89,100,Miss
 Paris Saint-Germain (team),SOT 4+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,89,100,100,Hit
 Paris Saint-Germain (team),Scores 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,93,100,100,Hit
-Ryan Don Naderi,Fouls 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",82,100,100,Pending
-Ryan Don Naderi,Shots 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",82,90,100,Pending
-Min-Su Kim,Shots 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",83,100,100,Pending
-Rangers (team),Cards 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,91,100,Pending
-Rangers (team),Corners 4+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",92,100,100,Pending
-Rangers (team),Match corners 9+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,91,80,Pending
-Rangers (team),SOT 4+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",91,100,100,Pending
-Rangers (team),Scores 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Pending
-Daniel Neil,Tackles 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",85,100,100,Pending
+Ryan Don Naderi,Fouls 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",82,100,100,Hit
+Ryan Don Naderi,Shots 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",82,90,100,Hit
+Min-Su Kim,Shots 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",83,100,100,Hit
+Rangers (team),Cards 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",90,91,100,Hit
+Rangers (team),Corners 4+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",92,100,100,Hit
+Rangers (team),Match corners 9+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",88,91,80,Hit
+Rangers (team),SOT 4+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",91,100,100,Hit
+Rangers (team),Scores 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Hit
+Daniel Neil,Tackles 1+,St. Mirren v Rangers,Sat 07 Nov · 20:00,"Scotland (Rangers, Celtic, Hearts)",85,100,100,Hit
 Valencia (team),Cards 1+,Valencia v Real Madrid,Sat 07 Nov · 20:00,La Liga,98,100,100,Hit
 Jude Bellingham,Tackles 1+,Valencia v Real Madrid,Sat 07 Nov · 20:00,La Liga,87,91,100,Hit
 Stole Dimitrievski,Saves 2+,Valencia v Real Madrid,Sat 07 Nov · 20:00,La Liga,81,82,60,Hit
