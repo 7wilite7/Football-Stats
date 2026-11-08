@@ -1,25 +1,25 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:21 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:22 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5904,4423,75,90,86
-Tackles 1+,1175,918,78,90,84
-Shots 1+,1026,827,81,91,84
-Fouled 1+,603,414,69,90,84
+All picks,5930,4440,75,90,86
+Tackles 1+,1179,920,78,90,84
+Shots 1+,1029,830,81,91,84
+Fouled 1+,605,415,69,90,84
 Fouls 1+,568,373,66,88,83
-Cards 1+,449,388,86,92,90
-Over 1.5,334,277,83,91,89
-Scores 1+,298,237,80,91,87
-Saves 2+,240,181,75,92,87
+Cards 1+,453,391,86,92,90
+Over 1.5,336,277,82,91,89
+Scores 1+,300,238,79,91,87
+Saves 2+,244,184,75,92,87
 Shots 2+,207,149,72,90,85
 SOT 4+,153,118,77,93,85
 SOT 1+,125,91,73,88,82
-Corners 4+,117,83,71,91,83
+Corners 4+,118,84,71,91,83
 Tackles 2+,110,62,56,88,
 Over 2.5,80,53,66,91,83
-Match corners 9+,74,44,59,89,84
-Saves 3+,52,35,67,90,83
+Match corners 9+,75,45,60,89,84
+Saves 3+,53,35,66,90,83
+Cards 2+,47,31,66,89,85
 BTTS,46,21,46,90,81
-Cards 2+,46,30,65,89,85
-Corners 5+,39,24,62,90,86
+Corners 5+,40,25,62,90,83
 Fouled 2+,39,20,51,87,
 Score or assist,28,19,68,85,
 Win,22,16,73,89,
@@ -230,23 +230,23 @@ Trabzonspor (team),Corners 4+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turk
 Trabzonspor (team),Over 1.5,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",87,90,100,Pending
 Trabzonspor (team),SOT 4+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",92,100,100,Pending
 Trabzonspor (team),Scores 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,90,100,Pending
-Florian Lejeune,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,90,80,Pending
-Gonçalo Guedes,Shots 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,85,100,100,Pending
-Unai López,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,87,100,100,Pending
-Emil Audero,Saves 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,82,83,80,Pending
-Alex Remiro,Saves 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,80,60,Pending
-Rayo Vallecano (team),Cards 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,98,100,100,Pending
-Rayo Vallecano (team),Over 1.5,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,93,100,100,Pending
-Rayo Vallecano (team),Scores 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,85,90,80,Pending
-Sergio Gómez,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,91,80,Pending
-Real Sociedad (team),Cards 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,98,100,100,Pending
-Real Sociedad (team),Cards 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,86,91,80,Pending
-Real Sociedad (team),Corners 4+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,84,91,80,Pending
-Real Sociedad (team),Corners 5+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,91,80,Pending
-Real Sociedad (team),Match corners 9+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,81,91,80,Pending
-Real Sociedad (team),Over 1.5,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,82,100,Pending
-Andrei Rațiu,Fouled 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,81,100,100,Pending
-Sergio Camello,Shots 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,83,90,100,Pending
+Florian Lejeune,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,90,80,Miss
+Gonçalo Guedes,Shots 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,85,100,100,Hit
+Unai López,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,87,100,100,Hit
+Emil Audero,Saves 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,82,83,80,Hit
+Alex Remiro,Saves 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,80,60,Hit
+Rayo Vallecano (team),Cards 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,98,100,100,Hit
+Rayo Vallecano (team),Over 1.5,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,93,100,100,Miss
+Rayo Vallecano (team),Scores 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,85,90,80,Miss
+Sergio Gómez,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,91,80,Hit
+Real Sociedad (team),Cards 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,98,100,100,Hit
+Real Sociedad (team),Cards 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,86,91,80,Hit
+Real Sociedad (team),Corners 4+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,84,91,80,Hit
+Real Sociedad (team),Corners 5+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,91,80,Hit
+Real Sociedad (team),Match corners 9+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,81,91,80,Hit
+Real Sociedad (team),Over 1.5,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,82,100,Miss
+Andrei Rațiu,Fouled 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,81,100,100,Hit
+Sergio Camello,Shots 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,83,90,100,Hit
 Joshua McPake,Fouled 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",85,100,100,Pending
 Joshua McPake,Shots 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,100,Pending
 Joshua McPake,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,90,80,Pending
@@ -367,17 +367,17 @@ FC Twente (team),Match corners 9+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisi
 FC Twente (team),Over 1.5,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),84,82,100,Pending
 FC Twente (team),SOT 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,91,100,Pending
 FC Twente (team),Scores 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),89,91,100,Pending
-Elche (team),Cards 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,98,100,100,Pending
-Abdessamad Ezzalzouli,Fouled 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,81,88,100,Pending
-Abdessamad Ezzalzouli,Shots 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,88,100,Pending
-Ángel Ortiz,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,100,100,Pending
-Buba Sangaré,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,90,100,Pending
-Matías Dituro,Saves 2+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,88,91,80,Pending
-Marc Roca,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,85,100,100,Pending
-Real Betis (team),Cards 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,92,91,100,Pending
-Real Betis (team),Scores 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,86,91,80,Pending
-Álvaro Vallés,Saves 2+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,94,100,100,Pending
-Álvaro Vallés,Saves 3+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,82,91,100,Pending
+Elche (team),Cards 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,98,100,100,Hit
+Abdessamad Ezzalzouli,Fouled 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,81,88,100,Miss
+Abdessamad Ezzalzouli,Shots 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,88,100,Hit
+Ángel Ortiz,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,100,100,Did not play
+Buba Sangaré,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,90,100,Did not play
+Matías Dituro,Saves 2+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,88,91,80,Hit
+Marc Roca,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,85,100,100,Miss
+Real Betis (team),Cards 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,92,91,100,Miss
+Real Betis (team),Scores 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,86,91,80,Hit
+Álvaro Vallés,Saves 2+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,94,100,100,Miss
+Álvaro Vallés,Saves 3+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,82,91,100,Miss
 Romelu Lukaku,Shots 1+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,100,100,Pending
 Fenerbahçe (team),Cards 1+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,80,80,Pending
 Fenerbahçe (team),Corners 4+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,100,Pending
