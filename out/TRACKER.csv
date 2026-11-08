@@ -1,31 +1,31 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 22:58 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 22:59 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6113,4577,75,90,86
-Tackles 1+,1208,938,78,90,84
-Shots 1+,1062,853,80,92,84
+All picks,6141,4600,75,90,86
+Tackles 1+,1211,940,78,90,84
+Shots 1+,1068,857,80,92,84
 Fouled 1+,613,421,69,90,84
 Fouls 1+,571,374,65,88,83
-Cards 1+,477,412,86,92,89
-Over 1.5,357,296,83,91,89
-Scores 1+,317,254,80,92,87
-Saves 2+,258,195,76,92,87
+Cards 1+,482,417,87,92,89
+Over 1.5,360,298,83,91,89
+Scores 1+,319,256,80,92,87
+Saves 2+,261,197,75,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,166,127,77,93,85
+SOT 4+,169,130,77,93,85
 Corners 4+,126,89,71,91,83
 SOT 1+,125,91,73,88,82
 Tackles 2+,110,62,56,88,
-Over 2.5,83,55,66,91,83
+Over 2.5,84,56,67,91,83
 Match corners 9+,80,48,60,89,84
 Saves 3+,55,36,65,91,83
+Cards 2+,48,32,67,89,86
 BTTS,47,21,45,90,81
-Cards 2+,47,31,66,89,85
 Corners 5+,42,27,64,90,85
 Fouled 2+,39,20,51,87,
 Score or assist,28,19,68,85,
 Win,22,16,73,89,
 Match corners 10+,21,9,43,88,80
+Match cards 4+,20,18,90,88,86
 Fouls 2+,19,7,37,87,
-Match cards 4+,19,17,89,87,82
 Goal 1+,9,6,67,86,
 SOT 2+,3,3,100,86,
 Booked,2,1,50,90,
@@ -39,18 +39,18 @@ Alexander Bah,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portug
 Benfica (team),Cards 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",83,80,100,Pending
 Benfica (team),Over 1.5,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,90,80,Pending
 Benfica (team),Scores 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
-Lamine Yamal,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,86,100,100,Pending
-Alejandro Grimaldo,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,83,90,80,Pending
-Raphinha,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,83,100,100,Pending
-Barcelona (team),Over 1.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,94,100,100,Pending
-Barcelona (team),Over 2.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,82,91,100,Pending
-Barcelona (team),SOT 4+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,89,100,100,Pending
-Barcelona (team),Scores 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,93,100,100,Pending
-Julián Álvarez,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,80,100,100,Pending
-Atlético Madrid (team),Cards 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,92,91,80,Pending
-Atlético Madrid (team),Over 1.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,80,82,60,Pending
-Atlético Madrid (team),SOT 4+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,89,100,100,Pending
-Atlético Madrid (team),Scores 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,86,91,100,Pending
+Lamine Yamal,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,86,100,100,Hit
+Alejandro Grimaldo,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,83,90,80,Miss
+Raphinha,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,83,100,100,Hit
+Barcelona (team),Over 1.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,94,100,100,Hit
+Barcelona (team),Over 2.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,82,91,100,Hit
+Barcelona (team),SOT 4+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,89,100,100,Hit
+Barcelona (team),Scores 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,93,100,100,Hit
+Julián Álvarez,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,80,100,100,Hit
+Atlético Madrid (team),Cards 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,92,91,80,Hit
+Atlético Madrid (team),Over 1.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,80,82,60,Hit
+Atlético Madrid (team),SOT 4+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,89,100,100,Hit
+Atlético Madrid (team),Scores 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,86,91,100,Hit
 Cher Ndour,Tackles 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,86,100,100,Pending
 Franco Mastantuono,Shots 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,86,100,100,Pending
 David de Gea,Saves 2+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,80,80,80,Pending
@@ -97,24 +97,24 @@ Dušan Vlahović,Shots 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Tur
 Salih Özcan,Fouled 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,100,100,Pending
 Emirhan Topçu,Fouled 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,88,80,Pending
 Orkun Kökcü,Shots 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Pending
-Ilaix Moriba,Tackles 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,82,100,Pending
-Thiago Fernández,Shots 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,82,100,100,Pending
-Mathew Ryan,Saves 2+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,88,91,80,Pending
-Aleix Febas,Tackles 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,100,100,Pending
-Ionuț Radu,Saves 2+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,81,82,100,Pending
-Levante (team),Cards 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,85,82,80,Pending
-Levante (team),Over 1.5,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,82,100,Pending
-Celta Vigo (team),Cards 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,92,91,100,Pending
-Villarreal (team),Cards 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,98,100,100,Pending
-Villarreal (team),SOT 4+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,83,91,80,Pending
-Sergi Cardona,Fouled 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,81,100,100,Pending
-Martín Satriano,Shots 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,85,91,80,Pending
-Santiago Mouriño,Tackles 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,82,75,60,Pending
-Andrés García,Tackles 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,87,100,100,Pending
-David Soria,Saves 2+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,81,82,80,Pending
-Getafe (team),Cards 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,98,100,100,Pending
-Getafe (team),Cards 2+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,86,91,100,Pending
-Getafe (team),Match cards 4+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,92,100,100,Pending
+Ilaix Moriba,Tackles 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,82,100,Hit
+Thiago Fernández,Shots 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,82,100,100,Miss
+Mathew Ryan,Saves 2+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,88,91,80,Hit
+Aleix Febas,Tackles 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,100,100,Did not play
+Ionuț Radu,Saves 2+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,81,82,100,Miss
+Levante (team),Cards 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,85,82,80,Hit
+Levante (team),Over 1.5,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,82,100,Miss
+Celta Vigo (team),Cards 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,92,91,100,Hit
+Villarreal (team),Cards 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,98,100,100,Hit
+Villarreal (team),SOT 4+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,83,91,80,Hit
+Sergi Cardona,Fouled 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,81,100,100,Did not play
+Martín Satriano,Shots 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,85,91,80,Hit
+Santiago Mouriño,Tackles 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,82,75,60,Hit
+Andrés García,Tackles 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,87,100,100,Miss
+David Soria,Saves 2+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,81,82,80,Hit
+Getafe (team),Cards 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,98,100,100,Hit
+Getafe (team),Cards 2+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,86,91,100,Hit
+Getafe (team),Match cards 4+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,92,100,100,Hit
 Como (team),Corners 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,88,100,100,Miss
 Como (team),Match corners 9+,Inter v Como,Sun 08 Nov · 17:00,Serie A,81,90,80,Miss
 Como (team),Over 1.5,Inter v Como,Sun 08 Nov · 17:00,Serie A,82,80,60,Hit
