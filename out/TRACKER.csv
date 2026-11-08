@@ -1,20 +1,20 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:24 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 19:25 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5988,4479,75,90,86
-Tackles 1+,1185,923,78,90,84
-Shots 1+,1041,838,80,92,84
-Fouled 1+,606,415,68,90,84
-Fouls 1+,569,373,66,88,83
-Cards 1+,460,398,87,92,90
-Over 1.5,345,284,82,91,89
-Scores 1+,305,242,79,92,87
-Saves 2+,250,189,76,92,87
+All picks,6037,4515,75,90,86
+Tackles 1+,1194,928,78,90,84
+Shots 1+,1046,841,80,92,84
+Fouled 1+,610,419,69,90,84
+Fouls 1+,571,374,65,88,83
+Cards 1+,470,405,86,92,90
+Over 1.5,349,288,83,91,89
+Scores 1+,309,246,80,92,87
+Saves 2+,257,194,75,92,87
 Shots 2+,207,149,72,90,85
-SOT 4+,156,120,77,93,85
+SOT 4+,158,121,77,93,85
 SOT 1+,125,91,73,88,82
-Corners 4+,120,84,70,91,83
+Corners 4+,121,85,70,91,83
 Tackles 2+,110,62,56,88,
-Over 2.5,82,54,66,91,83
+Over 2.5,83,55,66,91,83
 Match corners 9+,77,46,60,89,84
 Saves 3+,54,36,67,91,83
 BTTS,47,21,45,90,81
@@ -153,44 +153,44 @@ Boubacar Kamara,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,P
 Matheus Cunha,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,84,100,100,Hit
 Bryan Mbeumo,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,84,100,100,Hit
 Ian Maatsen,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,82,100,100,Hit
-Niels Nkounkou,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
-Mohamed Abdelmonem,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Pending
-Elye Wahi,Shots 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Pending
-Joseph Kalulu,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
-Anthony Lopes,Saves 2+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Pending
-Xavier Mandza,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Pending
-Yéhvann Diouf,Saves 2+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Pending
-Angers (team),Cards 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
-Nice (team),Cards 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
-Pathé Mboup,Tackles 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Pending
-Zachary Athekame,Tackles 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Pending
-Ludovic Ajorque,Fouls 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Pending
-Corentin Tolisso,Fouled 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,81,100,100,Pending
-Dominik Greif,Saves 2+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,92,100,100,Pending
-Brest (team),Cards 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
-Brest (team),Over 1.5,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,89,100,Pending
-Brest (team),Scores 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Pending
-Lyon (team),Cards 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,81,78,80,Pending
-Lyon (team),Over 1.5,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,89,100,Pending
-Amir Richardson,Shots 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
-Dembo Sylla,Fouled 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Pending
-Simon Ebonog,Tackles 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Pending
-Mbwana Samatta,Shots 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
-Jean-Victor Makengo,Fouled 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Pending
-Lorient (team),Cards 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,81,78,100,Pending
-Le Havre (team),Cards 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,89,89,80,Pending
-Le Havre (team),Corners 4+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,80,89,80,Pending
-Le Havre (team),SOT 4+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,82,89,80,Pending
-Alexandre Lauray,Fouls 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Pending
-Paris Brunner,Shots 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Pending
-Lamine Camara,Fouled 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Pending
-Noa Boissé,Tackles 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Pending
-Lukás Hrádecky,Saves 2+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Pending
-Nicolas Kocik,Saves 2+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,83,86,80,Pending
-Le Mans (team),Cards 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
-Le Mans (team),Over 1.5,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,94,100,100,Pending
-Monaco (team),Cards 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
-Monaco (team),Scores 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Pending
+Niels Nkounkou,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Hit
+Mohamed Abdelmonem,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Hit
+Elye Wahi,Shots 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Hit
+Joseph Kalulu,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Miss
+Anthony Lopes,Saves 2+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Hit
+Xavier Mandza,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Miss
+Yéhvann Diouf,Saves 2+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Hit
+Angers (team),Cards 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Hit
+Nice (team),Cards 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Hit
+Pathé Mboup,Tackles 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Miss
+Zachary Athekame,Tackles 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Hit
+Ludovic Ajorque,Fouls 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Miss
+Corentin Tolisso,Fouled 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,81,100,100,Hit
+Dominik Greif,Saves 2+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,92,100,100,Hit
+Brest (team),Cards 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Hit
+Brest (team),Over 1.5,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,89,100,Hit
+Brest (team),Scores 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Hit
+Lyon (team),Cards 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,81,78,80,Hit
+Lyon (team),Over 1.5,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,89,100,Hit
+Amir Richardson,Shots 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Hit
+Dembo Sylla,Fouled 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Hit
+Simon Ebonog,Tackles 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Hit
+Mbwana Samatta,Shots 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Hit
+Jean-Victor Makengo,Fouled 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Hit
+Lorient (team),Cards 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,81,78,100,Hit
+Le Havre (team),Cards 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,89,89,80,Hit
+Le Havre (team),Corners 4+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,80,89,80,Hit
+Le Havre (team),SOT 4+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,82,89,80,Hit
+Alexandre Lauray,Fouls 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Did not play
+Paris Brunner,Shots 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Miss
+Lamine Camara,Fouled 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Hit
+Noa Boissé,Tackles 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Miss
+Lukás Hrádecky,Saves 2+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Hit
+Nicolas Kocik,Saves 2+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,83,86,80,Hit
+Le Mans (team),Cards 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Miss
+Le Mans (team),Over 1.5,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,94,100,100,Hit
+Monaco (team),Cards 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Miss
+Monaco (team),Scores 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Hit
 Mika Baur,Tackles 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",86,100,100,Pending
 Colby Donovan,Tackles 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",80,75,80,Pending
 Celtic (team),Cards 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",90,92,100,Pending
@@ -293,19 +293,19 @@ Monza (team),Scores 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,94,100,100,M
 Samuele Birindelli,Shots 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,86,100,100,Did not play
 Samuele Birindelli,Tackles 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,90,80,Did not play
 Atalanta (team),Over 1.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,89,90,100,Miss
-Anthony Rouault,Tackles 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,82,100,100,Pending
-Ethan Mbappé,Shots 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,100,100,Pending
-Benjamin André,Fouls 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,86,80,Pending
-Brice Samba,Saves 2+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,92,100,100,Pending
-Valentin Rongier,Tackles 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,85,100,100,Pending
-Berke Özer,Saves 2+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,84,88,80,Pending
-Lille (team),Cards 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,81,78,80,Pending
-Lille (team),Scores 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,93,100,100,Pending
-Rennes (team),Cards 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,96,100,100,Pending
-Rennes (team),Over 1.5,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,86,89,100,Pending
-Rennes (team),Over 2.5,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,89,100,Pending
-Rennes (team),SOT 4+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,82,89,100,Pending
-Rennes (team),Scores 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,85,89,80,Pending
+Anthony Rouault,Tackles 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,82,100,100,Did not play
+Ethan Mbappé,Shots 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,100,100,Miss
+Benjamin André,Fouls 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,86,80,Hit
+Brice Samba,Saves 2+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,92,100,100,Miss
+Valentin Rongier,Tackles 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,85,100,100,Hit
+Berke Özer,Saves 2+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,84,88,80,Miss
+Lille (team),Cards 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,81,78,80,Hit
+Lille (team),Scores 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,93,100,100,Hit
+Rennes (team),Cards 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,96,100,100,Miss
+Rennes (team),Over 1.5,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,86,89,100,Hit
+Rennes (team),Over 2.5,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,89,100,Hit
+Rennes (team),SOT 4+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,82,89,100,Miss
+Rennes (team),Scores 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,85,89,80,Hit
 Brighton & Hove Albion (team),Cards 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,88,89,100,Hit
 Brighton & Hove Albion (team),Cards 2+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,81,89,100,Hit
 Brighton & Hove Albion (team),Over 1.5,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,85,89,80,Hit
