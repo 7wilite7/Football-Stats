@@ -1,23 +1,23 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 23:00 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6151,4610,75,91,86
-Tackles 1+,1213,942,78,90,84
-Shots 1+,1069,858,80,92,84
+All picks,6178,4632,75,91,86
+Tackles 1+,1220,946,78,90,84
+Shots 1+,1072,861,80,92,84
 Fouled 1+,613,421,69,90,84
-Fouls 1+,571,374,65,88,83
-Cards 1+,484,419,87,92,89
-Over 1.5,362,300,83,91,89
-Scores 1+,319,256,80,92,87
-Saves 2+,262,198,76,92,87
+Fouls 1+,572,375,66,88,83
+Cards 1+,488,422,86,92,89
+Over 1.5,364,302,83,91,89
+Scores 1+,321,258,80,92,87
+Saves 2+,264,200,76,92,87
 Shots 2+,207,149,72,90,85
 SOT 4+,169,130,77,93,85
-Corners 4+,127,90,71,91,83
+Corners 4+,128,91,71,91,83
 SOT 1+,125,91,73,88,82
 Tackles 2+,110,62,56,88,
-Over 2.5,85,57,67,91,83
-Match corners 9+,80,48,60,89,84
-Saves 3+,55,36,65,91,83
-Cards 2+,48,32,67,89,86
+Over 2.5,87,58,67,91,83
+Match corners 9+,81,49,60,89,84
+Saves 3+,56,37,66,91,83
+Cards 2+,49,33,67,89,85
 BTTS,47,21,45,90,81
 Corners 5+,42,27,64,90,85
 Fouled 2+,39,20,51,87,
@@ -68,20 +68,20 @@ Lens (team),Cards 1+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,89,89,100,Pend
 Lens (team),Corners 4+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,80,89,80,Pending
 Marseille (team),Cards 1+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,81,78,100,Pending
 Marseille (team),Over 1.5,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,86,89,100,Pending
-Schalke 04 (team),Cards 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,87,88,80,Pending
-Fisnik Asllani,Shots 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,80,100,100,Pending
-Mats Rots,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,81,86,100,Pending
-Loris Karius,Saves 2+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,85,88,80,Pending
-Loris Karius,Saves 3+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,80,88,80,Pending
-Timo Becker,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,100,100,Pending
-Hasan Kuruçay,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,84,100,100,Pending
-Hoffenheim (team),Cards 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,87,88,80,Pending
-Hoffenheim (team),Corners 4+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,90,100,100,Pending
-Hoffenheim (team),Match corners 9+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,88,80,Pending
-Hoffenheim (team),Over 1.5,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,94,100,100,Pending
-Hoffenheim (team),Over 2.5,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,82,88,80,Pending
-Hoffenheim (team),Scores 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,88,80,Pending
-Ozan Kabak,Fouls 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,81,88,80,Pending
+Schalke 04 (team),Cards 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,87,88,80,Hit
+Fisnik Asllani,Shots 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,80,100,100,Hit
+Mats Rots,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,81,86,100,Hit
+Loris Karius,Saves 2+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,85,88,80,Hit
+Loris Karius,Saves 3+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,80,88,80,Hit
+Timo Becker,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,100,100,Did not play
+Hasan Kuruçay,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,84,100,100,Miss
+Hoffenheim (team),Cards 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,87,88,80,Miss
+Hoffenheim (team),Corners 4+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,90,100,100,Hit
+Hoffenheim (team),Match corners 9+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,88,80,Hit
+Hoffenheim (team),Over 1.5,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,94,100,100,Hit
+Hoffenheim (team),Over 2.5,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,82,88,80,Hit
+Hoffenheim (team),Scores 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,88,80,Hit
+Ozan Kabak,Fouls 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,81,88,80,Hit
 Gabriel Veiga,Shots 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",83,100,100,Pending
 Alberto Costa,Fouls 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",84,89,100,Pending
 Pablo Rosario,Tackles 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",85,90,80,Pending
@@ -130,20 +130,20 @@ Inter (team),Over 1.5,Inter v Como,Sun 08 Nov · 17:00,Serie A,89,90,100,Hit
 Inter (team),SOT 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,90,80,Hit
 Inter (team),Scores 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,94,100,100,Hit
 Anastasios Douvikas,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Miss
-Igor Matanović,Shots 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
-Philipp Treu,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,81,100,100,Pending
-Tom Rothe,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,83,100,100,Pending
-Derry Scherhant,Shots 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
-Frederik Rønnow,Saves 2+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,83,86,80,Pending
-Rani Khedira,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
-Michel Aebischer,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
-Union Berlin (team),Cards 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,96,100,100,Pending
-Union Berlin (team),Cards 2+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,85,100,100,Pending
-Freiburg (team),Cards 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,96,100,100,Pending
-Freiburg (team),Over 1.5,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,85,88,100,Pending
-Freiburg (team),Over 2.5,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,82,88,100,Pending
-Freiburg (team),Scores 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,92,100,100,Pending
-András Schäfer,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,81,88,100,Pending
+Igor Matanović,Shots 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Hit
+Philipp Treu,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,81,100,100,Hit
+Tom Rothe,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,83,100,100,Miss
+Derry Scherhant,Shots 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Hit
+Frederik Rønnow,Saves 2+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,83,86,80,Hit
+Rani Khedira,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Hit
+Michel Aebischer,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Miss
+Union Berlin (team),Cards 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,96,100,100,Hit
+Union Berlin (team),Cards 2+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,85,100,100,Hit
+Freiburg (team),Cards 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,96,100,100,Hit
+Freiburg (team),Over 1.5,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,85,88,100,Hit
+Freiburg (team),Over 2.5,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,82,88,100,Miss
+Freiburg (team),Scores 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,92,100,100,Hit
+András Schäfer,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,81,88,100,Hit
 Aston Villa (team),Cards 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,88,89,100,Hit
 Manchester United (team),Cards 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,88,89,80,Hit
 Manchester United (team),Over 1.5,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,85,89,100,Hit
