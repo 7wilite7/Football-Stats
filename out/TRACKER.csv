@@ -1,13 +1,13 @@
 "How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 07:03 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5831,4362,75,90,86
-Tackles 1+,1160,908,78,90,84
-Shots 1+,1013,814,80,91,84
+All picks,5838,4367,75,90,86
+Tackles 1+,1162,910,78,90,84
+Shots 1+,1014,815,80,91,84
 Fouled 1+,598,410,69,90,84
-Fouls 1+,565,370,65,88,83
-Cards 1+,436,377,86,92,90
-Over 1.5,326,271,83,91,89
-Scores 1+,292,232,79,91,87
+Fouls 1+,566,371,66,88,83
+Cards 1+,437,377,86,92,90
+Over 1.5,327,271,83,91,89
+Scores 1+,293,233,80,91,87
 Saves 2+,239,180,75,92,87
 Shots 2+,207,149,72,90,85
 SOT 4+,149,114,77,93,85
@@ -624,13 +624,13 @@ Niklas Dorsch,Fouls 1+,Philadelphia Union v Toronto FC,Sat 07 Nov · 21:00,MLS,8
 Niklas Dorsch,Tackles 1+,Philadelphia Union v Toronto FC,Sat 07 Nov · 21:00,MLS,83,92,100,Miss
 Richie Laryea,Fouled 1+,Philadelphia Union v Toronto FC,Sat 07 Nov · 21:00,MLS,86,92,80,Hit
 Joshua Sargent,Shots 1+,Philadelphia Union v Toronto FC,Sat 07 Nov · 21:00,MLS,81,88,80,Hit
-Sergi Altimira,Tackles 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",87,100,100,Pending
-Iván Fresneda,Fouls 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,90,100,Pending
-Issa Doumbia,Tackles 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",80,90,80,Pending
-Luis Suárez,Shots 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",80,80,100,Pending
-Sporting CP (team),Cards 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",97,100,100,Pending
-Sporting CP (team),Over 1.5,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
-Sporting CP (team),Scores 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
+Sergi Altimira,Tackles 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",87,100,100,Hit
+Iván Fresneda,Fouls 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,90,100,Hit
+Issa Doumbia,Tackles 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",80,90,80,Hit
+Luis Suárez,Shots 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",80,80,100,Hit
+Sporting CP (team),Cards 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",97,100,100,Miss
+Sporting CP (team),Over 1.5,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Miss
+Sporting CP (team),Scores 1+,Sporting CP v Moreirense,Sat 07 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Hit
 Troyes (team),Cards 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,81,78,100,Hit
 Troyes (team),Corners 4+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,80,89,80,Miss
 Dermane Karim,Tackles 1+,Paris Saint-Germain v Troyes,Sat 07 Nov · 20:05,Ligue 1,83,88,100,Hit
