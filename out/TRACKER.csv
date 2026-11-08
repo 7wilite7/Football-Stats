@@ -1,24 +1,24 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 07 Nov 2026 07:00 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 08 Nov 2026 06:53 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,5313,3940,74,90,87
-Tackles 1+,1060,822,78,90,85
-Shots 1+,908,721,79,91,84
-Fouled 1+,567,390,69,90,83
-Fouls 1+,530,344,65,88,83
-Cards 1+,358,311,87,93,90
+All picks,5356,3974,74,90,87
+Tackles 1+,1070,831,78,90,85
+Shots 1+,914,726,79,91,84
+Fouled 1+,571,393,69,90,82
+Fouls 1+,534,347,65,88,83
+Cards 1+,366,316,86,93,90
 Over 1.5,282,239,85,91,90
-Scores 1+,251,201,80,92,88
-Saves 2+,209,153,73,92,88
+Scores 1+,253,203,80,92,88
+Saves 2+,212,156,74,92,88
 Shots 2+,203,145,71,90,
-SOT 4+,137,103,75,93,85
+SOT 4+,138,104,75,93,85
 SOT 1+,123,89,72,87,
 Tackles 2+,110,62,56,88,
-Corners 4+,103,73,71,91,81
+Corners 4+,107,75,70,91,82
 Over 2.5,78,51,65,91,83
 Match corners 9+,67,40,60,89,84
 Saves 3+,47,32,68,90,80
 BTTS,43,20,47,91,81
-Cards 2+,40,25,62,89,
+Cards 2+,41,26,63,89,81
 Fouled 2+,39,20,51,87,
 Corners 5+,38,23,61,89,
 Score or assist,28,19,68,85,
@@ -32,6 +32,376 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
+Vangelis Pavlidis,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Pending
+Alexander Bah,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",83,100,100,Pending
+Gianluca Prestianni,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Pending
+Gianluca Prestianni,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,100,100,Pending
+Benfica (team),Scores 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
+Benfica (team),Over 1.5,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,90,80,Pending
+Benfica (team),Cards 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",83,80,100,Pending
+Alejandro Grimaldo,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,83,90,80,Pending
+Julián Álvarez,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,80,100,100,Pending
+Raphinha,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,83,100,100,Pending
+Lamine Yamal,Shots 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,86,100,100,Pending
+Atlético Madrid (team),Scores 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,86,91,100,Pending
+Atlético Madrid (team),Over 1.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,80,82,60,Pending
+Atlético Madrid (team),Cards 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,92,91,80,Pending
+Atlético Madrid (team),SOT 4+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,89,100,100,Pending
+Barcelona (team),Scores 1+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,93,100,100,Pending
+Barcelona (team),Over 1.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,94,100,100,Pending
+Barcelona (team),Over 2.5,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,82,91,100,Pending
+Barcelona (team),SOT 4+,Atlético Madrid v Barcelona,Sun 08 Nov · 20:00,La Liga,89,100,100,Pending
+Gleison Bremer,Tackles 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,87,100,100,Pending
+David de Gea,Saves 2+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,80,80,80,Pending
+Cher Ndour,Tackles 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,86,100,100,Pending
+Franco Mastantuono,Shots 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,86,100,100,Pending
+Juventus (team),Over 1.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,89,90,100,Pending
+Juventus (team),Corners 4+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,81,90,80,Pending
+Juventus (team),Cards 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,80,80,60,Pending
+Fiorentina (team),Over 1.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,96,100,100,Pending
+Fiorentina (team),Over 2.5,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,82,90,100,Pending
+Fiorentina (team),Cards 1+,Fiorentina v Juventus,Sun 08 Nov · 19:45,Serie A,87,90,100,Pending
+Jeffrey De Lange,Saves 2+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,85,89,80,Pending
+Robin Risser,Saves 2+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,85,89,80,Pending
+Ruben Aguilar,Tackles 1+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,83,88,100,Pending
+Marseille (team),Over 1.5,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,86,89,100,Pending
+Marseille (team),Cards 1+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,81,78,100,Pending
+Lens (team),Corners 4+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,80,89,80,Pending
+Lens (team),Cards 1+,Lens v Marseille,Sun 08 Nov · 19:45,Ligue 1,89,89,100,Pending
+Ozan Kabak,Fouls 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,81,88,80,Pending
+Mats Rots,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,81,86,100,Pending
+Loris Karius,Saves 2+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,85,88,80,Pending
+Loris Karius,Saves 3+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,80,88,80,Pending
+Timo Becker,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,100,100,Pending
+Hasan Kuruçay,Tackles 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,84,100,100,Pending
+Fisnik Asllani,Shots 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,80,100,100,Pending
+Hoffenheim (team),Scores 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,88,80,Pending
+Hoffenheim (team),Over 1.5,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,94,100,100,Pending
+Hoffenheim (team),Over 2.5,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,82,88,80,Pending
+Hoffenheim (team),Corners 4+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,90,100,100,Pending
+Hoffenheim (team),Match corners 9+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,83,88,80,Pending
+Hoffenheim (team),Cards 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,87,88,80,Pending
+Schalke 04 (team),Cards 1+,Hoffenheim v Schalke 04,Sun 08 Nov · 18:30,Bundesliga,87,88,80,Pending
+Pablo Rosario,Tackles 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",85,90,80,Pending
+Gabriel Veiga,Shots 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",83,100,100,Pending
+Alberto Costa,Fouls 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",84,89,100,Pending
+FC Porto (team),Win,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",83,100,100,Pending
+FC Porto (team),Scores 1+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",92,100,100,Pending
+FC Porto (team),Over 1.5,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",85,90,80,Pending
+FC Porto (team),SOT 4+,Vitória de Guimarães v FC Porto,Sun 08 Nov · 18:00,"Portugal (Porto, Sporting, Benfica)",80,90,100,Pending
+Salih Özcan,Fouled 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,100,100,Pending
+Orkun Kökcü,Shots 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Pending
+Emmanuel Agbadou,Tackles 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,90,80,Pending
+Dušan Vlahović,Shots 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,100,100,Pending
+Emirhan Topçu,Fouled 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,88,80,Pending
+Beşiktaş (team),Corners 4+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,80,Pending
+Beşiktaş (team),Cards 1+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",89,90,100,Pending
+Beşiktaş (team),SOT 4+,Beşiktaş v Gençlerbirliği,Sun 08 Nov · 18:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",92,100,100,Pending
+David Soria,Saves 2+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,81,82,80,Pending
+Martín Satriano,Shots 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,85,91,80,Pending
+Andrés García,Tackles 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,87,100,100,Pending
+Santiago Mouriño,Tackles 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,82,75,60,Pending
+Mathew Ryan,Saves 2+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,88,91,80,Pending
+Aleix Febas,Tackles 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,100,100,Pending
+Ionuț Radu,Saves 2+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,81,82,100,Pending
+Ilaix Moriba,Tackles 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,82,100,Pending
+Thiago Fernández,Shots 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,82,100,100,Pending
+Sergi Cardona,Fouled 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,81,100,100,Pending
+Getafe (team),Cards 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,98,100,100,Pending
+Getafe (team),Cards 2+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,86,91,100,Pending
+Getafe (team),Match cards 4+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,92,100,100,Pending
+Villarreal (team),Cards 1+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,98,100,100,Pending
+Villarreal (team),SOT 4+,Villarreal v Getafe,Sun 08 Nov · 17:30,La Liga,83,91,80,Pending
+Levante (team),Over 1.5,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,80,82,100,Pending
+Levante (team),Cards 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,85,82,80,Pending
+Celta Vigo (team),Cards 1+,Celta Vigo v Levante,Sun 08 Nov · 17:30,La Liga,92,91,100,Pending
+Piotr Zieliński,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Pending
+Anastasios Douvikas,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Pending
+Lucas Da Cunha,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,90,100,Pending
+Martin Baturina,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Pending
+Nico Paz,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,100,100,Pending
+Marcus Thuram,Shots 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,82,100,100,Pending
+Marcus Thuram,Fouls 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,80,78,100,Pending
+Inter (team),Scores 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,94,100,100,Pending
+Inter (team),Over 1.5,Inter v Como,Sun 08 Nov · 17:00,Serie A,89,90,100,Pending
+Inter (team),Cards 1+,Inter v Como,Sun 08 Nov · 17:00,Serie A,80,80,60,Pending
+Inter (team),SOT 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,84,90,80,Pending
+Como (team),Over 1.5,Inter v Como,Sun 08 Nov · 17:00,Serie A,82,80,60,Pending
+Como (team),Corners 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,88,100,100,Pending
+Como (team),Match corners 9+,Inter v Como,Sun 08 Nov · 17:00,Serie A,81,90,80,Pending
+Como (team),SOT 4+,Inter v Como,Sun 08 Nov · 17:00,Serie A,91,100,100,Pending
+Rani Khedira,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
+Michel Aebischer,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
+András Schäfer,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,81,88,100,Pending
+Tom Rothe,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,83,100,100,Pending
+Igor Matanović,Shots 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
+Philipp Treu,Tackles 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,81,100,100,Pending
+Derry Scherhant,Shots 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,84,100,100,Pending
+Frederik Rønnow,Saves 2+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,83,86,80,Pending
+Union Berlin (team),Cards 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,96,100,100,Pending
+Union Berlin (team),Cards 2+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,85,100,100,Pending
+Freiburg (team),Scores 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,92,100,100,Pending
+Freiburg (team),Over 1.5,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,85,88,100,Pending
+Freiburg (team),Over 2.5,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,82,88,100,Pending
+Freiburg (team),Cards 1+,Freiburg v Union Berlin,Sun 08 Nov · 16:30,Bundesliga,96,100,100,Pending
+Bruno Fernandes,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,83,100,100,Pending
+Matheus Cunha,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,84,100,100,Pending
+Bryan Mbeumo,Shots 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,84,100,100,Pending
+Boubacar Kamara,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,86,100,100,Pending
+Ian Maatsen,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,82,100,100,Pending
+João Gomes,Tackles 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,82,100,100,Pending
+Manchester United (team),Over 1.5,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,85,89,100,Pending
+Manchester United (team),Cards 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,88,89,80,Pending
+Aston Villa (team),Cards 1+,Manchester United v Aston Villa,Sun 08 Nov · 16:30,Premier League,88,89,100,Pending
+Corentin Tolisso,Fouled 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,81,100,100,Pending
+Zachary Athekame,Tackles 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Pending
+Ludovic Ajorque,Fouls 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Pending
+Nicolas Kocik,Saves 2+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,83,86,80,Pending
+Alexandre Lauray,Fouls 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Pending
+Pathé Mboup,Tackles 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Pending
+Noa Boissé,Tackles 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Pending
+Jean-Victor Makengo,Fouled 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Pending
+Yéhvann Diouf,Saves 2+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Pending
+Mohamed Abdelmonem,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Pending
+Dembo Sylla,Fouled 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Pending
+Xavier Mandza,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,100,100,Pending
+Anthony Lopes,Saves 2+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Pending
+Lukás Hrádecky,Saves 2+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Pending
+Mbwana Samatta,Shots 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
+Amir Richardson,Shots 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
+Paris Brunner,Shots 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Pending
+Lamine Camara,Fouled 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,84,100,100,Pending
+Simon Ebonog,Tackles 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,86,100,100,Pending
+Dominik Greif,Saves 2+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,92,100,100,Pending
+Joseph Kalulu,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
+Elye Wahi,Shots 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,80,100,100,Pending
+Niels Nkounkou,Tackles 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,83,100,100,Pending
+Lyon (team),Over 1.5,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,89,100,Pending
+Lyon (team),Cards 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,81,78,80,Pending
+Le Mans (team),Over 1.5,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,94,100,100,Pending
+Le Mans (team),Cards 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
+Brest (team),Scores 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,85,89,100,Pending
+Brest (team),Over 1.5,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,86,89,100,Pending
+Brest (team),Cards 1+,Brest v Lyon,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
+Nice (team),Cards 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
+Lorient (team),Cards 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,81,78,100,Pending
+Angers (team),Cards 1+,Angers v Nice,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
+Le Havre (team),Corners 4+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,80,89,80,Pending
+Le Havre (team),Cards 1+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,89,89,80,Pending
+Le Havre (team),SOT 4+,Le Havre v Lorient,Sun 08 Nov · 16:15,Ligue 1,82,89,80,Pending
+Monaco (team),Scores 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,85,89,80,Pending
+Monaco (team),Cards 1+,Le Mans v Monaco,Sun 08 Nov · 16:15,Ligue 1,96,100,100,Pending
+Colby Donovan,Tackles 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",80,75,80,Pending
+Mika Baur,Tackles 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",86,100,100,Pending
+Celtic (team),Scores 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",82,83,80,Pending
+Celtic (team),Corners 4+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",93,100,100,Pending
+Celtic (team),Corners 5+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",91,100,100,Pending
+Celtic (team),Match corners 9+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",88,92,80,Pending
+Celtic (team),Cards 1+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",90,92,100,Pending
+Celtic (team),SOT 4+,Celtic v Kilmarnock,Sun 08 Nov · 16:00,"Scotland (Rangers, Celtic, Hearts)",85,92,100,Pending
+Guus Til,Shots 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,100,Pending
+Mauro Júnior,Tackles 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),88,100,100,Pending
+Ruben van Bommel,Shots 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),85,100,100,Pending
+Calvin Stengs,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,100,Pending
+Peer Koopmeiners,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Pending
+Wouter Goes,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),87,100,100,Pending
+Mexx Meerdink,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),87,100,100,Pending
+Lewis Schouten,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Pending
+Ro-Zangelo Daal,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,91,80,Pending
+Weslley Pinto,Shots 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),82,100,100,Pending
+Dave Kwakman,Fouled 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),82,90,80,Pending
+Mateo Chávez,Tackles 1+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),81,91,100,Pending
+Kodai Sano,Tackles 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),86,90,100,Pending
+PSV Eindhoven (team),Scores 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),96,100,100,Pending
+PSV Eindhoven (team),Over 1.5,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),97,100,100,Pending
+PSV Eindhoven (team),Cards 1+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),80,82,80,Pending
+PSV Eindhoven (team),SOT 4+,Cambuur v PSV Eindhoven,Sun 08 Nov · 15:45,Eredivisie (top 5),85,91,80,Pending
+AZ Alkmaar (team),Over 1.5,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),84,82,60,Pending
+AZ Alkmaar (team),Match corners 9+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),80,82,80,Pending
+AZ Alkmaar (team),SOT 4+,AZ Alkmaar v FC Groningen,Sun 08 Nov · 15:45,Eredivisie (top 5),85,91,80,Pending
+Mohamed Salah,Shots 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,100,100,Pending
+André Onana,Saves 2+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",94,100,100,Pending
+André Onana,Saves 3+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,80,Pending
+Melih Kabasakal,Tackles 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",80,88,100,Pending
+Chibuike Nwaiwu,Fouled 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",85,100,100,Pending
+Wagner Pina,Tackles 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",83,89,100,Pending
+Trabzonspor (team),Scores 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,90,100,Pending
+Trabzonspor (team),Over 1.5,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",87,90,100,Pending
+Trabzonspor (team),Corners 4+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,80,Pending
+Trabzonspor (team),Cards 1+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,80,80,Pending
+Trabzonspor (team),SOT 4+,Alanyaspor v Trabzonspor,Sun 08 Nov · 15:30,"Turkey (Gala, Fener, Besiktas, Trabzon)",92,100,100,Pending
+Florian Lejeune,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,90,80,Pending
+Unai López,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,87,100,100,Pending
+Andrei Rațiu,Fouled 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,81,100,100,Pending
+Sergio Camello,Shots 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,83,90,100,Pending
+Alex Remiro,Saves 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,80,60,Pending
+Sergio Gómez,Tackles 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,91,80,Pending
+Gonçalo Guedes,Shots 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,85,100,100,Pending
+Emil Audero,Saves 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,82,83,80,Pending
+Rayo Vallecano (team),Scores 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,85,90,80,Pending
+Rayo Vallecano (team),Over 1.5,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,93,100,100,Pending
+Rayo Vallecano (team),Cards 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,98,100,100,Pending
+Real Sociedad (team),Over 1.5,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,82,100,Pending
+Real Sociedad (team),Corners 4+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,84,91,80,Pending
+Real Sociedad (team),Corners 5+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,80,91,80,Pending
+Real Sociedad (team),Match corners 9+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,81,91,80,Pending
+Real Sociedad (team),Cards 1+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,98,100,100,Pending
+Real Sociedad (team),Cards 2+,Real Sociedad v Rayo Vallecano,Sun 08 Nov · 15:15,La Liga,86,91,80,Pending
+Cláudio Braga,Shots 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,91,100,Pending
+Jordi Altena,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",87,100,100,Pending
+Laurent Mendy,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,90,80,Pending
+Joshua McPake,Shots 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",86,100,100,Pending
+Joshua McPake,Fouled 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",85,100,100,Pending
+Joshua McPake,Tackles 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",80,90,80,Pending
+Heart of Midlothian (team),Scores 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Pending
+Heart of Midlothian (team),Over 1.5,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",94,100,100,Pending
+Heart of Midlothian (team),Corners 4+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",85,91,80,Pending
+Heart of Midlothian (team),Cards 1+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",83,82,100,Pending
+Heart of Midlothian (team),SOT 4+,Heart of Midlothian v Falkirk,Sun 08 Nov · 15:00,"Scotland (Rangers, Celtic, Hearts)",84,91,80,Pending
+Patrik Schick,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,100,100,Pending
+Equi Fernández,Tackles 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,83,88,80,Pending
+Ibrahim Maza,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,84,100,100,Pending
+Saïd El Mala,Shots 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,80,86,100,Pending
+Bayer Leverkusen (team),Scores 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,83,88,80,Pending
+Bayer Leverkusen (team),Over 1.5,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,94,100,100,Pending
+Bayer Leverkusen (team),Over 2.5,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Pending
+Bayer Leverkusen (team),Cards 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,87,88,80,Pending
+Bayer Leverkusen (team),SOT 4+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Pending
+1. FC Köln (team),Corners 4+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,82,88,80,Pending
+1. FC Köln (team),Cards 1+,1. FC Köln v Bayer Leverkusen,Sun 08 Nov · 14:30,Bundesliga,87,88,100,Pending
+Samuele Birindelli,Shots 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,86,100,100,Pending
+Samuele Birindelli,Tackles 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,90,80,Pending
+Gustavo Varela,Shots 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,84,100,100,Pending
+Justin Bijlow,Saves 2+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,80,80,100,Pending
+Leo Østigard,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,100,100,Pending
+Morten Frendrup,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,86,90,80,Pending
+Mikael Egill Ellertsson,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,100,100,Pending
+Alessandro Marcandalli,Tackles 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,85,90,80,Pending
+Mike Maignan,Saves 2+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,90,100,Pending
+Marco Carnesecchi,Saves 2+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,87,90,80,Pending
+Ebenezer Akinsanmiro,Fouled 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,100,100,Pending
+Noel Törnqvist,Saves 2+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,92,100,100,Pending
+Noel Törnqvist,Saves 3+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,85,100,100,Pending
+Monza (team),Scores 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,94,100,100,Pending
+Monza (team),BTTS,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,81,90,80,Pending
+Monza (team),Over 1.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,96,100,100,Pending
+Monza (team),Over 2.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,82,90,100,Pending
+Monza (team),Cards 1+,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,80,80,80,Pending
+Genoa (team),Over 1.5,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,82,80,80,Pending
+Genoa (team),Cards 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,87,90,80,Pending
+Milan (team),Scores 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,94,100,100,Pending
+Milan (team),Over 1.5,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,96,100,100,Pending
+Milan (team),Cards 1+,Genoa v Milan,Sun 08 Nov · 14:00,Serie A,80,80,80,Pending
+Atalanta (team),Over 1.5,Monza v Atalanta,Sun 08 Nov · 14:00,Serie A,89,90,100,Pending
+Berke Özer,Saves 2+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,84,88,80,Pending
+Ethan Mbappé,Shots 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,100,100,Pending
+Brice Samba,Saves 2+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,92,100,100,Pending
+Valentin Rongier,Tackles 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,85,100,100,Pending
+Benjamin André,Fouls 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,86,80,Pending
+Anthony Rouault,Tackles 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,82,100,100,Pending
+Lille (team),Scores 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,93,100,100,Pending
+Lille (team),Cards 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,81,78,80,Pending
+Rennes (team),Scores 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,85,89,80,Pending
+Rennes (team),Over 1.5,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,86,89,100,Pending
+Rennes (team),Over 2.5,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,80,89,100,Pending
+Rennes (team),Cards 1+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,96,100,100,Pending
+Rennes (team),SOT 4+,Rennes v Lille,Sun 08 Nov · 14:00,Ligue 1,82,89,100,Pending
+Dean Henderson,Saves 2+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,88,100,100,Pending
+Yéremi Pino,Fouled 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,82,89,100,Pending
+Anan Khalaili,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,86,100,100,Pending
+Jaydee Canvot,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,100,100,Pending
+Granit Xhaka,Fouled 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Saša Lukić,Fouls 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,80,100,100,Pending
+Saša Lukić,Tackles 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,82,100,100,Pending
+Kjell Scherpen,Saves 2+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,88,100,100,Pending
+Brian Brobbey,Fouls 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,100,100,Pending
+Enzo Le Fée,Fouled 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Julio Enciso,Fouled 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Vitaly Janelt,Tackles 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,85,100,100,Pending
+Mamadou Sangaré,Tackles 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,86,100,100,Pending
+Igor Thiago,Shots 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,84,100,100,Pending
+Yasin Ayari,Shots 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Evanilson,Fouled 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Alexander Isak,Shots 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Alexis Mac Allister,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Florian Wirtz,Shots 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,84,100,100,Pending
+Miloš Kerkez,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,100,100,Pending
+Jérémy Jacquet,Tackles 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,86,100,100,Pending
+Pedro Neto,Shots 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Morgan Rogers,Shots 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,84,100,100,Pending
+Roméo Lavia,Tackles 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,83,100,100,Pending
+Exequiel Palacios,Tackles 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,82,100,100,Pending
+Crystal Palace (team),Over 1.5,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,85,89,80,Pending
+Crystal Palace (team),Cards 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,88,89,100,Pending
+Ipswich Town (team),Over 1.5,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,85,89,80,Pending
+Ipswich Town (team),Cards 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,88,89,100,Pending
+Sunderland (team),Cards 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,78,80,Pending
+Brentford (team),Scores 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,91,100,100,Pending
+Brentford (team),Over 1.5,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,92,100,100,Pending
+Brentford (team),Cards 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,96,100,100,Pending
+Brighton & Hove Albion (team),Scores 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,83,89,80,Pending
+Brighton & Hove Albion (team),Over 1.5,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,85,89,80,Pending
+Brighton & Hove Albion (team),Cards 1+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,88,89,100,Pending
+Brighton & Hove Albion (team),Cards 2+,Brighton & Hove Albion v Brentford,Sun 08 Nov · 14:00,Premier League,81,89,100,Pending
+AFC Bournemouth (team),Scores 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,83,89,80,Pending
+AFC Bournemouth (team),Over 1.5,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,85,89,80,Pending
+AFC Bournemouth (team),Cards 1+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,96,100,100,Pending
+AFC Bournemouth (team),SOT 4+,Ipswich Town v AFC Bournemouth,Sun 08 Nov · 14:00,Premier League,81,89,80,Pending
+Liverpool (team),Cards 1+,Crystal Palace v Liverpool,Sun 08 Nov · 14:00,Premier League,81,78,80,Pending
+Chelsea (team),Over 1.5,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,92,100,100,Pending
+Chelsea (team),Cards 1+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,78,60,Pending
+Chelsea (team),Match cards 4+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,80,89,80,Pending
+Chelsea (team),SOT 4+,Sunderland v Chelsea,Sun 08 Nov · 14:00,Premier League,81,89,80,Pending
+Oscar Gloukh,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),87,100,100,Pending
+Wout Weghorst,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),87,100,100,Pending
+Younes Taha,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),83,80,80,Pending
+Daouda Weidmann,Shots 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,100,100,Pending
+Ajax (team),Scores 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),96,100,100,Pending
+Ajax (team),Over 1.5,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),90,91,80,Pending
+Ajax (team),Cards 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),80,82,100,Pending
+Ajax (team),SOT 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,91,80,Pending
+FC Twente (team),Scores 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),89,91,100,Pending
+FC Twente (team),Over 1.5,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),84,82,100,Pending
+FC Twente (team),Corners 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),84,91,100,Pending
+FC Twente (team),Corners 5+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),82,91,100,Pending
+FC Twente (team),Match corners 9+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),86,91,80,Pending
+FC Twente (team),Cards 1+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),80,82,80,Pending
+FC Twente (team),SOT 4+,FC Twente v Ajax,Sun 08 Nov · 13:30,Eredivisie (top 5),85,91,100,Pending
+Matías Dituro,Saves 2+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,88,91,80,Pending
+Buba Sangaré,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,90,100,Pending
+Marc Roca,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,85,100,100,Pending
+Álvaro Vallés,Saves 2+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,94,100,100,Pending
+Álvaro Vallés,Saves 3+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,82,91,100,Pending
+Ángel Ortiz,Tackles 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,100,100,Pending
+Abdessamad Ezzalzouli,Shots 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,80,88,100,Pending
+Abdessamad Ezzalzouli,Fouled 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,81,88,100,Pending
+Elche (team),Cards 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,98,100,100,Pending
+Real Betis (team),Scores 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,86,91,80,Pending
+Real Betis (team),Cards 1+,Elche v Real Betis,Sun 08 Nov · 13:00,La Liga,92,91,100,Pending
+Romelu Lukaku,Shots 1+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,100,100,Pending
+Fenerbahçe (team),Scores 1+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",84,90,100,Pending
+Fenerbahçe (team),Over 1.5,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",87,90,100,Pending
+Fenerbahçe (team),Corners 4+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,90,100,Pending
+Fenerbahçe (team),Cards 1+,Çorum FK v Fenerbahçe,Sun 08 Nov · 13:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",81,80,80,Pending
+Noa Lang,Shots 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,88,100,Pending
+Noa Lang,Tackles 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,100,100,Pending
+Christos Mandas,Saves 2+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,80,80,Pending
+Matteo Cancellieri,Shots 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,80,100,100,Pending
+Romano Floriani,Tackles 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,86,100,100,Pending
+Vanja Milinković-Savić,Saves 2+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,89,100,100,Pending
+Napoli (team),Over 1.5,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,80,80,Pending
+Napoli (team),Match corners 9+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,81,90,80,Pending
+Lazio (team),Scores 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,94,100,100,Pending
+Lazio (team),Over 1.5,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,82,80,100,Pending
+Lazio (team),Cards 1+,Napoli v Lazio,Sun 08 Nov · 11:30,Serie A,87,90,100,Pending
+Mika Mármol,Tackles 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),81,91,100,Pending
+Luciano Valente,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),86,100,100,Pending
+Givairo Read,Tackles 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),81,91,100,Pending
+Nacho Ferri,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),82,80,100,Pending
+Anis Hadj Moussa,Shots 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),86,100,100,Pending
+Feyenoord (team),Scores 1+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),96,100,100,Pending
+Feyenoord (team),Over 1.5,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),90,91,100,Pending
+Feyenoord (team),SOT 4+,SC Heerenveen v Feyenoord,Sun 08 Nov · 11:15,Eredivisie (top 5),92,100,100,Pending
 Damian Las,Saves 2+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,90,100,100,Pending
 Austin FC (team),Cards 1+,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,83,82,60,Pending
 Austin FC (team),Over 1.5,Austin FC v Portland Timbers,Sun 08 Nov · 00:00,MLS,87,88,100,Pending
@@ -314,20 +684,20 @@ Auxerre (team),Cards 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,89,89,80,
 Auxerre (team),Over 1.5,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,86,89,100,Pending
 Auxerre (team),Scores 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,93,100,100,Pending
 Ilan Kebbal,Shots 1+,Auxerre v Paris FC,Sat 07 Nov · 18:00,Ligue 1,83,100,100,Pending
-Nottingham Forest (team),Cards 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,96,100,100,Pending
-Elliot Anderson,Fouled 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,82,100,100,Pending
-Elliot Anderson,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,85,89,80,Pending
-Liam Delap,Fouls 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,81,88,100,Pending
-Liam Delap,Shots 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,81,100,100,Pending
-Abdukodir Khusanov,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,80,83,80,Pending
-Xaver Schlager,Shots 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,83,89,100,Pending
-Erling Haaland,Shots 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,84,100,100,Pending
-Manchester City (team),Cards 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,81,78,60,Pending
-Manchester City (team),Corners 4+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,83,89,80,Pending
-Manchester City (team),SOT 4+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,81,89,100,Pending
-Manchester City (team),Scores 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,83,89,80,Pending
-Daniel Muñoz,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,85,100,100,Pending
-Matheus Nunes,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,80,83,100,Pending
+Nottingham Forest (team),Cards 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,96,100,100,Hit
+Elliot Anderson,Fouled 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,82,100,100,Hit
+Elliot Anderson,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,85,89,80,Hit
+Liam Delap,Fouls 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,81,88,100,Hit
+Liam Delap,Shots 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,81,100,100,Hit
+Abdukodir Khusanov,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,80,83,80,Hit
+Xaver Schlager,Shots 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,83,89,100,Miss
+Erling Haaland,Shots 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,84,100,100,Hit
+Manchester City (team),Cards 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,81,78,60,Miss
+Manchester City (team),Corners 4+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,83,89,80,Hit
+Manchester City (team),SOT 4+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,81,89,100,Hit
+Manchester City (team),Scores 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,83,89,80,Hit
+Daniel Muñoz,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,85,100,100,Hit
+Matheus Nunes,Tackles 1+,Nottingham Forest v Manchester City,Sat 07 Nov · 17:30,Premier League,80,83,100,Hit
 Nico Williams,Shots 1+,Osasuna v Athletic Club,Sat 07 Nov · 17:30,La Liga,83,100,100,Pending
 Abel Bretones,Fouls 1+,Osasuna v Athletic Club,Sat 07 Nov · 17:30,La Liga,84,100,100,Pending
 Iñigo Arguibide,Tackles 1+,Osasuna v Athletic Club,Sat 07 Nov · 17:30,La Liga,81,91,100,Pending
@@ -378,24 +748,24 @@ Espanyol (team),Scores 1+,Espanyol v Deportivo A Coruña,Sat 07 Nov · 15:15,La 
 Deportivo A Coruña (team),Cards 1+,Espanyol v Deportivo A Coruña,Sat 07 Nov · 15:15,La Liga,92,91,80,Pending
 Deportivo A Coruña (team),Over 1.5,Espanyol v Deportivo A Coruña,Sat 07 Nov · 15:15,La Liga,81,82,80,Pending
 Deportivo A Coruña (team),Scores 1+,Espanyol v Deportivo A Coruña,Sat 07 Nov · 15:15,La Liga,80,82,80,Pending
-Mohamed Belloumi,Shots 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,83,100,100,Pending
-Mohamed Belloumi,Tackles 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,85,89,80,Pending
-Myles Lewis-Skelly,Fouled 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,80,100,100,Pending
-Oli McBurnie,Fouled 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,83,100,100,Pending
-Hull City (team),Cards 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,89,89,80,Pending
-Hull City (team),Cards 2+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,81,89,80,Pending
-Arsenal (team),Cards 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,96,100,100,Pending
-Arsenal (team),Scores 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,83,89,80,Pending
-Newcastle United (team),Cards 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,96,100,100,Pending
-Newcastle United (team),Corners 4+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,83,89,100,Pending
-Lukás Hornícek,Saves 2+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,92,100,100,Pending
-Gonzalo García,Shots 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,84,100,100,Pending
-Bernd Leno,Saves 2+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,84,89,80,Pending
-Antonee Robinson,Tackles 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,85,100,100,Pending
-Harvey Barnes,Shots 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,84,100,100,Pending
-Calvin Bassey,Tackles 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,86,100,100,Pending
-Fulham (team),Cards 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,89,89,100,Pending
-Fulham (team),Corners 4+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,83,89,80,Pending
+Mohamed Belloumi,Shots 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,83,100,100,Did not play
+Mohamed Belloumi,Tackles 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,85,89,80,Did not play
+Myles Lewis-Skelly,Fouled 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,80,100,100,Did not play
+Oli McBurnie,Fouled 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,83,100,100,Hit
+Hull City (team),Cards 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,89,89,80,Hit
+Hull City (team),Cards 2+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,81,89,80,Hit
+Arsenal (team),Cards 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,96,100,100,Miss
+Arsenal (team),Scores 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,83,89,80,Hit
+Newcastle United (team),Cards 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,96,100,100,Hit
+Newcastle United (team),Corners 4+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,83,89,100,Miss
+Lukás Hornícek,Saves 2+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,92,100,100,Hit
+Gonzalo García,Shots 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,84,100,100,Hit
+Bernd Leno,Saves 2+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,84,89,80,Hit
+Antonee Robinson,Tackles 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,85,100,100,Hit
+Harvey Barnes,Shots 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,84,100,100,Hit
+Calvin Bassey,Tackles 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,86,100,100,Miss
+Fulham (team),Cards 1+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,89,89,100,Miss
+Fulham (team),Corners 4+,Fulham v Newcastle United,Sat 07 Nov · 15:00,Premier League,83,89,80,Miss
 Jay Stansfield,Shots 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,88,100,100,Pending
 Jhon Solís,Tackles 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,82,92,100,Pending
 Birmingham City (team),Cards 1+,Birmingham City v Swansea City,Sat 07 Nov · 15:00,Championship,91,93,100,Pending
@@ -474,7 +844,7 @@ West Bromwich Albion (team),Cards 1+,West Bromwich Albion v Millwall,Sat 07 Nov 
 West Bromwich Albion (team),Scores 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,84,86,100,Pending
 Ousmane Diakité,Shots 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,80,86,80,Pending
 Ousmane Diakité,Tackles 1+,West Bromwich Albion v Millwall,Sat 07 Nov · 15:00,Championship,87,93,80,Pending
-Ezri Konsa,Fouled 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,80,88,100,Pending
+Ezri Konsa,Fouled 1+,Arsenal v Hull City,Sat 07 Nov · 15:00,Premier League,80,88,100,Hit
 Lukas Petkov,Fouled 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,81,100,100,Pending
 Lukas Petkov,Tackles 1+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,84,100,100,Pending
 Nicolas Kristof,Saves 2+,Borussia Dortmund v Elversberg,Sat 07 Nov · 14:30,Bundesliga,85,88,80,Pending
@@ -568,19 +938,19 @@ Racing Santander (team),Over 1.5,Málaga v Racing Santander,Sat 07 Nov · 13:00,
 Iñigo Vicente,Fouled 1+,Málaga v Racing Santander,Sat 07 Nov · 13:00,La Liga,85,91,100,Pending
 Málaga (team),Cards 1+,Málaga v Racing Santander,Sat 07 Nov · 13:00,La Liga,98,100,100,Pending
 Málaga (team),Over 1.5,Málaga v Racing Santander,Sat 07 Nov · 13:00,La Liga,81,82,80,Pending
-James Trafford,Saves 2+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,92,100,100,Pending
-Dominic Calvert-Lewin,Fouls 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,84,100,100,Pending
-James Justin,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,86,100,100,Pending
-Gabriel Gudmundsson,Fouled 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,80,100,100,Pending
-Gabriel Gudmundsson,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,83,100,100,Pending
-Ethan Ampadu,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,86,100,100,Pending
-Jayden Bogle,Fouls 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,84,100,100,Pending
-Omar Marmoush,Fouls 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,81,88,80,Pending
-Omar Marmoush,Shots 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,81,88,80,Pending
-Leeds United (team),Cards 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,89,89,100,Pending
-Tottenham Hotspur (team),Cards 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,89,89,100,Pending
-Tottenham Hotspur (team),Corners 4+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,83,89,100,Pending
-Ao Tanaka,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,83,100,100,Pending
+James Trafford,Saves 2+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,92,100,100,Hit
+Dominic Calvert-Lewin,Fouls 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,84,100,100,Miss
+James Justin,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,86,100,100,Hit
+Gabriel Gudmundsson,Fouled 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,80,100,100,Miss
+Gabriel Gudmundsson,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,83,100,100,Hit
+Ethan Ampadu,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,86,100,100,Hit
+Jayden Bogle,Fouls 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,84,100,100,Hit
+Omar Marmoush,Fouls 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,81,88,80,Hit
+Omar Marmoush,Shots 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,81,88,80,Hit
+Leeds United (team),Cards 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,89,89,100,Hit
+Tottenham Hotspur (team),Cards 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,89,89,100,Hit
+Tottenham Hotspur (team),Corners 4+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,83,89,100,Hit
+Ao Tanaka,Tackles 1+,Leeds United v Tottenham Hotspur,Sat 07 Nov · 12:30,Premier League,83,100,100,Hit
 Pelle Mattsson,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,87,92,100,Pending
 Anthony Musaba,Shots 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,81,92,100,Pending
 Benjamin Chrisene,Tackles 1+,Bristol City v Norwich City,Sat 07 Nov · 12:30,Championship,81,92,80,Pending
@@ -1162,373 +1532,3 @@ Kristoffer Velde,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 0
 Lyle Foster,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,83,100,Hit
 Mateusz Bogusz,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,84,100,Hit
 Mateusz Bogusz,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,94,80,Hit
-Cole Bassett,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,96,100,Miss
-Leo Walta,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,100,100,Miss
-Owen Gene,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,67,80,Hit
-Anthony Markanich,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,87,80,Miss
-Anthony Markanich,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,90,100,Hit
-Jefferson Díaz,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,76,80,Hit
-Cherrion Valerius,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,100,100,Miss
-Cherrion Valerius,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,100,100,Hit
-Cherrion Valerius,Tackles 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,80,80,Hit
-Minnesota United (team),Cards 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,91,80,Hit
-Minnesota United (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,81,80,Hit
-Heung-Min Son,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,97,100,Hit
-Heung-Min Son,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,86,100,Hit
-Denis Bouanga,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,97,100,Hit
-Evgen Cheberko,Fouls 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,75,80,Did not play
-Evgen Cheberko,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,90,100,Did not play
-Eddie Segura,Tackles 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,84,80,Hit
-Los Angeles FC (team),Scores 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,81,80,Hit
-Kelvin Yeboah,SOT 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,81,100,Miss
-Kelvin Yeboah,Shots 1+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,97,100,Hit
-Kelvin Yeboah,Shots 2+,Los Angeles FC v Minnesota United,Mon 02 Nov · 01:30,MLS,,81,100,Miss
-Dor Turgeman,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,94,100,Hit
-Rocco Ríos Novo,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,100,100,Did not play
-Matías Galarza,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,82,80,Hit
-Gonzalo Luján,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,82,100,Hit
-Micael,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,83,80,Hit
-Brooklyn Raines,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,83,80,Hit
-Brooklyn Raines,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,83,80,Hit
-Will Sands,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,84,80,Hit
-Peyton Miller,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,93,100,Hit
-Yannick Bright,Fouls 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,88,80,Miss
-Yannick Bright,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,83,80,Hit
-Rodrigo De Paul,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,93,100,Hit
-Carles Gil,Fouled 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,97,100,Hit
-New England Revolution (team),Cards 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,84,100,Hit
-New England Revolution (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,81,80,Hit
-Matt Turner,Saves 2+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,81,100,Hit
-Germán Berterame,Shots 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,89,80,Hit
-Mamadou Fofana,Tackles 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,93,80,Did not play
-Inter Miami CF (team),Cards 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,97,80,Hit
-Inter Miami CF (team),Over 1.5,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,94,100,Hit
-Inter Miami CF (team),Scores 1+,New England Revolution v Inter Miami CF,Mon 02 Nov · 00:00,MLS,,91,80,Hit
-Cade Cowell,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,87,100,Hit
-Patrick Yazbek,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,81,100,Hit
-Elias Saad,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,87,80,Hit
-Matthew Corcoran,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,86,100,Hit
-Julian Hall,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,84,100,Hit
-Mohammed Sofo,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,80,100,Did not play
-Adri Mehmeti,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,83,100,Hit
-Emil Forsberg,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,86,100,Miss
-Hany Mukhtar,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,100,100,Hit
-Hany Mukhtar,Shots 2+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,81,100,Hit
-Jeisson Palacios,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,81,80,Hit
-Red Bull New York (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,94,80,Hit
-Red Bull New York (team),Over 1.5,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,84,100,Hit
-Sam Surridge,SOT 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,81,80,Hit
-Sam Surridge,Shots 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,81,80,Hit
-Nashville SC (team),Cards 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,84,80,Miss
-Nashville SC (team),Scores 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,81,80,Hit
-José Cifuentes,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,90,80,Did not play
-Matheus Pereira,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,80,100,Hit
-Tomás Jacob,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,89,80,Hit
-Mauricio Amaro,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,100,100,Hit
-Miguel Almirón,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,80,100,Miss
-Miguel Almirón,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,100,100,Hit
-Júnior Alonso,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,81,80,Hit
-Breel Embolo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,100,100,Hit
-Breel Embolo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,100,100,Hit
-Breel Embolo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,80,80,Hit
-Toronto FC (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,84,80,Hit
-Toronto FC (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,91,100,Hit
-Toronto FC (team),Scores 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,84,100,Hit
-Dániel Sallói,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,88,100,Miss
-Raheem Edwards,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,85,80,Did not play
-Raheem Edwards,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,92,80,Did not play
-Niklas Dorsch,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,100,100,Hit
-Niklas Dorsch,Fouls 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,92,80,Hit
-Niklas Dorsch,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,92,100,Hit
-Richie Laryea,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,92,80,Hit
-Richie Laryea,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,80,80,Hit
-Atlanta United (team),Cards 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,100,100,Miss
-Atlanta United (team),Over 1.5,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,84,100,Hit
-Joshua Sargent,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,88,80,Hit
-Juan Berrocal,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,100,100,Did not play
-Giuliano Galoppo,Fouled 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,86,100,Hit
-Giuliano Galoppo,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,100,100,Hit
-Giuliano Galoppo,Shots 2+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,86,100,Miss
-Giuliano Galoppo,Tackles 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,86,80,Miss
-Maxwell Woledzi,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,78,80,Hit
-Julián Bazán,Fouls 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,76,100,Hit
-Julián Bazán,Tackles 1+,Nashville SC v Red Bull New York,Sun 01 Nov · 21:30,MLS,,76,80,Hit
-Theodor Corbeanu,Shots 1+,Atlanta United v Toronto FC,Sun 01 Nov · 21:30,MLS,,79,100,Hit
-Mathías Laborda,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,81,80,Hit
-Sebastian Berhalter,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,93,100,Did not play
-Sebastian Berhalter,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,93,100,Did not play
-Sebastian Berhalter,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,93,100,Did not play
-Sebastian Berhalter,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,93,80,Did not play
-Seattle Sounders FC (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,84,80,Hit
-Édier Ocampo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,82,100,Hit
-Édier Ocampo,Fouls 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,86,100,Hit
-Jeevan Badwal,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,91,100,Did not play
-Kee-Hee Kim,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,86,80,Miss
-Vancouver Whitecaps (team),Cards 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,91,80,Hit
-Ryan Gauld,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,83,80,Hit
-Albert Rusnák,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,90,80,Hit
-Cristian Roldan,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,92,80,Hit
-Dejan Joveljić,SOT 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,83,100,Hit
-Dejan Joveljić,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,93,100,Hit
-Nouhou Tolo,Fouled 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,81,100,Hit
-Brian White,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,97,80,Hit
-Brian White,Shots 2+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,87,80,Hit
-Ryan Gauld,Tackles 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,78,80,Hit
-Cristian Roldan,Shots 1+,Vancouver Whitecaps v Seattle Sounders FC,Sun 01 Nov · 20:30,MLS,,75,80,Hit
-Robert Navarro,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,86,100,Hit
-Nico Williams,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,100,100,Hit
-Beñat Turrientes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,80,80,Hit
-Beñat Turrientes,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,80,80,Miss
-Beñat Turrientes,Tackles 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,80,80,Miss
-Jon Aramburu,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,88,80,Hit
-Jon Aramburu,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,88,100,Hit
-Beñat Gerenabarrena,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,86,100,Hit
-Beñat Gerenabarrena,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,86,100,Hit
-Mamadou Sarr,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,100,100,Hit
-Mamadou Sarr,Fouls 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,80,80,Miss
-Mamadou Sarr,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,100,100,Hit
-Hugo Rincón,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,100,100,Hit
-Gonçalo Guedes,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,100,100,Hit
-Alex Remiro,Saves 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,89,80,Miss
-Mikel Oyarzabal,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,80,100,Hit
-Athletic Club (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,89,100,Hit
-Sergio Gómez,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,90,80,Hit
-Real Sociedad (team),Cards 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,100,100,Hit
-Real Sociedad (team),Cards 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,90,80,Hit
-Real Sociedad (team),Corners 4+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,90,80,Hit
-Real Sociedad (team),Corners 5+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,90,80,Hit
-Real Sociedad (team),Match corners 9+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,90,80,Hit
-Real Sociedad (team),Over 1.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,80,100,Hit
-Real Sociedad (team),Over 2.5,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,80,100,Hit
-Oihan Sancet,Fouled 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,83,80,Miss
-Oihan Sancet,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,100,100,Miss
-Oihan Sancet,Shots 2+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,100,100,Miss
-Luka Sučić,Shots 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,89,80,Hit
-Robert Navarro,SOT 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,71,80,Miss
-Robert Navarro,Tackles 1+,Athletic Club v Real Sociedad,Sun 01 Nov · 20:00,La Liga,,71,100,Miss
-Rasmus Højlund,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,100,Did not play
-Rafa Marín,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,100,100,Miss
-Vanja Milinković-Savić,Saves 2+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,100,100,Did not play
-Amir Rrahmani,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,88,80,Miss
-Frank Anguissa,Fouled 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,83,80,Miss
-Douglas Luiz,Fouled 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,100,Miss
-Douglas Luiz,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,80,Hit
-Randal Kolo Muani,Fouls 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,80,Miss
-Randal Kolo Muani,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,80,Hit
-Noa Lang,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,86,100,Hit
-Noa Lang,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,100,100,Hit
-Scott McTominay,SOT 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,83,80,Miss
-Scott McTominay,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,100,100,Miss
-Gleison Bremer,Tackles 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,100,100,Hit
-Napoli (team),Match corners 9+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,80,Hit
-Napoli (team),Scores 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,80,Miss
-Juventus (team),Corners 4+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,80,Hit
-Juventus (team),Over 1.5,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,89,100,Hit
-Casper Tengstedt,SOT 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,83,100,Miss
-Casper Tengstedt,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,100,100,Hit
-Casper Tengstedt,Shots 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,100,100,Hit
-Igor Paixão,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,86,80,Hit
-Tochukwu Nnadi,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,80,80,Hit
-Thomas Jørgensen,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,100,100,Hit
-Niko Sigur,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,80,80,Hit
-Julián Vignolo,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,100,100,Miss
-Rafik Messali,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,100,100,Did not play
-Ilyas Azizi,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,83,100,Did not play
-Ilyas Azizi,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,83,100,Did not play
-Seny Koumbassa,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,80,80,Miss
-Pierre-Emile Højbjerg,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,83,100,Hit
-Pierre-Emile Højbjerg,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,83,80,Miss
-Rasmus Nicolaisen,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,80,80,Hit
-Rasmus Nicolaisen,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,80,80,Hit
-Jeffrey De Lange,Saves 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,80,Hit
-Amine Harit,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,80,Hit
-Amine Harit,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,100,Miss
-Cristian Cásseres,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,80,Hit
-Cristian Cásseres,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,100,Hit
-Cristian Cásseres,Tackles 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,100,100,Hit
-Cristian Cásseres,Tackles 2+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,100,100,Hit
-Marseille (team),Over 1.5,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,80,Hit
-Timothy Weah,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,86,80,Miss
-Timothy Weah,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,86,100,Hit
-Mark McKenzie,Fouled 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,100,Hit
-Mark McKenzie,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,100,Hit
-Toulouse (team),Cards 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,88,80,Hit
-Frank Anguissa,Shots 1+,Juventus v Napoli,Sun 01 Nov · 19:45,Serie A,,67,80,Miss
-Jacen Russell-Rowe,Fouls 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,75,80,Miss
-Jacen Russell-Rowe,Shots 1+,Marseille v Toulouse,Sun 01 Nov · 19:45,Ligue 1,,75,80,Hit
-Valencia (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,100,100,Hit
-Valencia (team),Cards 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,80,100,Hit
-Elche (team),Cards 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,100,100,Hit
-Elche (team),Match cards 4+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,80,100,Hit
-David Affengruber,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,100,100,Did not play
-Germán Valera,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,80,80,Hit
-Fer Niño,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,80,100,Hit
-Víctor Chust,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,80,100,Hit
-Federico Redondo,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,86,80,Hit
-César Tárrega,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,86,80,Hit
-Buba Sangaré,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,89,100,Hit
-Ryunosuke Sato,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,80,80,Did not play
-Ali Houary,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,100,100,Did not play
-Thomas Lemar,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,86,80,Miss
-Thomas Lemar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,86,100,Hit
-Guido Rodríguez,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,86,80,Hit
-Guido Rodríguez,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,100,100,Hit
-Guido Rodríguez,Tackles 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,86,100,Hit
-Matías Dituro,Saves 2+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,90,80,Hit
-Pepelu,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,90,80,Hit
-Arnaut Danjuma,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,90,80,Hit
-Arnaut Danjuma,Shots 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,90,80,Miss
-Tete Morente,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,80,80,Miss
-Gonzalo Villar,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,90,80,Hit
-Gonzalo Villar,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,90,80,Hit
-Roy Revivo,Fouled 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,71,80,Hit
-Javi Morcillo,Fouls 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,75,80,Miss
-Javi Morcillo,Tackles 1+,Elche v Valencia,Sun 01 Nov · 17:30,La Liga,,75,80,Miss
-Genoa (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,80,Hit
-Lorenzo Colombo,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,86,80,Miss
-Jamil Siebert,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,100,Hit
-Tommaso Baldanzi,Shots 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,83,80,Did not play
-Danilo Veiga,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,80,Miss
-Danilo Veiga,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,80,Hit
-Oumar Ngom,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,80,Hit
-Alessandro Marcandalli,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,80,Hit
-Samuel Wiafe,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,100,100,Hit
-Djibril Sow,Fouled 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,80,80,Miss
-Djibril Sow,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,80,80,Miss
-Leo Østigard,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,100,100,Hit
-Johan Vásquez,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,88,80,Hit
-Morten Frendrup,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,80,Hit
-Milutin Osmajić,Shots 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,88,80,Hit
-Lecce (team),Cards 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,80,Hit
-Lecce (team),Over 1.5,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,100,Hit
-Tiago Gabriel,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,75,80,Hit
-Mikael Egill Ellertsson,Fouls 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,89,80,Miss
-Mikael Egill Ellertsson,Tackles 1+,Lecce v Genoa,Sun 01 Nov · 17:00,Serie A,,100,100,Hit
-Florian Wirtz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Hit
-Miloš Kerkez,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Miss
-Miloš Kerkez,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Hit
-Bradley Barcola,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,83,100,Hit
-Myles Lewis-Skelly,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Hit
-Myles Lewis-Skelly,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,83,80,Hit
-Jérémy Jacquet,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,88,100,Hit
-Jérémy Jacquet,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Hit
-Alexander Isak,SOT 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Miss
-Alexander Isak,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Hit
-Alexander Isak,Shots 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Hit
-Ezri Konsa,Fouled 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,86,100,Hit
-Kai Havertz,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,88,80,Hit
-Ben White,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,86,80,Did not play
-Cody Gakpo,Shots 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,83,80,Hit
-Alexis Mac Allister,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Hit
-Ryan Gravenberch,Fouls 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,86,100,Did not play
-Arsenal (team),Cards 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,100,100,Hit
-Arsenal (team),Scores 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,88,80,Hit
-Arsenal (team),Win,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,88,80,Hit
-David Møller Wolfe,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,83,100,Miss
-Raphael Onyedika,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,86,80,Hit
-Raphael Onyedika,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,86,80,Hit
-Noah Atubolu,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Noah Atubolu,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Can Uzun,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,83,80,Hit
-Can Uzun,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,83,80,Hit
-Elias Baum,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Younes Ebnoutalib,SOT 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,86,80,Hit
-Younes Ebnoutalib,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,86,80,Hit
-Noël Aséko,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,80,80,Miss
-Noël Aséko,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,80,80,Hit
-Keita Kosugi,Fouled 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Miss
-Keita Kosugi,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Shafiq Nandja,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Miss
-Shafiq Nandja,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Daniel Heuer Fernandes,Saves 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,86,80,Hit
-Daniel Heuer Fernandes,Saves 3+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,86,80,Hit
-Ritsu Doan,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,83,80,Hit
-Ritsu Doan,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Miro Muheim,Tackles 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Albert Sambi Lokonga,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Jonathan Burkardt,Shots 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Miss
-Hamburger SV (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,86,80,Hit
-Eintracht Frankfurt (team),Cards 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,100,100,Hit
-Eintracht Frankfurt (team),Cards 2+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,86,100,Hit
-Bradley Barcola,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,67,80,Hit
-Ezri Konsa,Fouled 2+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,71,80,Hit
-Ezri Konsa,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,71,80,Hit
-Ronald Araujo,Tackles 1+,Liverpool v Arsenal,Sun 01 Nov · 16:30,Premier League,,75,80,Hit
-Martin Adeline,Fouls 1+,Eintracht Frankfurt v Hamburger SV,Sun 01 Nov · 16:30,Bundesliga,,67,80,Hit
-Jim Allevinah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Miss
-Jim Allevinah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Miss
-Mads Bidstrup,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,86,100,Hit
-Amine Sbaï,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Ernest Nuamah,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Ernest Nuamah,Shots 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,83,80,Hit
-Ernest Nuamah,Shots 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,83,80,Hit
-Yassin Belkhdim,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Miss
-Julien Duranville,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Zachary Athekame,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Joseph Kalulu,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Anthony Lopes,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Anthony Lopes,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Corentin Tolisso,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Corentin Tolisso,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,100,Miss
-Jordan Lefort,Fouled 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,86,80,Miss
-Branco van den Boomen,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Miss
-Haris Belkebla,Fouls 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Dominik Greif,Saves 2+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Dominik Greif,Saves 3+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,83,80,Miss
-Angers (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Angers (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Miss
-Lyon (team),Cards 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,100,Miss
-Lyon (team),Match corners 10+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Miss
-Lyon (team),Match corners 9+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Miss
-Lyon (team),Over 1.5,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Samir Chergui,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Samir Chergui,Fouls 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,80,80,Miss
-Mamadou Mbow,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,80,80,Hit
-Vanderson,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Vanderson,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,100,Hit
-Vanderson,Tackles 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,100,Hit
-Pablo Pagis,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Pablo Pagis,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Paris Brunner,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Paris Brunner,Shots 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,83,80,Miss
-Lamine Camara,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Lamine Camara,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Lamine Camara,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Miss
-Mamadou Coulibaly,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Did not play
-Hamari Traoré,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,83,100,Hit
-Maxime Lopez,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,100,Hit
-Paris FC (team),Cards 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,100,Hit
-Pierre Lees-Melou,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Lukás Hrádecky,Saves 2+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Jordan Teze,Tackles 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Miss
-Lassine Sinayoko,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Monaco (team),Cards 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Monaco (team),Scores 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,80,Hit
-Ilan Kebbal,Fouled 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,88,100,Hit
-Ilan Kebbal,Shots 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,100,100,Hit
-Carlens Arcus,Tackles 1+,Lyon v Angers,Sun 01 Nov · 16:15,Ligue 1,,71,80,Hit
-Hamari Traoré,Fouls 1+,Paris FC v Monaco,Sun 01 Nov · 16:15,Ligue 1,,67,80,Hit
-Beşiktaş (team),Cards 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,100,Hit
-Beşiktaş (team),Corners 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,100,100,Miss
-Beşiktaş (team),Corners 5+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,80,Miss
-Beşiktaş (team),Match corners 9+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,80,Miss
-Beşiktaş (team),SOT 4+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,100,100,Hit
-Emmanuel Agbadou,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,80,Hit
-Leandro Trossard,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,100,100,Miss
-Leandro Trossard,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,88,80,Hit
-Dušan Vlahović,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,86,80,Miss
-Dušan Vlahović,SOT 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,100,100,Hit
-Dušan Vlahović,Shots 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,100,100,Hit
-Dušan Vlahović,Shots 2+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,100,100,Hit
-Salih Özcan,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,100,100,Hit
-Salih Özcan,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,89,100,Hit
-Tiago Djaló,Fouls 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,80,80,Hit
-Tiago Djaló,Tackles 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,80,80,Miss
-Emirhan Topçu,Fouled 1+,Kasımpaşa v Beşiktaş,Sun 01 Nov · 16:00,"Turkey (Gala, Fener, Besiktas, Trabzon)",,86,80,Hit
-Jude Bellingham,Fouled 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,,90,100,Hit
-Jude Bellingham,Fouled 2+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,,90,100,Miss
-Jude Bellingham,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,,90,80,Hit
-Álvaro Mantilla,Tackles 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,,100,100,Hit
-Facundo González,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,,80,80,Did not play
-Arda Güler,Shots 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,,90,100,Hit
-Jeanuël Belocian,Fouls 1+,Racing Santander v Real Madrid,Sun 01 Nov · 15:15,La Liga,,83,80,Hit
