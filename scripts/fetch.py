@@ -4,7 +4,7 @@ Everything is cached in data/ so each daily run only fetches what's new.
 """
 import json, os, re, sys, time, unicodedata, datetime as dt
 import requests
-from config import LEAGUES
+from config import LEAGUES, INTL_SINCE
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept-Language": "en-GB,en;q=0.9"}
@@ -288,10 +288,79 @@ def next_match_unavailable(match_url):
 
 # ---------------- Main ----------------
 
+def run_intl(lg, status):
+    """All national-team competitions into one store (data/*/INTL). Competitions not started yet are skipped quietly."""
+    t0 = time.time(); log("=====", lg["key"])
+    mdir = os.path.join(DATA, "matches", lg["key"])
+    table, upcoming, new, failed, seen_any = [], [], 0, 0, False
+    for part in lg["parts"]:
+        sub = dict(part, key=lg["key"], mode="all")
+        fixtures = league_fixtures(sub)
+        fixtures = [f for f in fixtures if ((f.get("status") or {}).get("utcTime") or "") >= INTL_SINCE]
+        log("part", part["name"], "fixtures since", INTL_SINCE, len(fixtures))
+        if not fixtures: continue
+        seen_any = True
+        try: table += league_table(sub)
+        except Exception as e: log("WARN table", part["name"], repr(e))
+        for f in fixtures:
+            st = f.get("status") or {}
+            if st.get("cancelled"): continue
+            h, a = int(f["home"]["id"]), int(f["away"]["id"])
+            if not st.get("finished"):
+                upcoming.append({"id": int(f["id"]), "utc": st.get("utcTime"), "started": bool(st.get("started")), "comp": part["name"],
+                                 "home": {"id": h, "name": f["home"]["name"]}, "away": {"id": a, "name": f["away"]["name"]}})
+                continue
+            p = os.path.join(mdir, f"{f['id']}.json")
+            if os.path.exists(p): continue
+            pp = page_props(get(f"https://www.fotmob.com/match/{f['id']}"))
+            if not pp: log("WARN match page failed", f.get("pageUrl")); failed += 1; continue
+            try:
+                m = extract_match(pp, lg["key"])
+            except Exception as e:
+                log("WARN extract failed", f.get("pageUrl"), repr(e)); failed += 1; continue
+            if m["id"] != int(f["id"]) or not m["players"]:
+                log("WARN skipped", f["id"]); continue
+            m["comp"] = part["name"]
+            m["espn"] = espn_supplement(m, part["espn"])
+            jsave(p, m); new += 1
+    if not seen_any:
+        PROBLEMS.append(f"{lg['key']}: no international competition returned any fixtures")
+    if failed >= 3 and failed >= 0.3 * (new + failed):
+        PROBLEMS.append(f"{lg['key']}: {failed} of {new + failed} new match pages could not be read")
+    # availability only for nations playing in the next 10 days (squad pages for 150+ nations would take too long)
+    soon = dt.datetime.utcnow() + dt.timedelta(days=10)
+    teams_needed, avail = set(), {}
+    for f in sorted(upcoming, key=lambda x: x["utc"] or ""):
+        try: ko = dt.datetime.fromisoformat(f["utc"].replace("Z", "+00:00")).replace(tzinfo=None)
+        except Exception: continue
+        if ko > soon: break
+        if f["home"]["id"] in teams_needed and f["away"]["id"] in teams_needed: continue
+        u, _ = next_match_unavailable(f"/match/{f['id']}"); avail.update(u)
+        teams_needed.update({f["home"]["id"], f["away"]["id"]})
+    names = {t["id"]: t["name"] for t in table}
+    for f in upcoming: names.setdefault(f["home"]["id"], f["home"]["name"]); names.setdefault(f["away"]["id"], f["away"]["name"])
+    for tid in teams_needed:
+        for pid, v in squad_injuries(tid, names.get(tid, str(tid))).items():
+            avail.setdefault(pid, v)
+    jsave(os.path.join(DATA, "availability", f"{lg['key']}.json"),
+          {"updated": dt.datetime.utcnow().isoformat(timespec="minutes") + "Z", "players": {str(k): v for k, v in avail.items()}, "squads": {}})
+    seen, tab = set(), []
+    for t in table:
+        if t["id"] not in seen: seen.add(t["id"]); tab.append(t)
+    jsave(os.path.join(DATA, "tables", f"{lg['key']}.json"), tab)
+    jsave(os.path.join(DATA, "fixtures", f"{lg['key']}.json"), sorted(upcoming, key=lambda x: x["utc"] or ""))
+    status[lg["key"]] = {"new_matches": new, "cached": len(os.listdir(mdir)) if os.path.isdir(mdir) else 0,
+                         "run_seconds": round(time.time() - t0), "at": dt.datetime.utcnow().isoformat(timespec="minutes") + "Z"}
+    log(lg["key"], status[lg["key"]])
+    jsave(os.path.join(DATA, "status.json"), status)
+
+
 def run(keys):
     status = jload(os.path.join(DATA, "status.json"), {})
     for lg in LEAGUES:
         if keys and lg["key"] not in keys: continue
+        if lg.get("parts"):
+            run_intl(lg, status); continue
         t0 = time.time(); log("=====", lg["key"])
         table = league_table(lg)
         if not table:

@@ -523,6 +523,7 @@ def apps_index():
     """player id -> [(kick-off, competition, team id, team name, started)] across all tracked competitions."""
     idx = defaultdict(list)
     for lg in LEAGUES:
+        if lg.get("parts"): continue   # national-team games are not club moves
         for m in load_matches(lg["key"]):
             for p in m["players"]:
                 idx[p["id"]].append((m["utc"], lg["name"], p["team"], p.get("teamName"), bool(p.get("start"))))
@@ -534,6 +535,7 @@ def transfers_index():
     hist = defaultdict(list)
     base = os.path.join(DATA, "matches")
     for key in os.listdir(base) if os.path.isdir(base) else []:
+        if key == "INTL": continue   # national-team games are not club moves
         for m in load_matches(key):
             for p in m["players"]:
                 hist[p["id"]].append((m["utc"], p["team"], p.get("teamName")))
@@ -581,9 +583,10 @@ def main():
         recs, rnames = team_records(matches)
         names.update({k: v for k, v in rnames.items() if k not in names})
         trows, info = team_rows(recs, names, scope, fixtures)
-        prows, picks = player_rows(matches, scope, lg, moves, avail, names, info, squads, started)
+        intl = bool(lg.get("parts"))
+        prows, picks = player_rows(matches, scope, lg, {} if intl else moves, avail, names, info, squads, {} if intl else started)
         for pk in picks + team_picks(info, names, recs):
-            pk["league"] = lg["name"]; all_picks.append(pk)
+            pk["league"] = ((pk.get("fixture") or {}).get("comp") if intl else None) or lg["name"]; all_picks.append(pk)
         last_date = max(m["date"] for m in matches)
         with open(os.path.join(OUT, f"{lg['key']}_teams.csv"), "w", newline="") as f:
             w = csv.writer(f)

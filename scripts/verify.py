@@ -140,6 +140,7 @@ def main():
     all_diffs, per_league = [], {}
     only_tables = "tables" in sys.argv
     for lg in LEAGUES:
+        if lg.get("parts"): continue   # internationals: no single ESPN league to compare against
         matches = B.load_matches(lg["key"])
         diffs, stats = [], defaultdict(int)
         standings(lg, matches, diffs, stats)

@@ -24,4 +24,22 @@ LEAGUES = [
          mode=["Galatasaray", "Fenerbahce", "Besiktas", "Trabzonspor"], yc_ban=4),
 ]
 
+# Internationals: every national-team competition of the season, combined into one "Internationals" tab.
+# Competitions with no games yet (later in the season) are simply skipped until they start.
+INTL_PARTS = [
+    dict(name="Nations League A", fm=9806, slug="nations-league-a", espn="uefa.nations"),
+    dict(name="Nations League B", fm=9807, slug="nations-league-b", espn="uefa.nations"),
+    dict(name="Nations League C", fm=9808, slug="nations-league-c", espn="uefa.nations"),
+    dict(name="Nations League D", fm=9809, slug="nations-league-d", espn="uefa.nations"),
+    dict(name="CONCACAF Nations League", fm=9821, slug="concacaf-nations-league", espn="concacaf.nations.league"),
+    dict(name="AFCON qualifiers", fm=10608, slug="africa-cup-of-nations-qualification", espn="caf.nations_qual"),
+    dict(name="EURO qualifiers", fm=10607, slug="euro-qualification", espn="uefa.euroq"),
+    dict(name="Africa Cup of Nations", fm=289, slug="africa-cup-of-nations", espn="caf.nations"),
+    dict(name="Asian Cup", fm=290, slug="asian-cup", espn="afc.asian.cup"),
+    dict(name="Gold Cup", fm=298, slug="concacaf-gold-cup", espn="concacaf.gold"),
+    dict(name="Friendlies", fm=114, slug="friendlies", espn="fifa.friendly"),
+]
+INTL_SINCE = "2026-08-01"   # 2026-27 season starts after the World Cup
+LEAGUES.append(dict(key="INTL", name="Internationals", parts=INTL_PARTS, mode="all", yc_ban=2, espn=None))
+
 MIN_AVG_MINUTES = 45
