@@ -12,7 +12,7 @@ on:
         required: false
   push:
     branches: [main]
-    paths: ["scripts/**", ".github/workflows/update.yml"]
+    paths: ["scripts/**", ".github/workflows/update.yml", "!scripts/probe.py"]
 permissions:
   contents: write
 concurrency:
