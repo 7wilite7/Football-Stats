@@ -1,5 +1,15 @@
 [
  {
+  "at": "2026-11-16T23:59Z",
+  "ok": false,
+  "players_listed": 3483,
+  "errors": [
+   "INTL_players.csv: missing",
+   "INTL_teams.csv: missing"
+  ],
+  "warnings": []
+ },
+ {
   "at": "2026-11-16T23:17Z",
   "ok": true,
   "players_listed": 3483,
