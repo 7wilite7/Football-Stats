@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 17 Nov 2026 07:11 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 17 Nov 2026 07:13 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
 All picks,6207,4656,75,91,86
 Tackles 1+,1223,946,77,90,84
@@ -32,19 +32,19 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
-Montserrat (team),Scores 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,87,100,100,Pending
-Montserrat (team),Over 1.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,90,100,100,Pending
 Montserrat (team),Cards 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,94,100,100,Pending
-Nicaragua (team),Over 1.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,90,100,100,Pending
-Nicaragua (team),Over 2.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,80,100,100,Pending
+Montserrat (team),Over 1.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,90,100,100,Pending
+Montserrat (team),Scores 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,87,100,100,Pending
 Nicaragua (team),Cards 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,94,100,100,Pending
 Nicaragua (team),Cards 2+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,81,100,100,Pending
+Nicaragua (team),Over 1.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,90,100,100,Pending
+Nicaragua (team),Over 2.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,80,100,100,Pending
 Jamaica (team),Cards 1+,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,83,80,80,Pending
-Mexico (team),Over 1.5,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,90,100,100,Pending
 Mexico (team),Cards 1+,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,83,80,80,Pending
-Saint Martin (team),Over 1.5,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,90,100,100,Pending
-El Salvador (team),Over 1.5,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,90,100,100,Pending
+Mexico (team),Over 1.5,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,90,100,100,Pending
 El Salvador (team),Cards 1+,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,94,100,100,Pending
+El Salvador (team),Over 1.5,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,90,100,100,Pending
+Saint Martin (team),Over 1.5,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,90,100,100,Pending
 Saint Vincent and The Grenadines (team),Cards 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,83,80,80,Pending
 Saint Vincent and The Grenadines (team),Corners 4+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,81,100,100,Pending
 Saint Vincent and The Grenadines (team),SOT 4+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,81,100,100,Pending
