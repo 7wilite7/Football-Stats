@@ -52,6 +52,15 @@ jobs:
           python scripts/check.py $LIST || FAILED="$FAILED checks(see errors above)"
           git add data/checks.json && git commit -qm "checks" && for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done || true
           if [ -n "$FAILED" ]; then echo "::error::Leagues that failed to update:$FAILED (sheet keeps their previous numbers)"; exit 1; fi
+      - name: Post "sheet updated" in the paid Discord channel (morning run only)
+        if: success() && env.SKIP != '1' && github.event_name == 'schedule' && github.event.schedule != '30 22 * * *'
+        env: {WEBHOOK: "${{ secrets.DISCORD_WEBHOOK_FOOTBALL }}"}
+        run: |
+          if [ -z "$WEBHOOK" ]; then echo "DISCORD_WEBHOOK_FOOTBALL secret not set"; exit 0; fi
+          d=$(TZ=Europe/London date '+%a %-d %b')
+          msg="⚽ **Football sheet updated – $d.** Today's hit rates are live (link in the pinned message). Statistical info only, not betting advice. 18+."
+          python3 -c 'import json,sys; print(json.dumps({"content": sys.argv[1], "allowed_mentions": {"parse": []}}))' "$msg" > /tmp/msg.json
+          curl -fsS -m 15 --retry 3 -H "Content-Type: application/json" -d @/tmp/msg.json "$WEBHOOK" && echo "Posted to Discord" || echo "Discord post failed"
       - name: Tell healthchecks.io the update finished
         if: success() && env.SKIP != '1' && github.event_name != 'push'
         env: {HC: "${{ secrets.HC_PING_URL }}"}
