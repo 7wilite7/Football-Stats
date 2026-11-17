@@ -1,5 +1,12 @@
 [
  {
+  "at": "2026-11-17T00:18Z",
+  "ok": true,
+  "players_listed": 5109,
+  "errors": [],
+  "warnings": []
+ },
+ {
   "at": "2026-11-16T23:59Z",
   "ok": false,
   "players_listed": 3483,
