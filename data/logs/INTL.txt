@@ -130,4 +130,14 @@ WARN no team stats 6633323 'NoneType' object is not subscriptable
 WARN skipped 6633323
 WARN no team stats 6140732 'NoneType' object is not subscriptable
 WARN skipped 6140732
-INTL {'new_matches': 3, 'cached': 365, 'run_seconds': 395, 'at': '2026-11-17T07:30Z'}
+WARN no team stats 6539353 'NoneType' object is not subscriptable
+WARN skipped 6539353
+WARN no team stats 6539355 'NoneType' object is not subscriptable
+WARN skipped 6539355
+WARN no team stats 6633837 'NoneType' object is not subscriptable
+WARN skipped 6633837
+WARN no team stats 6633846 'NoneType' object is not subscriptable
+WARN skipped 6633846
+WARN no team stats 6540019 'NoneType' object is not subscriptable
+WARN skipped 6540019
+INTL {'new_matches': 38, 'cached': 403, 'run_seconds': 181, 'at': '2026-11-17T23:27Z'}

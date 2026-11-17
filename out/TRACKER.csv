@@ -1,23 +1,23 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 17 Nov 2026 23:24 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 17 Nov 2026 23:27 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6209,4657,75,91,86
+All picks,6328,4760,75,91,86
 Tackles 1+,1223,946,77,90,84
 Shots 1+,1077,866,80,92,84
 Fouled 1+,617,424,69,90,84
 Fouls 1+,573,376,66,88,83
-Cards 1+,494,426,86,92,89
-Over 1.5,367,305,83,91,89
-Scores 1+,323,260,80,92,88
-Saves 2+,266,202,76,92,87
+Cards 1+,540,467,86,92,89
+Over 1.5,391,325,83,92,89
+Scores 1+,347,279,80,92,87
+Saves 2+,280,215,77,92,86
 Shots 2+,207,149,72,90,85
-SOT 4+,171,132,77,93,85
-Corners 4+,130,93,72,91,83
+SOT 4+,174,135,78,93,85
+Corners 4+,132,95,72,91,83
 SOT 1+,125,91,73,88,82
 Tackles 2+,110,62,56,88,
-Over 2.5,87,58,67,91,83
-Match corners 9+,81,49,60,89,84
+Over 2.5,89,60,67,91,83
+Match corners 9+,82,49,60,90,84
 Saves 3+,56,37,66,91,83
-Cards 2+,49,33,67,89,85
+Cards 2+,52,36,69,90,84
 BTTS,47,21,45,90,81
 Corners 5+,42,27,64,90,85
 Fouled 2+,39,20,51,87,
@@ -70,130 +70,130 @@ Argentina (team),Scores 1+,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies
 Lawrence Vigouroux,Saves 2+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,84,100,100,Pending
 Colombia (team),Cards 1+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,92,100,100,Pending
 Chile (team),Cards 1+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,93,100,100,Pending
-Niger (team),Over 1.5,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,88,100,100,Pending
-Morocco (team),Cards 1+,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,93,100,100,Pending
-Morocco (team),Over 1.5,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,89,100,100,Pending
-Morocco (team),Scores 1+,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,85,100,100,Pending
-Julani Archibald,Saves 2+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,86,100,100,Pending
-St. Kitts and Nevis (team),Cards 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,83,80,80,Pending
-St. Kitts and Nevis (team),Over 1.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,90,100,100,Pending
-St. Kitts and Nevis (team),Over 2.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,80,100,100,Pending
-St. Kitts and Nevis (team),SOT 4+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,81,100,100,Pending
-St. Kitts and Nevis (team),Scores 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,87,100,100,Pending
-Bonaire (team),Cards 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,83,80,80,Pending
-Bonaire (team),Over 1.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,90,100,100,Pending
-Northern Ireland (team),Cards 1+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
-Hungary (team),Cards 1+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,94,100,100,Pending
-Hungary (team),Cards 2+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
-Anatoliy Trubin,Saves 2+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,82,100,100,Pending
-Ukraine (team),Cards 1+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
-Georgia (team),Cards 1+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,94,100,100,Pending
-Georgia (team),Corners 4+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
-Giorgi Mamardashvili,Saves 2+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,86,100,100,Pending
-Austria (team),Cards 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
-Austria (team),Corners 4+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
-Austria (team),SOT 4+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
-Austria (team),Scores 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,87,100,100,Pending
-Israel (team),Cards 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
-Ireland (team),Cards 1+,Ireland v Kosovo,Tue 17 Nov · 19:45,Nations League B,94,100,100,Pending
-Martin Zlomislić,Saves 2+,Bosnia and Herzegovina v Romania,Tue 17 Nov · 19:45,Nations League B,84,100,100,Pending
-Romania (team),Cards 1+,Bosnia and Herzegovina v Romania,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
-Sweden (team),Scores 1+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,87,100,100,Pending
-Poland (team),Cards 1+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,94,100,100,Pending
-Poland (team),Cards 2+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
-Ørjan Håskjold Nyland,Saves 2+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,82,100,100,Pending
-Denmark (team),Cards 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,83,80,80,Pending
-Denmark (team),Scores 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,87,100,100,Pending
-Norway (team),Over 1.5,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,90,100,100,Pending
-Norway (team),Over 2.5,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,80,100,100,Pending
-Norway (team),Scores 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,87,100,100,Pending
-Danny Ward,Saves 2+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,84,100,100,Pending
-Wales (team),Cards 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,94,100,100,Pending
-Portugal (team),Cards 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,83,80,80,Pending
-Portugal (team),SOT 4+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,81,100,100,Pending
-Portugal (team),Scores 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,87,100,100,Pending
-Portugal (team),Match corners 9+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,80,100,100,Pending
-Mamadou Diop,Saves 2+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,82,100,100,Pending
-Burkina Faso (team),Cards 1+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,80,75,75,Pending
-Mauritania (team),Cards 1+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
-Comoros (team),Cards 1+,Congo v Comoros,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
-Congo (team),Cards 1+,Congo v Comoros,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
-Botswana (team),Cards 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
-Botswana (team),Over 1.5,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Pending
-Botswana (team),Scores 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Pending
-Uganda (team),Cards 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
-Uganda (team),Scores 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Pending
-Liberia (team),Cards 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
-Cape Verde (team),Cards 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
-Cape Verde (team),Over 1.5,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Pending
-Cape Verde (team),Scores 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Pending
-Fiacre Ntwari,Saves 2+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,82,100,100,Pending
-Mali (team),Cards 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,80,75,75,Pending
-Mali (team),Scores 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,85,100,100,Pending
-Rwanda (team),Cards 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
-Rwanda (team),Over 1.5,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Pending
-Rwanda (team),Scores 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Pending
-Donté Newton,Saves 2+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,82,100,100,Pending
-Dominica (team),Cards 1+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Pending
-Cayman Islands (team),Cards 1+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,94,100,100,Pending
-Saint Lucia (team),Cards 1+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,94,100,100,Pending
-Saint Lucia (team),Cards 2+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,81,100,100,Pending
-Barbados (team),Cards 1+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Pending
-Barbados (team),Over 1.5,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,90,100,100,Pending
-Ishan Kort,Saves 2+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,86,100,100,Pending
-Belize (team),Cards 1+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Pending
-Sint Maarten (team),Cards 1+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Pending
+Niger (team),Over 1.5,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,88,100,100,Miss
+Morocco (team),Cards 1+,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,93,100,100,Hit
+Morocco (team),Over 1.5,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,89,100,100,Miss
+Morocco (team),Scores 1+,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,85,100,100,Hit
+Julani Archibald,Saves 2+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,86,100,100,Hit
+St. Kitts and Nevis (team),Cards 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,83,80,80,Hit
+St. Kitts and Nevis (team),Over 1.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,90,100,100,Hit
+St. Kitts and Nevis (team),Over 2.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,80,100,100,Hit
+St. Kitts and Nevis (team),SOT 4+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,81,100,100,Hit
+St. Kitts and Nevis (team),Scores 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,87,100,100,Hit
+Bonaire (team),Cards 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,83,80,80,Hit
+Bonaire (team),Over 1.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,90,100,100,Hit
+Northern Ireland (team),Cards 1+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,83,80,80,Hit
+Hungary (team),Cards 1+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,94,100,100,Hit
+Hungary (team),Cards 2+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,81,100,100,Hit
+Anatoliy Trubin,Saves 2+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,82,100,100,Did not play
+Ukraine (team),Cards 1+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,83,80,80,Hit
+Georgia (team),Cards 1+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,94,100,100,Hit
+Georgia (team),Corners 4+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,81,100,100,Hit
+Giorgi Mamardashvili,Saves 2+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,86,100,100,Hit
+Austria (team),Cards 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,83,80,80,Miss
+Austria (team),Corners 4+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,81,100,100,Hit
+Austria (team),SOT 4+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,81,100,100,Hit
+Austria (team),Scores 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,87,100,100,Hit
+Israel (team),Cards 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,83,80,80,Miss
+Ireland (team),Cards 1+,Ireland v Kosovo,Tue 17 Nov · 19:45,Nations League B,94,100,100,Hit
+Martin Zlomislić,Saves 2+,Bosnia and Herzegovina v Romania,Tue 17 Nov · 19:45,Nations League B,84,100,100,Hit
+Romania (team),Cards 1+,Bosnia and Herzegovina v Romania,Tue 17 Nov · 19:45,Nations League B,83,80,80,Hit
+Sweden (team),Scores 1+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,87,100,100,Hit
+Poland (team),Cards 1+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,94,100,100,Hit
+Poland (team),Cards 2+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,81,100,100,Hit
+Ørjan Håskjold Nyland,Saves 2+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,82,100,100,Hit
+Denmark (team),Cards 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,83,80,80,Hit
+Denmark (team),Scores 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,87,100,100,Hit
+Norway (team),Over 1.5,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,90,100,100,Hit
+Norway (team),Over 2.5,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,80,100,100,Hit
+Norway (team),Scores 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,87,100,100,Hit
+Danny Ward,Saves 2+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,84,100,100,Hit
+Wales (team),Cards 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,94,100,100,Hit
+Portugal (team),Cards 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,83,80,80,Hit
+Portugal (team),SOT 4+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,81,100,100,Hit
+Portugal (team),Scores 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,87,100,100,Hit
+Portugal (team),Match corners 9+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,80,100,100,Miss
+Mamadou Diop,Saves 2+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,82,100,100,Did not play
+Burkina Faso (team),Cards 1+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,80,75,75,Hit
+Mauritania (team),Cards 1+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Hit
+Comoros (team),Cards 1+,Congo v Comoros,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Hit
+Congo (team),Cards 1+,Congo v Comoros,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Hit
+Botswana (team),Cards 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Hit
+Botswana (team),Over 1.5,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Hit
+Botswana (team),Scores 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Hit
+Uganda (team),Cards 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Hit
+Uganda (team),Scores 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Hit
+Liberia (team),Cards 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Hit
+Cape Verde (team),Cards 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Hit
+Cape Verde (team),Over 1.5,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Hit
+Cape Verde (team),Scores 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Miss
+Fiacre Ntwari,Saves 2+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,82,100,100,Hit
+Mali (team),Cards 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,80,75,75,Hit
+Mali (team),Scores 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,85,100,100,Hit
+Rwanda (team),Cards 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Hit
+Rwanda (team),Over 1.5,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Hit
+Rwanda (team),Scores 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Miss
+Donté Newton,Saves 2+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,82,100,100,Did not play
+Dominica (team),Cards 1+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Hit
+Cayman Islands (team),Cards 1+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,94,100,100,Hit
+Saint Lucia (team),Cards 1+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,94,100,100,Hit
+Saint Lucia (team),Cards 2+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,81,100,100,Hit
+Barbados (team),Cards 1+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Hit
+Barbados (team),Over 1.5,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,90,100,100,Hit
+Ishan Kort,Saves 2+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,86,100,100,Hit
+Belize (team),Cards 1+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Hit
+Sint Maarten (team),Cards 1+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Hit
 Honduras (team),SOT 4+,Kuwait v Honduras,Tue 17 Nov · 16:30,Friendlies,81,100,100,Pending
 Honduras (team),Scores 1+,Kuwait v Honduras,Tue 17 Nov · 16:30,Friendlies,87,100,100,Pending
-Gambia (team),Over 1.5,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
-Gambia (team),Scores 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
-Ivory Coast (team),Cards 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
-Ivory Coast (team),Over 1.5,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
-Ivory Coast (team),Scores 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
-South Africa (team),Cards 1+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,80,75,75,Pending
-South Africa (team),Scores 1+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,85,100,100,Pending
-Bryne Odhiambo,Saves 2+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
-Matthieu Epolo,Saves 2+,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
-DR Congo (team),Over 1.5,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
-DR Congo (team),Scores 1+,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
-Libya (team),Cards 1+,Libya v Tunisia,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
-Tunisia (team),Over 1.5,Libya v Tunisia,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
-Algeria (team),Scores 1+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
-Togo (team),Cards 1+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
-Malcolm Barcola,Saves 2+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
-Fernando Embadjé,Saves 2+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
-Guinea-Bissau (team),Cards 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
-Guinea-Bissau (team),Over 1.5,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
-Guinea-Bissau (team),Scores 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
-Geordan Dupire,Saves 2+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
-Madagascar (team),Cards 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
-Madagascar (team),Over 1.5,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
-Madagascar (team),Scores 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
-Australia (team),Cards 1+,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,92,100,100,Pending
-Australia (team),Over 1.5,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,88,100,100,Pending
-Australia (team),Scores 1+,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,83,100,100,Pending
-Russia (team),Cards 1+,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,80,75,75,Pending
-Russia (team),Over 1.5,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,89,100,100,Pending
-Russia (team),Scores 1+,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,85,100,100,Pending
-South Korea (team),Cards 1+,Qatar v South Korea,Tue 17 Nov · 14:00,Friendlies,83,80,80,Pending
-Japan (team),Cards 1+,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,92,100,100,Pending
-Japan (team),Over 1.5,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,88,100,100,Pending
-Japan (team),Scores 1+,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,83,100,100,Pending
-Sekhoane Moerane,Saves 2+,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,82,100,100,Pending
-Lesotho (team),Over 1.5,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Pending
-Gabon (team),Over 1.5,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Pending
-Egypt (team),Cards 1+,Malawi v Egypt,Tue 17 Nov · 13:00,AFCON qualifiers,80,75,75,Pending
-Burundi (team),Cards 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,92,100,100,Pending
-Zambia (team),Cards 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,92,100,100,Pending
-Zambia (team),Over 1.5,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Pending
-Zambia (team),Scores 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,83,100,100,Pending
-Nigeria (team),Cards 1+,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,93,100,100,Pending
-Nigeria (team),Over 1.5,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,89,100,100,Pending
-Tanzania (team),Over 1.5,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Pending
-Ernan,Saves 2+,Ethiopia v Mozambique,Tue 17 Nov · 13:00,AFCON qualifiers,82,100,100,Pending
-China (team),Cards 1+,China v Bahrain,Tue 17 Nov · 12:00,Friendlies,83,80,80,Pending
-Brazil (team),Over 1.5,Singapore v Brazil,Tue 17 Nov · 10:00,Friendlies,89,100,100,Pending
-Brazil (team),Scores 1+,Singapore v Brazil,Tue 17 Nov · 10:00,Friendlies,85,100,100,Pending
+Gambia (team),Over 1.5,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Hit
+Gambia (team),Scores 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Hit
+Ivory Coast (team),Cards 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Miss
+Ivory Coast (team),Over 1.5,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Hit
+Ivory Coast (team),Scores 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Hit
+South Africa (team),Cards 1+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,80,75,75,Hit
+South Africa (team),Scores 1+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,85,100,100,Hit
+Bryne Odhiambo,Saves 2+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Hit
+Matthieu Epolo,Saves 2+,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Miss
+DR Congo (team),Over 1.5,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Hit
+DR Congo (team),Scores 1+,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Hit
+Libya (team),Cards 1+,Libya v Tunisia,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Miss
+Tunisia (team),Over 1.5,Libya v Tunisia,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Hit
+Algeria (team),Scores 1+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Miss
+Togo (team),Cards 1+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Miss
+Malcolm Barcola,Saves 2+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Hit
+Fernando Embadjé,Saves 2+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Hit
+Guinea-Bissau (team),Cards 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Hit
+Guinea-Bissau (team),Over 1.5,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Hit
+Guinea-Bissau (team),Scores 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Hit
+Geordan Dupire,Saves 2+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Hit
+Madagascar (team),Cards 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Hit
+Madagascar (team),Over 1.5,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Hit
+Madagascar (team),Scores 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Miss
+Australia (team),Cards 1+,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,92,100,100,Hit
+Australia (team),Over 1.5,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,88,100,100,Hit
+Australia (team),Scores 1+,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,83,100,100,Miss
+Russia (team),Cards 1+,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,80,75,75,Hit
+Russia (team),Over 1.5,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,89,100,100,Hit
+Russia (team),Scores 1+,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,85,100,100,Hit
+South Korea (team),Cards 1+,Qatar v South Korea,Tue 17 Nov · 14:00,Friendlies,83,80,80,Hit
+Japan (team),Cards 1+,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,92,100,100,Hit
+Japan (team),Over 1.5,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,88,100,100,Hit
+Japan (team),Scores 1+,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,83,100,100,Hit
+Sekhoane Moerane,Saves 2+,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,82,100,100,Hit
+Lesotho (team),Over 1.5,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Hit
+Gabon (team),Over 1.5,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Hit
+Egypt (team),Cards 1+,Malawi v Egypt,Tue 17 Nov · 13:00,AFCON qualifiers,80,75,75,Hit
+Burundi (team),Cards 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,92,100,100,Hit
+Zambia (team),Cards 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,92,100,100,Hit
+Zambia (team),Over 1.5,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Hit
+Zambia (team),Scores 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,83,100,100,Hit
+Nigeria (team),Cards 1+,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,93,100,100,Hit
+Nigeria (team),Over 1.5,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,89,100,100,Miss
+Tanzania (team),Over 1.5,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Miss
+Ernan,Saves 2+,Ethiopia v Mozambique,Tue 17 Nov · 13:00,AFCON qualifiers,82,100,100,Hit
+China (team),Cards 1+,China v Bahrain,Tue 17 Nov · 12:00,Friendlies,83,80,80,Hit
+Brazil (team),Over 1.5,Singapore v Brazil,Tue 17 Nov · 10:00,Friendlies,89,100,100,Hit
+Brazil (team),Scores 1+,Singapore v Brazil,Tue 17 Nov · 10:00,Friendlies,85,100,100,Hit
 Canada (team),Cards 1+,Canada v Guatemala,Tue 17 Nov · 01:00,CONCACAF Nations League,93,100,100,Miss
 Guatemala (team),Cards 1+,Canada v Guatemala,Tue 17 Nov · 01:00,CONCACAF Nations League,94,100,100,Hit
 Gianluca Prestianni,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,100,100,Hit
