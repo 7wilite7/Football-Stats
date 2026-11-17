@@ -1,11 +1,11 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 17 Nov 2026 07:23 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 17 Nov 2026 07:30 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6207,4656,75,91,86
+All picks,6209,4657,75,91,86
 Tackles 1+,1223,946,77,90,84
 Shots 1+,1077,866,80,92,84
 Fouled 1+,617,424,69,90,84
 Fouls 1+,573,376,66,88,83
-Cards 1+,492,425,86,92,89
+Cards 1+,494,426,86,92,89
 Over 1.5,367,305,83,91,89
 Scores 1+,323,260,80,92,88
 Saves 2+,266,202,76,92,87
@@ -112,6 +112,7 @@ Wales (team),Cards 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,94,1
 Portugal (team),Cards 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,83,80,80,Pending
 Portugal (team),SOT 4+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,81,100,100,Pending
 Portugal (team),Scores 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,87,100,100,Pending
+Portugal (team),Match corners 9+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,80,100,100,Pending
 Mamadou Diop,Saves 2+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,82,100,100,Pending
 Burkina Faso (team),Cards 1+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,80,75,75,Pending
 Mauritania (team),Cards 1+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
@@ -193,8 +194,8 @@ Ernan,Saves 2+,Ethiopia v Mozambique,Tue 17 Nov · 13:00,AFCON qualifiers,82,100
 China (team),Cards 1+,China v Bahrain,Tue 17 Nov · 12:00,Friendlies,83,80,80,Pending
 Brazil (team),Over 1.5,Singapore v Brazil,Tue 17 Nov · 10:00,Friendlies,89,100,100,Pending
 Brazil (team),Scores 1+,Singapore v Brazil,Tue 17 Nov · 10:00,Friendlies,85,100,100,Pending
-Canada (team),Cards 1+,Canada v Guatemala,Tue 17 Nov · 01:00,CONCACAF Nations League,93,100,100,Pending
-Guatemala (team),Cards 1+,Canada v Guatemala,Tue 17 Nov · 01:00,CONCACAF Nations League,94,100,100,Pending
+Canada (team),Cards 1+,Canada v Guatemala,Tue 17 Nov · 01:00,CONCACAF Nations League,93,100,100,Miss
+Guatemala (team),Cards 1+,Canada v Guatemala,Tue 17 Nov · 01:00,CONCACAF Nations League,94,100,100,Hit
 Gianluca Prestianni,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,100,100,Hit
 Gianluca Prestianni,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Hit
 Vangelis Pavlidis,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Hit
@@ -1531,4 +1532,3 @@ Gianluca Prestianni,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (P
 Gianluca Prestianni,SOT 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,80,Miss
 Gianluca Prestianni,Shots 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
 Gianluca Prestianni,Shots 2+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Miss
-Rafa Silva,Fouled 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,89,100,Miss
