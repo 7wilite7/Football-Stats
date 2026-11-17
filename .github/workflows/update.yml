@@ -24,6 +24,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 300
+    env:
+      GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"
     steps:
       - name: Skip the schedule that isn't 6am UK today
         if: github.event_name == 'schedule' && github.event.schedule != '30 22 * * *'
@@ -41,15 +43,19 @@ jobs:
         run: |
           [ "$SKIP" = "1" ] && exit 0
           git config user.name "stats-bot"; git config user.email "stats-bot@users.noreply.github.com"
+          # With the service-account key set, the sheets are written directly (push_sheets.py), so the
+          # finished CSVs in out/ are no longer published in this public repo.
+          if [ -n "$GOOGLE_SA_JSON" ]; then PUBLISH=""; git rm -r -q --cached --ignore-unmatch out; else PUBLISH="out"; fi
           LIST="${{ github.event.inputs.leagues }}"; [ -z "$LIST" ] && LIST="$ACTIVE"
           for L in $LIST; do
             python scripts/fetch.py $L || { echo "fetch $L failed"; FAILED="$FAILED $L"; }
             python scripts/build.py || { echo "build failed"; FAILED="$FAILED build($L)"; }
-            git add -A data out
+            git add -A data $PUBLISH
             git commit -qm "update $L" || true
             for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
           done
           python scripts/check.py $LIST || FAILED="$FAILED checks(see errors above)"
+          if [ -n "$GOOGLE_SA_JSON" ]; then pip install -q gspread && python scripts/push_sheets.py || FAILED="$FAILED sheet-push"; fi
           git add data/checks.json && git commit -qm "checks" && for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done || true
           if [ -n "$FAILED" ]; then echo "::error::Leagues that failed to update:$FAILED (sheet keeps their previous numbers)"; exit 1; fi
       - name: Post "sheet updated" in the paid Discord channel (morning run only)
