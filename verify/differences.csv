@@ -1,5 +1,6 @@
 League,Match,Level,Team / player,Stat,Sheet (FotMob),ESPN
 Bundesliga,Borussia Dortmund v Hamburger SV (2026-08-29),player,Maximilian Beier (Borussia Dortmund),Assists,1,0.0
+Bundesliga,Paderborn v Eintracht Frankfurt (2026-11-07),player,Noah Atubolu (Eintracht Frankfurt),Assists,1,0.0
 Bundesliga,Werder Bremen v Augsburg (2026-09-19),player,Marco Grüll (SV Werder Bremen),Assists,2,1.0
 Bundesliga,Hoffenheim v Hamburger SV (2026-10-10),player,Koki Machida (TSG 1899 Hoffenheim),Fouled,1,0.0
 Bundesliga,Union Berlin v Borussia Dortmund (2026-10-17),player,Christopher Trimmel (1. FC Union Berlin),Fouled,1,0.0
@@ -15,22 +16,26 @@ Bundesliga,Borussia Dortmund v Werder Bremen (2026-10-09),player,Karl Hein (SV W
 Bundesliga,1. FC Köln v Borussia Mönchengladbach (2026-10-11),player,Sebastian Sebulonsen (1. FC Köln),Shots,2,3.0
 Bundesliga,Augsburg v Union Berlin (2026-10-24),player,Hennes Behrens (FC Augsburg),Shots,1,0.0
 Bundesliga,Augsburg v Union Berlin (2026-10-24),player,Arijon Ibrahimović (FC Augsburg),Shots,5,4.0
+Bundesliga,Mainz 05 v Bayern München (2026-11-07),player,Jae-Sung Lee (1. FSV Mainz 05),Shots,1,2.0
 Bundesliga,Mainz 05 v Paderborn (2026-08-29),player,Ransford Königsdörffer (1. FSV Mainz 05),Shots,0,1.0
 Bundesliga,Mainz 05 v Paderborn (2026-08-29),player,Danny da Costa (1. FSV Mainz 05),Shots,4,5.0
 Bundesliga,Mainz 05 v Paderborn (2026-08-29),player,Sheraldo Becker (1. FSV Mainz 05),Shots,1,0.0
 Bundesliga,Union Berlin v Borussia Dortmund (2026-10-17),player,Serhou Guirassy (Borussia Dortmund),Shots,3,4.0
 Bundesliga,Union Berlin v Borussia Dortmund (2026-10-17),player,Mathis Albert (Borussia Dortmund),Shots,0,1.0
 Bundesliga,VfB Stuttgart v 1. FC Köln (2026-09-04),player,Marius Bülter (1. FC Köln),Shots,2,3.0
+Bundesliga,VfB Stuttgart v Werder Bremen (2026-11-07),player,Cedric Itten (SV Werder Bremen),Shots,0,1.0
 Bundesliga,Borussia Dortmund v Hamburger SV (2026-08-29),player,Giannis Konstantelias (Borussia Dortmund),Shots on target,1,0.0
 Bundesliga,Borussia Dortmund v Werder Bremen (2026-10-09),player,Serhou Guirassy (Borussia Dortmund),Shots on target,1,0.0
 Bundesliga,Union Berlin v Elversberg (2026-10-10),player,Woo-Yeong Jeong (1. FC Union Berlin),Shots on target,0,1.0
 Bundesliga,VfB Stuttgart v 1. FC Köln (2026-09-04),player,Marius Bülter (1. FC Köln),Shots on target,0,2.0
+Bundesliga,Elversberg v Mainz 05 (2026-10-30),player,Stefan Posch (1. FSV Mainz 05),Yellow cards,2,0.0
 Bundesliga,Freiburg v Borussia Mönchengladbach (2026-09-12),player,Tim Kleindienst (Borussia Mönchengladbach),Yellow cards,2,0.0
 Bundesliga,Freiburg v Schalke 04 (2026-10-11),player,Yuito Suzuki (Sport-Club Freiburg),Yellow cards,2,0.0
 Bundesliga,Hoffenheim v Bayer Leverkusen (2026-10-25),player,Alexander Prass (TSG 1899 Hoffenheim),Yellow cards,2,0.0
 Bundesliga,Hoffenheim v Hamburger SV (2026-10-10),player,Bernardo (TSG 1899 Hoffenheim),Yellow cards,2,0.0
 Bundesliga,Mainz 05 v Werder Bremen (2026-10-24),player,Benedict Hollerbach (1. FSV Mainz 05),Yellow cards,1,0.0
 Bundesliga,Mainz 05 v Werder Bremen (2026-10-24),player,Marco Grüll (SV Werder Bremen),Yellow cards,1,0.0
+Bundesliga,Paderborn v Eintracht Frankfurt (2026-11-07),player,Elias Baum (Eintracht Frankfurt),Yellow cards,2,0.0
 Bundesliga,Mainz 05 v Werder Bremen (2026-10-24),team,Werder Bremen,Corners,6,7.0
 Bundesliga,RB Leipzig v Hamburger SV (2026-09-13),team,RB Leipzig,Corners,7,8.0
 Bundesliga,Hoffenheim v Hamburger SV (2026-10-10),team,Hamburger SV,Fouls,16,15.0
@@ -39,9 +44,11 @@ Bundesliga,Borussia Dortmund v Werder Bremen (2026-10-09),team,Werder Bremen,Kee
 Bundesliga,Hoffenheim v Hamburger SV (2026-10-10),team,Hamburger SV,Offsides,1,2.0
 Bundesliga,1. FC Köln v Borussia Mönchengladbach (2026-10-11),team,1. FC Köln,Shots,19,20.0
 Bundesliga,Augsburg v Union Berlin (2026-10-24),team,Augsburg,Shots,27,25.0
+Bundesliga,Mainz 05 v Bayern München (2026-11-07),team,Mainz 05,Shots,10,11.0
 Bundesliga,Mainz 05 v Paderborn (2026-08-29),team,Mainz 05,Shots,21,22.0
 Bundesliga,Union Berlin v Borussia Dortmund (2026-10-17),team,Borussia Dortmund,Shots,10,12.0
 Bundesliga,VfB Stuttgart v 1. FC Köln (2026-09-04),team,1. FC Köln,Shots,17,18.0
+Bundesliga,VfB Stuttgart v Werder Bremen (2026-11-07),team,Werder Bremen,Shots,23,24.0
 Bundesliga,Borussia Dortmund v Hamburger SV (2026-08-29),team,Borussia Dortmund,Shots on target,7,6.0
 Bundesliga,Borussia Dortmund v Werder Bremen (2026-10-09),team,Borussia Dortmund,Shots on target,10,9.0
 Bundesliga,Union Berlin v Elversberg (2026-10-10),team,Union Berlin,Shots on target,6,7.0
@@ -51,6 +58,7 @@ Champions League,Shakhtar Donetsk v AEK Athens (2026-10-14),player,Pedrinho (Sha
 Champions League,Inter v Shakhtar Donetsk (2026-10-21),player,Pedrinho (Shakhtar Donetsk),Fouls,0,1.0
 Champions League,Shakhtar Donetsk v AEK Athens (2026-10-14),player,Pedrinho (Shakhtar Donetsk),Fouls,1,0.0
 Champions League,Shakhtar Donetsk v AEK Athens (2026-10-14),player,Pedrinho (Shakhtar Donetsk),Goals,1,0.0
+Champions League,Feyenoord v Inter (2026-11-03),player,Tjark Ernst (Feyenoord),Saves,4,3.0
 Champions League,Inter v Shakhtar Donetsk (2026-10-21),player,Pedrinho (Shakhtar Donetsk),Shots,1,0.0
 Champions League,Shakhtar Donetsk v AEK Athens (2026-10-14),player,Pedrinho (Shakhtar Donetsk),Shots,1,2.0
 Champions League,Slavia Prague v Lens (2026-09-10),player,Tomás Vlček (Slavia Prague),Shots,0,1.0
@@ -58,13 +66,16 @@ Champions League,Villarreal v Napoli (2026-10-13),player,Gerard Moreno (Villarre
 Champions League,Inter v Shakhtar Donetsk (2026-10-21),player,Pedrinho (Shakhtar Donetsk),Shots on target,1,0.0
 Champions League,Shakhtar Donetsk v AEK Athens (2026-10-14),player,Pedrinho (Shakhtar Donetsk),Shots on target,1,0.0
 Champions League,Inter v Shakhtar Donetsk (2026-10-21),player,Alessandro Bastoni (Internazionale),Yellow cards,2,0.0
+Champions League,Manchester United v Roma (2026-11-03),player,Matheus Cunha (Manchester United),Yellow cards,2,0.0
 Champions League,Viking v Bayern München (2026-10-13),player,Michael Olise (FC Bayern München),Yellow cards,2,0.0
 Champions League,Bodø/Glimt v Borussia Dortmund (2026-10-14),team,Borussia Dortmund,Corners,9,10.0
+Champions League,FC Porto v Napoli (2026-11-04),team,FC Porto,Corners,5,6.0
 Champions League,Feyenoord v Como (2026-10-14),team,Feyenoord,Corners,4,5.0
 Champions League,Liverpool v Villarreal (2026-10-20),team,Liverpool,Corners,7,8.0
 Champions League,RB Leipzig v PSV Eindhoven (2026-10-13),team,PSV Eindhoven,Corners,12,13.0
 Champions League,Sabah FK v Slavia Prague (2026-10-13),team,Sabah FK,Corners,3,4.0
 Champions League,VfB Stuttgart v Viking (2026-09-09),team,VfB Stuttgart,Corners,3,4.0
+Champions League,Feyenoord v Inter (2026-11-03),team,Feyenoord,Keeper saves,4,3.0
 Champions League,Slavia Prague v Lens (2026-09-10),team,Slavia Prague,Offsides,2,1.0
 Champions League,Slavia Prague v Lens (2026-09-10),team,Slavia Prague,Shots,17,18.0
 Champions League,Villarreal v Napoli (2026-10-13),team,Villarreal,Shots,16,17.0
@@ -87,6 +98,8 @@ Championship,Norwich City v West Bromwich Albion (2026-08-15),player,Nathaniel P
 Championship,Norwich City v West Bromwich Albion (2026-08-15),player,Callum Styles (West Bromwich Albion),Fouled,1,0.0
 Championship,Portsmouth v Cardiff City (2026-09-05),player,Yousef Salech (Cardiff City),Fouled,1,0.0
 Championship,Portsmouth v Cardiff City (2026-09-05),player,Joel Colwill (Cardiff City),Fouled,1,2.0
+Championship,Preston North End v Southampton (2026-11-07),player,James Bree (Southampton),Fouled,1,0.0
+Championship,Preston North End v Southampton (2026-11-07),player,Kuryu Matsuki (Southampton),Fouled,2,3.0
 Championship,Queens Park Rangers v Swansea City (2026-10-24),player,Boy Kemper (Queens Park Rangers),Fouled,0,1.0
 Championship,Queens Park Rangers v Swansea City (2026-10-24),player,Glen Kamara (Queens Park Rangers),Fouled,4,3.0
 Championship,Queens Park Rangers v Swansea City (2026-10-24),player,Jonathan Varane (Queens Park Rangers),Fouled,2,3.0
@@ -104,6 +117,8 @@ Championship,Birmingham City v Bristol City (2026-08-22),player,Jason Knight (Br
 Championship,Birmingham City v Bristol City (2026-08-22),player,Robert Atkinson (Bristol City),Fouls,0,1.0
 Championship,Blackburn Rovers v Sheffield United (2026-09-08),player,Ben Brereton (Sheffield United),Fouls,2,1.0
 Championship,Blackburn Rovers v Sheffield United (2026-09-08),player,Kalvin Phillips (Sheffield United),Fouls,1,2.0
+Championship,Blackburn Rovers v West Ham United (2026-11-07),player,Joël Veltman (West Ham United),Fouls,2,1.0
+Championship,Blackburn Rovers v West Ham United (2026-11-07),player,Divine Mukasa (West Ham United),Fouls,1,2.0
 Championship,Bristol City v Portsmouth (2026-08-29),player,Lisav Naif Eissat (Bristol City),Fouls,2,3.0
 Championship,Cardiff City v Charlton Athletic (2026-09-19),player,Karlan Grant (Charlton Athletic),Fouls,0,1.0
 Championship,Cardiff City v Charlton Athletic (2026-09-19),player,Conor Coventry (Charlton Athletic),Fouls,5,4.0
@@ -125,11 +140,17 @@ Championship,Queens Park Rangers v Preston North End (2026-09-19),player,Amadou 
 Championship,Queens Park Rangers v Preston North End (2026-09-19),player,Glen Kamara (Queens Park Rangers),Fouls,3,4.0
 Championship,Southampton v Portsmouth (2026-10-11),player,Abu Kamara (Portsmouth),Fouls,3,2.0
 Championship,Southampton v Portsmouth (2026-10-11),player,Tyrese Shade (Portsmouth),Fouls,0,1.0
+Championship,Southampton v Queens Park Rangers (2026-10-31),player,Kealey Adamson (Queens Park Rangers),Fouls,4,3.0
+Championship,Southampton v Queens Park Rangers (2026-10-31),player,Richard Kone (Queens Park Rangers),Fouls,0,1.0
 Championship,Stoke City v Bristol City (2026-10-24),player,Justin Devenny (Stoke City),Fouls,1,2.0
 Championship,Stoke City v Bristol City (2026-10-24),player,George Hirst (Stoke City),Fouls,1,0.0
 Championship,Stoke City v Bristol City (2026-10-24),player,George Tanner (Bristol City),Fouls,1,0.0
 Championship,Stoke City v Bristol City (2026-10-24),player,Rio Cardines (Bristol City),Fouls,1,2.0
 Championship,Stoke City v Sheffield United (2026-09-19),player,Ben Johnson (Stoke City),Fouls,3,2.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),player,Sean McLoughlin (Blackburn Rovers),Fouls,1,0.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),player,Kristi Montgomery (Blackburn Rovers),Fouls,1,2.0
+Championship,Watford v Middlesbrough (2026-11-07),player,Matthew Pollock (Watford),Fouls,2,1.0
+Championship,Watford v Middlesbrough (2026-11-07),player,Jordan Zemura (Watford),Fouls,0,1.0
 Championship,Watford v Preston North End (2026-09-08),player,Kévin Keben (Watford),Fouls,1,0.0
 Championship,Watford v Preston North End (2026-09-08),player,Stephy Mavididi (Watford),Fouls,0,1.0
 Championship,West Bromwich Albion v Watford (2026-09-05),player,Hector Kyprianou (Watford),Fouls,3,4.0
@@ -144,6 +165,7 @@ Championship,Queens Park Rangers v Bolton Wanderers (2026-08-22),player,Jack Bon
 Championship,Queens Park Rangers v Preston North End (2026-09-19),player,Daniel Iversen (Preston North End),Saves,5,4.0
 Championship,Southampton v Portsmouth (2026-10-11),player,Daniel Peretz (Southampton),Saves,3,2.0
 Championship,Stoke City v Norwich City (2026-09-01),player,Vladan Kovačević (Norwich City),Saves,1,2.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),player,Lawrence Vigouroux (Swansea City),Saves,1,2.0
 Championship,Swansea City v Burnley (2026-09-12),player,Max Weiß (Burnley),Saves,2,3.0
 Championship,West Ham United v Southampton (2026-10-24),player,Daniel Peretz (Southampton),Saves,11,10.0
 Championship,Birmingham City v Bristol City (2026-08-22),player,August Priske (Birmingham City),Shots,0,1.0
@@ -154,6 +176,7 @@ Championship,Birmingham City v Middlesbrough (2026-09-19),player,Aidan Morris (M
 Championship,Birmingham City v Wolverhampton Wanderers (2026-09-06),player,André (Wolverhampton Wanderers),Shots,2,1.0
 Championship,Blackburn Rovers v Middlesbrough (2026-08-22),player,Myles Peart-Harris (Middlesbrough),Shots,2,3.0
 Championship,Blackburn Rovers v Middlesbrough (2026-08-22),player,Morgan Whittaker (Middlesbrough),Shots,3,2.0
+Championship,Blackburn Rovers v West Ham United (2026-11-07),player,Mohamadou Kanté (West Ham United),Shots,2,1.0
 Championship,Blackburn Rovers v Wrexham (2026-10-24),player,Callum Doyle (Wrexham),Shots,4,3.0
 Championship,Bolton Wanderers v Lincoln City (2026-08-29),player,Max Conway (Bolton Wanderers),Shots,1,0.0
 Championship,Bolton Wanderers v Lincoln City (2026-08-29),player,Josh Sheehan (Bolton Wanderers),Shots,3,4.0
@@ -164,6 +187,8 @@ Championship,Bristol City v Sheffield United (2026-10-17),player,Thomas Cannon (
 Championship,Burnley v Bristol City (2026-09-05),player,Lorent Tolaj (Bristol City),Shots,4,3.0
 Championship,Burnley v Bristol City (2026-09-05),player,Yu Hirakawa (Bristol City),Shots,4,3.0
 Championship,Burnley v Derby County (2026-09-19),player,Sondre Klingen Langås (Derby County),Shots,1,0.0
+Championship,Cardiff City v Burnley (2026-11-07),player,Perry Ng (Cardiff City),Shots,2,3.0
+Championship,Cardiff City v Burnley (2026-11-07),player,Ollie Tanner (Cardiff City),Shots,4,3.0
 Championship,Cardiff City v Stoke City (2026-09-08),player,Ollie Tanner (Cardiff City),Shots,6,7.0
 Championship,Cardiff City v Wrexham (2026-08-17),player,Gabriel Osho (Cardiff City),Shots,0,1.0
 Championship,Cardiff City v Wrexham (2026-08-17),player,Callum Robinson (Cardiff City),Shots,0,1.0
@@ -174,6 +199,7 @@ Championship,Derby County v Birmingham City (2026-09-12),player,August Priske (B
 Championship,Lincoln City v Southampton (2026-09-05),player,Deji Elerewe (Lincoln City),Shots,2,1.0
 Championship,Lincoln City v Southampton (2026-09-05),player,Yunus Emre Konak (Lincoln City),Shots,0,1.0
 Championship,Millwall v Bolton Wanderers (2026-09-05),player,Jake Cooper (Millwall),Shots,2,1.0
+Championship,Millwall v Derby County (2026-10-31),player,Kyrell Lisbie (Millwall),Shots,5,6.0
 Championship,Norwich City v Bolton Wanderers (2026-09-20),player,Rúben Rodrigues (Bolton Wanderers),Shots,3,2.0
 Championship,Norwich City v West Bromwich Albion (2026-08-15),player,Jimmy-Jay Morgan (West Bromwich Albion),Shots,3,2.0
 Championship,Portsmouth v Blackburn Rovers (2026-09-19),player,Jayden Meghoma (Portsmouth),Shots,2,1.0
@@ -188,6 +214,8 @@ Championship,Southampton v Millwall (2026-08-29),player,Taïryk Arconte (Millwal
 Championship,Southampton v Stoke City (2026-08-22),player,Cyle Larin (Southampton),Shots,5,4.0
 Championship,Southampton v Stoke City (2026-08-22),player,Róbert Bozeník (Stoke City),Shots,1,0.0
 Championship,Stoke City v Norwich City (2026-09-01),player,Róbert Bozeník (Stoke City),Shots,1,0.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),player,Ross Stewart (Swansea City),Shots,1,2.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),player,Augustus Kargbo (Blackburn Rovers),Shots,1,2.0
 Championship,Swansea City v Burnley (2026-09-12),player,Moussa Kounfolo Yeo (Swansea City),Shots,4,5.0
 Championship,Swansea City v Norwich City (2026-10-10),player,José Córdoba (Norwich City),Shots,1,0.0
 Championship,Watford v West Ham United (2026-08-29),player,Federico Ravaglia (Watford),Shots,0,1.0
@@ -204,6 +232,8 @@ Championship,Wrexham v West Bromwich Albion (2026-10-13),player,Callum Styles (W
 Championship,Birmingham City v Wolverhampton Wanderers (2026-09-06),player,Tomoki Iwata (Birmingham City),Shots on target,1,2.0
 Championship,Blackburn Rovers v Middlesbrough (2026-08-22),player,Myles Peart-Harris (Middlesbrough),Shots on target,1,2.0
 Championship,Blackburn Rovers v Middlesbrough (2026-08-22),player,Morgan Whittaker (Middlesbrough),Shots on target,1,0.0
+Championship,Cardiff City v Burnley (2026-11-07),player,Perry Ng (Cardiff City),Shots on target,0,1.0
+Championship,Cardiff City v Burnley (2026-11-07),player,Ollie Tanner (Cardiff City),Shots on target,2,1.0
 Championship,Cardiff City v Wrexham (2026-08-17),player,Callum Doyle (Wrexham),Shots on target,2,3.0
 Championship,Lincoln City v Portsmouth (2026-08-22),player,Adam Reach (Lincoln City),Shots on target,0,1.0
 Championship,Norwich City v West Bromwich Albion (2026-08-15),player,Nathaniel Phillips (West Bromwich Albion),Shots on target,0,1.0
@@ -215,6 +245,7 @@ Championship,Portsmouth v Sheffield United (2026-10-14),player,Ryan Kavuma-McQue
 Championship,Queens Park Rangers v Bolton Wanderers (2026-08-22),player,Paul Smyth (Queens Park Rangers),Shots on target,1,0.0
 Championship,Queens Park Rangers v Preston North End (2026-09-19),player,Alfie Lloyd (Queens Park Rangers),Shots on target,1,0.0
 Championship,Stoke City v Norwich City (2026-09-01),player,Luca Bombino (Stoke City),Shots on target,0,1.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),player,Augustus Kargbo (Blackburn Rovers),Shots on target,0,1.0
 Championship,Swansea City v Burnley (2026-09-12),player,Moussa Kounfolo Yeo (Swansea City),Shots on target,2,3.0
 Championship,Watford v West Ham United (2026-08-29),player,Federico Ravaglia (Watford),Shots on target,0,1.0
 Championship,Watford v West Ham United (2026-08-29),player,Iker Bravo (Watford),Shots on target,2,1.0
@@ -245,7 +276,7 @@ Championship,Swansea City v Burnley (2026-09-12),player,Largie Ramazani (Burnley
 Championship,Swansea City v Burnley (2026-09-12),player,Lucas Pires (Burnley),Yellow cards,0,1.0
 Championship,West Bromwich Albion v Blackburn Rovers (2026-10-17),player,Sean McLoughlin (Blackburn Rovers),Yellow cards,0,1.0
 Championship,Wrexham v West Bromwich Albion (2026-10-13),player,Barney Stewart (West Bromwich Albion),Yellow cards,1,0.0
-Championship,League table,table,Southampton,Points,24,20.0
+Championship,League table,table,Southampton,Points,28,24.0
 Championship,Blackburn Rovers v Millwall (2026-09-12),team,Millwall,Corners,2,3.0
 Championship,Derby County v Stoke City (2026-10-17),team,Derby County,Corners,6,7.0
 Championship,Derby County v Wrexham (2026-10-10),team,Wrexham,Corners,8,9.0
@@ -271,15 +302,19 @@ Championship,Queens Park Rangers v Bolton Wanderers (2026-08-22),team,Bolton Wan
 Championship,Queens Park Rangers v Preston North End (2026-09-19),team,Preston North End,Keeper saves,5,4.0
 Championship,Southampton v Portsmouth (2026-10-11),team,Southampton,Keeper saves,3,2.0
 Championship,Stoke City v Norwich City (2026-09-01),team,Norwich City,Keeper saves,1,2.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),team,Swansea City,Keeper saves,1,2.0
 Championship,Swansea City v Burnley (2026-09-12),team,Burnley,Keeper saves,2,3.0
 Championship,West Ham United v Southampton (2026-10-24),team,Southampton,Keeper saves,11,10.0
 Championship,Birmingham City v Bristol City (2026-08-22),team,Birmingham City,Offsides,3,2.0
+Championship,Millwall v Derby County (2026-10-31),team,Millwall,Offsides,2,1.0
 Championship,Portsmouth v Cardiff City (2026-09-05),team,Cardiff City,Offsides,3,2.0
 Championship,Queens Park Rangers v Derby County (2026-10-14),team,Derby County,Offsides,3,2.0
 Championship,Stoke City v Norwich City (2026-09-01),team,Stoke City,Offsides,6,7.0
 Championship,Birmingham City v Bristol City (2026-08-22),team,Bristol City,Shots,15,14.0
 Championship,Birmingham City v Wolverhampton Wanderers (2026-09-06),team,Wolverhampton Wanderers,Shots,10,9.0
+Championship,Blackburn Rovers v West Ham United (2026-11-07),team,West Ham United,Shots,21,20.0
 Championship,Blackburn Rovers v Wrexham (2026-10-24),team,Wrexham,Shots,24,23.0
+Championship,Bristol City v Norwich City (2026-11-07),team,Bristol City,Shots,15,14.0
 Championship,Burnley v Bristol City (2026-09-05),team,Bristol City,Shots,16,14.0
 Championship,Burnley v Derby County (2026-09-19),team,Derby County,Shots,17,16.0
 Championship,Cardiff City v Stoke City (2026-09-08),team,Cardiff City,Shots,26,27.0
@@ -287,6 +322,7 @@ Championship,Cardiff City v Wrexham (2026-08-17),team,Cardiff City,Shots,9,11.0
 Championship,Cardiff City v Wrexham (2026-08-17),team,Wrexham,Shots,17,18.0
 Championship,Derby County v Birmingham City (2026-09-12),team,Birmingham City,Shots,19,18.0
 Championship,Millwall v Bolton Wanderers (2026-09-05),team,Millwall,Shots,13,12.0
+Championship,Millwall v Derby County (2026-10-31),team,Millwall,Shots,21,22.0
 Championship,Norwich City v Bolton Wanderers (2026-09-20),team,Bolton Wanderers,Shots,9,8.0
 Championship,Norwich City v West Bromwich Albion (2026-08-15),team,West Bromwich Albion,Shots,9,8.0
 Championship,Portsmouth v Blackburn Rovers (2026-09-19),team,Portsmouth,Shots,22,20.0
@@ -300,6 +336,8 @@ Championship,Southampton v Portsmouth (2026-10-11),team,Portsmouth,Shots,16,15.0
 Championship,Southampton v Stoke City (2026-08-22),team,Southampton,Shots,18,17.0
 Championship,Southampton v Stoke City (2026-08-22),team,Stoke City,Shots,15,14.0
 Championship,Stoke City v Norwich City (2026-09-01),team,Stoke City,Shots,7,6.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),team,Swansea City,Shots,19,20.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),team,Blackburn Rovers,Shots,6,7.0
 Championship,Swansea City v Burnley (2026-09-12),team,Swansea City,Shots,13,14.0
 Championship,Swansea City v Norwich City (2026-10-10),team,Norwich City,Shots,12,11.0
 Championship,West Bromwich Albion v Watford (2026-09-05),team,Watford,Shots,11,10.0
@@ -316,6 +354,7 @@ Championship,Queens Park Rangers v Bolton Wanderers (2026-08-22),team,Queens Par
 Championship,Queens Park Rangers v Preston North End (2026-09-19),team,Queens Park Rangers,Shots on target,7,6.0
 Championship,Southampton v Portsmouth (2026-10-11),team,Portsmouth,Shots on target,3,2.0
 Championship,Stoke City v Norwich City (2026-09-01),team,Stoke City,Shots on target,2,3.0
+Championship,Swansea City v Blackburn Rovers (2026-10-31),team,Blackburn Rovers,Shots on target,1,2.0
 Championship,Swansea City v Burnley (2026-09-12),team,Swansea City,Shots on target,6,7.0
 Championship,West Ham United v Southampton (2026-10-24),team,West Ham United,Shots on target,11,10.0
 Championship,Birmingham City v Bristol City (2026-08-22),team,Bristol City,Yellow cards,2,1.0
@@ -405,11 +444,13 @@ Eredivisie (top 5),PEC Zwolle v Feyenoord (2026-09-13),player,Nacho Ferri (Feyen
 Eredivisie (top 5),Willem II v SC Heerenveen (2026-08-30),player,Oliver Braude (sc Heerenveen),Shots on target,1,2.0
 Eredivisie (top 5),ADO Den Haag v Cambuur (2026-09-19),player,Sékou Sylla (ADO Den Haag),Yellow cards,0,1.0
 Eredivisie (top 5),ADO Den Haag v PSV Eindhoven (2026-10-17),player,Sven Mijnans (PSV),Yellow cards,2,0.0
+Eredivisie (top 5),AZ Alkmaar v FC Groningen (2026-11-08),player,Etienne Vaessen (FC Groningen),Yellow cards,2,0.0
 Eredivisie (top 5),AZ Alkmaar v FC Twente (2026-10-25),player,Daouda Weidmann (FC Twente),Yellow cards,2,0.0
 Eredivisie (top 5),Cambuur v AZ Alkmaar (2026-10-18),player,Devid Eugene Bouah (SC Cambuur),Yellow cards,2,0.0
 Eredivisie (top 5),FC Groningen v Fortuna Sittard (2026-08-28),player,Lequincio Zeefuik (Fortuna Sittard),Yellow cards,0,1.0
 Eredivisie (top 5),Fortuna Sittard v Excelsior (2026-10-25),player,Daniël van Vianen (Excelsior),Yellow cards,1,0.0
 Eredivisie (top 5),Sparta Rotterdam v Feyenoord (2026-08-09),player,Bas Kuipers (Sparta Rotterdam),Yellow cards,0,1.0
+Eredivisie (top 5),Feyenoord v Fortuna Sittard (2026-10-31),team,Fortuna Sittard,Corners,1,2.0
 Eredivisie (top 5),PSV Eindhoven v Fortuna Sittard (2026-08-08),team,PSV Eindhoven,Corners,9,10.0
 Eredivisie (top 5),SC Heerenveen v FC Twente (2026-08-09),team,SC Heerenveen,Corners,4,5.0
 Eredivisie (top 5),Telstar v Feyenoord (2026-10-17),team,Telstar,Corners,6,7.0
@@ -449,25 +490,40 @@ Eredivisie (top 5),PEC Zwolle v Feyenoord (2026-09-13),team,Feyenoord,Shots on t
 Eredivisie (top 5),Willem II v SC Heerenveen (2026-08-30),team,SC Heerenveen,Shots on target,4,5.0
 Eredivisie (top 5),Ajax v PSV Eindhoven (2026-09-05),team,Ajax,Yellow cards,4,3.0
 Eredivisie (top 5),FC Twente v PSV Eindhoven (2026-09-20),team,PSV Eindhoven,Yellow cards,3,2.0
+Europa League,Olympiacos v Sparta Prague (2026-10-22),player,Marcus Holmgren Pedersen (Olympiakos),Assists,1,0.0
 Europa League,Beşiktaş v Marseille (2026-09-17),player,Pierre-Emile Højbjerg (Marseille),Fouled,2,1.0
 Europa League,Beşiktaş v Marseille (2026-09-17),player,Václav Cerny (Besiktas),Fouls,1,0.0
+Europa League,Hapoel Beer Sheva v OFI Crete (2026-11-05),player,Andreas Bouchalakis (OFI),Fouls,2,1.0
+Europa League,Hapoel Beer Sheva v OFI Crete (2026-11-05),player,Thiago Nuss (OFI),Fouls,3,4.0
 Europa League,Marseille v Olympiacos (2026-10-15),player,Santiago Hezze (Olympiakos),Fouls,0,1.0
+Europa League,Olympiacos v Sparta Prague (2026-10-22),player,Armando González (Olympiakos),Goals,1,0.0
+Europa League,Benfica v Lech Poznań (2026-11-05),player,Mateusz Lis (Lech Poznan),Saves,9,8.0
 Europa League,Olympiacos v Jagiellonia Białystok (2026-09-16),player,Stefan Ortega (Olympiakos),Saves,2,3.0
 Europa League,Union St.Gilloise v Real Sociedad (2026-10-15),player,Hervé Koffi (Union Saint-Gilloise),Saves,1,0.0
 Europa League,NK Celje v Omonia Nicosia (2026-10-15),player,Yaya Dukuly (Celje),Shots,1,2.0
+Europa League,Sturm Graz v NK Celje (2026-11-05),player,Arjan Malić (SK Puntigamer Sturm Graz),Shots,1,0.0
 Europa League,Union St.Gilloise v Real Sociedad (2026-10-15),player,Orri Óskarsson (Real Sociedad),Shots,1,0.0
 Europa League,AFC Bournemouth v Milan (2026-10-22),player,Rayan (Bournemouth),Shots on target,0,1.0
+Europa League,Benfica v Lech Poznań (2026-11-05),player,Claudio Echeverri (Benfica),Shots on target,1,0.0
+Europa League,Olympiacos v Sparta Prague (2026-10-22),player,Armando González (Olympiakos),Shots on target,1,0.0
+Europa League,Sparta Prague v AFC Bournemouth (2026-11-05),player,Álvaro Rodriguez (Bournemouth),Shots on target,1,2.0
 Europa League,Torreense v Sunderland (2026-10-15),player,Omar Alderete (Sunderland),Shots on target,0,1.0
 Europa League,Beşiktaş v Crystal Palace (2026-10-22),player,Ümit Akdağ (Besiktas),Yellow cards,2,1.0
+Europa League,Crystal Palace v Hoffenheim (2026-11-05),player,Adam Wharton (Crystal Palace),Yellow cards,2,0.0
 Europa League,Lillestrøm v Torreense (2026-09-17),player,Nuha Jatta (Torreense),Yellow cards,2,0.0
+Europa League,Sparta Prague v AFC Bournemouth (2026-11-05),player,Tobias Guddal (Sparta Prague),Yellow cards,2,0.0
 Europa League,Lillestrøm v Real Sociedad (2026-10-22),team,Real Sociedad,Corners,3,4.0
 Europa League,NK Celje v Omonia Nicosia (2026-10-15),team,Omonia Nicosia,Corners,5,6.0
 Europa League,Omonia Nicosia v Celta Vigo (2026-09-16),team,Celta Vigo,Corners,11,12.0
 Europa League,Beşiktaş v Marseille (2026-09-17),team,Beşiktaş,Fouls,11,10.0
+Europa League,Benfica v Lech Poznań (2026-11-05),team,Lech Poznań,Keeper saves,9,8.0
 Europa League,Olympiacos v Jagiellonia Białystok (2026-09-16),team,Olympiacos,Keeper saves,2,3.0
 Europa League,Union St.Gilloise v Real Sociedad (2026-10-15),team,Union St.Gilloise,Keeper saves,1,0.0
 Europa League,NK Celje v Omonia Nicosia (2026-10-15),team,NK Celje,Shots,12,13.0
+Europa League,Sturm Graz v NK Celje (2026-11-05),team,Sturm Graz,Shots,31,30.0
 Europa League,Union St.Gilloise v Real Sociedad (2026-10-15),team,Real Sociedad,Shots,6,5.0
+Europa League,Benfica v Lech Poznań (2026-11-05),team,Benfica,Shots on target,12,11.0
+Europa League,Olympiacos v Sparta Prague (2026-10-22),team,Olympiacos,Shots on target,3,2.0
 La Liga,Athletic Club v Elche (2026-09-12),player,Alex Berenguer (Athletic Club),Assists,0,1.0
 La Liga,Racing Santander v Deportivo Alavés (2026-09-12),player,Jorge Salinas (Racing de Santander),Assists,1,0.0
 La Liga,Athletic Club v Deportivo Alavés (2026-09-19),player,Pablo Ibánez (Alavés),Fouled,3,2.0
@@ -495,6 +551,7 @@ La Liga,Osasuna v Rayo Vallecano (2026-09-19),player,Diego Rico (Osasuna),Shots,
 La Liga,Real Sociedad v Espanyol (2026-08-29),player,Orri Óskarsson (Real Sociedad),Shots,4,3.0
 La Liga,Athletic Club v Elche (2026-09-12),player,Iñaki Williams (Athletic Club),Shots on target,0,1.0
 La Liga,Villarreal v Elche (2026-10-17),player,Nathan Saliba (Villarreal),Shots on target,0,1.0
+La Liga,Atlético Madrid v Barcelona (2026-11-08),player,Morten Hjulmand (Atlético de Madrid),Yellow cards,0,1.0
 La Liga,Barcelona v Real Madrid (2026-10-25),player,Dean Huijsen (Real Madrid),Yellow cards,0,1.0
 La Liga,Barcelona v Real Madrid (2026-10-25),player,Marc Cucurella (Real Madrid),Yellow cards,1,0.0
 La Liga,Celta Vigo v Osasuna (2026-08-27),player,Jon Moncayola (Osasuna),Yellow cards,0,1.0
@@ -505,18 +562,20 @@ La Liga,Elche v Real Sociedad (2026-09-07),player,Fer Niño (Elche),Yellow cards
 La Liga,Elche v Real Sociedad (2026-09-07),player,Abiel Osorio (Elche),Yellow cards,0,1.0
 La Liga,Getafe v Celta Vigo (2026-09-07),player,Zaid Abner Romero (Getafe),Yellow cards,2,0.0
 La Liga,Levante v Sevilla (2026-10-12),player,Isaac Romero (Sevilla),Yellow cards,2,0.0
+La Liga,Málaga v Racing Santander (2026-11-07),player,Adam Aznou (Málaga),Yellow cards,2,0.0
+La Liga,Osasuna v Athletic Club (2026-11-07),player,Yuri Berchiche (Athletic Club),Yellow cards,1,0.0
+La Liga,Osasuna v Athletic Club (2026-11-07),player,Oihan Sancet (Athletic Club),Yellow cards,0,1.0
 La Liga,Racing Santander v Espanyol (2026-10-24),player,Ángel Fortuno (Espanyol),Yellow cards,1,0.0
 La Liga,Real Betis v Getafe (2026-09-17),player,Mario Martín (Getafe),Yellow cards,2,0.0
 La Liga,Sevilla v Rayo Vallecano (2026-08-15),player,Pathé Ciss (Rayo Vallecano),Yellow cards,1,0.0
 La Liga,Sevilla v Rayo Vallecano (2026-08-15),player,Alemão (Rayo Vallecano),Yellow cards,0,1.0
 La Liga,Valencia v Real Sociedad (2026-09-20),player,Orri Óskarsson (Real Sociedad),Yellow cards,2,0.0
 La Liga,Valencia v Villarreal (2026-10-24),player,Harvey Elliott (Valencia CF),Yellow cards,2,0.0
-La Liga,League table,table,Deportivo Alavés,Drawn,3,5.0
-La Liga,League table,table,Deportivo Alavés,Goals against,11,13.0
-La Liga,League table,table,Deportivo Alavés,Goals for,14,13.0
-La Liga,League table,table,Deportivo Alavés,Lost,4,3.0
-La Liga,League table,table,Deportivo Alavés,Points,12,11.0
-La Liga,League table,table,Deportivo Alavés,Won,3,2.0
+La Liga,League table,table,Deportivo Alavés,Drawn,4,6.0
+La Liga,League table,table,Deportivo Alavés,Goals against,17,14.0
+La Liga,League table,table,Deportivo Alavés,Lost,5,3.0
+La Liga,League table,table,Deportivo Alavés,Points,13,15.0
+La Liga,Barcelona v Deportivo Alavés (2026-10-31),team,Barcelona,Corners,3,4.0
 La Liga,Barcelona v Getafe (2026-10-10),team,Getafe,Corners,2,3.0
 La Liga,Deportivo A Coruña v Elche (2026-08-17),team,Elche,Corners,6,7.0
 La Liga,Deportivo Alavés v Osasuna (2026-09-06),team,Osasuna,Corners,1,2.0
@@ -533,6 +592,7 @@ La Liga,Osasuna v Rayo Vallecano (2026-09-19),team,Osasuna,Shots,10,9.0
 La Liga,Real Sociedad v Espanyol (2026-08-29),team,Real Sociedad,Shots,18,17.0
 La Liga,Athletic Club v Elche (2026-09-12),team,Athletic Club,Shots on target,2,3.0
 La Liga,Villarreal v Elche (2026-10-17),team,Villarreal,Shots on target,6,7.0
+La Liga,Athletic Club v Real Sociedad (2026-11-01),team,Real Sociedad,Yellow cards,4,3.0
 La Liga,Athletic Club v Sevilla (2026-08-22),team,Sevilla,Yellow cards,4,5.0
 La Liga,Celta Vigo v Athletic Club (2026-08-30),team,Athletic Club,Yellow cards,2,3.0
 La Liga,Celta Vigo v Osasuna (2026-08-27),team,Celta Vigo,Yellow cards,0,1.0
@@ -570,6 +630,7 @@ Ligue 1,Le Mans v Brest (2026-08-22),player,Kamory Doumbia (Brest),Shots,3,4.0
 Ligue 1,Le Mans v Brest (2026-08-22),player,Pathé Mboup (Brest),Shots,3,2.0
 Ligue 1,Le Mans v Lens (2026-09-13),player,Dame Gueye (Le Mans),Shots,1,2.0
 Ligue 1,Lorient v Paris FC (2026-10-10),player,Adama Camara (Paris FC),Shots,2,1.0
+Ligue 1,Lyon v Angers (2026-11-01),player,Kaïl Boudache (Lyon),Shots,2,1.0
 Ligue 1,Lyon v Le Havre (2026-08-29),player,Zachary Athekame (Lyon),Shots,1,2.0
 Ligue 1,Lyon v Le Havre (2026-08-29),player,Corentin Tolisso (Lyon),Shots,4,3.0
 Ligue 1,Marseille v Le Havre (2026-10-25),player,Simon Ebonog (Le Havre),Shots,2,1.0
@@ -581,6 +642,7 @@ Ligue 1,Brest v Paris Saint-Germain (2026-09-13),player,Pathé Mboup (Brest),Sho
 Ligue 1,Le Mans v Lens (2026-09-13),player,Dame Gueye (Le Mans),Shots on target,0,1.0
 Ligue 1,Lens v Lorient (2026-09-05),player,Souleymane Sagnan (Lens),Yellow cards,2,0.0
 Ligue 1,Marseille v Paris Saint-Germain (2026-09-20),player,Timothy Weah (Marseille),Yellow cards,2,0.0
+Ligue 1,Paris Saint-Germain v Troyes (2026-11-07),team,Paris Saint-Germain,Corners,5,6.0
 Ligue 1,Rennes v Strasbourg (2026-10-25),team,Strasbourg,Corners,4,5.0
 Ligue 1,Lorient v Monaco (2026-10-18),team,Monaco,Fouls,17,16.0
 Ligue 1,Brest v Paris Saint-Germain (2026-09-13),team,Paris Saint-Germain,Keeper saves,5,6.0
@@ -593,6 +655,7 @@ Ligue 1,Brest v Toulouse (2026-08-29),team,Brest,Shots,27,26.0
 Ligue 1,Le Havre v Angers (2026-09-12),team,Le Havre,Shots,15,16.0
 Ligue 1,Le Mans v Lens (2026-09-13),team,Le Mans,Shots,12,13.0
 Ligue 1,Lorient v Paris FC (2026-10-10),team,Paris FC,Shots,17,16.0
+Ligue 1,Lyon v Angers (2026-11-01),team,Lyon,Shots,22,21.0
 Ligue 1,Marseille v Le Havre (2026-10-25),team,Le Havre,Shots,22,21.0
 Ligue 1,Monaco v Lille (2026-10-25),team,Monaco,Shots,21,20.0
 Ligue 1,Strasbourg v Paris Saint-Germain (2026-10-17),team,Strasbourg,Shots,17,16.0
@@ -747,6 +810,7 @@ MLS,San Diego FC v Colorado Rapids (2026-08-23),player,Wayne Frederick (Colorado
 MLS,Sporting Kansas City v Philadelphia Union (2026-09-20),player,Emir Karić (Sporting Kansas City),Fouls,2,1.0
 MLS,Sporting Kansas City v Philadelphia Union (2026-09-20),player,Owen Wolff (Sporting Kansas City),Fouls,0,1.0
 MLS,St. Louis City v Toronto FC (2026-09-20),player,Conrad Wallem (St. Louis City SC),Fouls,3,2.0
+MLS,CF Montréal v Nashville SC (2026-10-24),player,Hany Mukhtar (Nashville SC),Goals,0,1.0
 MLS,Charlotte FC v Chicago Fire FC (2026-09-26),player,Johan Gómez (Chicago Fire),Goals,1,0.0
 MLS,DC United v Toronto FC (2026-07-25),player,Kye Rowles (D.C. United),Goals,0,1.0
 MLS,Orlando City v Red Bull New York (2026-02-22),player,Iago (Orlando City SC),Goals,0,1.0
@@ -864,7 +928,9 @@ MLS,Atlanta United v Sporting Kansas City (2026-08-23),player,Miguel Almirón (A
 MLS,Austin FC v San Jose Earthquakes (2026-09-06),player,Ousseni Bouda (San Jose Earthquakes),Shots on target,1,0.0
 MLS,CF Montreal v DC United (2026-08-15),player,Prince Osei Owusu (Montreal Impact),Shots on target,3,2.0
 MLS,CF Montreal v Orlando City (2026-05-09),player,Iago (Orlando City SC),Shots on target,1,0.0
+MLS,CF Montréal v Nashville SC (2026-10-24),player,Hany Mukhtar (Nashville SC),Shots on target,1,2.0
 MLS,Charlotte FC v Chicago Fire FC (2026-09-26),player,Johan Gómez (Chicago Fire),Shots on target,3,2.0
+MLS,Charlotte FC v Orlando City (2026-10-31),player,Martín Ojeda (Orlando City SC),Shots on target,2,3.0
 MLS,Chicago Fire FC v Inter Miami CF (2026-09-10),player,Germán Berterame (Inter Miami CF),Shots on target,2,1.0
 MLS,Colorado Rapids v Sporting Kansas City (2026-08-16),player,Paxten Aaronson (Colorado Rapids),Shots on target,1,0.0
 MLS,DC United v Atlanta United (2026-09-12),player,Miguel Almirón (Atlanta United FC),Shots on target,1,0.0
@@ -920,6 +986,7 @@ MLS,DC United v Red Bull New York (2026-10-14),player,Lucas Bartlett (D.C. Unite
 MLS,DC United v St. Louis City (2026-05-16),player,Conrad Wallem (St. Louis City SC),Yellow cards,2,0.0
 MLS,FC Cincinnati v San Jose Earthquakes (2026-08-02),player,Pavel Bucha (Cincinnati),Yellow cards,0,1.0
 MLS,FC Cincinnati v San Jose Earthquakes (2026-08-02),player,Evander Ferreira (Cincinnati),Yellow cards,1,0.0
+MLS,FC Dallas v Columbus Crew (2026-10-29),player,Christian Cappis (FC Dallas),Yellow cards,0,1.0
 MLS,FC Dallas v Houston Dynamo FC (2026-03-22),player,Erik Sviatchenko (Houston Dynamo),Yellow cards,2,0.0
 MLS,FC Dallas v Nashville SC (2026-03-01),player,Matthew Corcoran (Nashville SC),Yellow cards,2,0.0
 MLS,Houston Dynamo FC v LA Galaxy (2026-08-16),player,Ibrahim Aliyu (Houston Dynamo),Yellow cards,2,0.0
@@ -953,15 +1020,18 @@ MLS,San Jose Earthquakes v Austin FC (2026-04-23),player,Ronaldo Vieira (San Jos
 MLS,San Jose Earthquakes v Houston Dynamo FC (2026-09-13),player,Jamar Ricketts (San Jose Earthquakes),Yellow cards,1,0.0
 MLS,Sporting Kansas City v Houston Dynamo FC (2026-08-02),player,Lasse Berg Johnsen (Sporting Kansas City),Yellow cards,2,0.0
 MLS,St. Louis City v Minnesota United (2026-09-13),player,Kyle Duncan (Minnesota United FC),Yellow cards,2,0.0
+MLS,St. Louis City v Portland Timbers (2026-10-29),player,Kamal Miller (Portland Timbers),Yellow cards,2,0.0
 MLS,Toronto FC v Colorado Rapids (2026-04-04),player,Miguel Navarro (Colorado Rapids),Yellow cards,2,0.0
 MLS,Toronto FC v FC Cincinnati (2026-04-11),player,Kévin Denkey (Cincinnati),Yellow cards,2,0.0
 MLS,Vancouver Whitecaps v Austin FC (2026-09-13),player,Guilherme Biro (Austin FC),Yellow cards,2,0.0
+MLS,Vancouver Whitecaps v San Diego FC (2026-10-29),player,Rayan Elloumi (Vancouver Whitecaps FC),Yellow cards,2,0.0
 MLS,CF Montreal v Portland Timbers (2026-05-13),team,CF Montreal,Corners,6,7.0
 MLS,Charlotte FC v New England Revolution (2026-05-23),team,New England Revolution,Corners,4,5.0
 MLS,Columbus Crew v Minnesota United (2026-05-02),team,Minnesota United,Corners,6,7.0
 MLS,Columbus Crew v Nashville SC (2026-03-14),team,Nashville SC,Corners,3,4.0
 MLS,FC Cincinnati v Orlando City (2026-05-23),team,Orlando City,Corners,9,10.0
 MLS,FC Cincinnati v Toronto FC (2026-03-08),team,Toronto FC,Corners,7,8.0
+MLS,FC Dallas v Columbus Crew (2026-10-29),team,FC Dallas,Corners,8,9.0
 MLS,Houston Dynamo FC v Sporting Kansas City (2026-09-27),team,Sporting Kansas City,Corners,2,3.0
 MLS,Inter Miami CF v New York City FC (2026-10-14),team,New York City FC,Corners,4,5.0
 MLS,Minnesota United v LA Galaxy (2026-09-20),team,LA Galaxy,Corners,9,8.0
@@ -976,6 +1046,7 @@ MLS,St. Louis City v Houston Dynamo FC (2026-08-23),team,Houston Dynamo FC,Corne
 MLS,St. Louis City v Vancouver Whitecaps (2026-10-15),team,St. Louis City,Corners,5,6.0
 MLS,Vancouver Whitecaps v Colorado Rapids (2026-04-26),team,Vancouver Whitecaps,Corners,8,9.0
 MLS,Vancouver Whitecaps v Minnesota United (2026-03-15),team,Vancouver Whitecaps,Corners,3,4.0
+MLS,Vancouver Whitecaps v Seattle Sounders FC (2026-11-01),team,Vancouver Whitecaps,Corners,1,2.0
 MLS,Austin FC v Nashville SC (2026-10-11),team,Nashville SC,Fouls,11,10.0
 MLS,Austin FC v San Diego FC (2026-09-27),team,Austin FC,Fouls,11,12.0
 MLS,Colorado Rapids v Los Angeles FC (2026-08-20),team,Colorado Rapids,Fouls,14,13.0
@@ -1063,6 +1134,7 @@ MLS,Vancouver Whitecaps v FC Dallas (2026-08-23),team,FC Dallas,Shots,6,5.0
 MLS,Atlanta United v Sporting Kansas City (2026-08-23),team,Atlanta United,Shots on target,4,3.0
 MLS,Austin FC v San Jose Earthquakes (2026-09-06),team,San Jose Earthquakes,Shots on target,3,2.0
 MLS,CF Montreal v DC United (2026-08-15),team,CF Montreal,Shots on target,8,7.0
+MLS,CF Montréal v Nashville SC (2026-10-24),team,Nashville SC,Shots on target,4,5.0
 MLS,Charlotte FC v Chicago Fire FC (2026-09-26),team,Chicago Fire FC,Shots on target,9,8.0
 MLS,Chicago Fire FC v Inter Miami CF (2026-09-10),team,Inter Miami CF,Shots on target,8,7.0
 MLS,Colorado Rapids v CF Montréal (2026-09-13),team,Colorado Rapids,Shots on target,6,7.0
@@ -1099,7 +1171,6 @@ MLS,Vancouver Whitecaps v FC Dallas (2026-08-23),team,FC Dallas,Yellow cards,5,4
 "Portugal (Porto, Sporting, Benfica)",FC Porto v Alverca (2026-08-09),player,Pepê (FC Porto),Fouled,2,1.0
 "Portugal (Porto, Sporting, Benfica)",Arouca v Marítimo (2026-08-29),player,Raphael Guzzo (Marítimo),Fouls,3,2.0
 "Portugal (Porto, Sporting, Benfica)",Arouca v Moreirense (2026-08-16),player,Espen van Ee (Arouca),Fouls,3,2.0
-"Portugal (Porto, Sporting, Benfica)",Arouca v Moreirense (2026-08-16),player,Barbero (Arouca),Fouls,1,2.0
 "Portugal (Porto, Sporting, Benfica)",Arouca v Santa Clara (2026-09-13),player,Gonçalo Paciência (Santa Clara),Fouls,2,1.0
 "Portugal (Porto, Sporting, Benfica)",Arouca v Santa Clara (2026-09-13),player,Vinícius (Santa Clara),Fouls,1,2.0
 "Portugal (Porto, Sporting, Benfica)",FC Porto v Alverca (2026-08-09),player,Nabili Touaizi (Alverca),Fouls,2,1.0
@@ -1131,6 +1202,7 @@ MLS,Vancouver Whitecaps v FC Dallas (2026-08-23),team,FC Dallas,Yellow cards,5,4
 "Portugal (Porto, Sporting, Benfica)",Alverca v Braga (2026-09-05),player,Chiquinho (Alverca),Yellow cards,1,0.0
 "Portugal (Porto, Sporting, Benfica)",Arouca v Santa Clara (2026-09-13),player,Sorriso (Santa Clara),Yellow cards,2,0.0
 "Portugal (Porto, Sporting, Benfica)",Braga v Estoril (2026-09-14),player,Ferro (Estoril Praia),Yellow cards,2,0.0
+"Portugal (Porto, Sporting, Benfica)",Braga v Famalicão (2026-11-01),player,Rodrigo Pinheiro (FC Famalicão),Yellow cards,2,0.0
 "Portugal (Porto, Sporting, Benfica)",FC Porto v Benfica (2026-09-20),player,Clément Lenglet (Benfica),Yellow cards,2,0.0
 "Portugal (Porto, Sporting, Benfica)",Nacional v Estoril (2026-08-16),player,Xeka (Estoril Praia),Yellow cards,2,0.0
 "Portugal (Porto, Sporting, Benfica)",Nacional v Famalicão (2026-09-19),player,Matheus Dias (CD Nacional),Yellow cards,2,0.0
@@ -1172,15 +1244,23 @@ Premier League,Brighton & Hove Albion v Arsenal (2026-09-19),player,Max Dowman (
 Premier League,Brighton & Hove Albion v Arsenal (2026-09-19),player,Viktor Gyökeres (Arsenal),Fouled,1,0.0
 Premier League,Brighton & Hove Albion v Aston Villa (2026-08-23),player,Mats Wieffer (Brighton and Hove Albion),Fouled,3,2.0
 Premier League,Brighton & Hove Albion v Aston Villa (2026-08-23),player,Georginio Rutter (Brighton and Hove Albion),Fouled,1,0.0
+Premier League,Coventry City v Sunderland (2026-10-31),player,Trai Hume (Sunderland),Fouled,1,2.0
+Premier League,Coventry City v Sunderland (2026-10-31),player,Chris Rigg (Sunderland),Fouled,3,2.0
 Premier League,Crystal Palace v Manchester City (2026-08-28),player,Anan Khalaili (Crystal Palace),Fouled,1,0.0
 Premier League,Crystal Palace v Nottingham Forest (2026-10-11),player,Quinten Timber (Crystal Palace),Fouled,4,3.0
 Premier League,Crystal Palace v Nottingham Forest (2026-10-11),player,Ismaïla Sarr (Crystal Palace),Fouled,0,1.0
+Premier League,Everton v Coventry City (2026-11-06),player,Taiwo Awoniyi (Coventry City),Fouled,1,0.0
+Premier League,Leeds United v Tottenham Hotspur (2026-11-07),player,Ethan Ampadu (Leeds United),Fouled,1,0.0
 Premier League,Nottingham Forest v Tottenham Hotspur (2026-09-05),player,Neco Williams (Nottingham Forest),Fouled,4,3.0
 Premier League,Brighton & Hove Albion v Aston Villa (2026-08-23),player,João Gomes (Aston Villa),Fouls,2,1.0
 Premier League,Brighton & Hove Albion v Aston Villa (2026-08-23),player,Emiliano Buendía (Aston Villa),Fouls,3,2.0
 Premier League,Coventry City v Brighton & Hove Albion (2026-09-13),player,Yasin Ayari (Brighton and Hove Albion),Fouls,0,1.0
 Premier League,Coventry City v Brighton & Hove Albion (2026-09-13),player,Ibrahim Osman (Brighton and Hove Albion),Fouls,1,0.0
+Premier League,Coventry City v Sunderland (2026-10-31),player,Jay Dasilva (Coventry City),Fouls,2,1.0
+Premier League,Coventry City v Sunderland (2026-10-31),player,Yann Gboho (Coventry City),Fouls,1,2.0
 Premier League,Crystal Palace v Manchester City (2026-08-28),player,Joško Gvardiol (Manchester City),Fouls,2,1.0
+Premier League,Everton v Coventry City (2026-11-06),player,Thierno Barry (Everton),Fouls,3,2.0
+Premier League,Leeds United v Tottenham Hotspur (2026-11-07),player,Mohammed Kudus (Tottenham Hotspur),Fouls,1,0.0
 Premier League,Liverpool v Manchester City (2026-10-11),player,Florian Wirtz (Liverpool),Fouls,4,3.0
 Premier League,Liverpool v Manchester City (2026-10-11),player,Ryan Gravenberch (Liverpool),Fouls,3,4.0
 Premier League,Nottingham Forest v Coventry City (2026-09-19),player,Matt Grimes (Coventry City),Fouls,1,2.0
@@ -1189,6 +1269,7 @@ Premier League,Nottingham Forest v Tottenham Hotspur (2026-09-05),player,Omar Ma
 Premier League,Leeds United v Newcastle United (2026-09-14),player,Jayden Bogle (Leeds United),Goals,0,1.0
 Premier League,Leeds United v Newcastle United (2026-09-14),player,Dominic Calvert-Lewin (Leeds United),Goals,2,1.0
 Premier League,Chelsea v Hull City (2026-09-12),player,John Egan (Hull City),Shots,2,1.0
+Premier League,Everton v Coventry City (2026-11-06),player,Kiernan Dewsbury-Hall (Everton),Shots,2,3.0
 Premier League,Leeds United v Newcastle United (2026-09-14),player,Jayden Bogle (Leeds United),Shots,2,3.0
 Premier League,Nottingham Forest v Tottenham Hotspur (2026-09-05),player,Morgan Gibbs-White (Nottingham Forest),Shots,4,3.0
 Premier League,Nottingham Forest v Tottenham Hotspur (2026-09-05),player,Daniel Muñoz (Nottingham Forest),Shots,0,1.0
@@ -1196,17 +1277,23 @@ Premier League,Nottingham Forest v Tottenham Hotspur (2026-09-05),player,Omar Ma
 Premier League,Leeds United v Newcastle United (2026-09-14),player,Jayden Bogle (Leeds United),Shots on target,2,3.0
 Premier League,Leeds United v Newcastle United (2026-09-14),player,Dominic Calvert-Lewin (Leeds United),Shots on target,3,2.0
 Premier League,Brentford v Liverpool (2026-10-17),player,Vitaly Janelt (Brentford),Yellow cards,2,0.0
+Premier League,Chelsea v Manchester United (2026-10-31),player,Lisandro Martínez (Manchester United),Yellow cards,2,0.0
 Premier League,Chelsea v Tottenham Hotspur (2026-10-24),player,Cole Palmer (Chelsea),Yellow cards,2,0.0
+Premier League,Coventry City v Sunderland (2026-10-31),player,Omar Alderete (Sunderland),Yellow cards,2,0.0
 Premier League,Crystal Palace v Ipswich Town (2026-09-12),player,Jacob Greaves (Ipswich Town),Yellow cards,1,0.0
 Premier League,Liverpool v Manchester City (2026-10-11),player,Ryan Gravenberch (Liverpool),Yellow cards,2,0.0
+Premier League,Newcastle United v Everton (2026-11-02),player,Jacob Ramsey (Newcastle United),Yellow cards,2,0.0
 Premier League,Sunderland v Arsenal (2026-09-12),player,Reinildo (Sunderland),Yellow cards,2,0.0
 Premier League,Arsenal v Leeds United (2026-10-10),team,Arsenal,Corners,2,3.0
 Premier League,Chelsea v Hull City (2026-09-12),team,Chelsea,Corners,10,11.0
 Premier League,Sunderland v Arsenal (2026-09-12),team,Arsenal,Corners,2,3.0
 Premier League,Brighton & Hove Albion v Aston Villa (2026-08-23),team,Aston Villa,Fouls,11,9.0
 Premier League,Crystal Palace v Manchester City (2026-08-28),team,Manchester City,Fouls,11,10.0
+Premier League,Everton v Coventry City (2026-11-06),team,Everton,Fouls,10,9.0
+Premier League,Leeds United v Tottenham Hotspur (2026-11-07),team,Tottenham Hotspur,Fouls,16,15.0
 Premier League,Nottingham Forest v Tottenham Hotspur (2026-09-05),team,Tottenham Hotspur,Fouls,14,13.0
 Premier League,Chelsea v Hull City (2026-09-12),team,Hull City,Shots,14,13.0
+Premier League,Everton v Coventry City (2026-11-06),team,Everton,Shots,15,16.0
 Premier League,Leeds United v Newcastle United (2026-09-14),team,Leeds United,Shots,14,15.0
 Premier League,Newcastle United v Hull City (2026-09-19),team,Hull City,Shots,22,21.0
 Premier League,Nottingham Forest v Tottenham Hotspur (2026-09-05),team,Tottenham Hotspur,Shots,11,12.0
@@ -1216,6 +1303,8 @@ Saudi Pro League (top 5),Al Diriyah v Al Qadsiah (2026-09-03),player,Mohammed Ab
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),player,Hussain Al Sibyani (Al Diriyah),Assists,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Óscar Rodríguez (Al Diriyah),Assists,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Mohammed Al Kuwaykibi (Al-Taawoun),Assists,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Darwin Núñez (Al Diriyah),Assists,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Saïd Benrahma (Neom SC),Assists,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Mourad Batna (Al Fateh FC),Assists,1,0.0
 Saudi Pro League (top 5),Al Hilal v Neom SC (2026-09-07),player,Amadou Koné (Neom SC),Assists,1,0.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Sadio Mané (Al Nassr FC),Assists,1,0.0
@@ -1267,6 +1356,15 @@ Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Faris Al Gh
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Marin Petkov (Al-Taawoun),Fouled,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Abderrazak Hamdallah (Al-Taawoun),Fouled,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Mohammed Al Kuwaykibi (Al-Taawoun),Fouled,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Chancel Mbemba (Al Diriyah),Fouled,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Óscar Rodríguez (Al Diriyah),Fouled,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Enzo Millot (Al Diriyah),Fouled,3,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Idrissa Gana Gueye (Al Diriyah),Fouled,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Adil Boulbina (Al Diriyah),Fouled,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Nathan Zézé (Neom SC),Fouled,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Malang Sarr (Neom SC),Fouled,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Abdulmalik Al Oyayari (Neom SC),Fouled,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Mohannad Abu Taha (Neom SC),Fouled,3,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Abdul Rahman Al Khaibari (Al Fateh FC),Fouled,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Lukás Haraslín (Al Fateh FC),Fouled,2,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Mourad Batna (Al Fateh FC),Fouled,1,0.0
@@ -1285,6 +1383,8 @@ Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),player,Ahmed Al Gh
 Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),player,Berat Djimsiti (Al Diriyah),Fouled,1,0.0
 Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),player,Enzo Millot (Al Diriyah),Fouled,1,0.0
 Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),player,Adil Boulbina (Al Diriyah),Fouled,3,0.0
+Saudi Pro League (top 5),Al Khaleej v Al Hazem (2026-10-29),player,Omar Mascarell (Al Khaleej),Fouled,0,1.0
+Saudi Pro League (top 5),Al Khaleej v Al Hazem (2026-10-29),player,Saleh Al Amri (Al Khaleej),Fouled,1,0.0
 Saudi Pro League (top 5),Al Khaleej v Al Nassr FC (2026-09-12),player,Abdullah Al Khaibari (Al Nassr FC),Fouled,0,1.0
 Saudi Pro League (top 5),Al Kholood v Al-Taawoun (2026-08-22),player,Mohammed Al Kuwaykibi (Al-Taawoun),Fouled,1,2.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Abdullah Al Khaibari (Al Nassr FC),Fouled,3,0.0
@@ -1352,6 +1452,16 @@ Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Aschraf El 
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Faris Al Ghamdi (Al-Taawoun),Fouls,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Marin Petkov (Al-Taawoun),Fouls,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Abderrazak Hamdallah (Al-Taawoun),Fouls,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Berat Djimsiti (Al Diriyah),Fouls,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Taher Wadi (Al Diriyah),Fouls,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Óscar Rodríguez (Al Diriyah),Fouls,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Enzo Millot (Al Diriyah),Fouls,3,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Darwin Núñez (Al Diriyah),Fouls,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Nathan Zézé (Neom SC),Fouls,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Islam Hawsawi (Neom SC),Fouls,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Khalifah Al Dawsari (Neom SC),Fouls,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Saïd Benrahma (Neom SC),Fouls,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Abdulmalik Al Oyayari (Neom SC),Fouls,2,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Adrian Šemper (Al Fateh FC),Fouls,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Kennedy Boateng (Al Fateh FC),Fouls,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Abdulelah Al Khaibari (Al Fateh FC),Fouls,1,0.0
@@ -1421,6 +1531,8 @@ Saudi Pro League (top 5),Al Diriyah v Al Qadsiah (2026-09-03),player,Nikola Vasi
 Saudi Pro League (top 5),Al Diriyah v Al Qadsiah (2026-09-03),player,Koen Casteels (Al Qadsiah),Saves,2,0.0
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),player,Amin Al Bukhari (Al Diriyah),Saves,4,0.0
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),player,Milan Borjan (Al Riyadh),Saves,7,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Amin Al Bukhari (Al Diriyah),Saves,3,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Luís Maximiano (Neom SC),Saves,4,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Adrian Šemper (Al Fateh FC),Saves,2,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Nikola Vasilj (Al Diriyah),Saves,3,0.0
 Saudi Pro League (top 5),Al Hazem v Al-Fayha (2026-10-22),player,Orlando Mosquera (Al-Fayha),Saves,6,5.0
@@ -1474,6 +1586,21 @@ Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Aschraf El 
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Abderrazak Hamdallah (Al-Taawoun),Shots,2,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Younes El Bahraoui (Al-Taawoun),Shots,2,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Mohammed Al Kuwaykibi (Al-Taawoun),Shots,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Amin Al Bukhari (Al Diriyah),Shots,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Chancel Mbemba (Al Diriyah),Shots,3,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Berat Djimsiti (Al Diriyah),Shots,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Óscar Rodríguez (Al Diriyah),Shots,3,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Enzo Millot (Al Diriyah),Shots,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Idrissa Gana Gueye (Al Diriyah),Shots,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Darwin Núñez (Al Diriyah),Shots,3,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Adil Boulbina (Al Diriyah),Shots,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Clayton Diandy (Al Diriyah),Shots,3,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Nathan Zézé (Neom SC),Shots,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Khalifah Al Dawsari (Neom SC),Shots,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Saïd Benrahma (Neom SC),Shots,5,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Abdulmalik Al Oyayari (Neom SC),Shots,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Mohannad Abu Taha (Neom SC),Shots,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Khalil Al Absi (Neom SC),Shots,2,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Faisal Al Abdulwahed (Al Fateh FC),Shots,2,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Mihai Lixandru (Al Fateh FC),Shots,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Wilfried Kanga (Al Fateh FC),Shots,3,0.0
@@ -1520,6 +1647,7 @@ Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Berat Djim
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Enzo Millot (Al Diriyah),Shots,1,0.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Adil Boulbina (Al Diriyah),Shots,1,0.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Óscar Rodríguez (Al Diriyah),Shots,2,0.0
+Saudi Pro League (top 5),Al Nassr FC v Al Kholood (2026-10-29),player,Abdullah Al Khaibari (Al Nassr FC),Shots,0,1.0
 Saudi Pro League (top 5),Al Nassr FC v Al-Taawoun (2026-08-28),player,Mohammed Al Kuwaykibi (Al-Taawoun),Shots,0,1.0
 Saudi Pro League (top 5),Al Nassr FC v Neom SC (2026-10-20),player,Abdullah Al Khaibari (Al Nassr FC),Shots,1,0.0
 Saudi Pro League (top 5),Al Riyadh v Al Kholood (2026-09-13),player,Iker Kortajarena (Al Kholood),Shots,2,1.0
@@ -1555,6 +1683,14 @@ Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),player,Bernard Mens
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Clayton Diandy (Al Diriyah),Shots on target,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Abderrazak Hamdallah (Al-Taawoun),Shots on target,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),player,Mohammed Al Kuwaykibi (Al-Taawoun),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Óscar Rodríguez (Al Diriyah),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Idrissa Gana Gueye (Al Diriyah),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Darwin Núñez (Al Diriyah),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Adil Boulbina (Al Diriyah),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Clayton Diandy (Al Diriyah),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Saïd Benrahma (Neom SC),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Abdulmalik Al Oyayari (Neom SC),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),player,Khalil Al Absi (Neom SC),Shots on target,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Faisal Al Abdulwahed (Al Fateh FC),Shots on target,2,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Lukás Haraslín (Al Fateh FC),Shots on target,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),player,Mourad Batna (Al Fateh FC),Shots on target,1,0.0
@@ -1578,6 +1714,7 @@ Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Kingsley C
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Cristiano Ronaldo (Al Nassr FC),Shots on target,2,0.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Joao Félix (Al Nassr FC),Shots on target,2,0.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),player,Chancel Mbemba (Al Diriyah),Shots on target,1,0.0
+Saudi Pro League (top 5),Al Nassr FC v Al Kholood (2026-10-29),player,Abdullah Al Khaibari (Al Nassr FC),Shots on target,0,1.0
 Saudi Pro League (top 5),Al Nassr FC v Al-Taawoun (2026-08-28),player,Mohamed Simakan (Al Nassr FC),Shots on target,1,0.0
 Saudi Pro League (top 5),Al Nassr FC v Al-Taawoun (2026-08-28),player,Mohammed Al Kuwaykibi (Al-Taawoun),Shots on target,0,1.0
 Saudi Pro League (top 5),Al Riyadh v Al-Taawoun (2026-10-24),player,Mohammed Al Kuwaykibi (Al-Taawoun),Shots on target,1,0.0
@@ -1592,6 +1729,7 @@ Saudi Pro League (top 5),Al-Taawoun v Al Fateh FC (2026-09-05),player,Muteb Al M
 Saudi Pro League (top 5),Al-Taawoun v Al Khaleej (2026-08-15),player,Younes El Bahraoui (Al-Taawoun),Shots on target,1,2.0
 Saudi Pro League (top 5),Al-Taawoun v Al Qadsiah (2026-10-20),player,Mohammed Al Kuwaykibi (Al-Taawoun),Shots on target,1,0.0
 Saudi Pro League (top 5),Al-Taawoun v Al-Fayha (2026-08-25),player,Mohammed Al Kuwaykibi (Al-Taawoun),Shots on target,1,0.0
+Saudi Pro League (top 5),Abha v Al Ittihad (2026-10-30),player,Houssem Aouar (Al Ittihad),Yellow cards,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Ittihad (2026-08-29),player,Houssem Aouar (Al Ittihad),Yellow cards,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Shabab (2026-10-22),player,Ziyad Al Jari (Al Fateh FC),Yellow cards,2,0.0
 Saudi Pro League (top 5),Al Hazem v Al Shabab (2026-08-30),player,Dhari Al Anazi (Al Shabab),Yellow cards,2,0.0
@@ -1599,6 +1737,7 @@ Saudi Pro League (top 5),Al Hilal v Al Ahli (2026-09-01),player,Merih Demiral (A
 Saudi Pro League (top 5),Al Hilal v Al Ittihad (2026-10-10),player,Sultan Mandash (Al Hilal),Yellow cards,1,0.0
 Saudi Pro League (top 5),Al Hilal v Neom SC (2026-09-07),player,Mohammed Al Burayk (Neom SC),Yellow cards,1,0.0
 Saudi Pro League (top 5),Al Ittihad v Al Nassr FC (2026-09-05),player,Abdullah Al Khaibari (Al Nassr FC),Yellow cards,1,0.0
+Saudi Pro League (top 5),Al Khaleej v Al Hazem (2026-10-29),player,Fawaz Al Soqoor (Al Khaleej),Yellow cards,0,1.0
 Saudi Pro League (top 5),Al Nassr FC v Neom SC (2026-10-20),player,Nathan Zézé (Neom SC),Yellow cards,1,0.0
 Saudi Pro League (top 5),Al Qadsiah v Al Ittihad (2026-08-21),player,Dion Lopy (Al Ittihad),Yellow cards,2,0.0
 Saudi Pro League (top 5),Al Riyadh v Al-Taawoun (2026-10-24),player,Mohammed Al Kuwaykibi (Al-Taawoun),Yellow cards,0,1.0
@@ -1615,6 +1754,8 @@ Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Diriyah,Cor
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Riyadh,Corners,9,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al Diriyah,Corners,4,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al-Taawoun,Corners,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Al Diriyah,Corners,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Neom SC,Corners,5,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Fateh FC,Corners,5,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Diriyah,Corners,4,0.0
 Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),team,Al Ittihad,Corners,8,0.0
@@ -1622,6 +1763,7 @@ Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),team,Al Diriyah,Co
 Saudi Pro League (top 5),Al Kholood v Al Shabab (2026-09-09),team,Al Kholood,Corners,5,6.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),team,Al Nassr FC,Corners,10,0.0
 Saudi Pro League (top 5),Al Nassr FC v Al Diriyah (2026-10-09),team,Al Diriyah,Corners,8,0.0
+Saudi Pro League (top 5),Al Riyadh v Al Qadsiah (2026-10-29),team,Al Qadsiah,Corners,4,3.0
 Saudi Pro League (top 5),Al-Ettifaq v Al Riyadh (2026-08-14),team,Al Riyadh,Corners,0,1.0
 Saudi Pro League (top 5),Al-Taawoun v Al-Fayha (2026-08-25),team,Al-Taawoun,Corners,12,13.0
 Saudi Pro League (top 5),Al Ahli v Al Khaleej (2026-10-23),team,Al Khaleej,Fouls,18,17.0
@@ -1633,6 +1775,8 @@ Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Diriyah,Fou
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Riyadh,Fouls,15,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al Diriyah,Fouls,11,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al-Taawoun,Fouls,5,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Al Diriyah,Fouls,9,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Neom SC,Fouls,13,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Fateh FC,Fouls,8,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Diriyah,Fouls,10,0.0
 Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),team,Al Ittihad,Fouls,7,0.0
@@ -1647,6 +1791,8 @@ Saudi Pro League (top 5),Al Diriyah v Al Qadsiah (2026-09-03),team,Al Diriyah,Ke
 Saudi Pro League (top 5),Al Diriyah v Al Qadsiah (2026-09-03),team,Al Qadsiah,Keeper saves,2,0.0
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Diriyah,Keeper saves,4,0.0
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Riyadh,Keeper saves,7,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Al Diriyah,Keeper saves,3,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Neom SC,Keeper saves,4,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Fateh FC,Keeper saves,2,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Diriyah,Keeper saves,3,0.0
 Saudi Pro League (top 5),Al Hazem v Al-Fayha (2026-10-22),team,Al-Fayha,Keeper saves,6,5.0
@@ -1668,6 +1814,8 @@ Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Diriyah,Off
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Riyadh,Offsides,2,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al Diriyah,Offsides,4,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al-Taawoun,Offsides,1,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Al Diriyah,Offsides,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Neom SC,Offsides,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Fateh FC,Offsides,2,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Diriyah,Offsides,1,0.0
 Saudi Pro League (top 5),Al Ittihad v Al Diriyah (2026-10-23),team,Al Ittihad,Offsides,4,0.0
@@ -1683,6 +1831,8 @@ Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Diriyah,Sho
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Riyadh,Shots,16,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al Diriyah,Shots,9,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al-Taawoun,Shots,9,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Al Diriyah,Shots,20,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Neom SC,Shots,15,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Fateh FC,Shots,13,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Diriyah,Shots,13,0.0
 Saudi Pro League (top 5),Al Hazem v Al-Fayha (2026-10-22),team,Al Hazem,Shots,15,14.0
@@ -1709,6 +1859,8 @@ Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Diriyah,Sho
 Saudi Pro League (top 5),Al Diriyah v Al Riyadh (2026-10-20),team,Al Riyadh,Shots on target,4,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al Diriyah,Shots on target,1,0.0
 Saudi Pro League (top 5),Al Diriyah v Al-Taawoun (2026-10-17),team,Al-Taawoun,Shots on target,2,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Al Diriyah,Shots on target,5,0.0
+Saudi Pro League (top 5),Al Diriyah v Neom SC (2026-10-30),team,Neom SC,Shots on target,5,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Fateh FC,Shots on target,4,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Diriyah (2026-09-09),team,Al Diriyah,Shots on target,3,0.0
 Saudi Pro League (top 5),Al Hazem v Al-Fayha (2026-10-22),team,Al Hazem,Shots on target,8,7.0
@@ -1725,9 +1877,11 @@ Saudi Pro League (top 5),Al-Ettifaq v Al Riyadh (2026-08-14),team,Al-Ettifaq,Sho
 Saudi Pro League (top 5),Al-Faisaly v Al Nassr FC (2026-10-23),team,Al Nassr FC,Shots on target,5,4.0
 Saudi Pro League (top 5),Al-Taawoun v Al Fateh FC (2026-09-05),team,Al-Taawoun,Shots on target,1,0.0
 Saudi Pro League (top 5),Al-Taawoun v Al Khaleej (2026-08-15),team,Al-Taawoun,Shots on target,3,4.0
+Saudi Pro League (top 5),Abha v Al Ittihad (2026-10-30),team,Al Ittihad,Yellow cards,1,0.0
 Saudi Pro League (top 5),Al Fateh FC v Al Ittihad (2026-08-29),team,Al Ittihad,Yellow cards,5,4.0
 Saudi Pro League (top 5),Al Hazem v Al-Fayha (2026-10-22),team,Al-Fayha,Yellow cards,2,1.0
 Saudi Pro League (top 5),Al Hilal v Al Ittihad (2026-10-10),team,Al Hilal,Yellow cards,2,1.0
+Saudi Pro League (top 5),Al Khaleej v Al Hazem (2026-10-29),team,Al Khaleej,Yellow cards,1,2.0
 Saudi Pro League (top 5),Al Nassr FC v Neom SC (2026-10-20),team,Neom SC,Yellow cards,5,4.0
 Saudi Pro League (top 5),Al Qadsiah v Al Ittihad (2026-08-21),team,Al Ittihad,Yellow cards,0,1.0
 Saudi Pro League (top 5),Neom SC v Al-Ettifaq (2026-10-17),team,Al-Ettifaq,Yellow cards,3,2.0
@@ -1819,13 +1973,15 @@ Saudi Pro League (top 5),Neom SC v Al-Ettifaq (2026-10-17),team,Al-Ettifaq,Yello
 "Scotland (Rangers, Celtic, Hearts)",Aberdeen v Kilmarnock (2026-09-05),player,Aaron Tshibola (Kilmarnock),Yellow cards,2,0.0
 "Scotland (Rangers, Celtic, Hearts)",Aberdeen v St. Johnstone (2026-10-11),player,Marius Müller (Aberdeen),Yellow cards,1,0.0
 "Scotland (Rangers, Celtic, Hearts)",Hibernian v Heart of Midlothian (2026-09-03),player,Jack Iredale (Hibernian),Yellow cards,2,0.0
+"Scotland (Rangers, Celtic, Hearts)",Motherwell v St. Mirren (2026-10-31),player,Regan Charles-Cook (Motherwell),Yellow cards,0,1.0
 "Scotland (Rangers, Celtic, Hearts)",St. Johnstone v Dundee United (2026-10-17),player,Neil Farrugia (Dundee United),Yellow cards,0,1.0
 "Scotland (Rangers, Celtic, Hearts)",St. Johnstone v Falkirk (2026-09-19),player,Cheick Diabate (St. Johnstone),Yellow cards,2,0.0
 "Scotland (Rangers, Celtic, Hearts)",St. Mirren v Dundee FC (2026-10-24),player,Bradley Fink (Dundee),Yellow cards,0,1.0
-"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Drawn,3,2.0
-"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Goals against,14,12.0
-"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Lost,3,4.0
-"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Points,15,14.0
+"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Drawn,5,2.0
+"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Goals against,17,15.0
+"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Goals for,17,18.0
+"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Lost,3,5.0
+"Scotland (Rangers, Celtic, Hearts)",League table,table,Dundee United,Won,4,5.0
 "Scotland (Rangers, Celtic, Hearts)",Rangers v Hibernian (2026-08-09),team,Hibernian,Corners,3,4.0
 "Scotland (Rangers, Celtic, Hearts)",Rangers v Kilmarnock (2026-10-10),team,Rangers,Corners,7,8.0
 "Scotland (Rangers, Celtic, Hearts)",Rangers v St. Johnstone (2026-10-24),team,Rangers,Corners,12,13.0
@@ -1887,7 +2043,10 @@ Serie A,Frosinone v Venezia (2026-09-06),player,Richie Sagrado (Venezia),Shots,2
 Serie A,Lecce v Bologna (2026-10-11),player,Juan Miranda (Bologna),Shots,1,2.0
 Serie A,Napoli v Bologna (2026-09-13),player,Antonio Vergara (Napoli),Shots,0,1.0
 Serie A,Genoa v Frosinone (2026-09-12),player,Johan Vásquez (Genoa),Yellow cards,2,0.0
+Serie A,Juventus v Napoli (2026-11-01),player,Luca Marianucci (Napoli),Yellow cards,2,0.0
+Serie A,Lazio v Cagliari (2026-11-01),player,Adam Obert (Cagliari),Yellow cards,2,0.0
 Serie A,Lecce v Juventus (2026-10-25),player,Kialonda Gaspar (Lecce),Yellow cards,2,1.0
+Serie A,Atalanta v Parma (2026-11-02),team,Parma,Corners,4,5.0
 Serie A,Bologna v Inter (2026-10-17),team,Inter,Corners,6,7.0
 Serie A,Udinese v Milan (2026-10-25),team,Udinese,Corners,6,5.0
 Serie A,Juventus v Lazio (2026-10-18),team,Juventus,Fouls,8,7.0
@@ -1913,6 +2072,9 @@ Serie A,Sassuolo v Milan (2026-10-11),team,Sassuolo,Yellow cards,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Göztepe (2026-08-29),player,Novatus Miroshi (Göztepe S.K.),Fouls,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Göztepe (2026-08-29),player,Richard Akonnor (Göztepe S.K.),Fouls,1,0.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Gençlerbirliği v Galatasaray (2026-10-17),player,Davinson Sánchez (Galatasaray),Fouls,1,0.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Gençlerbirliği v Galatasaray (2026-10-17),player,Gabriel Sara (Galatasaray),Fouls,0,1.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Rizespor v Trabzonspor (2026-10-26),player,Qazim Laçi (Caykur Rizespor),Fouls,2,1.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Rizespor v Trabzonspor (2026-10-26),player,Gennaro Borrelli (Caykur Rizespor),Fouls,4,5.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Çorum FK (2026-09-12),player,Gabriele Guarino (Samsunspor),Fouls,0,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Çorum FK (2026-09-12),player,Josafat Mendes (Samsunspor),Fouls,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Çorum FK (2026-09-12),player,Samed Onur (Samsunspor),Fouls,1,0.0
@@ -1926,13 +2088,21 @@ Serie A,Sassuolo v Milan (2026-10-11),team,Sassuolo,Yellow cards,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Alanyaspor v Erzurumspor FK (2026-10-10),player,Florent Hadërgjonaj (Alanyaspor),Shots,1,0.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Erzurumspor FK v Konyaspor (2026-09-05),player,Deniz Türüc (Konyaspor),Shots,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Erzurumspor FK v Konyaspor (2026-09-05),player,Mostafa Mohamed (Konyaspor),Shots,2,3.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Fenerbahçe v Göztepe (2026-10-31),player,Juan (Göztepe S.K.),Shots,2,1.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Fenerbahçe v Göztepe (2026-10-31),player,Janderson (Göztepe S.K.),Shots,2,3.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Konyaspor (2026-09-18),player,Adem Arous (Kasimpasa S.K.),Shots,1,0.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Kocaelispor v Samsunspor (2026-09-06),player,Saikuba Jarju (Samsunspor),Shots,5,4.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Konyaspor (2026-11-07),player,Jackson Muleka (Konyaspor),Shots,2,1.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Konyaspor (2026-11-07),player,Enis Destan (Konyaspor),Shots,1,2.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Çorum FK v Rizespor (2026-10-16),player,Siaka Bakayoko (Caykur Rizespor),Shots,2,1.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Fenerbahçe v Göztepe (2026-10-31),player,Juan (Göztepe S.K.),Shots on target,1,0.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Fenerbahçe v Göztepe (2026-10-31),player,Janderson (Göztepe S.K.),Shots on target,1,2.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Gaziantep FK v Kasımpaşa (2026-11-06),player,Ali Kol (Kasimpasa S.K.),Shots on target,0,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Amed Sportif (2026-10-24),player,Gift Orban (Amedspor),Shots on target,5,4.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Trabzonspor (2026-10-10),player,Mohamed Salah (Trabzonspor),Shots on target,1,0.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Amed Sportif v Beşiktaş (2026-09-20),player,Amadou Cissé (Amedspor),Yellow cards,2,0.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Beşiktaş v Eyüpspor (2026-08-16),player,David Costa (Eyupspor),Yellow cards,2,0.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Beşiktaş v Gençlerbirliği (2026-11-08),player,Metehan Baltacı (Gençlerbirligi),Yellow cards,2,0.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Göztepe (2026-08-29),player,Malcom Bokélé (Göztepe S.K.),Yellow cards,0,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Göztepe (2026-08-29),player,Richard Akonnor (Göztepe S.K.),Yellow cards,1,0.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Amed Sportif (2026-10-24),player,Afonso Sousa (Samsunspor),Yellow cards,2,0.0
@@ -1945,6 +2115,8 @@ Serie A,Sassuolo v Milan (2026-10-11),team,Sassuolo,Yellow cards,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Kasımpaşa (2026-10-09),team,Kasımpaşa,Keeper saves,9,8.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Amed Sportif (2026-10-24),team,Samsunspor,Keeper saves,4,3.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Alanyaspor v Kocaelispor (2026-10-23),team,Kocaelispor,Offsides,7,6.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Fenerbahçe (2026-10-26),team,Galatasaray,Red cards,1,0.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Fenerbahçe (2026-10-26),team,Fenerbahçe,Red cards,1,0.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Alanyaspor v Erzurumspor FK (2026-10-10),team,Alanyaspor,Shots,15,14.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Kasımpaşa v Konyaspor (2026-09-18),team,Kasımpaşa,Shots,14,13.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Kocaelispor v Samsunspor (2026-09-06),team,Samsunspor,Shots,20,19.0
@@ -1952,6 +2124,8 @@ Serie A,Sassuolo v Milan (2026-10-11),team,Sassuolo,Yellow cards,2,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Amed Sportif (2026-10-24),team,Amed Sportif,Shots on target,6,5.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Samsunspor v Trabzonspor (2026-10-10),team,Trabzonspor,Shots on target,8,7.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Alanyaspor v Göztepe (2026-09-12),team,Göztepe,Yellow cards,1,2.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Fenerbahçe (2026-10-26),team,Galatasaray,Yellow cards,3,2.0
+"Turkey (Gala, Fener, Besiktas, Trabzon)",Galatasaray v Fenerbahçe (2026-10-26),team,Fenerbahçe,Yellow cards,6,5.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Gençlerbirliği v Erzurumspor FK (2026-08-28),team,Erzurumspor FK,Yellow cards,2,3.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Çorum FK v Kasımpaşa (2026-08-22),team,Çorum FK,Yellow cards,0,1.0
 "Turkey (Gala, Fener, Besiktas, Trabzon)",Çorum FK v Rizespor (2026-10-16),team,Çorum FK,Yellow cards,3,2.0
