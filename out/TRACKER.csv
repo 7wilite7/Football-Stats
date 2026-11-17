@@ -1,4 +1,4 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 16 Nov 2026 23:59 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 17 Nov 2026 00:18 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
 All picks,6207,4656,75,91,86
 Tackles 1+,1223,946,77,90,84
@@ -32,6 +32,156 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
+Alexandre Pierre,Saves 2+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,84,100,100,Pending
+Lemus Christopher,Saves 2+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,86,100,100,Pending
+Haiti (team),Over 1.5,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,90,100,100,Pending
+Haiti (team),Cards 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Pending
+USA (team),Scores 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Pending
+USA (team),Cards 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Pending
+Saint Vincent and The Grenadines (team),Scores 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Pending
+Saint Vincent and The Grenadines (team),Corners 4+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,81,100,100,Pending
+Saint Vincent and The Grenadines (team),Cards 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,83,80,80,Pending
+Saint Vincent and The Grenadines (team),SOT 4+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,81,100,100,Pending
+French Guiana (team),Scores 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Pending
+French Guiana (team),Cards 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Pending
+Uruguay (team),Scores 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,85,100,100,Pending
+Uruguay (team),Over 1.5,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,89,100,100,Pending
+Uruguay (team),Cards 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,93,100,100,Pending
+Dominican Republic (team),Scores 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,85,100,100,Pending
+Dominican Republic (team),Over 1.5,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,89,100,100,Pending
+Dominican Republic (team),Cards 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,93,100,100,Pending
+Lawrence Vigouroux,Saves 2+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,84,100,100,Pending
+Costa Rica (team),Over 1.5,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,90,100,100,Pending
+Costa Rica (team),Cards 1+,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,94,100,100,Pending
+Chile (team),Cards 1+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,93,100,100,Pending
+Colombia (team),Cards 1+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,92,100,100,Pending
+Argentina (team),Scores 1+,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,85,100,100,Pending
+Argentina (team),Over 1.5,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,89,100,100,Pending
+Julani Archibald,Saves 2+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,86,100,100,Pending
+Niger (team),Over 1.5,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,88,100,100,Pending
+Morocco (team),Scores 1+,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,85,100,100,Pending
+Morocco (team),Over 1.5,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,89,100,100,Pending
+Morocco (team),Cards 1+,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,93,100,100,Pending
+Bonaire (team),Over 1.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,90,100,100,Pending
+Bonaire (team),Cards 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,83,80,80,Pending
+St. Kitts and Nevis (team),Scores 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,87,100,100,Pending
+St. Kitts and Nevis (team),Over 1.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,90,100,100,Pending
+St. Kitts and Nevis (team),Over 2.5,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,80,100,100,Pending
+St. Kitts and Nevis (team),Cards 1+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,83,80,80,Pending
+St. Kitts and Nevis (team),SOT 4+,St. Kitts and Nevis v Bonaire,Tue 17 Nov · 20:00,CONCACAF Nations League,81,100,100,Pending
+Danny Ward,Saves 2+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,84,100,100,Pending
+Ørjan Håskjold Nyland,Saves 2+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,82,100,100,Pending
+Giorgi Mamardashvili,Saves 2+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,86,100,100,Pending
+Martin Zlomislić,Saves 2+,Bosnia and Herzegovina v Romania,Tue 17 Nov · 19:45,Nations League B,84,100,100,Pending
+Anatoliy Trubin,Saves 2+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,82,100,100,Pending
+Portugal (team),Scores 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,87,100,100,Pending
+Portugal (team),Cards 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,83,80,80,Pending
+Portugal (team),SOT 4+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,81,100,100,Pending
+Wales (team),Cards 1+,Wales v Portugal,Tue 17 Nov · 19:45,Nations League A,94,100,100,Pending
+Austria (team),Scores 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,87,100,100,Pending
+Austria (team),Corners 4+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
+Austria (team),Cards 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
+Austria (team),SOT 4+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
+Israel (team),Cards 1+,Israel v Austria,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
+Norway (team),Scores 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,87,100,100,Pending
+Norway (team),Over 1.5,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,90,100,100,Pending
+Norway (team),Over 2.5,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,80,100,100,Pending
+Denmark (team),Scores 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,87,100,100,Pending
+Denmark (team),Cards 1+,Denmark v Norway,Tue 17 Nov · 19:45,Nations League A,83,80,80,Pending
+Ireland (team),Cards 1+,Ireland v Kosovo,Tue 17 Nov · 19:45,Nations League B,94,100,100,Pending
+Georgia (team),Corners 4+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
+Georgia (team),Cards 1+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,94,100,100,Pending
+Northern Ireland (team),Cards 1+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
+Sweden (team),Scores 1+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,87,100,100,Pending
+Romania (team),Cards 1+,Bosnia and Herzegovina v Romania,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
+Poland (team),Cards 1+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,94,100,100,Pending
+Poland (team),Cards 2+,Poland v Sweden,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
+Hungary (team),Cards 1+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,94,100,100,Pending
+Hungary (team),Cards 2+,Hungary v Northern Ireland,Tue 17 Nov · 19:45,Nations League B,81,100,100,Pending
+Ukraine (team),Cards 1+,Ukraine v Georgia,Tue 17 Nov · 19:45,Nations League B,83,80,80,Pending
+Mamadou Diop,Saves 2+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,82,100,100,Pending
+Donté Newton,Saves 2+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,82,100,100,Pending
+Fiacre Ntwari,Saves 2+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,82,100,100,Pending
+Ishan Kort,Saves 2+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,86,100,100,Pending
+Congo (team),Cards 1+,Congo v Comoros,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
+Mauritania (team),Cards 1+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
+Botswana (team),Scores 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Pending
+Botswana (team),Over 1.5,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Pending
+Botswana (team),Cards 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
+Uganda (team),Scores 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Pending
+Uganda (team),Cards 1+,Botswana v Uganda,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
+Comoros (team),Cards 1+,Congo v Comoros,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
+Cayman Islands (team),Cards 1+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,94,100,100,Pending
+Dominica (team),Cards 1+,Dominica v Cayman Islands,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Pending
+Rwanda (team),Scores 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Pending
+Rwanda (team),Over 1.5,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Pending
+Rwanda (team),Cards 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
+Liberia (team),Cards 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
+Mali (team),Scores 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,85,100,100,Pending
+Mali (team),Cards 1+,Rwanda v Mali,Tue 17 Nov · 19:00,AFCON qualifiers,80,75,75,Pending
+Cape Verde (team),Scores 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,83,100,100,Pending
+Cape Verde (team),Over 1.5,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,88,100,100,Pending
+Cape Verde (team),Cards 1+,Liberia v Cape Verde,Tue 17 Nov · 19:00,AFCON qualifiers,92,100,100,Pending
+Burkina Faso (team),Cards 1+,Mauritania v Burkina Faso,Tue 17 Nov · 19:00,AFCON qualifiers,80,75,75,Pending
+Barbados (team),Over 1.5,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,90,100,100,Pending
+Barbados (team),Cards 1+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Pending
+Saint Lucia (team),Cards 1+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,94,100,100,Pending
+Saint Lucia (team),Cards 2+,Saint Lucia v Barbados,Tue 17 Nov · 19:00,CONCACAF Nations League,81,100,100,Pending
+Sint Maarten (team),Cards 1+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Pending
+Belize (team),Cards 1+,Belize v Sint Maarten,Tue 17 Nov · 19:00,CONCACAF Nations League,83,80,80,Pending
+Honduras (team),Scores 1+,Kuwait v Honduras,Tue 17 Nov · 16:30,Friendlies,87,100,100,Pending
+Honduras (team),SOT 4+,Kuwait v Honduras,Tue 17 Nov · 16:30,Friendlies,81,100,100,Pending
+Matthieu Epolo,Saves 2+,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
+Fernando Embadjé,Saves 2+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
+Malcolm Barcola,Saves 2+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
+Geordan Dupire,Saves 2+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
+Bryne Odhiambo,Saves 2+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,82,100,100,Pending
+DR Congo (team),Scores 1+,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
+DR Congo (team),Over 1.5,Sierra Leone v DR Congo,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
+Libya (team),Cards 1+,Libya v Tunisia,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
+Tunisia (team),Over 1.5,Libya v Tunisia,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
+Ivory Coast (team),Scores 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
+Ivory Coast (team),Over 1.5,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
+Ivory Coast (team),Cards 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
+Australia (team),Scores 1+,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,83,100,100,Pending
+Australia (team),Over 1.5,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,88,100,100,Pending
+Australia (team),Cards 1+,Jordan v Australia,Tue 17 Nov · 16:00,Friendlies,92,100,100,Pending
+Guinea-Bissau (team),Scores 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
+Guinea-Bissau (team),Over 1.5,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
+Guinea-Bissau (team),Cards 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
+Togo (team),Cards 1+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
+Gambia (team),Scores 1+,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
+Gambia (team),Over 1.5,Gambia v Ivory Coast,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
+Madagascar (team),Scores 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
+Madagascar (team),Over 1.5,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,88,100,100,Pending
+Madagascar (team),Cards 1+,Guinea-Bissau v Madagascar,Tue 17 Nov · 16:00,AFCON qualifiers,92,100,100,Pending
+Algeria (team),Scores 1+,Togo v Algeria,Tue 17 Nov · 16:00,AFCON qualifiers,83,100,100,Pending
+South Africa (team),Scores 1+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,85,100,100,Pending
+South Africa (team),Cards 1+,Kenya v South Africa,Tue 17 Nov · 16:00,AFCON qualifiers,80,75,75,Pending
+Russia (team),Scores 1+,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,85,100,100,Pending
+Russia (team),Over 1.5,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,89,100,100,Pending
+Russia (team),Cards 1+,Russia v Venezuela,Tue 17 Nov · 16:00,Friendlies,80,75,75,Pending
+South Korea (team),Cards 1+,Qatar v South Korea,Tue 17 Nov · 14:00,Friendlies,83,80,80,Pending
+Japan (team),Scores 1+,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,83,100,100,Pending
+Japan (team),Over 1.5,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,88,100,100,Pending
+Japan (team),Cards 1+,Japan v Paraguay,Tue 17 Nov · 13:10,Friendlies,92,100,100,Pending
+Ernan,Saves 2+,Ethiopia v Mozambique,Tue 17 Nov · 13:00,AFCON qualifiers,82,100,100,Pending
+Sekhoane Moerane,Saves 2+,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,82,100,100,Pending
+Tanzania (team),Over 1.5,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Pending
+Lesotho (team),Over 1.5,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Pending
+Burundi (team),Cards 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,92,100,100,Pending
+Nigeria (team),Over 1.5,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,89,100,100,Pending
+Nigeria (team),Cards 1+,Tanzania v Nigeria,Tue 17 Nov · 13:00,AFCON qualifiers,93,100,100,Pending
+Gabon (team),Over 1.5,Lesotho v Gabon,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Pending
+Egypt (team),Cards 1+,Malawi v Egypt,Tue 17 Nov · 13:00,AFCON qualifiers,80,75,75,Pending
+Zambia (team),Scores 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,83,100,100,Pending
+Zambia (team),Over 1.5,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,88,100,100,Pending
+Zambia (team),Cards 1+,Burundi v Zambia,Tue 17 Nov · 13:00,AFCON qualifiers,92,100,100,Pending
+China (team),Cards 1+,China v Bahrain,Tue 17 Nov · 12:00,Friendlies,83,80,80,Pending
+Brazil (team),Scores 1+,Singapore v Brazil,Tue 17 Nov · 10:00,Friendlies,85,100,100,Pending
+Brazil (team),Over 1.5,Singapore v Brazil,Tue 17 Nov · 10:00,Friendlies,89,100,100,Pending
+Guatemala (team),Cards 1+,Canada v Guatemala,Tue 17 Nov · 01:00,CONCACAF Nations League,94,100,100,Pending
+Canada (team),Cards 1+,Canada v Guatemala,Tue 17 Nov · 01:00,CONCACAF Nations League,93,100,100,Pending
 Gianluca Prestianni,Fouled 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",85,100,100,Hit
 Gianluca Prestianni,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Hit
 Vangelis Pavlidis,Shots 1+,Estrela da Amadora v Benfica,Sun 08 Nov · 20:30,"Portugal (Porto, Sporting, Benfica)",84,100,100,Hit
@@ -1382,153 +1532,3 @@ Benfica (team),Over 2.5,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, 
 Benfica (team),Scores 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",,100,100,Hit
 Benfica (team),Cards 1+,Benfica v Alverca,Mon 02 Nov · 20:15,"Portugal (Porto, Sporting, Benfica)",82,78,100,Hit
 Mario Soriano,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
-Raúl García,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
-Leo Román,Saves 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
-Flavien Boyomo,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Miss
-Adrià Altimira,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Miss
-Abel Bretones,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Hit
-Lucas Noubi,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Did not play
-Lorenzo Amatucci,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,88,100,Miss
-Lorenzo Amatucci,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Hit
-Asier Osambela,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,88,80,Miss
-Iñigo Arguibide,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
-Unai Santos,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Did not play
-Bil Nsongo,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
-Ante Budimir,SOT 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
-Ante Budimir,Shots 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,80,Hit
-Moi Gómez,Fouled 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,86,80,Hit
-Rubén Garcia,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
-José Giménez,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,67,100,Hit
-Valentin Rosier,Booked,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Miss
-Valentin Rosier,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Hit
-Miguel Loureiro,Fouls 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,83,80,Miss
-Osasuna (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Hit
-Osasuna (team),Cards 2+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,100,Hit
-Osasuna (team),Over 1.5,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,100,Hit
-Jon Moncayola,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,90,80,Hit
-Deportivo A Coruña (team),Cards 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,100,100,Miss
-Deportivo A Coruña (team),Match cards 4+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,80,80,Hit
-Diego Villares,Tackles 1+,Deportivo A Coruña v Osasuna,Mon 02 Nov · 20:00,La Liga,,83,80,Did not play
-Newcastle United (team),Cards 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Hit
-Newcastle United (team),Corners 4+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,100,Hit
-Newcastle United (team),Over 1.5,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Miss
-Newcastle United (team),Scores 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Miss
-Jarrad Branthwaite,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,86,80,Miss
-Lukás Hornícek,Saves 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Hit
-Lewis Hall,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,100,Hit
-Lewis Hall,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
-Merlin Röhl,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,80,80,Hit
-Nico González,Fouls 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,83,80,Miss
-Nico González,Fouls 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,83,80,Miss
-Thierno Barry,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
-Thierno Barry,SOT 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,100,Hit
-Thierno Barry,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Hit
-Thierno Barry,Shots 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Hit
-Harrison Armstrong,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
-James Tarkowski,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Miss
-Jordan Pickford,Saves 2+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,100,Hit
-Joelinton,Fouls 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Hit
-Harvey Barnes,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Miss
-Harvey Barnes,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,100,100,Hit
-Joseph Willock,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
-Joseph Willock,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,100,Hit
-Everton (team),Corners 4+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
-Vitaliy Mykolenko,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,86,100,Miss
-Kiernan Dewsbury-Hall,Fouled 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,100,Hit
-Kiernan Dewsbury-Hall,Shots 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
-James Garner,Tackles 1+,Newcastle United v Everton,Mon 02 Nov · 20:00,Premier League,,88,80,Hit
-Marco Carnesecchi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Miss
-Marco Carnesecchi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Miss
-Lazar Samardžić,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,100,Miss
-Jonathan Rowe,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Hit
-Jonathan Rowe,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Hit
-Edoardo Corvi,Saves 2+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,80,Did not play
-Edoardo Corvi,Saves 3+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,88,80,Did not play
-Giorgio Scalvini,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,86,80,Miss
-Mandela Keita,Fouled 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Miss
-Mandela Keita,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Hit
-Relja Obrić,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Miss
-Davide Zappacosta,Tackles 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,71,80,Hit
-Diego Carlos,Fouls 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,100,100,Did not play
-Nikola Krstović,Shots 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Hit
-Atalanta (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,100,Hit
-Atalanta (team),Scores 1+,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,,89,80,Miss
-Noah Cadiou,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
-Souleymane Touré,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
-Ibrahima Baldé,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,83,80,Hit
-Bradley Locko,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
-Bradley Locko,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
-Théo Le Bris,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,80,80,Miss
-Théo Le Bris,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Miss
-Kamory Doumbia,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Kamory Doumbia,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Nathaniel Adjei,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Dembo Sylla,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
-Pathé Mboup,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
-Pathé Mboup,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
-Pathé Mboup,SOT 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Pathé Mboup,Shots 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Pathé Mboup,Shots 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Pathé Mboup,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
-Arthur Avom,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,100,Hit
-Arsène Kouassi,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,100,Hit
-Gabin Bernardeau,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
-Kenny Lala,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
-Kenny Lala,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Ludovic Ajorque,Fouls 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
-Ludovic Ajorque,Fouls 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Jean-Victor Makengo,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
-Jean-Victor Makengo,Fouled 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
-Hugo Magnetti,Fouled 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,86,80,Hit
-Hugo Magnetti,Tackles 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,71,80,Hit
-Hugo Magnetti,Tackles 2+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,71,80,Miss
-Brest (team),BTTS,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Miss
-Brest (team),Cards 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,100,100,Hit
-Brest (team),Over 1.5,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Brest (team),Scores 1+,Lorient v Brest,Mon 02 Nov · 19:45,Ligue 1,,88,80,Hit
-Parma (team),Over 1.5,Atalanta v Parma,Mon 02 Nov · 19:45,Serie A,80,78,80,Hit
-Sebastiano Esposito,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,83,80,Miss
-Ignace Van Der Brempt,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Did not play
-Cher Ndour,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,78,80,Miss
-Cher Ndour,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
-Vasilije Adžić,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,86,80,Miss
-Vasilije Adžić,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,86,80,Miss
-Álex Jiménez,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,75,80,Miss
-Álex Jiménez,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,75,80,Hit
-Alieu Njie,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,100,Miss
-Alieu Njie,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Hit
-Franco Mastantuono,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Miss
-Franco Mastantuono,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
-Franco Mastantuono,Shots 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Hit
-Darryl Bakola,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Hit
-David de Gea,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Miss
-Domenico Berardi,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,88,80,Hit
-Domenico Berardi,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
-Duje Ćaleta-Car,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,67,80,Did not play
-Arijanet Murić,Saves 2+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Did not play
-Arijanet Murić,Saves 3+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Did not play
-Sassuolo (team),BTTS,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Hit
-Sassuolo (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Hit
-Sassuolo (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
-Sassuolo (team),Scores 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Hit
-Fiorentina (team),Cards 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Hit
-Fiorentina (team),Over 1.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
-Fiorentina (team),Over 2.5,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,80,Hit
-Armand Laurienté,Shots 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,89,100,Hit
-Jay Idzes,Fouls 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,100,100,Hit
-Nicolò Fagioli,Tackles 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,78,80,Miss
-João Mário,Fouled 1+,Sassuolo v Fiorentina,Mon 02 Nov · 17:30,Serie A,,80,80,Hit
-Kevin Kelsy,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,80,100,Did not play
-Agustin Resch,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,65,80,Hit
-Portland Timbers (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,91,100,Hit
-Portland Timbers (team),Over 1.5,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,94,80,Hit
-Ezequiel Ponce,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,88,80,Did not play
-Houston Dynamo FC (team),Cards 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,91,80,Hit
-Ronald Hernández,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,81,100,Hit
-Kristoffer Velde,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,97,100,Hit
-Kristoffer Velde,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,100,100,Hit
-Kristoffer Velde,Shots 2+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,87,80,Hit
-Kristoffer Velde,Tackles 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,77,100,Miss
-Lyle Foster,Fouls 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,83,100,Hit
-Mateusz Bogusz,Fouled 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,84,100,Hit
-Mateusz Bogusz,Shots 1+,Portland Timbers v Houston Dynamo FC,Mon 02 Nov · 02:45,MLS,,94,80,Hit
