@@ -1,23 +1,23 @@
-"How the Today picks actually did (logged before kick-off, graded after the match). Updated 18 Nov 2026 07:19 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
+"How the Today picks actually did (logged before kick-off, graded after the match). Updated 18 Nov 2026 07:21 UK time. 'Season said %' = average season hit rate when the pick was made; 'True rate said %' = the adjusted rate (picks from 2 Nov)"
 Market,Picks graded,Hits,Actual hit rate %,Season said %,True rate said %
-All picks,6328,4760,75,91,86
+All picks,6366,4790,75,91,86
 Tackles 1+,1223,946,77,90,84
 Shots 1+,1077,866,80,92,84
 Fouled 1+,617,424,69,90,84
 Fouls 1+,573,376,66,88,83
-Cards 1+,540,467,86,92,89
-Over 1.5,391,325,83,92,89
-Scores 1+,347,279,80,92,87
-Saves 2+,280,215,77,92,86
+Cards 1+,554,480,87,92,89
+Over 1.5,401,334,83,92,89
+Scores 1+,354,283,80,92,87
+Saves 2+,283,217,77,92,86
 Shots 2+,207,149,72,90,85
-SOT 4+,174,135,78,93,85
-Corners 4+,132,95,72,91,83
+SOT 4+,175,136,78,93,85
+Corners 4+,133,95,71,91,83
 SOT 1+,125,91,73,88,82
 Tackles 2+,110,62,56,88,
-Over 2.5,89,60,67,91,83
+Over 2.5,90,60,67,91,83
 Match corners 9+,82,49,60,90,84
 Saves 3+,56,37,66,91,83
-Cards 2+,52,36,69,90,84
+Cards 2+,53,37,70,90,84
 BTTS,47,21,45,90,81
 Corners 5+,42,27,64,90,85
 Fouled 2+,39,20,51,87,
@@ -32,44 +32,44 @@ Booked,2,1,50,90,
 
 "Every logged pick, newest first ('Did not play' and pending picks don't count)"
 Player,Market,Match,Kick-off (UK),Competition,True %,Season %,Last 5 %,Result
-Montserrat (team),Cards 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,94,100,100,Pending
-Montserrat (team),Over 1.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,90,100,100,Pending
-Montserrat (team),Scores 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,87,100,100,Pending
-Nicaragua (team),Cards 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,94,100,100,Pending
-Nicaragua (team),Cards 2+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,81,100,100,Pending
-Nicaragua (team),Over 1.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,90,100,100,Pending
-Nicaragua (team),Over 2.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,80,100,100,Pending
-Jamaica (team),Cards 1+,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,83,80,80,Pending
-Mexico (team),Cards 1+,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,83,80,80,Pending
-Mexico (team),Over 1.5,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,90,100,100,Pending
-El Salvador (team),Cards 1+,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,94,100,100,Pending
-El Salvador (team),Over 1.5,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,90,100,100,Pending
-Saint Martin (team),Over 1.5,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,90,100,100,Pending
-Saint Vincent and The Grenadines (team),Cards 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,83,80,80,Pending
-Saint Vincent and The Grenadines (team),Corners 4+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,81,100,100,Pending
-Saint Vincent and The Grenadines (team),SOT 4+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,81,100,100,Pending
-Saint Vincent and The Grenadines (team),Scores 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Pending
-Lemus Christopher,Saves 2+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,86,100,100,Pending
-French Guiana (team),Cards 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Pending
-French Guiana (team),Scores 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Pending
-Alexandre Pierre,Saves 2+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,84,100,100,Pending
-Haiti (team),Cards 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Pending
-Haiti (team),Over 1.5,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,90,100,100,Pending
-USA (team),Cards 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Pending
-USA (team),Scores 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Pending
-Dominican Republic (team),Cards 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,93,100,100,Pending
-Dominican Republic (team),Over 1.5,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,89,100,100,Pending
-Dominican Republic (team),Scores 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,85,100,100,Pending
-Uruguay (team),Cards 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,93,100,100,Pending
-Uruguay (team),Over 1.5,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,89,100,100,Pending
-Uruguay (team),Scores 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,85,100,100,Pending
-Costa Rica (team),Cards 1+,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,94,100,100,Pending
-Costa Rica (team),Over 1.5,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,90,100,100,Pending
-Argentina (team),Over 1.5,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,89,100,100,Pending
-Argentina (team),Scores 1+,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,85,100,100,Pending
-Lawrence Vigouroux,Saves 2+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,84,100,100,Pending
-Colombia (team),Cards 1+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,92,100,100,Pending
-Chile (team),Cards 1+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,93,100,100,Pending
+Montserrat (team),Cards 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,94,100,100,Hit
+Montserrat (team),Over 1.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,90,100,100,Hit
+Montserrat (team),Scores 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,87,100,100,Miss
+Nicaragua (team),Cards 1+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,94,100,100,Hit
+Nicaragua (team),Cards 2+,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,81,100,100,Hit
+Nicaragua (team),Over 1.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,90,100,100,Hit
+Nicaragua (team),Over 2.5,Nicaragua v Montserrat,Wed 18 Nov · 03:00,CONCACAF Nations League,80,100,100,Miss
+Jamaica (team),Cards 1+,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,83,80,80,Hit
+Mexico (team),Cards 1+,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,83,80,80,Hit
+Mexico (team),Over 1.5,Mexico v Jamaica,Wed 18 Nov · 02:30,CONCACAF Nations League,90,100,100,Miss
+El Salvador (team),Cards 1+,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,94,100,100,Hit
+El Salvador (team),Over 1.5,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,90,100,100,Hit
+Saint Martin (team),Over 1.5,El Salvador v Saint Martin,Wed 18 Nov · 01:00,CONCACAF Nations League,90,100,100,Hit
+Saint Vincent and The Grenadines (team),Cards 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,83,80,80,Hit
+Saint Vincent and The Grenadines (team),Corners 4+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,81,100,100,Miss
+Saint Vincent and The Grenadines (team),SOT 4+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,81,100,100,Hit
+Saint Vincent and The Grenadines (team),Scores 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Miss
+Lemus Christopher,Saves 2+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,86,100,100,Hit
+French Guiana (team),Cards 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Hit
+French Guiana (team),Scores 1+,French Guiana v Saint Vincent and The Grenadines,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Hit
+Alexandre Pierre,Saves 2+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,84,100,100,Miss
+Haiti (team),Cards 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Hit
+Haiti (team),Over 1.5,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,90,100,100,Hit
+USA (team),Cards 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,94,100,100,Hit
+USA (team),Scores 1+,USA v Haiti,Wed 18 Nov · 00:00,CONCACAF Nations League,87,100,100,Hit
+Dominican Republic (team),Cards 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,93,100,100,Hit
+Dominican Republic (team),Over 1.5,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,89,100,100,Hit
+Dominican Republic (team),Scores 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,85,100,100,Miss
+Uruguay (team),Cards 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,93,100,100,Hit
+Uruguay (team),Over 1.5,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,89,100,100,Hit
+Uruguay (team),Scores 1+,Uruguay v Dominican Republic,Tue 17 Nov · 23:30,Friendlies,85,100,100,Hit
+Costa Rica (team),Cards 1+,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,94,100,100,Miss
+Costa Rica (team),Over 1.5,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,90,100,100,Hit
+Argentina (team),Over 1.5,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,89,100,100,Hit
+Argentina (team),Scores 1+,Argentina v Costa Rica,Tue 17 Nov · 23:00,Friendlies,85,100,100,Hit
+Lawrence Vigouroux,Saves 2+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,84,100,100,Hit
+Colombia (team),Cards 1+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,92,100,100,Hit
+Chile (team),Cards 1+,Chile v Colombia,Tue 17 Nov · 23:00,Friendlies,93,100,100,Hit
 Niger (team),Over 1.5,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,88,100,100,Miss
 Morocco (team),Cards 1+,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,93,100,100,Hit
 Morocco (team),Over 1.5,Niger v Morocco,Tue 17 Nov · 20:00,AFCON qualifiers,89,100,100,Miss
