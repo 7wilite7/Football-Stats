@@ -4,7 +4,7 @@ part Nations League B fixtures since 2026-08-01 48
 part Nations League C fixtures since 2026-08-01 48
 WARN skipped 5181928
 part Nations League D fixtures since 2026-08-01 12
-part CONCACAF Nations League fixtures since 2026-08-01 106
+part CONCACAF Nations League fixtures since 2026-08-01 110
 part AFCON qualifiers fixtures since 2026-08-01 144
 WARN skipped 6040213
 part EURO qualifiers fixtures since 2026-08-01 0
@@ -132,6 +132,8 @@ WARN no team stats 6140732 'NoneType' object is not subscriptable
 WARN skipped 6140732
 WARN no team stats 6539353 'NoneType' object is not subscriptable
 WARN skipped 6539353
+WARN no team stats 6633645 'NoneType' object is not subscriptable
+WARN skipped 6633645
 WARN no team stats 6539355 'NoneType' object is not subscriptable
 WARN skipped 6539355
 WARN no team stats 6633837 'NoneType' object is not subscriptable
@@ -140,4 +142,4 @@ WARN no team stats 6633846 'NoneType' object is not subscriptable
 WARN skipped 6633846
 WARN no team stats 6540019 'NoneType' object is not subscriptable
 WARN skipped 6540019
-INTL {'new_matches': 9, 'cached': 412, 'run_seconds': 108, 'at': '2026-11-18T07:21Z'}
+INTL {'new_matches': 0, 'cached': 412, 'run_seconds': 118, 'at': '2026-11-18T18:18Z'}
