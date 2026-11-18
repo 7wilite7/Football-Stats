@@ -21,7 +21,10 @@ TABS = {  # tab name -> csv in out/
     "Saudi top 5": "SAUDI_players.csv", "Portugal big 3": "PORTUGAL_players.csv", "Scotland": "SCOTLAND_players.csv",
     "Turkey": "TURKEY_players.csv", "Internationals": "INTL_players.csv", "_all": "ALL_players.csv",
 }
-MEMBER_SKIP = {"Pick tracker"}
+# Members' copy is kept light enough for a phone/iPad: no 5,000-row _all tab (it only fed Player search/Lookup,
+# which are not in that copy) and every tab cut to the size of its data each run.
+MEMBER_SKIP = {"Pick tracker", "_all"}
+SPARE_ROWS = 5
 CHUNK = 1500   # rows per write, keeps each request well under the API size limit
 
 
@@ -33,7 +36,7 @@ def col(n):
     return s
 
 
-def push_book(gc, sid, skip=()):
+def push_book(gc, sid, skip=(), trim=False):
     import gspread
     book = gc.open_by_key(sid)
     failed = 0
@@ -54,6 +57,8 @@ def push_book(gc, sid, skip=()):
             ws.batch_clear([f"A1:{col(max(width, ws.col_count))}{ws.row_count}"])   # values only; formats stay
             for i in range(0, len(rows), CHUNK):
                 ws.update(rows[i:i + CHUNK], f"A{i + 1}", value_input_option="USER_ENTERED")
+            if trim:                                   # drop the empty rows/columns under and right of the data
+                ws.resize(rows=max(len(rows) + SPARE_ROWS, (ws.frozen_row_count or 0) + 1), cols=width)
             print(f"{sid[:6]} {name} -> {tab}: {len(rows)} rows")
         except gspread.exceptions.WorksheetNotFound:
             print(f"{sid[:6]} {tab}: tab not found, skipped")
@@ -70,7 +75,7 @@ def main():
         return 0
     import gspread
     gc = gspread.service_account_from_dict(json.loads(key))
-    failed = push_book(gc, PERSONAL) + push_book(gc, MEMBERS, MEMBER_SKIP)
+    failed = push_book(gc, PERSONAL) + push_book(gc, MEMBERS, MEMBER_SKIP, trim=True)
     return 1 if failed else 0
 
 
