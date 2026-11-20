@@ -1,5 +1,5 @@
 ===== INTL
-part Nations League A fixtures since 2026-08-01 48
+part Nations League A fixtures since 2026-08-01 60
 part Nations League B fixtures since 2026-08-01 48
 part Nations League C fixtures since 2026-08-01 48
 WARN skipped 5181928
@@ -142,4 +142,4 @@ WARN no team stats 6633846 'NoneType' object is not subscriptable
 WARN skipped 6633846
 WARN no team stats 6540019 'NoneType' object is not subscriptable
 WARN skipped 6540019
-INTL {'new_matches': 0, 'cached': 412, 'run_seconds': 98, 'at': '2026-11-20T07:20Z'}
+INTL {'new_matches': 0, 'cached': 412, 'run_seconds': 110, 'at': '2026-11-20T23:22Z'}
