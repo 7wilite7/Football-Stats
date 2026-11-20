@@ -142,4 +142,4 @@ WARN no team stats 6633846 'NoneType' object is not subscriptable
 WARN skipped 6633846
 WARN no team stats 6540019 'NoneType' object is not subscriptable
 WARN skipped 6540019
-INTL {'new_matches': 0, 'cached': 412, 'run_seconds': 94, 'at': '2026-11-19T23:19Z'}
+INTL {'new_matches': 0, 'cached': 412, 'run_seconds': 98, 'at': '2026-11-20T07:20Z'}
