@@ -1,3 +1,3 @@
 ===== EREDIVISIE
 fixtures 306 table 18 scope ['Feyenoord', 'AZ Alkmaar', 'PSV Eindhoven', 'Ajax', 'FC Twente']
-EREDIVISIE {'new_matches': 0, 'cached': 108, 'run_seconds': 10, 'at': '2026-11-21T07:09Z'}
+EREDIVISIE {'new_matches': 5, 'cached': 113, 'run_seconds': 27, 'at': '2026-11-21T23:14Z'}
