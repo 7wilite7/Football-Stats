@@ -831,6 +831,22 @@
 "utc": "2026-11-22T14:00:00Z",
 "who": "Genoa (team)"
 },
+"5749759|364520|Tackles 1+ %": {
+"fixture": "5749759",
+"games": 9,
+"key": "Tackles 1+ %",
+"l5": 100,
+"league": "Serie A",
+"market": "Tackles 1+",
+"match": "Sassuolo v Genoa",
+"pid": 364520,
+"result": "",
+"season": 100,
+"tid": null,
+"true": 83,
+"utc": "2026-11-22T14:00:00Z",
+"who": "Domenico Berardi"
+},
 "5749759|740944|Tackles 1+ %": {
 "fixture": "5749759",
 "games": 11,
