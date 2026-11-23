@@ -1,3 +1,3 @@
 ===== SERIEA
 fixtures 380 table 20 scope None
-SERIEA {'new_matches': 0, 'cached': 114, 'run_seconds': 27, 'at': '2026-11-22T07:03Z'}
+SERIEA {'new_matches': 5, 'cached': 119, 'run_seconds': 57, 'at': '2026-11-23T02:58Z'}
