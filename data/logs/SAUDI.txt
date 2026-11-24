@@ -1,3 +1,4 @@
 ===== SAUDI
-fixtures 306 table 18 scope ['Al Qadsiah', 'Al Hilal', 'Al Nassr FC', 'Al Ittihad', 'Al Ahli']
-SAUDI {'new_matches': 0, 'cached': 105, 'run_seconds': 16, 'at': '2026-11-24T06:19Z'}
+WARN no table SAUDI
+fixtures 0 table 0 scope ['Al Qadsiah', 'Al Hilal', 'Al Nassr FC', 'Al Ittihad', 'Al Ahli']
+KEEPING previous table/fixtures/availability for SAUDI
