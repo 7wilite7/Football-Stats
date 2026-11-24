@@ -1,3 +1,4 @@
 ===== LIGUE1
-fixtures 306 table 18 scope None
-LIGUE1 {'new_matches': 0, 'cached': 99, 'run_seconds': 39, 'at': '2026-11-24T06:14Z'}
+WARN no table LIGUE1
+fixtures 0 table 0 scope None
+KEEPING previous table/fixtures/availability for LIGUE1
