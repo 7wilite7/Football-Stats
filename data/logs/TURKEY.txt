@@ -1,3 +1,8 @@
 ===== TURKEY
-fixtures 306 table 18 scope ['Galatasaray', 'Fenerbahçe', 'Beşiktaş', 'Trabzonspor']
-TURKEY {'new_matches': 1, 'cached': 108, 'run_seconds': 11, 'at': '2026-11-24T06:20Z'}
+WARN no table TURKEY
+WARN club not found TURKEY Galatasaray
+WARN club not found TURKEY Fenerbahce
+WARN club not found TURKEY Besiktas
+WARN club not found TURKEY Trabzonspor
+fixtures 0 table 0 scope []
+KEEPING previous table/fixtures/availability for TURKEY
