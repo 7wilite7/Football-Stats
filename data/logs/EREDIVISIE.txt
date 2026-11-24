@@ -1,3 +1,4 @@
 ===== EREDIVISIE
-fixtures 306 table 18 scope ['Feyenoord', 'AZ Alkmaar', 'PSV Eindhoven', 'Ajax', 'FC Twente']
-EREDIVISIE {'new_matches': 0, 'cached': 117, 'run_seconds': 13, 'at': '2026-11-24T06:19Z'}
+WARN no table EREDIVISIE
+fixtures 0 table 0 scope ['Feyenoord', 'AZ Alkmaar', 'PSV Eindhoven', 'Ajax', 'FC Twente']
+KEEPING previous table/fixtures/availability for EREDIVISIE
