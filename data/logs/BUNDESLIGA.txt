@@ -1,3 +1,4 @@
 ===== BUNDESLIGA
-fixtures 306 table 18 scope None
-BUNDESLIGA {'new_matches': 0, 'cached': 90, 'run_seconds': 38, 'at': '2026-11-24T06:14Z'}
+WARN no table BUNDESLIGA
+fixtures 0 table 0 scope None
+KEEPING previous table/fixtures/availability for BUNDESLIGA
