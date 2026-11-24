@@ -1,3 +1,7 @@
 ===== PORTUGAL
-fixtures 306 table 18 scope ['FC Porto', 'Sporting CP', 'Benfica']
-PORTUGAL {'new_matches': 0, 'cached': 98, 'run_seconds': 5, 'at': '2026-11-24T06:19Z'}
+WARN no table PORTUGAL
+WARN club not found PORTUGAL Porto
+WARN club not found PORTUGAL Sporting CP
+WARN club not found PORTUGAL Benfica
+fixtures 0 table 0 scope []
+KEEPING previous table/fixtures/availability for PORTUGAL
