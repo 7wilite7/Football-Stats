@@ -1,3 +1,7 @@
 ===== SCOTLAND
-fixtures 198 table 12 scope ['Rangers', 'Celtic', 'Heart of Midlothian']
-SCOTLAND {'new_matches': 0, 'cached': 81, 'run_seconds': 7, 'at': '2026-11-24T06:20Z'}
+WARN no table SCOTLAND
+WARN club not found SCOTLAND Rangers
+WARN club not found SCOTLAND Celtic
+WARN club not found SCOTLAND Heart of Midlothian
+fixtures 0 table 0 scope []
+KEEPING previous table/fixtures/availability for SCOTLAND
