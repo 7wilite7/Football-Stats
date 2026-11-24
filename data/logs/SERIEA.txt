@@ -1,3 +1,4 @@
 ===== SERIEA
-fixtures 380 table 20 scope None
-SERIEA {'new_matches': 1, 'cached': 120, 'run_seconds': 49, 'at': '2026-11-24T06:13Z'}
+WARN no table SERIEA
+fixtures 0 table 0 scope None
+KEEPING previous table/fixtures/availability for SERIEA
