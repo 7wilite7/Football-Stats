@@ -1,3 +1,4 @@
 ===== MLS
-fixtures 528 table 30 scope None
-MLS {'new_matches': 1, 'cached': 519, 'run_seconds': 63, 'at': '2026-11-24T06:16Z'}
+WARN no table MLS
+fixtures 0 table 0 scope None
+KEEPING previous table/fixtures/availability for MLS
