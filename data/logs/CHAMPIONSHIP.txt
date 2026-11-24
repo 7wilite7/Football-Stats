@@ -1,3 +1,4 @@
 ===== CHAMPIONSHIP
-fixtures 552 table 24 scope None
-CHAMPIONSHIP {'new_matches': 0, 'cached': 192, 'run_seconds': 51, 'at': '2026-11-24T06:15Z'}
+WARN no table CHAMPIONSHIP
+fixtures 0 table 0 scope None
+KEEPING previous table/fixtures/availability for CHAMPIONSHIP
