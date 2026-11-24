@@ -1,3 +1,4 @@
 ===== EPL
-fixtures 380 table 20 scope None
-EPL {'new_matches': 1, 'cached': 110, 'run_seconds': 47, 'at': '2026-11-24T06:11Z'}
+WARN no table EPL
+fixtures 0 table 0 scope None
+KEEPING previous table/fixtures/availability for EPL
