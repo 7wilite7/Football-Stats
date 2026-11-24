@@ -1,3 +1,4 @@
 ===== LALIGA
-fixtures 380 table 20 scope None
-LALIGA {'new_matches': 1, 'cached': 129, 'run_seconds': 45, 'at': '2026-11-24T06:12Z'}
+WARN no table LALIGA
+fixtures 0 table 0 scope None
+KEEPING previous table/fixtures/availability for LALIGA
