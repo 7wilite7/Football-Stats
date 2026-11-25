@@ -10,4 +10,4 @@ part Africa Cup of Nations fixtures since 2026-08-01 0
 part Asian Cup fixtures since 2026-08-01 0
 part Gold Cup fixtures since 2026-08-01 0
 part Friendlies fixtures since 2026-08-01 0
-INTL {'new_matches': 0, 'cached': 412, 'run_seconds': 13, 'at': '2026-11-25T04:59Z'}
+INTL {'new_matches': 0, 'cached': 412, 'run_seconds': 15, 'at': '2026-11-25T17:04Z'}
