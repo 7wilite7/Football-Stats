@@ -1,5 +1,48 @@
 [
  {
+  "at": "2026-11-27T16:32Z",
+  "ok": false,
+  "players_listed": 5292,
+  "errors": [
+   "EPL: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "LALIGA: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "SERIEA: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "BUNDESLIGA: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "LIGUE1: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "CHAMPIONSHIP: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "MLS: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "UCL: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "UEL: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "EREDIVISIE: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "SAUDI: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "PORTUGAL: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "SCOTLAND: fetch kept yesterday's table/fixtures (source returned nothing)",
+   "TURKEY: fetch kept yesterday's table/fixtures (source returned nothing)"
+  ],
+  "warnings": [
+   "CHAMPIONSHIP: Bristol City v Wrexham (2026-11-24) still not finished - postponed/abandoned?",
+   "CHAMPIONSHIP: Cardiff City v Preston North End (2026-11-24) still not finished - postponed/abandoned?",
+   "CHAMPIONSHIP: Charlton Athletic v Lincoln City (2026-11-24) still not finished - postponed/abandoned?",
+   "CHAMPIONSHIP: Middlesbrough v Swansea City (2026-11-24) still not finished - postponed/abandoned?",
+   "CHAMPIONSHIP: Norwich City v Queens Park Rangers (2026-11-24) still not finished - postponed/abandoned?",
+   "CHAMPIONSHIP: Portsmouth v West Ham United (2026-11-24) still not finished - postponed/abandoned?",
+   "CHAMPIONSHIP: Sheffield United v Southampton (2026-11-24) still not finished - postponed/abandoned?",
+   "CHAMPIONSHIP: Wolverhampton Wanderers v Derby County (2026-11-24) still not finished - postponed/abandoned?",
+   "MLS: San Jose Earthquakes v Houston Dynamo FC (2026-11-25) still not finished - postponed/abandoned?",
+   "UCL: Bodø/Glimt v LASK (2026-11-24) still not finished - postponed/abandoned?",
+   "UCL: Galatasaray v Aston Villa (2026-11-24) still not finished - postponed/abandoned?",
+   "UCL: Arsenal v Borussia Dortmund (2026-11-24) still not finished - postponed/abandoned?",
+   "UCL: Como v AEK Athens (2026-11-24) still not finished - postponed/abandoned?",
+   "UCL: Feyenoord v FC Porto (2026-11-24) still not finished - postponed/abandoned?",
+   "UCL: Manchester City v Napoli (2026-11-24) still not finished - postponed/abandoned?",
+   "UCL: RB Leipzig v Lens (2026-11-24) still not finished - postponed/abandoned?",
+   "UCL: Real Madrid v PSV Eindhoven (2026-11-24) still not finished - postponed/abandoned?",
+   "UCL: Slovan Bratislava v Real Betis (2026-11-24) still not finished - postponed/abandoned?",
+   "SCOTLAND: Hibernian v Dundee FC (2026-11-24) still not finished - postponed/abandoned?",
+   "SCOTLAND: Rangers v Aberdeen (2026-11-24) still not finished - postponed/abandoned?"
+  ]
+ },
+ {
   "at": "2026-11-27T04:23Z",
   "ok": false,
   "players_listed": 5292,
